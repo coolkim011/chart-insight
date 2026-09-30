@@ -1,0 +1,40 @@
+name: 24/7 Market Briefing Crawler (Every 20 Min)
+
+on:
+  schedule:
+    # 24시간 내내 20분마다 자동 실행
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser google-genai
+
+      - name: Run Crawler with Gemini AI
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python us_market_crawler.py
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/briefing.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 24/7 AI market briefing update [skip ci]" && git push)

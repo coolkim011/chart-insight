@@ -1,0 +1,38 @@
+name: Auto Crawl & Update Briefing
+
+on:
+  schedule:
+    # 한국 시간 기준 매일 오전 07:30 (UTC 22:30), 오후 18:00 (UTC 09:00) 자동 실행
+    - cron: '30 22 * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch: # 깃허브 웹 화면에서 수동으로 [Run workflow] 버튼 눌러 즉시 실행 가능
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install feedparser
+
+      - name: Run Crawler
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python us_market_crawler.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/briefing.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update daily market briefing [skip ci]" && git push)
