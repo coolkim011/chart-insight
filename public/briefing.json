@@ -14,32 +14,238 @@
     },
     {
       "name": "나스닥",
-      "price": "27,025.94",
-      "changeRate": "+0.85%",
+      "price": "26,861.06",
+      "changeRate": "+0.24%",
       "isUp": true
     },
     {
       "name": "S&P500",
-      "price": "7,698.59",
-      "changeRate": "+0.36%",
-      "isUp": true
+      "price": "7,651.54",
+      "changeRate": "-0.25%",
+      "isUp": false
     },
     {
       "name": "필라델피아반도체",
-      "price": "12,628.13",
-      "changeRate": "-0.01%",
+      "price": "12,628.62",
+      "changeRate": "-0.00%",
       "isUp": false
     },
     {
       "name": "원/달러",
-      "price": "1,355.41",
-      "changeRate": "+0.23%",
+      "price": "1,356.54",
+      "changeRate": "+0.31%",
       "isUp": true
     }
   ],
   "briefings": [
     {
       "id": 1,
+      "theme": "글로벌 거시경제 및 금융 매크로",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "Watch Minneapolis Fed President Neel Kashkari discuss the economy and monetary policy",
+      "newsHeadlineKo": "Watch Minneapolis Fed President Neel Kashkari discuss the economy and monetary policy",
+      "newsSummaryKo": [
+        "글로벌 주요국 통화정책 기조 변화 및 증시 구성 종목 간 디커플링 심화",
+        "국채 금리 및 재정 정책 변화에 따른 자산 시장 포트폴리오 재편",
+        "대외 교역 환경 변화 및 수급 변동성에 따른 주요 업종별 영향 점검"
+      ],
+      "newsSource": "CNBC Markets · Wed, 30 Sep 2026",
+      "newsLink": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "종합금융그룹",
+          "reason": "안정적 대출 및 채권 포트폴리오를 보유한 대표 금융지주",
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "rank": 2,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 대장",
+          "reason": "지수 변동성 구간 내 기관·외인 수급 중심 역할",
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "키움증권",
+          "code": "039490",
+          "role": "브로커리지",
+          "reason": "자산시장 거래대금 증가에 따른 수수료 수혜",
+          "changeRate": "-1.08%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: Westinghouse Air Brake (WAB) S...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:43",
+      "newsLink": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: Vista Gold (VGZ) Agrees to Sal...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:42",
+      "newsLink": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "차세대 반도체 광통신 및 첨단 패키징",
+      "categoryBadge": "반도체/소부장",
+      "newsHeadlineOriginal": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "newsHeadlineKo": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "newsSummaryKo": [
+        "차세대 초고속 데이터 전송(광통신/실리콘 포토닉스) 및 인터페이스 연구 개발",
+        "인공지능(AI) 가속기 병목 현상 해소를 위한 광학 패키징 기술 대두",
+        "국내 첨단 후공정 장비 및 광통신 부품 기업 중심의 공급망 재편"
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T04:29",
+      "newsLink": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "TC본더 독점 장비",
+          "reason": "글로벌 HBM 열압착 패키징 장비 시장 독점 지배력",
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "초고다층 PCB 기판",
+          "reason": "글로벌 빅테크 AI 가속기용 초고다층 회로기판(MLB) 공급",
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "오이솔루션",
+          "code": "138080",
+          "role": "광트랜시버 부품",
+          "reason": "데이터센터용 초고속 광트랜시버 및 레이저 다이오드 개발",
+          "changeRate": "+1.25%",
+          "isUp": true
+        },
+        {
+          "rank": 4,
+          "name": "네오셈",
+          "code": "253590",
+          "role": "차세대 CXL 검사장비",
+          "reason": "차세대 메모리 규격 CXL 및 고속 검사장비 선점",
+          "changeRate": "-0.07%",
+          "isUp": false
+        },
+        {
+          "rank": 5,
+          "name": "디아이티",
+          "code": "252110",
+          "role": "레이저 어닐링 장비",
+          "reason": "첨단 반도체 수율 향상용 레이저 공정 장비 납품",
+          "changeRate": "0.00%",
+          "isUp": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: Titan International (TWI) Sign...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:26",
+      "newsLink": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 6,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -91,7 +297,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 7,
       "theme": "글로벌 거시경제 및 금융 매크로",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
@@ -134,7 +340,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 8,
       "theme": "휴머노이드 로봇 및 제조 자동화 산업",
       "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
@@ -186,7 +392,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 9,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -220,7 +426,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 10,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -272,7 +478,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 11,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
@@ -324,7 +530,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 12,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
@@ -358,7 +564,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 13,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
@@ -392,7 +598,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 14,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Goldman Sachs CEO succession planning faces one big problem",
@@ -444,7 +650,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 15,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
