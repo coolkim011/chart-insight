@@ -14,32 +14,265 @@
     },
     {
       "name": "나스닥",
-      "price": "27,043.98",
-      "changeRate": "+0.92%",
+      "price": "27,025.94",
+      "changeRate": "+0.85%",
       "isUp": true
     },
     {
       "name": "S&P500",
-      "price": "7,711.97",
-      "changeRate": "+0.54%",
+      "price": "7,698.59",
+      "changeRate": "+0.36%",
       "isUp": true
     },
     {
       "name": "필라델피아반도체",
-      "price": "12,601.06",
-      "changeRate": "-0.22%",
+      "price": "12,628.13",
+      "changeRate": "-0.01%",
       "isUp": false
     },
     {
       "name": "원/달러",
-      "price": "1,355.73",
-      "changeRate": "+0.25%",
+      "price": "1,355.41",
+      "changeRate": "+0.23%",
       "isUp": true
     }
   ],
   "briefings": [
     {
       "id": 1,
+      "theme": "디지털 자산 및 핀테크 제도권 동향",
+      "categoryBadge": "디지털자산/핀테크",
+      "newsHeadlineOriginal": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "newsHeadlineKo": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "newsSummaryKo": [
+        "글로벌 블록체인 예측 및 거래 플랫폼의 전통 금융권(월가) 전문 인력 영입",
+        "디지털 자산의 제도권 금융 시스템 편입 및 관련 금융 상품 다양화",
+        "국내외 가상자산 거래 인프라 및 결제 네트워크의 시장 영향 점검"
+      ],
+      "newsSource": "CNBC Markets · Tue, 29 Sep 2026",
+      "newsLink": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "우리기술투자",
+          "code": "041190",
+          "role": "거래소 1대 지분",
+          "reason": "국내 1위 거래소 업비트 운영사 두나무 핵심 지분 보유",
+          "changeRate": "-0.17%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한화투자증권",
+          "code": "003530",
+          "role": "핀테크 지분 보유",
+          "reason": "두나무 주요 주주 및 토큰증권 협의체 참여",
+          "changeRate": "-6.33%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "STO/결제인프라",
+          "reason": "항공금융·신재생에너지 기반 토큰증권 발행 인프라 선점",
+          "changeRate": "-0.35%",
+          "isUp": false
+        },
+        {
+          "rank": 4,
+          "name": "핑거",
+          "code": "163730",
+          "role": "금융 핀테크 솔루션",
+          "reason": "제1금융권 블록체인 및 디지털 자산 지갑 솔루션 공급",
+          "changeRate": "+4.30%",
+          "isUp": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "글로벌 거시경제 및 금융 매크로",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "newsHeadlineKo": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "newsSummaryKo": [
+        "글로벌 주요국 통화정책 기조 변화 및 증시 구성 종목 간 디커플링 심화",
+        "국채 금리 및 재정 정책 변화에 따른 자산 시장 포트폴리오 재편",
+        "대외 교역 환경 변화 및 수급 변동성에 따른 주요 업종별 영향 점검"
+      ],
+      "newsSource": "CNBC Markets · Tue, 29 Sep 2026",
+      "newsLink": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "종합금융그룹",
+          "reason": "안정적 대출 및 채권 포트폴리오를 보유한 대표 금융지주",
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "rank": 2,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 대장",
+          "reason": "지수 변동성 구간 내 기관·외인 수급 중심 역할",
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "키움증권",
+          "code": "039490",
+          "role": "브로커리지",
+          "reason": "자산시장 거래대금 증가에 따른 수수료 수혜",
+          "changeRate": "-1.08%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "휴머노이드 로봇 및 제조 자동화 산업",
+      "categoryBadge": "로봇/자동화",
+      "newsHeadlineOriginal": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "newsHeadlineKo": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "newsSummaryKo": [
+        "글로벌 주요국 및 기업들의 휴머노이드 로봇 표준 규격 및 기술 가이드라인 발표",
+        "산업 현장 내 로봇 도입 확대 및 AI 피지컬 컴퓨팅 적용 가속화",
+        "정밀 모터, 감속기, 관절 구동기 등 핵심 부품 중심의 공급망 형성"
+      ],
+      "newsSource": "CNBC Markets · Wed, 30 Sep 2026",
+      "newsLink": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "role": "완제품 플랫폼",
+          "reason": "이족보행 플랫폼 및 삼성전자 제조라인 협동로봇 공급",
+          "changeRate": "+0.36%",
+          "isUp": true
+        },
+        {
+          "rank": 2,
+          "name": "에스피지",
+          "code": "058610",
+          "role": "정밀 감속기 국산화",
+          "reason": "로봇 핵심 구동 부품인 SH/SR 정밀감속기 양산 공급",
+          "changeRate": "-0.62%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "에스비비테크",
+          "code": "389260",
+          "role": "하모닉 감속기",
+          "reason": "소형 로봇 관절용 초정밀 하모닉 드라이브 제조",
+          "changeRate": "+0.93%",
+          "isUp": true
+        },
+        {
+          "rank": 4,
+          "name": "알에스오토메이션",
+          "code": "140670",
+          "role": "모션제어·드라이브",
+          "reason": "로봇 관절 구동 스마트 모션컨트롤러 기술 보유",
+          "changeRate": "+0.00%",
+          "isUp": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: Ennis (EBF) Grows Sales but Ea...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:52",
+      "newsLink": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "디지털 자산 및 핀테크 제도권 동향",
+      "categoryBadge": "디지털자산/핀테크",
+      "newsHeadlineOriginal": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "newsHeadlineKo": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "newsSummaryKo": [
+        "글로벌 블록체인 예측 및 거래 플랫폼의 전통 금융권(월가) 전문 인력 영입",
+        "디지털 자산의 제도권 금융 시스템 편입 및 관련 금융 상품 다양화",
+        "국내외 가상자산 거래 인프라 및 결제 네트워크의 시장 영향 점검"
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:51",
+      "newsLink": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "우리기술투자",
+          "code": "041190",
+          "role": "거래소 1대 지분",
+          "reason": "국내 1위 거래소 업비트 운영사 두나무 핵심 지분 보유",
+          "changeRate": "-0.17%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한화투자증권",
+          "code": "003530",
+          "role": "핀테크 지분 보유",
+          "reason": "두나무 주요 주주 및 토큰증권 협의체 참여",
+          "changeRate": "-6.33%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "STO/결제인프라",
+          "reason": "항공금융·신재생에너지 기반 토큰증권 발행 인프라 선점",
+          "changeRate": "-0.35%",
+          "isUp": false
+        },
+        {
+          "rank": 4,
+          "name": "핑거",
+          "code": "163730",
+          "role": "금융 핀테크 솔루션",
+          "reason": "제1금융권 블록체인 및 디지털 자산 지갑 솔루션 공급",
+          "changeRate": "+4.30%",
+          "isUp": true
+        }
+      ]
+    },
+    {
+      "id": 6,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
@@ -91,7 +324,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 7,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
@@ -125,7 +358,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 8,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
@@ -159,7 +392,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 9,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Goldman Sachs CEO succession planning faces one big problem",
@@ -211,7 +444,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 10,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
