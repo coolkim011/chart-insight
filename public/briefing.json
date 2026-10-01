@@ -2,14 +2,14 @@
   "indices": [
     {
       "name": "코스피",
-      "price": "6,838.04",
-      "changeRate": "-0.48%",
+      "price": "6,833.45",
+      "changeRate": "-0.07%",
       "isUp": false
     },
     {
       "name": "코스닥",
-      "price": "855.91",
-      "changeRate": "+1.10%",
+      "price": "863.84",
+      "changeRate": "+0.93%",
       "isUp": true
     },
     {
@@ -32,14 +32,211 @@
     },
     {
       "name": "원/달러",
-      "price": "1,356.54",
-      "changeRate": "+0.31%",
+      "price": "1,360.46",
+      "changeRate": "+0.29%",
       "isUp": true
     }
   ],
   "briefings": [
     {
       "id": 1,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: May Mobility's SPAC Merger: Is...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:50",
+      "newsLink": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "차세대 반도체 광통신 및 첨단 패키징",
+      "categoryBadge": "반도체/소부장",
+      "newsHeadlineOriginal": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "newsHeadlineKo": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "newsSummaryKo": [
+        "차세대 초고속 데이터 전송(광통신/실리콘 포토닉스) 및 인터페이스 연구 개발",
+        "인공지능(AI) 가속기 병목 현상 해소를 위한 광학 패키징 기술 대두",
+        "국내 첨단 후공정 장비 및 광통신 부품 기업 중심의 공급망 재편"
+      ],
+      "newsSource": "Yahoo Finance · 2026-09-23T04:33",
+      "newsLink": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "TC본더 독점 장비",
+          "reason": "글로벌 HBM 열압착 패키징 장비 시장 독점 지배력",
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "초고다층 PCB 기판",
+          "reason": "글로벌 빅테크 AI 가속기용 초고다층 회로기판(MLB) 공급",
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "rank": 3,
+          "name": "오이솔루션",
+          "code": "138080",
+          "role": "광트랜시버 부품",
+          "reason": "데이터센터용 초고속 광트랜시버 및 레이저 다이오드 개발",
+          "changeRate": "-0.70%",
+          "isUp": false
+        },
+        {
+          "rank": 4,
+          "name": "네오셈",
+          "code": "253590",
+          "role": "차세대 CXL 검사장비",
+          "reason": "차세대 메모리 규격 CXL 및 고속 검사장비 선점",
+          "changeRate": "+4.03%",
+          "isUp": true
+        },
+        {
+          "rank": 5,
+          "name": "디아이티",
+          "code": "252110",
+          "role": "레이저 어닐링 장비",
+          "reason": "첨단 반도체 수율 향상용 레이저 공정 장비 납품",
+          "changeRate": "0.00%",
+          "isUp": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "SK Hynix, 이평선 사이 갇혀 방향성 대기: 매시간 업데이트",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: SK Hynix, 이평선 사이 갇혀 방향성 대기: 매시...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Investing.com · 2026-10-01 01:05",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107605",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "KOSPI 200, 피보나치·200MA 분수령 ₩362.64 시험: 매시 업데이트",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: KOSPI 200, 피보나치·200MA 분수령 ₩362...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Investing.com · 2026-10-01 01:05",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107609",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "categoryBadge": "금융/거시경제",
+      "newsHeadlineOriginal": "SK Eternix, ₩48,250 지지선 붕괴 시 하락 가속 경고: 매시 업데이트",
+      "newsHeadlineKo": "글로벌 주요 경제 속보: SK Eternix, ₩48,250 지지선 붕괴 시 하...",
+      "newsSummaryKo": [
+        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
+        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
+        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
+      ],
+      "newsSource": "Investing.com · 2026-10-01 01:04",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107608",
+      "stocks": [
+        {
+          "rank": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 대장주",
+          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "rank": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비",
+          "reason": "첨단 패키징 장비 독점 지배력 보유",
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ]
+    },
+    {
+      "id": 6,
       "theme": "글로벌 거시경제 및 금융 매크로",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Watch Minneapolis Fed President Neel Kashkari discuss the economy and monetary policy",
@@ -82,7 +279,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 7,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -116,7 +313,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 8,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -150,7 +347,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 9,
       "theme": "차세대 반도체 광통신 및 첨단 패키징",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -211,7 +408,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 10,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
@@ -245,7 +442,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 11,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -297,7 +494,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 12,
       "theme": "글로벌 거시경제 및 금융 매크로",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
@@ -340,7 +537,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 13,
       "theme": "휴머노이드 로봇 및 제조 자동화 산업",
       "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
@@ -392,7 +589,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 14,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -426,7 +623,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 15,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -478,7 +675,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 16,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
@@ -530,7 +727,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 17,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
@@ -564,7 +761,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 18,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
@@ -598,7 +795,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 19,
       "theme": "디지털 자산 및 핀테크 제도권 동향",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Goldman Sachs CEO succession planning faces one big problem",
@@ -650,7 +847,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 20,
       "theme": "글로벌 마켓 및 산업 공급망 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
