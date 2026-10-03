@@ -16,8 +16,36 @@ MAX_ATTEMPTS = 6           # 이 횟수만큼 분석에 실패하면 포기(fail
 
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+GEMINI_FALLBACK_MODELS = [
+    m.strip() for m in os.environ.get("GEMINI_FALLBACK_MODELS", "gemini-flash-latest,gemini-flash-lite-latest").split(",") if m.strip()
+]
 
 TIER_LIMITS = {1: 2, 2: 3, 3: 3}   # 1차(대장주) / 2차 / 3차 최대 종목 수
+
+# 실행과 실행 사이에 기억해 둘 AI 상태(모델별 한도 소진 시각). briefing.json의 aiState에 저장된다.
+AI_STATE = {"blocked": {}}
+
+# 무료 AI 호출은 하루 횟수가 적어서, 한국 종목과 연결될 만한 뉴스만 분석 대상으로 삼는다
+RELEVANT_KEYWORDS = [
+    # 산업·기업
+    "chip", "semiconductor", "hbm", "memory", "nvidia", "micron", "tsmc", "samsung", "hynix", "intel", "amd", "broadcom",
+    "ai ", " ai", "data center", "datacenter", "robot", "humanoid", "automation", "battery", "lithium", "ev ", "electric vehicle",
+    "tesla", "apple", "shipbuilding", "defense", "nuclear", "uranium", "solar", "hydrogen", "bio", "pharma", "obesity", "glp-1",
+    "steel", "oil", "crude", "lng", "refin", "copper", "gold", "rare earth", "display", "oled", "5g", "satellite", "space",
+    "game", "k-pop", "cosmetic", "korea", "korean", "seoul", "kospi", "kosdaq", "won ",
+    # 거시·가상자산
+    "fed ", "federal reserve", "rate cut", "interest rate", "inflation", "tariff", "trade war", "treasury", "bond", "dollar",
+    "china", "yuan", "japan", "yen", "bitcoin", "crypto", "blockchain", "stablecoin", "etf",
+    # 한국어
+    "반도체", "메모리", "로봇", "자동화", "배터리", "전기차", "2차전지", "조선", "방산", "원전", "원자력", "태양광", "수소",
+    "바이오", "제약", "비만", "철강", "석유", "정유", "구리", "금값", "디스플레이", "위성", "우주", "게임", "화장품",
+    "코스피", "코스닥", "삼성", "하이닉스", "현대", "엔비디아", "금리", "환율", "관세", "국채", "비트코인", "가상자산", "코인", "블록체인",
+]
+
+
+def is_relevant(headline, summary=""):
+    text = f" {headline} {summary} ".lower()
+    return any(k in text for k in RELEVANT_KEYWORDS)
 
 
 def get_live_indices():
@@ -143,15 +171,16 @@ def requeue_legacy_fallbacks(briefings):
             continue
         ko, orig = b.get("newsHeadlineKo", ""), b.get("newsHeadlineOriginal", "")
         if ko.startswith("글로벌 주요 경제 속보") or (orig and ko == orig):
+            relevant = is_relevant(orig or ko)
             b.update({
-                "theme": "AI 분석 대기 중",
+                "theme": "AI 분석 대기 중" if relevant else "분석 제외",
                 "newsHeadlineKo": "",
                 "newsSummaryKo": [],
                 "stocks": [],
-                "status": "pending",
-                "attempts": 0,
-                "rawSummary": "",
+                "status": "pending" if relevant else "skipped",
             })
+            if relevant:
+                b.update({"attempts": 0, "rawSummary": ""})
             count += 1
     if count:
         print(f"  예전 기본 분석 기사 {count}건을 재분석 대기로 전환")
@@ -205,33 +234,84 @@ def build_prompt(headline, summary):
 """
 
 
+class AIUnavailable(Exception):
+    """오늘은 더 이상 AI를 쓸 수 없는 상태(무료 한도 소진·전 모델 과부하). 기사 탓이 아니므로 시도 횟수에 넣지 않는다."""
+
+
+def _retry_seconds(msg):
+    """오류 메시지에서 '몇 초 뒤에 다시 시도하라'는 값을 읽는다. 없으면 일일 한도는 6시간, 그 외는 60초."""
+    m = re.search(r"retryDelay['\"]?\s*:\s*['\"]?(\d+(?:\.\d+)?)s", msg)
+    if m:
+        return float(m.group(1))
+    m = re.search(r"retry in (?:(\d+)h)?(?:(\d+)m)?(?:(\d+(?:\.\d+)?)s)?", msg)
+    if m and any(m.groups()):
+        h, mi, s = (float(g) if g else 0.0 for g in m.groups())
+        return h * 3600 + mi * 60 + s
+    return 6 * 3600 if "PerDay" in msg else 60
+
+
+def _short(msg, n=90):
+    return re.sub(r"\s+", " ", str(msg))[:n]
+
+
+def _gemini_generate(api, prompt):
+    """모델별 한도를 기억해 두고, 한도가 찬 모델은 건너뛰며 다음 모델로 넘어간다."""
+    models = [GEMINI_MODEL] + [m for m in GEMINI_FALLBACK_MODELS if m != GEMINI_MODEL]
+    blocked = AI_STATE.setdefault("blocked", {})
+    now = time.time()
+    available = [m for m in models if blocked.get(m, 0) <= now]
+
+    for model_name in available:
+        for attempt in range(3):
+            try:
+                return api.models.generate_content(model=model_name, contents=prompt).text.strip()
+            except Exception as e:
+                msg = str(e)
+                if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
+                    wait = _retry_seconds(msg)
+                    if wait <= 120 and attempt < 2:      # 분당 한도: 잠깐 기다렸다가 같은 모델로 재시도
+                        print(f"  [{model_name} 분당 한도, {int(wait) + 1}초 후 재시도]")
+                        time.sleep(wait + 1)
+                        continue
+                    blocked[model_name] = time.time() + max(wait, 600)
+                    print(f"  [{model_name} 호출 한도 초과 → 약 {max(wait, 600) / 3600:.1f}시간 동안 사용 안 함]")
+                    break
+                if "404" in msg or "NOT_FOUND" in msg:
+                    blocked[model_name] = time.time() + 86400
+                    print(f"  [{model_name} 사용할 수 없는 모델 → 오늘은 건너뜀: {_short(msg)}]")
+                    break
+                if any(c in msg for c in ("503", "UNAVAILABLE", "overloaded")) and attempt < 2:
+                    wait = 5 * (attempt + 1)
+                    print(f"  [일시 과부하({model_name}) → {wait}초 후 재시도 ({attempt + 1}/2)]")
+                    time.sleep(wait)
+                    continue
+                if any(c in msg for c in ("503", "UNAVAILABLE", "overloaded")):
+                    print(f"  [{model_name} 계속 과부하 → 다음 모델 시도]")
+                    break
+                raise
+    raise AIUnavailable("사용 가능한 Gemini 모델이 없음(한도 소진 또는 과부하)")
+
+
 def call_llm(prompt, client):
-    """선택된 AI로 호출하고 응답 텍스트를 돌려준다. 일시 오류(503/429/529)는 재시도."""
+    """선택된 AI로 호출하고 응답 텍스트를 돌려준다. 쓸 수 없는 상태면 AIUnavailable."""
     provider, api = client
-    for attempt in range(4):
-        try:
-            if provider == "gemini":
-                return api.models.generate_content(
-                    model=GEMINI_MODEL,
-                    contents=prompt
-                ).text.strip()
-            response = api.messages.create(
-                model=CLAUDE_MODEL,
-                max_tokens=4096,
-                output_config={"effort": "low"},
-                messages=[{"role": "user", "content": prompt}]
-            )
-            if response.stop_reason == "refusal":
-                raise ValueError("AI가 응답을 거절함")
-            return "".join(b.text for b in response.content if b.type == "text").strip()
-        except Exception as e:
-            transient = any(c in str(e) for c in ("503", "429", "529", "overloaded"))
-            if attempt < 3 and transient:
-                wait = 5 * (attempt + 1)
-                print(f"  [일시 오류, {wait}초 후 재시도 ({attempt + 1}/3)]")
-                time.sleep(wait)
-                continue
-            raise
+    if provider == "gemini":
+        return _gemini_generate(api, prompt)
+
+    try:
+        response = api.messages.create(
+            model=CLAUDE_MODEL,
+            max_tokens=4096,
+            output_config={"effort": "low"},
+            messages=[{"role": "user", "content": prompt}]
+        )
+    except Exception as e:
+        if any(c in str(e) for c in ("429", "529", "overloaded", "credit balance")):
+            raise AIUnavailable(_short(e))
+        raise
+    if response.stop_reason == "refusal":
+        raise ValueError("AI가 응답을 거절함")
+    return "".join(b.text for b in response.content if b.type == "text").strip()
 
 
 def normalize_stocks(raw_stocks):
@@ -278,6 +358,8 @@ def analyze_with_ai(headline, summary, client):
             raise ValueError("번역 제목이 비어 있음")
         data["stocks"] = normalize_stocks(data.get("stocks"))
         return data
+    except AIUnavailable:
+        raise
     except Exception as e:
         print(f"  [AI 오류 발생: {e}]")
         return None
@@ -292,7 +374,9 @@ def load_briefing_file():
     if os.path.exists(BRIEFING_FILE):
         try:
             with open(BRIEFING_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
+                data = json.load(f)
+            AI_STATE["blocked"] = dict(data.get("aiState", {}).get("blocked", {}))
+            return data
         except Exception as e:
             print(f"  기존 데이터 로드 예외: {e}")
     return {"indices": [], "briefings": []}
@@ -302,9 +386,11 @@ def save_briefing_file(indices, briefings):
     briefings = briefings[:MAX_BRIEFINGS]
     for idx, item in enumerate(briefings):
         item["id"] = idx + 1
+    now = time.time()
+    ai_state = {"blocked": {m: t for m, t in AI_STATE.get("blocked", {}).items() if t > now}}
     os.makedirs("public", exist_ok=True)
     with open(BRIEFING_FILE, "w", encoding="utf-8") as f:
-        json.dump({"indices": indices, "briefings": briefings}, f, ensure_ascii=False, indent=2)
+        json.dump({"indices": indices, "briefings": briefings, "aiState": ai_state}, f, ensure_ascii=False, indent=2)
 
 
 def make_client():
@@ -320,8 +406,10 @@ def make_client():
     if gemini_key:
         try:
             from google import genai
+            from google.genai import types
             print(f"  ✓ Gemini AI 엔진 활성화 성공 ({GEMINI_MODEL})")
-            return ("gemini", genai.Client(api_key=gemini_key))
+            # 응답이 오지 않고 멈추는 경우를 막기 위해 호출당 60초 제한
+            return ("gemini", genai.Client(api_key=gemini_key, http_options=types.HttpOptions(timeout=60000)))
         except Exception as e:
             print(f"  Gemini 클라이언트 연결 실패: {e}")
     print("  AI 키 없음: 분석 대기 상태로 유지")
@@ -352,9 +440,11 @@ def collect():
                     continue
                 seen_links.add(link)
                 seen_titles.add(title)
-                new_items.append({
+                raw_summary = clean_text(entry.get("summary", ""))
+                relevant = is_relevant(title, raw_summary)
+                item = {
                     "id": 0,
-                    "theme": "AI 분석 대기 중",
+                    "theme": "AI 분석 대기 중" if relevant else "분석 제외",
                     "categoryBadge": "글로벌 마켓",
                     "newsHeadlineOriginal": title,
                     "newsHeadlineKo": "",
@@ -362,10 +452,12 @@ def collect():
                     "newsSource": f"{src['name']} · {entry.get('published', '실시간')[:16]}",
                     "newsLink": link,
                     "stocks": [],
-                    "status": "pending",
-                    "attempts": 0,
-                    "rawSummary": clean_text(entry.get("summary", "")),
-                })
+                    "status": "pending" if relevant else "skipped",
+                }
+                if relevant:
+                    item["attempts"] = 0
+                    item["rawSummary"] = raw_summary
+                new_items.append(item)
         except Exception as e:
             print(f"  [{src['name']}] 수집 에러: {e}")
 
@@ -383,7 +475,7 @@ def analyze():
     if client:
         requeue_legacy_fallbacks(briefings)
 
-    pending =[b for b in briefings if b.get("status") == "pending"]
+    pending = [b for b in briefings if b.get("status") == "pending"]
     print(f"  분석 대기: {len(pending)}건 (이번 실행에서 최대 {MAX_AI_PER_RUN}건 처리)")
 
     if client:
@@ -392,7 +484,12 @@ def analyze():
         for item in pending[:MAX_AI_PER_RUN]:
             headline = item.get("newsHeadlineOriginal", "")
             print(f"  분석 중: {headline[:35]}...")
-            result = analyze_with_ai(headline, item.get("rawSummary", ""), client)
+            try:
+                result = analyze_with_ai(headline, item.get("rawSummary", ""), client)
+            except AIUnavailable as e:
+                # 한도 소진·과부하: 기사 잘못이 아니므로 시도 횟수에 넣지 않고 오늘 분석은 여기서 멈춘다
+                print(f"  [AI 사용 불가: {e}] 남은 기사는 다음 실행에서 분석합니다.")
+                break
 
             if result:
                 item["theme"] = result.get("theme") or "산업 주요 이슈"

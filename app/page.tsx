@@ -25,7 +25,7 @@ interface BriefingItem {
   newsSource: string;
   newsLink: string;
   stocks: Stock[];
-  status?: "pending" | "done" | "failed";
+  status?: "pending" | "done" | "failed" | "skipped";
 }
 
 const TIER_LABELS: Record<number, { title: string; desc: string; color: string }> = {
@@ -216,6 +216,7 @@ export default function Home() {
             const isExpanded = !!expandedItems[itemKey];
             const isPending = item.status === "pending";
             const isFailed = item.status === "failed";
+            const isSkipped = item.status === "skipped";
             // 1차·2차·3차 순으로 묶는다. tier 정보가 없는 예전 기사는 하나의 목록으로 보여준다
             const stockGroups = [1, 2, 3, 0]
               .map((tier) => ({
@@ -287,9 +288,14 @@ export default function Home() {
                     이 기사는 AI 분석을 완료하지 못했습니다. 원문을 참고해 주세요.
                   </div>
                 )}
+                {isSkipped && (
+                  <div className="bg-[#121722] rounded-xl p-3 text-xs text-slate-500 border border-slate-800/60">
+                    한국 관련 종목 분석 대상이 아닌 뉴스입니다. 원문을 참고해 주세요.
+                  </div>
+                )}
 
                 {/* 팩트 요약 3줄 */}
-                {!isPending && !isFailed && item.newsSummaryKo.length > 0 && (
+                {!isPending && !isFailed && !isSkipped && item.newsSummaryKo.length > 0 && (
                   <div className="bg-[#121722] rounded-xl p-3 text-xs space-y-1.5 border border-slate-800/60">
                     <div className="text-[11px] font-extrabold text-slate-300 flex items-center space-x-1 mb-1">
                       <span>📋 외신 핵심 사실 요약</span>
@@ -304,7 +310,7 @@ export default function Home() {
                 )}
 
                 {/* 밸류체인 연관 기업 아코디언 */}
-                {!isPending && !isFailed && item.stocks.length > 0 && (
+                {!isPending && !isFailed && !isSkipped && item.stocks.length > 0 && (
                 <div className="border border-slate-800/80 rounded-xl overflow-hidden bg-[#0c1017]">
                   <button
                     onClick={() => toggleExpand(itemKey)}
