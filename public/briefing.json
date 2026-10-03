@@ -40,31 +40,69 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 금광 매각 및 광산 개발 자금 조달",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "비스타 골드(Vista Gold), 매각 합의… 인수자의 마운트 토드 금광 자금 조달 능력에 관심 집중",
+      "newsSummaryKo": [
+        "비스타 골드(Vista Gold, VGZ)가 마운트 토드 금광 프로젝트와 관련하여 자산 매각에 합의했습니다.",
+        "이번 거래의 핵심 쟁점은 해당 인수를 진행하는 바이어가 대규모 광산 개발 및 운영에 필요한 자금을 성공적으로 조달할 수 있는지 여부입니다.",
+        "시장에서는 인수 주체의 재무적 역량과 향후 마운트 토드 금광의 개발 일정에 대한 분석이 제기되고 있습니다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T01:42",
       "newsLink": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 채권 금리 동향 및 거시경제",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "베센트 \"국채 금리 상승은 글로벌 추세, 우려할 필요 없어\"",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "베센트, \"국채 금리 상승은 글로벌 추세…과도한 우려 불필요\"",
+      "newsSummaryKo": [
+        "스콧 베센트는 최근 관측되는 국채 금리 상승세가 특정 국가의 특이 현상이 아닌 글로벌 시장 공통의 추세라고 진단했다.",
+        "그는 이러한 채권 금리 상승 흐름에 대해 시장이 지나친 우려를 가질 필요가 없다는 입장을 표명했다.",
+        "이번 발언은 최근 글로벌 채권 시장의 변동성에 대한 시장 참여자들의 불안감을 완화하기 위한 맥락에서 나왔다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 16:49",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115361",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "증권사 리서치 및 채권·금리 연동 자산관리",
+          "reason": "글로벌 금리 변동 추세는 증권사의 채권 운용 손익 및 금리 관련 금융상품 수요에 직접적인 영향을 미친다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "글로벌 금융 시장 분석 및 트레이딩",
+          "reason": "국채 금리 방향성은 국내외 채권 시장 및 거시경제 환경 변화에 연동된 증권 업계의 핵심 모니터링 지표다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "종합금융지주 및 채권 포트폴리오 관리",
+          "reason": "글로벌 금리 추세는 대형 금융지주사의 자산 운용 수익률과 시장금리 연동 상품에 간접적인 파급효과를 미친다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -319,7 +357,7 @@
     },
     {
       "id": 15,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
       "newsHeadlineKo": "",
@@ -327,27 +365,83 @@
       "newsSource": "CNBC Markets · Sat, 03 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 16,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "미국 원자력 발전 확대 및 전력 인프라 투자",
+      "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미국, Vistra에 42억 달러 대출로 원자력 발전 확대 지원",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 정부, 비스트라(Vistra)에 42억 달러 대출 지원… 원전 생태계 강화 나선다",
+      "newsSummaryKo": [
+        "미국 정부가 민간 에너지 기업인 비스트라(Vistra)에 42억 달러 규모의 대출을 지원하기로 결정했다.",
+        "이번 자금 지원은 탄소 배출 없는 안정적인 기저 전력원인 원자력 발전의 확대 및 운영 유지를 돕기 위한 목적이다.",
+        "미국 내 데이터센터 전력 수요 급증과 맞물려 원자력 에너지를 통한 대규모 전력 공급 체계 구축에 속도가 붙을 전망이다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 13:39",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115354",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "role": "원자로 및 주단단조품, SMR 주기기 제작",
+          "reason": "미국을 비롯한 글로벌 원전 인프라 투자 확대 시 대형 원자로 및 주기기 공급 기회가 증가하는 대표적인 국내 원전 관련 대장주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-3.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한전기술",
+          "code": "052690",
+          "role": "원자력 발전소 종합 설계 및 원자로 계통 설계",
+          "reason": "원전 건설 및 설계 기술을 보유하고 있어 글로벌 원자력 발전 확대 정책의 간접적 수혜 및 엔지니어링 수요 연계성이 높습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-10.49%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "비에이치아이",
+          "code": "083650",
+          "role": "복합화력발전소 및 원자력 발전소용 보조기기(BOP) 공급",
+          "reason": "원전 및 발전 설비에 필수적인 여과기, 열교환기 등 보기류를 제작하여 글로벌 발전 인프라 투자와 밸류체인상으로 연결됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.33%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "일진파워",
+          "code": "094820",
+          "role": "원자력 경상정비 및 플랜트 설비 유지보수",
+          "reason": "원자력 및 화력 발전소의 주기적인 경상정비와 플랜트 시공을 담당하며 발전 설비 가동률 증가에 따른 파생 수요가 존재합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.92%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "한전KPS",
+          "code": "051600",
+          "role": "발전설비 정비 및 기술 서비스 제공",
+          "reason": "국내외 원자력 및 화력 발전 설비의 정비 서비스를 제공하는 공기업으로, 원전 가동 확대 기조에 따라 유지보수 필요성이 부각됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-3.21%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 17,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "후티 긴장 고조 속 리야드 아람코 시설 인근서 연기·화재 목격",
       "newsHeadlineKo": "",
@@ -355,27 +449,83 @@
       "newsSource": "Investing.com · 2026-10-03 12:08",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115351",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 18,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "르노의 프랑스 전기차 생산 대규모 투자",
+      "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "르노, 프랑스 전기차 생산에 100억 유로 이상 투자 계획",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "르노, 프랑스 내 전기차 생산 확대 위해 100억 유로 이상 투입 발표",
+      "newsSummaryKo": [
+        "프랑스 자동차 제조사 르노가 자국 내 전기차 생산 역량 강화를 위해 100억 유로 이상의 대규모 투자를 단행할 계획이다.",
+        "이번 투자 계획은 유럽 내 친환경차 전환 가속화와 현지 생산 거점의 경쟁력 확보를 목표로 추진된다.",
+        "르노는 해당 자금을 활용해 전기차 및 관련 배터리 기술 개발과 공정 현대화에 집중할 방침이다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 12:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115350",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "배터리 셀 공급",
+          "reason": "글로벌 완성차 업체들의 전기차 전환 및 투자 확대 시, 주요 배터리 공급사로서 수주 연계 가능성이 주목받는 종목이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "LG화학",
+          "code": "051910",
+          "role": "양극재 등 배터리 소재 공급",
+          "reason": "전기차용 배터리 소재를 공급하는 서플라이 체인에 속해 있어 완성차 생산 확충의 간접적 영향을 받는다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "포스코퓨처엠",
+          "code": "003670",
+          "role": "이차전지 소재(양·음극재) 공급",
+          "reason": "유럽 완성차 진영의 전기차 생산 확대에 따른 배터리 소재 수요 증가 밸류체인과 연결된다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.30%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "에코프로비엠",
+          "code": "247540",
+          "role": "양극재 생산",
+          "reason": "전기차 시장 성장 및 완성차 업체의 생산 확대 기조에 동조화되는 2차전지 소재 파생 종목이다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.87%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "SK아이이테크놀로지",
+          "code": "361610",
+          "role": "분리막 공급",
+          "reason": "유럽 지역의 전기차 생산 증가 시 밸류체인 전반의 부품 수요 변화와 연동되는 배터리 부품사다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+0.36%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 19,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "InvestingPro 적정가치 신호 후 HLB생명과학 96% 급등",
       "newsHeadlineKo": "",
@@ -383,27 +533,61 @@
       "newsSource": "Investing.com · 2026-10-03 11:51",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115349",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 20,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "AI 에이전트와 금융 서비스",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "소비자 AI 에이전트, 금융 서비스에 어떤 의미인가?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "소비자 AI 에이전트의 확장이 금융 서비스 산업에 미치는 영향과 전망",
+      "newsSummaryKo": [
+        "본 기사는 소비자 AI 에이전트가 금융 서비스 영역에서 수행할 수 있는 역할과 변화를 다루고 있습니다.",
+        "AI 에이전트는 사용자의 금융 데이터 접근과 자산 관리 방식을 자동화하는 방향으로 진화하고 있습니다.",
+        "금융 기관들은 이러한 기술 변화에 발맞추어 AI 기반 인터페이스와 인프라 고도화를 모색하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 08:01",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115326",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "카카오페이",
+          "code": "377300",
+          "role": "핀테크 플랫폼 및 간편금융 서비스 제공",
+          "reason": "AI 기반 금융 에이전트 도입 등 디지털 금융 서비스 고도화와 직접적으로 연관된 핀테크 플랫폼 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.09%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "NHN KCP",
+          "code": "060250",
+          "role": "전자지불결제(PG) 인프라 제공",
+          "reason": "디지털 금융 및 AI 에이전트를 통한 온라인 거래 증가 시 결제 인프라를 통해 간접적인 수혜가 기대되는 기업입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.29%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "아톤",
+          "code": "158430",
+          "role": "핀테크 보안 및 인증 솔루션 공급",
+          "reason": "디지털 금융 거래 및 AI 에이전트 활용 시 필수적인 보안 및 인증 소프트웨어를 금융기관에 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+1.85%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 21,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 중동 군사력 확대…이란에 압박 가중",
       "newsHeadlineKo": "",
@@ -411,13 +595,11 @@
       "newsSource": "Investing.com · 2026-10-03 07:24",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115324",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 22,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 메디케어 가입자 2,000만 명에 $90 지급 발표",
       "newsHeadlineKo": "",
@@ -425,13 +607,11 @@
       "newsSource": "Investing.com · 2026-10-03 06:48",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115321",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 23,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "러시아 공습으로 키이우 드니프로강 북부 교량 피격",
       "newsHeadlineKo": "",
@@ -439,13 +619,11 @@
       "newsSource": "Investing.com · 2026-10-03 06:18",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115319",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 24,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "美증시 23시간 체제로…서학개미 ’주간거래’ 판 커진다",
       "newsHeadlineKo": "",
@@ -453,13 +631,11 @@
       "newsSource": "Investing.com · 2026-10-03 06:13",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115318",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 25,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CoreWeave CSO 브라이언 벤투로, 세금 납부 위해 575만 달러 상당 주식 매각",
       "newsHeadlineKo": "",
@@ -467,13 +643,11 @@
       "newsSource": "Investing.com · 2026-10-03 02:51",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115302",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 26,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 최고개발책임자, 주식 496만 달러 매도",
       "newsHeadlineKo": "",
@@ -481,13 +655,11 @@
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115301",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 27,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 COO 사친 제인, 자사주 350달러 매각",
       "newsHeadlineKo": "",
@@ -495,13 +667,11 @@
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115300",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 28,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CoreWeave CEO 마이클 인트레이터, 주식 689만 달러 매각",
       "newsHeadlineKo": "",
@@ -509,13 +679,11 @@
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115298",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 29,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 법무자문위원 맥비티, 438달러 상당의 주식 매도",
       "newsHeadlineKo": "",
@@ -523,13 +691,11 @@
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115299",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 30,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "McGrath RentCorp 이사 조셉 한나, 862,824달러 상당 주식 매각",
       "newsHeadlineKo": "",
@@ -537,13 +703,11 @@
       "newsSource": "Investing.com · 2026-10-03 00:46",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115268",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 31,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "망막변성퇴치재단, 오푸스 제네틱스 주식 275만 달러 매각",
       "newsHeadlineKo": "",
@@ -551,13 +715,11 @@
       "newsSource": "Investing.com · 2026-10-03 00:46",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115267",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 32,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Liquidity Services 부사장 John Daunt, 회사 주식 30,566달러 매각",
       "newsHeadlineKo": "",
@@ -565,13 +727,11 @@
       "newsSource": "Investing.com · 2026-10-03 00:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115253",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 33,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Xometry CTO 라가반 바이디아나탄, 192,725달러 상당 주식 매도",
       "newsHeadlineKo": "",
@@ -579,13 +739,11 @@
       "newsSource": "Investing.com · 2026-10-03 00:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115252",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 34,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Xometry CEO 산지브 사니, XMTR 주식 1,112주 114,851달러에 매각",
       "newsHeadlineKo": "",
@@ -593,13 +751,11 @@
       "newsSource": "Investing.com · 2026-10-03 00:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115251",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 35,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Crowdstrike CEO 조지 커츠, 자사주 530만 달러 매각",
       "newsHeadlineKo": "",
@@ -607,13 +763,11 @@
       "newsSource": "Investing.com · 2026-10-02 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115240",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 36,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "TransUnion 사장 토드 스키너, 62,290달러어치 주식 매도",
       "newsHeadlineKo": "",
@@ -621,13 +775,11 @@
       "newsSource": "Investing.com · 2026-10-02 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115239",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 37,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트랜스유니온 부사장 압델사덱, 보통주 15,572달러 매도",
       "newsHeadlineKo": "",
@@ -635,13 +787,11 @@
       "newsSource": "Investing.com · 2026-10-02 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115238",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 38,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "로블록스 이사 그레고리 바스주키, 71만4천 달러 이상 주식 매도",
       "newsHeadlineKo": "",
@@ -649,13 +799,11 @@
       "newsSource": "Investing.com · 2026-10-02 22:48",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115232",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 39,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Cardlytics CEO 아밋 굽타, 보통주 46,749달러 매각",
       "newsHeadlineKo": "",
@@ -663,13 +811,11 @@
       "newsSource": "Investing.com · 2026-10-02 22:02",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115230",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 40,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "포그혼 테라퓨틱스 주가, 오늘 왜 폭락하나?",
       "newsHeadlineKo": "",
@@ -677,13 +823,11 @@
       "newsSource": "Investing.com · 2026-10-02 19:46",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115190",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 41,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Nscale, IPO 앞두고 메타 출신 저스틴 오소프스키를 COO로 영입",
       "newsHeadlineKo": "",
@@ -691,13 +835,11 @@
       "newsSource": "Investing.com · 2026-10-02 19:43",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115189",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 42,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bayer, 오하이오 신규 생산 시설에 22억 달러 투자",
       "newsHeadlineKo": "",
@@ -705,13 +847,11 @@
       "newsSource": "Investing.com · 2026-10-02 19:28",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115186",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 43,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Vistra, 핵발전소 업그레이드 위한 40억 달러 대출 보도에 주가 반등",
       "newsHeadlineKo": "",
@@ -719,13 +859,11 @@
       "newsSource": "Investing.com · 2026-10-02 19:26",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115184",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "피치, LKQ 전망 ’안정적’으로 하향…보험 청구 부진·자사주 매입 영향",
       "newsHeadlineKo": "",
@@ -733,13 +871,11 @@
       "newsSource": "Investing.com · 2026-10-02 19:20",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115182",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 45,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Forward Industries 주가, 오늘 급등하는 이유?",
       "newsHeadlineKo": "",
@@ -747,13 +883,11 @@
       "newsSource": "Investing.com · 2026-10-02 14:47",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115065",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 46,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Integra LifeSciences 주가, 오늘 왜 급락했을까?",
       "newsHeadlineKo": "",
@@ -761,27 +895,83 @@
       "newsSource": "Investing.com · 2026-10-02 14:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115060",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 47,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "미국 트럼프 정부 AI·정보 정책 및 글로벌 공급망",
+      "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "트럼프, 정보국장 제이 클레이턴을 AI 총괄 책임자로 지명 예정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "트럼프 당선인, 제이 클레이턴 전 SEC 위원장을 AI 총괄 책임자로 지명 전망",
+      "newsSummaryKo": [
+        "도널드 트럼프 미국 대통령 당선인이 제이 클레이턴 전 증권거래위원회(SEC) 위원장을 인공지능(AI) 총괄 책임자로 지명할 예정입니다.",
+        "이번 인선은 차기 행정부의 AI 관련 정책 수립과 규제 조율을 총괄하는 중책을 맡기기 위한 포석으로 해석됩니다.",
+        "제이 클레이턴은 과거 금융 규제 경험을 바탕으로 국가 차원의 AI 인프라 및 기술 패권 경쟁 전략을 조율할 것으로 보입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-02 14:42",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115062",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 및 AI 가속기용 HBM 공급",
+          "reason": "미국의 AI 정책 변화와 인프라 투자는 글로벌 AI 반도체 수요 및 전방 산업 생태계에 직접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI용 고대역폭메모리(HBM) 선도 공급",
+          "reason": "미국 빅테크 중심의 AI 인프라 투자 확대 정책은 AI 메모리 핵심 공급사인 동사의 실적과 연동됨.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 장비 공급",
+          "reason": "AI 반도체 밸류체인 내 핵심 장비사로서 전방 고객사의 AI 인프라 투자 확대 기조에 간접적 영향을 받음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 및 반도체 공정 장비 공급",
+          "reason": "AI 반도체 제조 공정에 필수적인 레이저 소형화 및 절단 장비를 글로벌 서플라이 체인에 공급함.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-5.67%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 전공정 장비(ALD 등) 공급",
+          "reason": "글로벌 AI 반도체 수요 증가에 따른 파운드리 및 메모리 업체의 설비투자(CAPEX) 기조와 연동됨.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 48,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "세레브라스 시스템즈 주식, 오늘 상승하는 이유는?",
       "newsHeadlineKo": "",
@@ -789,37 +979,95 @@
       "newsSource": "Investing.com · 2026-10-02 14:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115059",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 49,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "신재생에너지 및 태양광 발전 실적 변동",
+      "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Foresight Solar 2026년 상반기 수익 안정적이었으나 생산량 감소",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "포사이트 솔라, 2026년 상반기 안정적 수익 거뒀으나 생산량은 감소",
+      "newsSummaryKo": [
+        "포사이트 솔라(Foresight Solar)는 2026년 상반기 동안 안정적인 수익성을 유지했다고 밝혔습니다.",
+        "안정적인 재무 성과에도 불구하고 동기간 전체 에너지 생산량은 감소한 것으로 나타났습니다.",
+        "이번 실적 발표는 상반기 태양광 발전 자산의 운영 효율성과 생산성 변동에 대한 시장의 관심을 모았습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-02 14:35",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2115058",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 50,
-      "theme": "AI 분석 대기 중",
+      "theme": "미국 고용지표 부진에 따른 연준 금리 인상 전망 약화",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 고용지표 부진 여파로, 트레이더들 10월 연준 금리 인상 가능성 '사실상 배제'",
+      "newsSummaryKo": [
+        "최근 발표된 미국의 부진한 고용 보고서로 인해 금융시장의 통화정책 전망에 변화가 나타났다.",
+        "시장 참가자들을 대변하는 트레이더들은 이번 고용 지표 약세를 근거로 10월 연방준비제도(Fed)의 금리 인상 가능성을 낮게 평가하고 있다.",
+        "금리 인상 우려가 완화되면서 글로벌 거시경제 및 금융 시장의 위험선호 심리와 자금 흐름에 영향을 미치고 있다."
+      ],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 및 반도체 대표 대기업",
+          "reason": "미국 연준의 금리 인상 가능성 약화 및 글로벌 매크로 유동성 환경 변화는 외국인 투자자의 국내 대형주 수급에 직접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 공급사",
+          "reason": "글로벌 거시경제 및 금리 환경 변화에 따른 환율 및 외국인 자금 유출입 변동성에 민감하게 반응하는 대형 수출주.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "role": "바이오 의약품 위탁개발생산(CDMO)",
+          "reason": "글로벌 금리 인상 기조 완화 시그널은 통상적으로 제약·바이오 등 성장주 전반의 밸류에이션 부담을 경감시키는 요인으로 작용함.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.76%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "이차전지 셀 제조사",
+          "reason": "거시경제 금리 환경 변화에 따라 대규모 자본적 지출(CAPEX)이 필요한 글로벌 이차전지 업종의 투자 심리가 간접적으로 연동됨.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "금융 지주사",
+          "reason": "미국 금리 정책 전망 변화는 국내 시장금리 및 환율 변동성을 통해 국내 금융주의 예대마진 및 투자 운용 환경에 간접적 영향을 미침.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 51,
@@ -851,7 +1099,7 @@
     },
     {
       "id": 53,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "RBC, 우라늄 에너지의 국내 공급망 구축 계획 주목… 주가 상승",
       "newsHeadlineKo": "",
@@ -859,13 +1107,11 @@
       "newsSource": "Investing.com · 2026-10-02 15:06",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115070",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 54,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "TNL 미디어진 주가, 오늘 급등하는 이유는?",
       "newsHeadlineKo": "",
@@ -873,13 +1119,11 @@
       "newsSource": "Investing.com · 2026-10-02 14:47",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115066",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 55,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
       "newsHeadlineKo": "",
@@ -887,13 +1131,11 @@
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 56,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "캐피타 주가 급락, 오늘 무슨 일?",
       "newsHeadlineKo": "",
@@ -901,13 +1143,11 @@
       "newsSource": "Investing.com · 2026-10-02 08:37",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2114461",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 57,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "이탈리아, 2026년 성장 전망 상향 및 국방 계획 축소 예정 - 보도",
       "newsHeadlineKo": "",
@@ -915,13 +1155,11 @@
       "newsSource": "Investing.com · 2026-10-02 08:33",
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2114460",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 58,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "시냅틱스 주식, 오늘 급등하는 이유?",
       "newsHeadlineKo": "",
@@ -929,13 +1167,11 @@
       "newsSource": "Investing.com · 2026-10-02 08:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2114457",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 59,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "온 세미컨덕터 주가, 오늘 급등하는 이유는?",
       "newsHeadlineKo": "",
@@ -943,9 +1179,7 @@
       "newsSource": "Investing.com · 2026-10-02 08:30",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2114455",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 60,
@@ -963,7 +1197,7 @@
     },
     {
       "id": 61,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "블랙스톤 모기지 트러스트 사장, BXMT 주식 20,091달러 매각",
       "newsHeadlineKo": "",
@@ -971,13 +1205,11 @@
       "newsSource": "Investing.com · 2026-10-02 02:02",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114198",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 62,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "미국의 중동 군사력 증강 검토에 유가 상승세 유지",
       "newsHeadlineKo": "",
@@ -985,13 +1217,11 @@
       "newsSource": "Investing.com · 2026-10-02 01:50",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2114196",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 63,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Samsara CTO 존 비켓, 1천만 달러 이상 주식 매각",
       "newsHeadlineKo": "",
@@ -999,9 +1229,7 @@
       "newsSource": "Investing.com · 2026-10-02 01:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114195",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 64,
@@ -1019,7 +1247,7 @@
     },
     {
       "id": 65,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 CEO 마이클 인트레이터, 2,670만 달러 규모 주식 매각",
       "newsHeadlineKo": "",
@@ -1027,13 +1255,11 @@
       "newsSource": "Investing.com · 2026-10-02 01:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114186",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 66,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "[인사] 예금보험공사",
       "newsHeadlineKo": "",
@@ -1041,13 +1267,11 @@
       "newsSource": "Investing.com · 2026-10-02 01:11",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2114182",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 67,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "HPE 라미 라힘 EVP, 회사 주식 210만 달러 매도",
       "newsHeadlineKo": "",
@@ -1055,13 +1279,11 @@
       "newsSource": "Investing.com · 2026-10-01 23:17",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114130",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 68,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "오라클 이사 스티븐 러스코프스키, 348만 달러 상당 보통주 매입",
       "newsHeadlineKo": "",
@@ -1069,13 +1291,11 @@
       "newsSource": "Investing.com · 2026-10-01 23:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114125",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 69,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "애플 수석 부사장 제니퍼 뉴스테드, AAPL 주식 80만6,495달러어치 매도",
       "newsHeadlineKo": "",
@@ -1083,13 +1303,11 @@
       "newsSource": "Investing.com · 2026-10-01 23:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114124",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 70,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프레슈어런스 홀딩스 이사 스미스, 자사주 48,935달러 매입",
       "newsHeadlineKo": "",
@@ -1097,13 +1315,11 @@
       "newsSource": "Investing.com · 2026-10-01 23:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114122",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 71,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "갭 이사 윌리엄 피셔, 회사 주식 153만 달러 매각",
       "newsHeadlineKo": "",
@@ -1111,13 +1327,11 @@
       "newsSource": "Investing.com · 2026-10-01 22:48",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114121",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 72,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프리덤 브로커, 배셋 퍼니처 주식 등급 ’매수’로 상향 조정",
       "newsHeadlineKo": "",
@@ -1125,13 +1339,11 @@
       "newsSource": "Investing.com · 2026-10-01 19:42",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2113889",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 73,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예상",
       "newsHeadlineKo": "",
@@ -1139,13 +1351,11 @@
       "newsSource": "Investing.com · 2026-10-01 19:40",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2113888",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 74,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "파라마운트 스카이댄스 주식, 오늘 왜 하락하나?",
       "newsHeadlineKo": "",
@@ -1153,13 +1363,11 @@
       "newsSource": "Investing.com · 2026-10-01 19:26",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113882",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 75,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "마텔 주식, 오늘 급등한 이유?",
       "newsHeadlineKo": "",
@@ -1167,13 +1375,11 @@
       "newsSource": "Investing.com · 2026-10-01 19:21",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113880",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 76,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "루멘텀 주가, 오늘 급등한 이유는?",
       "newsHeadlineKo": "",
@@ -1181,13 +1387,11 @@
       "newsSource": "Investing.com · 2026-10-01 19:15",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113877",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 77,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Ag Growth International 주가, 오늘 하락하는 이유는?",
       "newsHeadlineKo": "",
@@ -1195,9 +1399,7 @@
       "newsSource": "Investing.com · 2026-10-01 15:45",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113744",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 78,
@@ -1215,7 +1417,7 @@
     },
     {
       "id": 79,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "올드 세컨드 뱅코프, 2026년 3분기 실적 발표 및 웹캐스트 일정 공개",
       "newsHeadlineKo": "",
@@ -1223,9 +1425,7 @@
       "newsSource": "Investing.com · 2026-10-01 15:13",
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2113731",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 80,
@@ -1243,7 +1443,7 @@
     },
     {
       "id": 81,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "웰스파고, BP 상향 조정…엑슨모빌은 밸류에이션 격차로 하향",
       "newsHeadlineKo": "",
@@ -1251,13 +1451,11 @@
       "newsSource": "Investing.com · 2026-10-01 15:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2113725",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 82,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "에버포스 주가 오늘 급등한 이유?",
       "newsHeadlineKo": "",
@@ -1265,13 +1463,11 @@
       "newsSource": "Investing.com · 2026-10-01 14:02",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113614",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 83,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "UBS, 마이크론 테크놀로지 등급 재확인…공급 전망 및 자본 환원",
       "newsHeadlineKo": "",
@@ -1279,13 +1475,11 @@
       "newsSource": "Investing.com · 2026-10-01 14:02",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2113612",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 84,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "애버딘 뮤니시펄 인컴 펀드 이사, 1,466달러 상당 주식 매입",
       "newsHeadlineKo": "",
@@ -1293,13 +1487,11 @@
       "newsSource": "Investing.com · 2026-10-01 14:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2113611",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 85,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Globant 주식, 오늘 급등하는 이유?",
       "newsHeadlineKo": "",
@@ -1307,13 +1499,11 @@
       "newsSource": "Investing.com · 2026-10-01 13:59",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113608",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 86,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "아고맙 테라퓨틱스 주가, 오늘 하락세 보이는 이유",
       "newsHeadlineKo": "",
@@ -1321,9 +1511,7 @@
       "newsSource": "Investing.com · 2026-10-01 13:57",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113606",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 87,
@@ -1341,7 +1529,7 @@
     },
     {
       "id": 88,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "WTI 원유, $88.60~$92.00 핵심 구간서 방향성 탐색: 매시 업데이트",
       "newsHeadlineKo": "",
@@ -1349,13 +1537,11 @@
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107807",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 89,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "천연가스, 더블톱 후 2.966 지지선 공방: 매시간 업데이트",
       "newsHeadlineKo": "",
@@ -1363,9 +1549,7 @@
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107808",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 90,
@@ -1397,7 +1581,7 @@
     },
     {
       "id": 92,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "LS Electric, ₩200,000 지지선 테스트 중: 매시 업데이트",
       "newsHeadlineKo": "",
@@ -1405,9 +1589,7 @@
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107610",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 93,
@@ -1425,7 +1607,7 @@
     },
     {
       "id": 94,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Kioxia Holdings, 박스권 횡보 중 돌파 신호 대기: 매시간 업데이트",
       "newsHeadlineKo": "",
@@ -1433,13 +1615,11 @@
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107607",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 95,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "중동 공급 리스크 지속 속 유가 상승세 유지",
       "newsHeadlineKo": "",
@@ -1447,13 +1627,11 @@
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2112522",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 96,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "리포신 이사 존 히구치, 회사 주식 27,131달러 매수",
       "newsHeadlineKo": "",
@@ -1461,13 +1639,11 @@
       "newsSource": "Investing.com · 2026-10-01 01:03",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2112518",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 97,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
       "newsHeadlineKo": "",
@@ -1475,9 +1651,7 @@
       "newsSource": "Yahoo Finance · 2026-09-23T01:50",
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "skipped"
     },
     {
       "id": 98,
