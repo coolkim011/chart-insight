@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 
 interface Stock {
   rank?: number;
+  tier?: number;
   name: string;
   code: string;
   role: string;
@@ -23,7 +24,16 @@ interface BriefingItem {
   newsSource: string;
   newsLink: string;
   stocks: Stock[];
+  status?: "pending" | "done" | "failed";
 }
+
+const TIER_LABELS: Record<number, { title: string; desc: string; color: string }> = {
+  1: { title: "1차 · 대장주", desc: "뉴스와 가장 직접 연결된 종목", color: "text-rose-400 bg-rose-500/15" },
+  2: { title: "2차 · 공급망 연결", desc: "대장주에 직접 공급·연결된 종목", color: "text-amber-400 bg-amber-500/15" },
+  3: { title: "3차 · 간접 연관", desc: "한 단계 건너 연결된 후방 종목", color: "text-sky-400 bg-sky-500/15" },
+};
+
+const REFRESH_MS = 5 * 60 * 1000;
 
 interface MarketIndex {
   name: string;
@@ -39,7 +49,8 @@ export default function Home() {
   const [briefings, setBriefings] = useState<BriefingItem[]>([]);
   const [selectedCategory, setSelectedCategory] = useState("전체");
   const [searchQuery, setSearchQuery] = useState("");
-  const [expandedItems, setExpandedItems] = useState<Record<number, boolean>>({});
+  // 기사 id는 새 뉴스가 올라올 때마다 바뀌므로 링크를 기준으로 펼침 상태를 기억한다
+  const [expandedItems, setExpandedItems] = useState<Record<string, boolean>>({});
   const [copiedCode, setCopiedCode] = useState<string | null>(null);
   const [shareToast, setShareToast] = useState(false);
   const [bookmarks, setBookmarks] = useState<string[]>([]);
@@ -47,20 +58,19 @@ export default function Home() {
   const [visibleCount, setVisibleCount] = useState(8);
 
   useEffect(() => {
-    fetch("/briefing.json")
-      .then((res) => res.json())
-      .then((data) => {
-        if (data.indices) setIndices(data.indices);
-        if (data.briefings) {
-          setBriefings(data.briefings);
-          const initialExpanded: Record<number, boolean> = {};
-          data.briefings.forEach((item: BriefingItem) => {
-            initialExpanded[item.id] = false;
-          });
-          setExpandedItems(initialExpanded);
-        }
-      })
-      .catch((err) => console.error("데이터 로드 실패:", err));
+    const loadData = () => {
+      fetch("/briefing.json", { cache: "no-store" })
+        .then((res) => res.json())
+        .then((data) => {
+          if (data.indices) setIndices(data.indices);
+          if (data.briefings) setBriefings(data.briefings);
+        })
+        .catch((err) => console.error("데이터 로드 실패:", err));
+    };
+
+    loadData();
+    // 새 뉴스가 올라오면 새로고침 없이 반영되도록 주기적으로 다시 불러온다
+    const timer = setInterval(loadData, REFRESH_MS);
 
     const saved = localStorage.getItem("chart_insight_bookmarks");
     if (saved) {
@@ -70,6 +80,8 @@ export default function Home() {
         console.error(e);
       }
     }
+
+    return () => clearInterval(timer);
   }, []);
 
   const toggleBookmark = (e: React.MouseEvent, code: string) => {
@@ -84,8 +96,8 @@ export default function Home() {
     localStorage.setItem("chart_insight_bookmarks", JSON.stringify(updated));
   };
 
-  const toggleExpand = (id: number) => {
-    setExpandedItems((prev) => ({ ...prev, [id]: !prev[id] }));
+  const toggleExpand = (key: string) => {
+    setExpandedItems((prev) => ({ ...prev, [key]: !prev[key] }));
   };
 
   const handleCopy = (e: React.MouseEvent, code: string) => {
@@ -117,7 +129,7 @@ export default function Home() {
     const matchQuery =
       !q ||
       headline.includes(q) ||
-      item.theme.toLowerCase().includes(q) ||
+      (item.theme || "").toLowerCase().includes(q) ||
       item.stocks.some((s) => s.name.toLowerCase().includes(q) || s.code.includes(q));
 
     const matchBookmark = !showBookmarksOnly || item.stocks.some((s) => bookmarks.includes(s.code));
@@ -199,11 +211,21 @@ export default function Home() {
           {filteredBriefings.slice(0, visibleCount).map((item) => {
             const headlineKo = item.newsHeadlineKo || item.newsHeadline;
             const headlineEn = item.newsHeadlineOriginal;
-            const isExpanded = !!expandedItems[item.id];
+            const itemKey = item.newsLink || String(item.id);
+            const isExpanded = !!expandedItems[itemKey];
+            const isPending = item.status === "pending";
+            const isFailed = item.status === "failed";
+            // 1차·2차·3차 순으로 묶는다. tier 정보가 없는 예전 기사는 하나의 목록으로 보여준다
+            const stockGroups = [1, 2, 3, 0]
+              .map((tier) => ({
+                tier,
+                stocks: item.stocks.filter((s) => (TIER_LABELS[s.tier ?? 0] ? s.tier : 0) === tier),
+              }))
+              .filter((g) => g.stocks.length > 0);
 
             return (
               <article
-                key={item.id}
+                key={itemKey}
                 className="bg-[#0e121a] border border-slate-800/90 rounded-2xl p-4 shadow-lg hover:border-slate-700 transition flex flex-col space-y-3"
               >
                 {/* 뱃지 및 테마 */}
@@ -252,23 +274,39 @@ export default function Home() {
                   </div>
                 </div>
 
-                {/* 팩트 요약 3줄 */}
-                <div className="bg-[#121722] rounded-xl p-3 text-xs space-y-1.5 border border-slate-800/60">
-                  <div className="text-[11px] font-extrabold text-slate-300 flex items-center space-x-1 mb-1">
-                    <span>📋 외신 핵심 사실 요약</span>
+                {/* AI 분석 대기 / 실패 안내 */}
+                {isPending && (
+                  <div className="bg-[#121722] rounded-xl p-3 text-xs text-slate-400 border border-dashed border-slate-700 flex items-center space-x-2">
+                    <span className="animate-pulse">⏳</span>
+                    <span>AI가 번역·요약과 관련 종목을 분석하는 중입니다. 잠시 후 자동으로 채워집니다.</span>
                   </div>
-                  {item.newsSummaryKo.map((sum, sIdx) => (
-                    <div key={sIdx} className="flex items-start space-x-2 text-slate-300 leading-relaxed">
-                      <span className="text-blue-400 mt-0.5">•</span>
-                      <span>{sum}</span>
+                )}
+                {isFailed && (
+                  <div className="bg-[#121722] rounded-xl p-3 text-xs text-slate-500 border border-slate-800/60">
+                    이 기사는 AI 분석을 완료하지 못했습니다. 원문을 참고해 주세요.
+                  </div>
+                )}
+
+                {/* 팩트 요약 3줄 */}
+                {!isPending && !isFailed && item.newsSummaryKo.length > 0 && (
+                  <div className="bg-[#121722] rounded-xl p-3 text-xs space-y-1.5 border border-slate-800/60">
+                    <div className="text-[11px] font-extrabold text-slate-300 flex items-center space-x-1 mb-1">
+                      <span>📋 외신 핵심 사실 요약</span>
                     </div>
-                  ))}
-                </div>
+                    {item.newsSummaryKo.map((sum, sIdx) => (
+                      <div key={sIdx} className="flex items-start space-x-2 text-slate-300 leading-relaxed">
+                        <span className="text-blue-400 mt-0.5">•</span>
+                        <span>{sum}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
 
                 {/* 밸류체인 연관 기업 아코디언 */}
+                {!isPending && !isFailed && item.stocks.length > 0 && (
                 <div className="border border-slate-800/80 rounded-xl overflow-hidden bg-[#0c1017]">
                   <button
-                    onClick={() => toggleExpand(item.id)}
+                    onClick={() => toggleExpand(itemKey)}
                     className="w-full flex items-center justify-between p-3 text-xs font-bold text-slate-200 hover:bg-slate-800/40 transition"
                   >
                     <div className="flex items-center space-x-2">
@@ -281,8 +319,18 @@ export default function Home() {
                   </button>
 
                   {isExpanded && (
-                    <div className="p-3 pt-0 space-y-2 border-t border-slate-800/60">
-                      {item.stocks.map((stock, idx) => {
+                    <div className="p-3 pt-0 space-y-3 border-t border-slate-800/60">
+                      {stockGroups.map((group) => (
+                      <div key={group.tier} className="space-y-2 pt-3">
+                      {group.tier > 0 && (
+                        <div className="flex items-center space-x-2">
+                          <span className={`px-2 py-0.5 rounded text-[10px] font-black ${TIER_LABELS[group.tier].color}`}>
+                            {TIER_LABELS[group.tier].title}
+                          </span>
+                          <span className="text-[10px] text-slate-500">{TIER_LABELS[group.tier].desc}</span>
+                        </div>
+                      )}
+                      {group.stocks.map((stock, idx) => {
                         const displayRank = stock.rank || idx + 1;
                         const isBookmarked = bookmarks.includes(stock.code);
 
@@ -346,9 +394,12 @@ export default function Home() {
                           </div>
                         );
                       })}
+                      </div>
+                      ))}
                     </div>
                   )}
                 </div>
+                )}
               </article>
             );
           })}
@@ -365,6 +416,11 @@ export default function Home() {
             </button>
           </div>
         )}
+        {/* 면책 안내 */}
+        <p className="pb-8 text-center text-[10px] leading-relaxed text-slate-500">
+          본 서비스의 관련 종목은 AI가 뉴스 내용을 바탕으로 정리한 참고 정보이며, 투자 권유나 매수·매도 추천이 아닙니다.
+          종목 연관성과 종목코드는 부정확할 수 있으니 투자 판단과 그 결과의 책임은 이용자 본인에게 있습니다.
+        </p>
       </main>
 
       {/* 공유 토스트 알림 */}

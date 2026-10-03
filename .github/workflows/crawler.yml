@@ -7,6 +7,10 @@ on:
     - cron: '0 9 * * *'
   workflow_dispatch: # 깃허브 웹 화면에서 수동으로 [Run workflow] 버튼 눌러 즉시 실행 가능
 
+concurrency:
+  group: briefing-crawler
+  cancel-in-progress: false
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
