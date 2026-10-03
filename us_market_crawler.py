@@ -213,7 +213,8 @@ def build_prompt(headline, summary):
    - tier 1 (1차·대장주): 이 뉴스로 가장 직접적이고 즉각적인 영향을 받는 대표 종목 1~2개
    - tier 2 (2차): 대장주에 부품·소재·장비·서비스를 공급하는 등 직접 연결된 종목 최대 3개
    - tier 3 (3차): 한 단계 더 건너 간접적으로 연결된 후방·파생 관련 종목 최대 3개
-   - 연관성이 분명하지 않은 tier는 비워 두세요. 한국 상장사와 관련이 없는 기사면 stocks는 빈 배열입니다.
+   - 기사와 직접 연결이 약하더라도 같은 업종·테마로 엮이는 국내 상장사가 있으면 tier 2~3에 포함하고, reason에 그 연결 고리를 한 문장으로 분명히 쓰세요.
+   - 한국 상장사와 정말 연결할 수 없는 기사(예: 해외 소형주 개별 실적)만 stocks를 빈 배열로 두세요.
    - 종목코드는 정확한 6자리를 확신할 때만 쓰고, 확신이 없으면 그 종목은 제외하세요.
    - reason에는 매수 권유가 아닌 객관적 연관 사실만 쓰세요.
 
@@ -356,7 +357,9 @@ def analyze_with_ai(headline, summary, client):
         data = json.loads(raw[start:end + 1])
         if not data.get("newsHeadlineKo"):
             raise ValueError("번역 제목이 비어 있음")
+        raw_count = len(data.get("stocks") or [])
         data["stocks"] = normalize_stocks(data.get("stocks"))
+        print(f"  종목: AI 제안 {raw_count}개 → 형식 검증 후 {len(data['stocks'])}개")
         return data
     except AIUnavailable:
         raise
@@ -475,6 +478,13 @@ def analyze():
     if client:
         requeue_legacy_fallbacks(briefings)
 
+    # 이미 대기열에 있던 기사도 관련성 필터를 거쳐, 한도를 쓸 필요가 없는 기사는 분석 대상에서 뺀다
+    for b in briefings:
+        if b.get("status") == "pending" and not is_relevant(b.get("newsHeadlineOriginal", ""), b.get("rawSummary", "")):
+            b.update({"status": "skipped", "theme": "분석 제외"})
+            b.pop("attempts", None)
+            b.pop("rawSummary", None)
+
     pending = [b for b in briefings if b.get("status") == "pending"]
     print(f"  분석 대기: {len(pending)}건 (이번 실행에서 최대 {MAX_AI_PER_RUN}건 처리)")
 
@@ -497,6 +507,7 @@ def analyze():
                 item["newsHeadlineKo"] = result["newsHeadlineKo"]
                 item["newsSummaryKo"] = result.get("newsSummaryKo", [])
                 item["stocks"] = verify_stocks(result["stocks"])
+                print(f"  종목 확인 후 최종 {len(item['stocks'])}개")
                 item["status"] = "done"
                 item.pop("rawSummary", None)
                 item.pop("attempts", None)
