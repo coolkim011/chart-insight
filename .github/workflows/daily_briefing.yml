@@ -24,10 +24,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser google-genai
+          pip install feedparser anthropic google-genai
 
-      - name: Run Crawler with Gemini AI
+      - name: Run Crawler with AI
         env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python us_market_crawler.py
