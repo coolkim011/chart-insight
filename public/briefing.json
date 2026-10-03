@@ -49,7 +49,7 @@
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -165,3402 +165,1347 @@
     },
     {
       "id": 5,
-      "theme": "디지털 자산 및 핀테크 제도권 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-      "newsHeadlineKo": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-      "newsSummaryKo": [
-        "글로벌 블록체인 예측 및 거래 플랫폼의 전통 금융권(월가) 전문 인력 영입",
-        "디지털 자산의 제도권 금융 시스템 편입 및 관련 금융 상품 다양화",
-        "국내외 가상자산 거래 인프라 및 결제 네트워크의 시장 영향 점검"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Yahoo Finance · 2026-09-23T01:51",
       "newsLink": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "우리기술투자",
-          "code": "041190",
-          "role": "거래소 1대 지분",
-          "reason": "국내 1위 거래소 업비트 운영사 두나무 핵심 지분 보유",
-          "changeRate": "+6.69%",
-          "isUp": true
-        },
-        {
-          "rank": 2,
-          "name": "한화투자증권",
-          "code": "003530",
-          "role": "핀테크 지분 보유",
-          "reason": "두나무 주요 주주 및 토큰증권 협의체 참여",
-          "changeRate": "-6.33%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "갤럭시아머니트리",
-          "code": "094480",
-          "role": "STO/결제인프라",
-          "reason": "항공금융·신재생에너지 기반 토큰증권 발행 인프라 선점",
-          "changeRate": "+0.17%",
-          "isUp": true
-        },
-        {
-          "rank": 4,
-          "name": "핑거",
-          "code": "163730",
-          "role": "금융 핀테크 솔루션",
-          "reason": "제1금융권 블록체인 및 디지털 자산 지갑 솔루션 공급",
-          "changeRate": "+1.93%",
-          "isUp": true
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 6,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "페니맥 모기지 CAO 헨드리, 19,209달러 규모 주식 처분",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 페니맥 모기지 CAO 헨드리, 19,209달러 규모 주...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 14:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115358",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 7,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로, 나무기술 42% 급락 전 과대평가 포착",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 인베스팅프로, 나무기술 42% 급락 전 과대평가 포착...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 11:46",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115348",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 8,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로의 적정가치, 다임 커뮤니티 주식에서 62% 상승 포착",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 인베스팅프로의 적정가치, 다임 커뮤니티 주식에서 62%...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 11:11",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115347",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 9,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "적정가치, Sable Offshore 주가 51% 하락 11개월 전 예측",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 적정가치, Sable Offshore 주가 51% 하락...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 11:03",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115346",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 10,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "주유소 너머: 우리는 실제로 얼마나 많은 석유를 소비하는가?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 주유소 너머: 우리는 실제로 얼마나 많은 석유를 소비하...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 10:51",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2115345",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 11,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Lula or Bolsonaro: Wall Street...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "CNBC Markets · Sat, 03 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
     },
     {
       "id": 12,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "미국, Vistra에 42억 달러 대출로 원자력 발전 확대 지원",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 미국, Vistra에 42억 달러 대출로 원자력 발전 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 13:39",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115354",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 13,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "후티 긴장 고조 속 리야드 아람코 시설 인근서 연기·화재 목격",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 후티 긴장 고조 속 리야드 아람코 시설 인근서 연기·화...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 12:08",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115351",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 14,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "르노, 프랑스 전기차 생산에 100억 유로 이상 투자 계획",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 르노, 프랑스 전기차 생산에 100억 유로 이상 투자 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 12:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115350",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 15,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "InvestingPro 적정가치 신호 후 HLB생명과학 96% 급등",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: InvestingPro 적정가치 신호 후 HLB생명과학...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 11:51",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115349",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 16,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "소비자 AI 에이전트, 금융 서비스에 어떤 의미인가?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 소비자 AI 에이전트, 금융 서비스에 어떤 의미인가?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 08:01",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115326",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 17,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 중동 군사력 확대…이란에 압박 가중",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 트럼프, 중동 군사력 확대…이란에 압박 가중...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 07:24",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115324",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 18,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 메디케어 가입자 2,000만 명에 $90 지급 발표",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 트럼프, 메디케어 가입자 2,000만 명에 $90 지급...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 06:48",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115321",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 19,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "러시아 공습으로 키이우 드니프로강 북부 교량 피격",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 러시아 공습으로 키이우 드니프로강 북부 교량 피격...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 06:18",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115319",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 20,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "美증시 23시간 체제로…서학개미 ’주간거래’ 판 커진다",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 美증시 23시간 체제로…서학개미 ’주간거래’ 판 커진다...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 06:13",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115318",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 21,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CoreWeave CSO 브라이언 벤투로, 세금 납부 위해 575만 달러 상당 주식 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: CoreWeave CSO 브라이언 벤투로, 세금 납부 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 02:51",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115302",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 22,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 최고개발책임자, 주식 496만 달러 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 코어위브 최고개발책임자, 주식 496만 달러 매도...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115301",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 23,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 COO 사친 제인, 자사주 350달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 코어위브 COO 사친 제인, 자사주 350달러 매각...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115300",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 24,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CoreWeave CEO 마이클 인트레이터, 주식 689만 달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: CoreWeave CEO 마이클 인트레이터, 주식 68...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115298",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 25,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 법무자문위원 맥비티, 438달러 상당의 주식 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 코어위브 법무자문위원 맥비티, 438달러 상당의 주식 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115299",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 26,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "McGrath RentCorp 이사 조셉 한나, 862,824달러 상당 주식 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: McGrath RentCorp 이사 조셉 한나, 862...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 00:46",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115268",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 27,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "망막변성퇴치재단, 오푸스 제네틱스 주식 275만 달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 망막변성퇴치재단, 오푸스 제네틱스 주식 275만 달러 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 00:46",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115267",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 28,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Liquidity Services 부사장 John Daunt, 회사 주식 30,566달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Liquidity Services 부사장 John Da...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 00:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115253",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 29,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Xometry CTO 라가반 바이디아나탄, 192,725달러 상당 주식 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Xometry CTO 라가반 바이디아나탄, 192,72...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 00:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115252",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 30,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Xometry CEO 산지브 사니, XMTR 주식 1,112주 114,851달러에 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Xometry CEO 산지브 사니, XMTR 주식 1,...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-03 00:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115251",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 31,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Crowdstrike CEO 조지 커츠, 자사주 530만 달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Crowdstrike CEO 조지 커츠, 자사주 530...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115240",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 32,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "TransUnion 사장 토드 스키너, 62,290달러어치 주식 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: TransUnion 사장 토드 스키너, 62,290달러...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115239",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 33,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트랜스유니온 부사장 압델사덱, 보통주 15,572달러 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 트랜스유니온 부사장 압델사덱, 보통주 15,572달러 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115238",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 34,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "로블록스 이사 그레고리 바스주키, 71만4천 달러 이상 주식 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 로블록스 이사 그레고리 바스주키, 71만4천 달러 이상...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 22:48",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115232",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 35,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Cardlytics CEO 아밋 굽타, 보통주 46,749달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Cardlytics CEO 아밋 굽타, 보통주 46,7...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 22:02",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115230",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 36,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "포그혼 테라퓨틱스 주가, 오늘 왜 폭락하나?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 포그혼 테라퓨틱스 주가, 오늘 왜 폭락하나?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 19:46",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115190",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 37,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Nscale, IPO 앞두고 메타 출신 저스틴 오소프스키를 COO로 영입",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Nscale, IPO 앞두고 메타 출신 저스틴 오소프스...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 19:43",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115189",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 38,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bayer, 오하이오 신규 생산 시설에 22억 달러 투자",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Bayer, 오하이오 신규 생산 시설에 22억 달러 투...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 19:28",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115186",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 39,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Vistra, 핵발전소 업그레이드 위한 40억 달러 대출 보도에 주가 반등",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Vistra, 핵발전소 업그레이드 위한 40억 달러 대...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 19:26",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115184",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 40,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "피치, LKQ 전망 ’안정적’으로 하향…보험 청구 부진·자사주 매입 영향",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 피치, LKQ 전망 ’안정적’으로 하향…보험 청구 부진...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 19:20",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115182",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 41,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Forward Industries 주가, 오늘 급등하는 이유?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Forward Industries 주가, 오늘 급등하는...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 14:47",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115065",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 42,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Integra LifeSciences 주가, 오늘 왜 급락했을까?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Integra LifeSciences 주가, 오늘 왜 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 14:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115060",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 43,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 정보국장 제이 클레이턴을 AI 총괄 책임자로 지명 예정",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 트럼프, 정보국장 제이 클레이턴을 AI 총괄 책임자로 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 14:42",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115062",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 44,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "세레브라스 시스템즈 주식, 오늘 상승하는 이유는?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 세레브라스 시스템즈 주식, 오늘 상승하는 이유는?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 14:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115059",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 45,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Foresight Solar 2026년 상반기 수익 안정적이었으나 생산량 감소",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Foresight Solar 2026년 상반기 수익 안...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 14:35",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2115058",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 46,
-      "theme": "글로벌 거시경제 및 금융 매크로",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "newsHeadlineKo": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "newsSummaryKo": [
-        "글로벌 주요국 통화정책 기조 변화 및 증시 구성 종목 간 디커플링 심화",
-        "국채 금리 및 재정 정책 변화에 따른 자산 시장 포트폴리오 재편",
-        "대외 교역 환경 변화 및 수급 변동성에 따른 주요 업종별 영향 점검"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "KB금융",
-          "code": "105560",
-          "role": "종합금융그룹",
-          "reason": "안정적 대출 및 채권 포트폴리오를 보유한 대표 금융지주",
-          "changeRate": "+0.47%",
-          "isUp": true
-        },
-        {
-          "rank": 2,
-          "name": "삼성전자",
-          "code": "005930",
-          "role": "글로벌 IT 대장",
-          "reason": "지수 변동성 구간 내 기관·외인 수급 중심 역할",
-          "changeRate": "-2.88%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "키움증권",
-          "code": "039490",
-          "role": "브로커리지",
-          "reason": "자산시장 거래대금 증가에 따른 수수료 수혜",
-          "changeRate": "-1.08%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 47,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 'The hottest skill on Wall Str...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 48,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: How AI is redefining Wall Stre...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 49,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "RBC, 우라늄 에너지의 국내 공급망 구축 계획 주목… 주가 상승",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: RBC, 우라늄 에너지의 국내 공급망 구축 계획 주목…...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 15:06",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115070",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 50,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "TNL 미디어진 주가, 오늘 급등하는 이유는?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: TNL 미디어진 주가, 오늘 급등하는 이유는?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 14:47",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115066",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 51,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Bitget 'not expecting to recov...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 52,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "캐피타 주가 급락, 오늘 무슨 일?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 캐피타 주가 급락, 오늘 무슨 일?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 08:37",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2114461",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 53,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "이탈리아, 2026년 성장 전망 상향 및 국방 계획 축소 예정 - 보도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 이탈리아, 2026년 성장 전망 상향 및 국방 계획 축...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 08:33",
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2114460",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 54,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "시냅틱스 주식, 오늘 급등하는 이유?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 시냅틱스 주식, 오늘 급등하는 이유?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 08:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2114457",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 55,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "온 세미컨덕터 주가, 오늘 급등하는 이유는?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 온 세미컨덕터 주가, 오늘 급등하는 이유는?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 08:30",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2114455",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 56,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "도시바, AI 데이터센터 수요에 HDD 생산 능력 2배 확대 계획",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 도시바, AI 데이터센터 수요에 HDD 생산 능력 2배...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 02:03",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2114201",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 57,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "블랙스톤 모기지 트러스트 사장, BXMT 주식 20,091달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 블랙스톤 모기지 트러스트 사장, BXMT 주식 20,0...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 02:02",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114198",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 58,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "미국의 중동 군사력 증강 검토에 유가 상승세 유지",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 미국의 중동 군사력 증강 검토에 유가 상승세 유지...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 01:50",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2114196",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 59,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Samsara CTO 존 비켓, 1천만 달러 이상 주식 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Samsara CTO 존 비켓, 1천만 달러 이상 주식...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 01:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114195",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 60,
-      "theme": "차세대 반도체 광통신 및 첨단 패키징",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI가 선정한 반도체 주식, 82억 달러 인수로 검증…6월 이후 +20%",
-      "newsHeadlineKo": "AI가 선정한 반도체 주식, 82억 달러 인수로 검증…6월 이후 +20%",
-      "newsSummaryKo": [
-        "차세대 초고속 데이터 전송(광통신/실리콘 포토닉스) 및 인터페이스 연구 개발",
-        "인공지능(AI) 가속기 병목 현상 해소를 위한 광학 패키징 기술 대두",
-        "국내 첨단 후공정 장비 및 광통신 부품 기업 중심의 공급망 재편"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 01:47",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2114200",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "TC본더 독점 장비",
-          "reason": "글로벌 HBM 열압착 패키징 장비 시장 독점 지배력",
-          "changeRate": "-1.63%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "이수페타시스",
-          "code": "007660",
-          "role": "초고다층 PCB 기판",
-          "reason": "글로벌 빅테크 AI 가속기용 초고다층 회로기판(MLB) 공급",
-          "changeRate": "-0.20%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "오이솔루션",
-          "code": "138080",
-          "role": "광트랜시버 부품",
-          "reason": "데이터센터용 초고속 광트랜시버 및 레이저 다이오드 개발",
-          "changeRate": "+8.75%",
-          "isUp": true
-        },
-        {
-          "rank": 4,
-          "name": "네오셈",
-          "code": "253590",
-          "role": "차세대 CXL 검사장비",
-          "reason": "차세대 메모리 규격 CXL 및 고속 검사장비 선점",
-          "changeRate": "+7.42%",
-          "isUp": true
-        },
-        {
-          "rank": 5,
-          "name": "디아이티",
-          "code": "252110",
-          "role": "레이저 어닐링 장비",
-          "reason": "첨단 반도체 수율 향상용 레이저 공정 장비 납품",
-          "changeRate": "0.00%",
-          "isUp": true
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 61,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 CEO 마이클 인트레이터, 2,670만 달러 규모 주식 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 코어위브 CEO 마이클 인트레이터, 2,670만 달러 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 01:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114186",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 62,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "[인사] 예금보험공사",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: [인사] 예금보험공사...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-02 01:11",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2114182",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 63,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "HPE 라미 라힘 EVP, 회사 주식 210만 달러 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: HPE 라미 라힘 EVP, 회사 주식 210만 달러 매...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 23:17",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114130",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 64,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "오라클 이사 스티븐 러스코프스키, 348만 달러 상당 보통주 매입",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 오라클 이사 스티븐 러스코프스키, 348만 달러 상당 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 23:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114125",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 65,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "애플 수석 부사장 제니퍼 뉴스테드, AAPL 주식 80만6,495달러어치 매도",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 애플 수석 부사장 제니퍼 뉴스테드, AAPL 주식 80...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 23:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114124",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 66,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프레슈어런스 홀딩스 이사 스미스, 자사주 48,935달러 매입",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 프레슈어런스 홀딩스 이사 스미스, 자사주 48,935달...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 23:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114122",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 67,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "갭 이사 윌리엄 피셔, 회사 주식 153만 달러 매각",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 갭 이사 윌리엄 피셔, 회사 주식 153만 달러 매각...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 22:48",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2114121",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 68,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프리덤 브로커, 배셋 퍼니처 주식 등급 ’매수’로 상향 조정",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 프리덤 브로커, 배셋 퍼니처 주식 등급 ’매수’로 상향...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 19:42",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2113889",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 69,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예상",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 19:40",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2113888",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 70,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "파라마운트 스카이댄스 주식, 오늘 왜 하락하나?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 파라마운트 스카이댄스 주식, 오늘 왜 하락하나?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 19:26",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113882",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 71,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "마텔 주식, 오늘 급등한 이유?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 마텔 주식, 오늘 급등한 이유?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 19:21",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113880",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 72,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "루멘텀 주가, 오늘 급등한 이유는?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 루멘텀 주가, 오늘 급등한 이유는?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 19:15",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113877",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 73,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Ag Growth International 주가, 오늘 하락하는 이유는?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Ag Growth International 주가, 오늘...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 15:45",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113744",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 74,
-      "theme": "글로벌 거시경제 및 금융 매크로",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "팔라듐 현물가, 미 국채금리·달러 강세 압박에 하락",
-      "newsHeadlineKo": "팔라듐 현물가, 미 국채금리·달러 강세 압박에 하락",
-      "newsSummaryKo": [
-        "글로벌 주요국 통화정책 기조 변화 및 증시 구성 종목 간 디커플링 심화",
-        "국채 금리 및 재정 정책 변화에 따른 자산 시장 포트폴리오 재편",
-        "대외 교역 환경 변화 및 수급 변동성에 따른 주요 업종별 영향 점검"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 15:27",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2113734",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "KB금융",
-          "code": "105560",
-          "role": "종합금융그룹",
-          "reason": "안정적 대출 및 채권 포트폴리오를 보유한 대표 금융지주",
-          "changeRate": "+0.47%",
-          "isUp": true
-        },
-        {
-          "rank": 2,
-          "name": "삼성전자",
-          "code": "005930",
-          "role": "글로벌 IT 대장",
-          "reason": "지수 변동성 구간 내 기관·외인 수급 중심 역할",
-          "changeRate": "-2.88%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "키움증권",
-          "code": "039490",
-          "role": "브로커리지",
-          "reason": "자산시장 거래대금 증가에 따른 수수료 수혜",
-          "changeRate": "-1.08%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 75,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "올드 세컨드 뱅코프, 2026년 3분기 실적 발표 및 웹캐스트 일정 공개",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 올드 세컨드 뱅코프, 2026년 3분기 실적 발표 및 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 15:13",
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2113731",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 76,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Infineon, AI 및 기술 컨퍼런스서 AI 성장으로 전망 상향",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Infineon, AI 및 기술 컨퍼런스서 AI 성장으...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 15:11",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2113729",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 77,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "웰스파고, BP 상향 조정…엑슨모빌은 밸류에이션 격차로 하향",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 웰스파고, BP 상향 조정…엑슨모빌은 밸류에이션 격차로...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 15:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2113725",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 78,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "에버포스 주가 오늘 급등한 이유?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 에버포스 주가 오늘 급등한 이유?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 14:02",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113614",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 79,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "UBS, 마이크론 테크놀로지 등급 재확인…공급 전망 및 자본 환원",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: UBS, 마이크론 테크놀로지 등급 재확인…공급 전망 및...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 14:02",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2113612",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 80,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "애버딘 뮤니시펄 인컴 펀드 이사, 1,466달러 상당 주식 매입",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 애버딘 뮤니시펄 인컴 펀드 이사, 1,466달러 상당 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 14:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2113611",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 81,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Globant 주식, 오늘 급등하는 이유?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Globant 주식, 오늘 급등하는 이유?...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 13:59",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113608",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 82,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "아고맙 테라퓨틱스 주가, 오늘 하락세 보이는 이유",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 아고맙 테라퓨틱스 주가, 오늘 하락세 보이는 이유...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 13:57",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2113606",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 83,
-      "theme": "글로벌 거시경제 및 금융 매크로",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "영국 주택 가격 상승세 9개월 만에 최저, 금리 인상 우려 수요 위축",
-      "newsHeadlineKo": "영국 주택 가격 상승세 9개월 만에 최저, 금리 인상 우려 수요 위축",
-      "newsSummaryKo": [
-        "글로벌 주요국 통화정책 기조 변화 및 증시 구성 종목 간 디커플링 심화",
-        "국채 금리 및 재정 정책 변화에 따른 자산 시장 포트폴리오 재편",
-        "대외 교역 환경 변화 및 수급 변동성에 따른 주요 업종별 영향 점검"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 07:11",
       "newsLink": "https://kr.investing.com/news/economic-indicators/article-93CH-2112724",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "KB금융",
-          "code": "105560",
-          "role": "종합금융그룹",
-          "reason": "안정적 대출 및 채권 포트폴리오를 보유한 대표 금융지주",
-          "changeRate": "+0.47%",
-          "isUp": true
-        },
-        {
-          "rank": 2,
-          "name": "삼성전자",
-          "code": "005930",
-          "role": "글로벌 IT 대장",
-          "reason": "지수 변동성 구간 내 기관·외인 수급 중심 역할",
-          "changeRate": "-2.88%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "키움증권",
-          "code": "039490",
-          "role": "브로커리지",
-          "reason": "자산시장 거래대금 증가에 따른 수수료 수혜",
-          "changeRate": "-1.08%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 84,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "WTI 원유, $88.60~$92.00 핵심 구간서 방향성 탐색: 매시 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: WTI 원유, $88.60~$92.00 핵심 구간서 방...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107807",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 85,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "천연가스, 더블톱 후 2.966 지지선 공방: 매시간 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 천연가스, 더블톱 후 2.966 지지선 공방: 매시간 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107808",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 86,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Copper, 200MA·피보나치 지지선 변곡점: 실시간 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Copper, 200MA·피보나치 지지선 변곡점: 실시...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107806",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 87,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Gold, 하락 추세 속 단기 저항 재시험: 매시간 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Gold, 하락 추세 속 단기 저항 재시험: 매시간 업...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107803",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 88,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "LS Electric, ₩200,000 지지선 테스트 중: 매시 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: LS Electric, ₩200,000 지지선 테스트 ...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107610",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 89,
-      "theme": "차세대 반도체 광통신 및 첨단 패키징",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자, 쌍봉·Bearish Marubozu로 하락 압박: 매시간 업데이트",
-      "newsHeadlineKo": "삼성전자, 쌍봉·Bearish Marubozu로 하락 압박: 매시간 업데이트",
-      "newsSummaryKo": [
-        "차세대 초고속 데이터 전송(광통신/실리콘 포토닉스) 및 인터페이스 연구 개발",
-        "인공지능(AI) 가속기 병목 현상 해소를 위한 광학 패키징 기술 대두",
-        "국내 첨단 후공정 장비 및 광통신 부품 기업 중심의 공급망 재편"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107606",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "TC본더 독점 장비",
-          "reason": "글로벌 HBM 열압착 패키징 장비 시장 독점 지배력",
-          "changeRate": "-1.63%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "이수페타시스",
-          "code": "007660",
-          "role": "초고다층 PCB 기판",
-          "reason": "글로벌 빅테크 AI 가속기용 초고다층 회로기판(MLB) 공급",
-          "changeRate": "-0.20%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "오이솔루션",
-          "code": "138080",
-          "role": "광트랜시버 부품",
-          "reason": "데이터센터용 초고속 광트랜시버 및 레이저 다이오드 개발",
-          "changeRate": "-0.88%",
-          "isUp": false
-        },
-        {
-          "rank": 4,
-          "name": "네오셈",
-          "code": "253590",
-          "role": "차세대 CXL 검사장비",
-          "reason": "차세대 메모리 규격 CXL 및 고속 검사장비 선점",
-          "changeRate": "+3.73%",
-          "isUp": true
-        },
-        {
-          "rank": 5,
-          "name": "디아이티",
-          "code": "252110",
-          "role": "레이저 어닐링 장비",
-          "reason": "첨단 반도체 수율 향상용 레이저 공정 장비 납품",
-          "changeRate": "0.00%",
-          "isUp": true
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 90,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Kioxia Holdings, 박스권 횡보 중 돌파 신호 대기: 매시간 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Kioxia Holdings, 박스권 횡보 중 돌파 신...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107607",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 91,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "중동 공급 리스크 지속 속 유가 상승세 유지",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 중동 공급 리스크 지속 속 유가 상승세 유지...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2112522",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 92,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "리포신 이사 존 히구치, 회사 주식 27,131달러 매수",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: 리포신 이사 존 히구치, 회사 주식 27,131달러 매...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:03",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2112518",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 93,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: May Mobility's SPAC Merger: Is...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Yahoo Finance · 2026-09-23T01:50",
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 94,
-      "theme": "차세대 반도체 광통신 및 첨단 패키징",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "newsHeadlineKo": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "newsSummaryKo": [
-        "차세대 초고속 데이터 전송(광통신/실리콘 포토닉스) 및 인터페이스 연구 개발",
-        "인공지능(AI) 가속기 병목 현상 해소를 위한 광학 패키징 기술 대두",
-        "국내 첨단 후공정 장비 및 광통신 부품 기업 중심의 공급망 재편"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Yahoo Finance · 2026-09-23T04:33",
       "newsLink": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "TC본더 독점 장비",
-          "reason": "글로벌 HBM 열압착 패키징 장비 시장 독점 지배력",
-          "changeRate": "-1.63%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "이수페타시스",
-          "code": "007660",
-          "role": "초고다층 PCB 기판",
-          "reason": "글로벌 빅테크 AI 가속기용 초고다층 회로기판(MLB) 공급",
-          "changeRate": "-0.20%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "오이솔루션",
-          "code": "138080",
-          "role": "광트랜시버 부품",
-          "reason": "데이터센터용 초고속 광트랜시버 및 레이저 다이오드 개발",
-          "changeRate": "-0.70%",
-          "isUp": false
-        },
-        {
-          "rank": 4,
-          "name": "네오셈",
-          "code": "253590",
-          "role": "차세대 CXL 검사장비",
-          "reason": "차세대 메모리 규격 CXL 및 고속 검사장비 선점",
-          "changeRate": "+4.03%",
-          "isUp": true
-        },
-        {
-          "rank": 5,
-          "name": "디아이티",
-          "code": "252110",
-          "role": "레이저 어닐링 장비",
-          "reason": "첨단 반도체 수율 향상용 레이저 공정 장비 납품",
-          "changeRate": "0.00%",
-          "isUp": true
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 95,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "SK Hynix, 이평선 사이 갇혀 방향성 대기: 매시간 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: SK Hynix, 이평선 사이 갇혀 방향성 대기: 매시...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107605",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 96,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "KOSPI 200, 피보나치·200MA 분수령 ₩362.64 시험: 매시 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: KOSPI 200, 피보나치·200MA 분수령 ₩362...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107609",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 97,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "SK Eternix, ₩48,250 지지선 붕괴 시 하락 가속 경고: 매시 업데이트",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: SK Eternix, ₩48,250 지지선 붕괴 시 하...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-01 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107608",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 98,
-      "theme": "글로벌 거시경제 및 금융 매크로",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Watch Minneapolis Fed President Neel Kashkari discuss the economy and monetary policy",
-      "newsHeadlineKo": "Watch Minneapolis Fed President Neel Kashkari discuss the economy and monetary policy",
-      "newsSummaryKo": [
-        "글로벌 주요국 통화정책 기조 변화 및 증시 구성 종목 간 디커플링 심화",
-        "국채 금리 및 재정 정책 변화에 따른 자산 시장 포트폴리오 재편",
-        "대외 교역 환경 변화 및 수급 변동성에 따른 주요 업종별 영향 점검"
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "CNBC Markets · Wed, 30 Sep 2026",
       "newsLink": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "KB금융",
-          "code": "105560",
-          "role": "종합금융그룹",
-          "reason": "안정적 대출 및 채권 포트폴리오를 보유한 대표 금융지주",
-          "changeRate": "+0.47%",
-          "isUp": true
-        },
-        {
-          "rank": 2,
-          "name": "삼성전자",
-          "code": "005930",
-          "role": "글로벌 IT 대장",
-          "reason": "지수 변동성 구간 내 기관·외인 수급 중심 역할",
-          "changeRate": "-2.88%",
-          "isUp": false
-        },
-        {
-          "rank": 3,
-          "name": "키움증권",
-          "code": "039490",
-          "role": "브로커리지",
-          "reason": "자산시장 거래대금 증가에 따른 수수료 수혜",
-          "changeRate": "-1.08%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 99,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Westinghouse Air Brake (WAB) S...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Yahoo Finance · 2026-09-23T01:43",
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     },
     {
       "id": 100,
-      "theme": "글로벌 마켓 및 산업 공급망 동향",
+      "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
-      "newsHeadlineKo": "글로벌 주요 경제 속보: Vista Gold (VGZ) Agrees to Sal...",
-      "newsSummaryKo": [
-        "글로벌 주요 경제 지표 및 기업 공시 내용이 새롭게 발표됨.",
-        "국제 금융 시장 및 관련 산업 밸류체인 내 단기 변동성 점검 필요.",
-        "국내외 동종 업계 공급망 및 주요 기업들의 대응 현황 모니터링."
-      ],
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
       "newsSource": "Yahoo Finance · 2026-09-23T01:42",
       "newsLink": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
-      "stocks": [
-        {
-          "rank": 1,
-          "name": "SK하이닉스",
-          "code": "000660",
-          "role": "메모리 대장주",
-          "reason": "글로벌 IT 및 반도체 공급망 핵심 기업",
-          "changeRate": "-1.41%",
-          "isUp": false
-        },
-        {
-          "rank": 2,
-          "name": "한미반도체",
-          "code": "042700",
-          "role": "후공정 장비",
-          "reason": "첨단 패키징 장비 독점 지배력 보유",
-          "changeRate": "-1.63%",
-          "isUp": false
-        }
-      ]
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
     }
   ]
 }
