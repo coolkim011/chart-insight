@@ -40,17 +40,19 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "미국 상업인쇄 기업 실적 분석",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "美 인쇄 기업 에니스(EBF), 매출 증가 속 순익 감소… 법적 비용에 가려진 실적 논란",
+      "newsSummaryKo": [
+        "미국의 비즈니스 폼 및 상업 인쇄 제품 제조사인 에니스(Ennis, EBF)가 매출 성장세를 기록했으나 순이익은 감소세를 나타냈다.",
+        "시장에서는 소송 및 법률 관련 비용 등 일회성 항목이 회사의 본질적인 사업 실적과 수익성을 가리고 있는지에 주목하고 있다.",
+        "에니스는 북미 내 비즈니스 폼, 라벨, 봉투 등을 공급하는 내수 중심 상업 인쇄 전문 기업이다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T01:52",
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 2,
