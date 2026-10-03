@@ -40,6 +40,82 @@
   "briefings": [
     {
       "id": 1,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Yahoo Finance · 2026-09-23T01:50",
+      "newsLink": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 2,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Yahoo Finance · 2026-09-23T04:33",
+      "newsLink": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
+    },
+    {
+      "id": 3,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "메타의 Muse, OpenAI의 Dots와 비교하면?",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-03 22:24",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115382",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 4,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "네슬레 인도 제품 샘플, 식품 당국서 불합격 판정",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-03 21:53",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115380",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 5,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "이라크 국영 유조선, 호르무즈 해협 통해 원유 운송 재개",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-03 20:39",
+      "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2115377",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
+    },
+    {
+      "id": 6,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "미국 중간선거가 주식시장에 미치는 영향 분석",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-03 20:33",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115376",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 7,
       "theme": "미국 연방준비은행 인사 발언 및 인플레이션·고용시장 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
@@ -55,7 +131,7 @@
       "status": "done"
     },
     {
-      "id": 2,
+      "id": 8,
       "theme": "철도 장비 및 물류 서비스 계약",
       "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -105,7 +181,7 @@
       "status": "done"
     },
     {
-      "id": 3,
+      "id": 9,
       "theme": "AI 인프라 투자 승수 효과",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI 투자가 이례적으로 큰 승수 효과를 창출하는 이유",
@@ -166,7 +242,7 @@
       "status": "done"
     },
     {
-      "id": 4,
+      "id": 10,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "이란 리알화, 20억 달러 시장 개입에도 사상 최저치 기록",
@@ -178,7 +254,7 @@
       "status": "skipped"
     },
     {
-      "id": 5,
+      "id": 11,
       "theme": "해외 금광 매각 및 광산 개발 자금 조달",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -194,7 +270,7 @@
       "status": "done"
     },
     {
-      "id": 6,
+      "id": 12,
       "theme": "글로벌 채권 금리 동향 및 거시경제",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "베센트 \"국채 금리 상승은 글로벌 추세, 우려할 필요 없어\"",
@@ -244,7 +320,7 @@
       "status": "done"
     },
     {
-      "id": 7,
+      "id": 13,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "터키, 증거금 거래 요건 완화 10월 30일까지 연장",
@@ -256,7 +332,7 @@
       "status": "skipped"
     },
     {
-      "id": 8,
+      "id": 14,
       "theme": "AI 칩 및 광통신/광소자 밸류체인",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -272,7 +348,7 @@
       "status": "done"
     },
     {
-      "id": 9,
+      "id": 15,
       "theme": "글로벌 타이어 및 농기계 부품 공급망 재편",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
@@ -288,7 +364,7 @@
       "status": "done"
     },
     {
-      "id": 10,
+      "id": 16,
       "theme": "미국 상업인쇄 기업 실적 분석",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -304,7 +380,7 @@
       "status": "done"
     },
     {
-      "id": 11,
+      "id": 17,
       "theme": "블록체인 예측 플랫폼 및 디지털자산 인프라",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
@@ -347,7 +423,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 18,
       "theme": "싱가포르 테마섹의 중동(사우디·UAE) 투자 거점 확대",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
@@ -399,7 +475,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 19,
       "theme": "글로벌 거시경제 및 디지털자산 시장",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -415,7 +491,7 @@
       "status": "done"
     },
     {
-      "id": 14,
+      "id": 20,
       "theme": "미국 모기지 금융사 내부자 지분 변동",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "페니맥 모기지 CAO 헨드리, 19,209달러 규모 주식 처분",
@@ -431,7 +507,7 @@
       "status": "done"
     },
     {
-      "id": 15,
+      "id": 21,
       "theme": "글로벌 금융 플랫폼의 주식 과대평가 분석 및 주가 변동",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로, 나무기술 42% 급락 전 과대평가 포착",
@@ -447,7 +523,7 @@
       "status": "done"
     },
     {
-      "id": 16,
+      "id": 22,
       "theme": "글로벌 증시 및 가치평가 분석",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로의 적정가치, 다임 커뮤니티 주식에서 62% 상승 포착",
@@ -463,7 +539,7 @@
       "status": "done"
     },
     {
-      "id": 17,
+      "id": 23,
       "theme": "글로벌 에너지 기업 적정 가치 분석",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "적정가치, Sable Offshore 주가 51% 하락 11개월 전 예측",
@@ -479,7 +555,7 @@
       "status": "done"
     },
     {
-      "id": 18,
+      "id": 24,
       "theme": "석유 소비 구조 및 공급망",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "주유소 너머: 우리는 실제로 얼마나 많은 석유를 소비하는가?",
@@ -495,7 +571,7 @@
       "status": "done"
     },
     {
-      "id": 19,
+      "id": 25,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
@@ -507,7 +583,7 @@
       "status": "skipped"
     },
     {
-      "id": 20,
+      "id": 26,
       "theme": "미국 원자력 발전 확대 및 전력 인프라 투자",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미국, Vistra에 42억 달러 대출로 원자력 발전 확대 지원",
@@ -579,7 +655,7 @@
       "status": "done"
     },
     {
-      "id": 21,
+      "id": 27,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "후티 긴장 고조 속 리야드 아람코 시설 인근서 연기·화재 목격",
@@ -591,7 +667,7 @@
       "status": "skipped"
     },
     {
-      "id": 22,
+      "id": 28,
       "theme": "르노의 프랑스 전기차 생산 대규모 투자",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "르노, 프랑스 전기차 생산에 100억 유로 이상 투자 계획",
@@ -663,7 +739,7 @@
       "status": "done"
     },
     {
-      "id": 23,
+      "id": 29,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "InvestingPro 적정가치 신호 후 HLB생명과학 96% 급등",
@@ -675,7 +751,7 @@
       "status": "skipped"
     },
     {
-      "id": 24,
+      "id": 30,
       "theme": "AI 에이전트와 금융 서비스",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "소비자 AI 에이전트, 금융 서비스에 어떤 의미인가?",
@@ -725,7 +801,7 @@
       "status": "done"
     },
     {
-      "id": 25,
+      "id": 31,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 중동 군사력 확대…이란에 압박 가중",
@@ -737,7 +813,7 @@
       "status": "skipped"
     },
     {
-      "id": 26,
+      "id": 32,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트럼프, 메디케어 가입자 2,000만 명에 $90 지급 발표",
@@ -749,7 +825,7 @@
       "status": "skipped"
     },
     {
-      "id": 27,
+      "id": 33,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "러시아 공습으로 키이우 드니프로강 북부 교량 피격",
@@ -761,7 +837,7 @@
       "status": "skipped"
     },
     {
-      "id": 28,
+      "id": 34,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "美증시 23시간 체제로…서학개미 ’주간거래’ 판 커진다",
@@ -773,7 +849,7 @@
       "status": "skipped"
     },
     {
-      "id": 29,
+      "id": 35,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CoreWeave CSO 브라이언 벤투로, 세금 납부 위해 575만 달러 상당 주식 매각",
@@ -785,7 +861,7 @@
       "status": "skipped"
     },
     {
-      "id": 30,
+      "id": 36,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 최고개발책임자, 주식 496만 달러 매도",
@@ -797,7 +873,7 @@
       "status": "skipped"
     },
     {
-      "id": 31,
+      "id": 37,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 COO 사친 제인, 자사주 350달러 매각",
@@ -809,7 +885,7 @@
       "status": "skipped"
     },
     {
-      "id": 32,
+      "id": 38,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CoreWeave CEO 마이클 인트레이터, 주식 689만 달러 매각",
@@ -821,7 +897,7 @@
       "status": "skipped"
     },
     {
-      "id": 33,
+      "id": 39,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 법무자문위원 맥비티, 438달러 상당의 주식 매도",
@@ -833,7 +909,7 @@
       "status": "skipped"
     },
     {
-      "id": 34,
+      "id": 40,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "McGrath RentCorp 이사 조셉 한나, 862,824달러 상당 주식 매각",
@@ -845,7 +921,7 @@
       "status": "skipped"
     },
     {
-      "id": 35,
+      "id": 41,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "망막변성퇴치재단, 오푸스 제네틱스 주식 275만 달러 매각",
@@ -857,7 +933,7 @@
       "status": "skipped"
     },
     {
-      "id": 36,
+      "id": 42,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Liquidity Services 부사장 John Daunt, 회사 주식 30,566달러 매각",
@@ -869,7 +945,7 @@
       "status": "skipped"
     },
     {
-      "id": 37,
+      "id": 43,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Xometry CTO 라가반 바이디아나탄, 192,725달러 상당 주식 매도",
@@ -881,7 +957,7 @@
       "status": "skipped"
     },
     {
-      "id": 38,
+      "id": 44,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Xometry CEO 산지브 사니, XMTR 주식 1,112주 114,851달러에 매각",
@@ -893,7 +969,7 @@
       "status": "skipped"
     },
     {
-      "id": 39,
+      "id": 45,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Crowdstrike CEO 조지 커츠, 자사주 530만 달러 매각",
@@ -905,7 +981,7 @@
       "status": "skipped"
     },
     {
-      "id": 40,
+      "id": 46,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "TransUnion 사장 토드 스키너, 62,290달러어치 주식 매도",
@@ -917,7 +993,7 @@
       "status": "skipped"
     },
     {
-      "id": 41,
+      "id": 47,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "트랜스유니온 부사장 압델사덱, 보통주 15,572달러 매도",
@@ -929,7 +1005,7 @@
       "status": "skipped"
     },
     {
-      "id": 42,
+      "id": 48,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "로블록스 이사 그레고리 바스주키, 71만4천 달러 이상 주식 매도",
@@ -941,7 +1017,7 @@
       "status": "skipped"
     },
     {
-      "id": 43,
+      "id": 49,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Cardlytics CEO 아밋 굽타, 보통주 46,749달러 매각",
@@ -953,7 +1029,7 @@
       "status": "skipped"
     },
     {
-      "id": 44,
+      "id": 50,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "포그혼 테라퓨틱스 주가, 오늘 왜 폭락하나?",
@@ -965,7 +1041,7 @@
       "status": "skipped"
     },
     {
-      "id": 45,
+      "id": 51,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Nscale, IPO 앞두고 메타 출신 저스틴 오소프스키를 COO로 영입",
@@ -977,7 +1053,7 @@
       "status": "skipped"
     },
     {
-      "id": 46,
+      "id": 52,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bayer, 오하이오 신규 생산 시설에 22억 달러 투자",
@@ -989,7 +1065,7 @@
       "status": "skipped"
     },
     {
-      "id": 47,
+      "id": 53,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Vistra, 핵발전소 업그레이드 위한 40억 달러 대출 보도에 주가 반등",
@@ -1001,7 +1077,7 @@
       "status": "skipped"
     },
     {
-      "id": 48,
+      "id": 54,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "피치, LKQ 전망 ’안정적’으로 하향…보험 청구 부진·자사주 매입 영향",
@@ -1013,7 +1089,7 @@
       "status": "skipped"
     },
     {
-      "id": 49,
+      "id": 55,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Forward Industries 주가, 오늘 급등하는 이유?",
@@ -1025,7 +1101,7 @@
       "status": "skipped"
     },
     {
-      "id": 50,
+      "id": 56,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Integra LifeSciences 주가, 오늘 왜 급락했을까?",
@@ -1037,7 +1113,7 @@
       "status": "skipped"
     },
     {
-      "id": 51,
+      "id": 57,
       "theme": "미국 트럼프 정부 AI·정보 정책 및 글로벌 공급망",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "트럼프, 정보국장 제이 클레이턴을 AI 총괄 책임자로 지명 예정",
@@ -1109,7 +1185,7 @@
       "status": "done"
     },
     {
-      "id": 52,
+      "id": 58,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "세레브라스 시스템즈 주식, 오늘 상승하는 이유는?",
@@ -1121,7 +1197,7 @@
       "status": "skipped"
     },
     {
-      "id": 53,
+      "id": 59,
       "theme": "신재생에너지 및 태양광 발전 실적 변동",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Foresight Solar 2026년 상반기 수익 안정적이었으나 생산량 감소",
@@ -1137,7 +1213,7 @@
       "status": "done"
     },
     {
-      "id": 54,
+      "id": 60,
       "theme": "미국 고용지표 부진에 따른 연준 금리 인상 전망 약화",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
@@ -1209,7 +1285,7 @@
       "status": "done"
     },
     {
-      "id": 55,
+      "id": 61,
       "theme": "월스트리트 내 AI 에이전트 도입 및 관련 기술 수요 급증",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
@@ -1270,7 +1346,7 @@
       "status": "done"
     },
     {
-      "id": 56,
+      "id": 62,
       "theme": "AI 기술 도입에 따른 금융권 직무 재정의 및 관련 역량 수요 급증",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
@@ -1320,7 +1396,7 @@
       "status": "done"
     },
     {
-      "id": 57,
+      "id": 63,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "RBC, 우라늄 에너지의 국내 공급망 구축 계획 주목… 주가 상승",
@@ -1332,7 +1408,7 @@
       "status": "skipped"
     },
     {
-      "id": 58,
+      "id": 64,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "TNL 미디어진 주가, 오늘 급등하는 이유는?",
@@ -1344,7 +1420,7 @@
       "status": "skipped"
     },
     {
-      "id": 59,
+      "id": 65,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
@@ -1356,7 +1432,7 @@
       "status": "skipped"
     },
     {
-      "id": 60,
+      "id": 66,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "캐피타 주가 급락, 오늘 무슨 일?",
@@ -1368,7 +1444,7 @@
       "status": "skipped"
     },
     {
-      "id": 61,
+      "id": 67,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "이탈리아, 2026년 성장 전망 상향 및 국방 계획 축소 예정 - 보도",
@@ -1380,7 +1456,7 @@
       "status": "skipped"
     },
     {
-      "id": 62,
+      "id": 68,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "시냅틱스 주식, 오늘 급등하는 이유?",
@@ -1392,7 +1468,7 @@
       "status": "skipped"
     },
     {
-      "id": 63,
+      "id": 69,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "온 세미컨덕터 주가, 오늘 급등하는 이유는?",
@@ -1404,7 +1480,7 @@
       "status": "skipped"
     },
     {
-      "id": 64,
+      "id": 70,
       "theme": "AI 데이터센터 고용량 저장장치 수요 확대 및 HDD 밸류체인",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "도시바, AI 데이터센터 수요에 HDD 생산 능력 2배 확대 계획",
@@ -1454,7 +1530,7 @@
       "status": "done"
     },
     {
-      "id": 65,
+      "id": 71,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "블랙스톤 모기지 트러스트 사장, BXMT 주식 20,091달러 매각",
@@ -1466,7 +1542,7 @@
       "status": "skipped"
     },
     {
-      "id": 66,
+      "id": 72,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "미국의 중동 군사력 증강 검토에 유가 상승세 유지",
@@ -1478,7 +1554,7 @@
       "status": "skipped"
     },
     {
-      "id": 67,
+      "id": 73,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Samsara CTO 존 비켓, 1천만 달러 이상 주식 매각",
@@ -1490,7 +1566,7 @@
       "status": "skipped"
     },
     {
-      "id": 68,
+      "id": 74,
       "theme": "AI 선정 반도체 주식 및 M&A 검증",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI가 선정한 반도체 주식, 82억 달러 인수로 검증…6월 이후 +20%",
@@ -1562,7 +1638,7 @@
       "status": "done"
     },
     {
-      "id": 69,
+      "id": 75,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코어위브 CEO 마이클 인트레이터, 2,670만 달러 규모 주식 매각",
@@ -1574,7 +1650,7 @@
       "status": "skipped"
     },
     {
-      "id": 70,
+      "id": 76,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "[인사] 예금보험공사",
@@ -1586,7 +1662,7 @@
       "status": "skipped"
     },
     {
-      "id": 71,
+      "id": 77,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "HPE 라미 라힘 EVP, 회사 주식 210만 달러 매도",
@@ -1598,7 +1674,7 @@
       "status": "skipped"
     },
     {
-      "id": 72,
+      "id": 78,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "오라클 이사 스티븐 러스코프스키, 348만 달러 상당 보통주 매입",
@@ -1610,7 +1686,7 @@
       "status": "skipped"
     },
     {
-      "id": 73,
+      "id": 79,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "애플 수석 부사장 제니퍼 뉴스테드, AAPL 주식 80만6,495달러어치 매도",
@@ -1622,7 +1698,7 @@
       "status": "skipped"
     },
     {
-      "id": 74,
+      "id": 80,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프레슈어런스 홀딩스 이사 스미스, 자사주 48,935달러 매입",
@@ -1634,7 +1710,7 @@
       "status": "skipped"
     },
     {
-      "id": 75,
+      "id": 81,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "갭 이사 윌리엄 피셔, 회사 주식 153만 달러 매각",
@@ -1646,7 +1722,7 @@
       "status": "skipped"
     },
     {
-      "id": 76,
+      "id": 82,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프리덤 브로커, 배셋 퍼니처 주식 등급 ’매수’로 상향 조정",
@@ -1658,7 +1734,7 @@
       "status": "skipped"
     },
     {
-      "id": 77,
+      "id": 83,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예상",
@@ -1670,7 +1746,7 @@
       "status": "skipped"
     },
     {
-      "id": 78,
+      "id": 84,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "파라마운트 스카이댄스 주식, 오늘 왜 하락하나?",
@@ -1682,7 +1758,7 @@
       "status": "skipped"
     },
     {
-      "id": 79,
+      "id": 85,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "마텔 주식, 오늘 급등한 이유?",
@@ -1694,7 +1770,7 @@
       "status": "skipped"
     },
     {
-      "id": 80,
+      "id": 86,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "루멘텀 주가, 오늘 급등한 이유는?",
@@ -1706,7 +1782,7 @@
       "status": "skipped"
     },
     {
-      "id": 81,
+      "id": 87,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Ag Growth International 주가, 오늘 하락하는 이유는?",
@@ -1718,7 +1794,7 @@
       "status": "skipped"
     },
     {
-      "id": 82,
+      "id": 88,
       "theme": "팔라듐 및 귀금속 시장 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "팔라듐 현물가, 미 국채금리·달러 강세 압박에 하락",
@@ -1746,7 +1822,7 @@
       "status": "done"
     },
     {
-      "id": 83,
+      "id": 89,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "올드 세컨드 뱅코프, 2026년 3분기 실적 발표 및 웹캐스트 일정 공개",
@@ -1758,7 +1834,7 @@
       "status": "skipped"
     },
     {
-      "id": 84,
+      "id": 90,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Infineon, AI 및 기술 컨퍼런스서 AI 성장으로 전망 상향",
@@ -1772,7 +1848,7 @@
       "rawSummary": ""
     },
     {
-      "id": 85,
+      "id": 91,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "웰스파고, BP 상향 조정…엑슨모빌은 밸류에이션 격차로 하향",
@@ -1784,7 +1860,7 @@
       "status": "skipped"
     },
     {
-      "id": 86,
+      "id": 92,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "에버포스 주가 오늘 급등한 이유?",
@@ -1796,7 +1872,7 @@
       "status": "skipped"
     },
     {
-      "id": 87,
+      "id": 93,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "UBS, 마이크론 테크놀로지 등급 재확인…공급 전망 및 자본 환원",
@@ -1808,7 +1884,7 @@
       "status": "skipped"
     },
     {
-      "id": 88,
+      "id": 94,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "애버딘 뮤니시펄 인컴 펀드 이사, 1,466달러 상당 주식 매입",
@@ -1820,7 +1896,7 @@
       "status": "skipped"
     },
     {
-      "id": 89,
+      "id": 95,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Globant 주식, 오늘 급등하는 이유?",
@@ -1832,7 +1908,7 @@
       "status": "skipped"
     },
     {
-      "id": 90,
+      "id": 96,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "아고맙 테라퓨틱스 주가, 오늘 하락세 보이는 이유",
@@ -1844,7 +1920,7 @@
       "status": "skipped"
     },
     {
-      "id": 91,
+      "id": 97,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "영국 주택 가격 상승세 9개월 만에 최저, 금리 인상 우려 수요 위축",
@@ -1858,7 +1934,7 @@
       "rawSummary": ""
     },
     {
-      "id": 92,
+      "id": 98,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "WTI 원유, $88.60~$92.00 핵심 구간서 방향성 탐색: 매시 업데이트",
@@ -1870,7 +1946,7 @@
       "status": "skipped"
     },
     {
-      "id": 93,
+      "id": 99,
       "theme": "분석 제외",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "천연가스, 더블톱 후 2.966 지지선 공방: 매시간 업데이트",
@@ -1882,7 +1958,7 @@
       "status": "skipped"
     },
     {
-      "id": 94,
+      "id": 100,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Copper, 200MA·피보나치 지지선 변곡점: 실시간 업데이트",
@@ -1894,82 +1970,6 @@
       "status": "pending",
       "attempts": 0,
       "rawSummary": ""
-    },
-    {
-      "id": 95,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "Gold, 하락 추세 속 단기 저항 재시험: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-01 07:08",
-      "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107803",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
-    },
-    {
-      "id": 96,
-      "theme": "분석 제외",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "LS Electric, ₩200,000 지지선 테스트 중: 매시 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-01 01:04",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107610",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 97,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "반도체/소부장",
-      "newsHeadlineOriginal": "삼성전자, 쌍봉·Bearish Marubozu로 하락 압박: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-01 01:04",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107606",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
-    },
-    {
-      "id": 98,
-      "theme": "분석 제외",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "Kioxia Holdings, 박스권 횡보 중 돌파 신호 대기: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-01 01:04",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2107607",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 99,
-      "theme": "분석 제외",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "중동 공급 리스크 지속 속 유가 상승세 유지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-01 01:04",
-      "newsLink": "https://kr.investing.com/news/commodities-news/article-2112522",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 100,
-      "theme": "분석 제외",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "리포신 이사 존 히구치, 회사 주식 27,131달러 매수",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-01 01:03",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2112518",
-      "stocks": [],
-      "status": "skipped"
     }
   ],
   "aiState": {
