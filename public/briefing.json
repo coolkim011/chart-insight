@@ -40,45 +40,130 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 연방준비은행 인사 발언 및 인플레이션·고용시장 동향",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "닐 카시카리 미니아폴리스 연은 총재 \"PCE 둔화에도 인플레이션 여전히 높아\"",
+      "newsSummaryKo": [
+        "닐 카시카리 미니아폴리스 연방준비은행 총재가 CNBC와의 단독 인터뷰에서 물가 상승률이 여전히 너무 높다고 밝혔다.",
+        "이번 발언은 예상보다 완화된 개인소비지출(PCE) 물가 지표가 발표된 이후에 나온 것이다.",
+        "카시카리 총재는 또한 현재 미국 노동시장이 여전히 '상당히 양호한(pretty good)' 상태를 유지하고 있다고 평가했다."
+      ],
       "newsSource": "CNBC Markets · Wed, 30 Sep 2026",
       "newsLink": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night."
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "철도 장비 및 물류 서비스 계약",
+      "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "웨스팅하우스 에어브레이크(WAB), 7억 달러 이상 규모 철도 서비스 계약 체결",
+      "newsSummaryKo": [
+        "웨스팅하우스 에어브레이크(WAB)가 7억 달러를 상회하는 대규모 철도 서비스 계약을 체결했다.",
+        "이번 계약은 글로벌 철도 인프라 및 물류 장비에 대한 지속적인 수요를 반영하고 있다.",
+        "해당 대규모 수주가 향후 기업의 수익성 개선으로 이어질 수 있을지에 시장의 관심이 집중되고 있다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T01:43",
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "대호에이엘",
+          "code": "069460",
+          "role": "철도 차량용 부품 공급",
+          "reason": "글로벌 철도 인프라 투자 및 장비 수요 확대 테마와 연동되어 국내 철도 관련주로 분류됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "현대위아",
+          "code": "011210",
+          "role": "기계 및 철도 부품 제조",
+          "reason": "글로벌 운송 및 기계 장비 섹터의 전반적인 수주 동향에 영향을 받는 국내 대형 기계 부품사임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.54%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "대아티아이",
+          "code": "045390",
+          "role": "철도 신호제어 시스템 공급",
+          "reason": "글로벌 철도 및 교통 인프라 투자 확대 기조에 따라 동조화 흐름을 보이는 국내 철도 신호 관련주임.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.64%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 투자 승수 효과",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI 투자가 이례적으로 큰 승수 효과를 창출하는 이유",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인공지능(AI) 투자가 이례적인 거대 승수 효과를 창출하는 배경",
+      "newsSummaryKo": [
+        "인공지능(AI) 관련 투자는 과거의 일반적인 IT 인프라 투자와 달리 전례 없는 규모의 경제적 승수 효과를 만들어내고 있습니다.",
+        "이러한 현상은 고성능 반도체, 데이터센터 전력 공급, 그리고 첨단 장비 및 소재에 이르는 광범위한 서플라이 체인 전반에 걸쳐 수요를 견인하고 있습니다.",
+        "결과적으로 AI 인프라 구축에 투입된 자본이 연쇄적인 산업 생산 유발 효과로 이어지며 글로벌 경제에서 그 파급력이 입증되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 20:21",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115373",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM(고대역폭 메모리) 공급",
+          "reason": "AI 연산에 필수적인 HBM 메모리를 전 세계 주요 AI 가속기 제조사에 공급하며 직접적인 수혜를 받고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 및 파운드리",
+          "reason": "AI 서버 및 데이터센터에 탑재되는 고성능 D램, 낸드플래시 및 첨단 패키징 솔루션을 제공합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 공급",
+          "reason": "AI 메모리 핵심 공정인 HBM 생산에 필수적인 TC 본딩 장비를 주요 고객사에 납품하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 장비 공급",
+          "reason": "AI 반도체 패키징 공정에 사용되는 레이저 커팅 및 가공 장비를 생산하여 서플라이 체인에 참여하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-5.67%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -1125,31 +1210,114 @@
     },
     {
       "id": 55,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "월스트리트 내 AI 에이전트 도입 및 관련 기술 수요 급증",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "'월스트리트에서 가장 뜨거운 기술': 금융권의 AI 에이전트 도입으로 관련 역량 수요 1,721% 폭증",
+      "newsSummaryKo": [
+        "최근 글로벌 금융 기관들이 업무 자동화와 효율성 제고를 위해 AI 에이전트를 적극적으로 도입하고 있다.",
+        "이에 따라 월스트리트에서는 특정 AI 기술 관련 직무 및 역량에 대한 수요가 1,721% 급증했다.",
+        "해당 기술은 금융권의 디지털 전환 속도를 높이며 핵심적인 경쟁력으로 부상하고 있다."
+      ],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "솔트룩스",
+          "code": "304100",
+          "role": "대화형 인공지능 및 LLM 기반 AI 에이전트 솔루션 공급",
+          "reason": "금융권 및 기업용 AI 에이전트 도입 확산 시 직접적인 솔루션 공급 확대가 기대되는 국내 AI 기업임",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.38%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "role": "인공지능 기반 텍스트·음성 분석 및 AI 에이전트 구축",
+          "reason": "금융 및 공공 부문의 AI 기반 업무 자동화 수요 증가에 따라 관련 기술 적용이 확대되는 기업임",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+1.02%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "셀바스AI",
+          "code": "108860",
+          "role": "인공지능 음성인식 및 자연어 처리 기술 공급",
+          "reason": "금융권의 AI 기반 고객 응대 및 업무 자동화 프로세스에 융합될 수 있는 자연어 처리 기술을 보유함",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.11%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "브레인즈컴퍼니",
+          "code": "099390",
+          "role": "IT 인프라 통합 관리 및 AI 기반 모니터링 소프트웨어 제공",
+          "reason": "금융 기관의 AI 에이전트 및 IT 시스템 도입에 따른 인프라 관리 수요와 연계될 수 있음",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.29%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 56,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "AI 기술 도입에 따른 금융권 직무 재정의 및 관련 역량 수요 급증",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "월스트리트 흔드는 AI… 새로운 핵심 직무 역량 수요 1,721% 폭증",
+      "newsSummaryKo": [
+        "인공지능(AI) 기술의 발전이 월스트리트의 전통적인 금융 업무 구조를 빠르게 재편하고 있다.",
+        "금융 시장 전반에서 AI 도입이 가속화됨에 따라 특정 신규 기술 역량에 대한 수요가 1,721% 급증했다.",
+        "본 기사는 금융 산업 내 AI 기술 융합과 그에 따른 노동 시장 및 직무 요구 변화의 흐름을 조명하고 있다."
+      ],
       "newsSource": "CNBC Markets · Fri, 02 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "솔트룩스",
+          "code": "304100",
+          "role": "대화형 인공지능 및 금융 AI 솔루션 공급",
+          "reason": "금융권을 포함한 산업 전반의 AI 전환 및 자연어 처리 기술 수요 증가와 연관된 국내 AI 솔루션 기업",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.38%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "role": "AI 기반 텍스트·데이터 분석 및 인공지능 소프트웨어 개발",
+          "reason": "금융 및 엔터프라이즈 환경에서의 AI 기반 데이터 분석 수요 확대 테마와 연결되는 상장사",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+1.02%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "셀바스AI",
+          "code": "108860",
+          "role": "인공지능 기반 음성 인식 및 소프트웨어 솔루션 제공",
+          "reason": "금융 및 공공 부문의 디지털 전환 및 AI 기술 도입 트렌드에 따라 동반 부각되는 AI 전문 기업",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.11%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 57,
@@ -1237,17 +1405,53 @@
     },
     {
       "id": 64,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "AI 데이터센터 고용량 저장장치 수요 확대 및 HDD 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "도시바, AI 데이터센터 수요에 HDD 생산 능력 2배 확대 계획",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "도시바, 폭증하는 AI 데이터센터 수요 대응 위해 HDD 생산 능력 2배 확대 추진",
+      "newsSummaryKo": [
+        "도시바가 인공지능(AI) 데이터센터의 대규모 데이터 저장 수요 급증에 대응하기 위해 하드디스크드라이브(HDD) 생산 능력을 두 배로 확대할 계획이다.",
+        "AI 학습 및 운영에 필요한 데이터 양이 폭발적으로 늘어나면서, 상대적으로 비용 효율적인 고용량 HDD의 중요성이 커지고 있다.",
+        "이번 생산 시설 확충을 통해 도시바는 급증하는 글로벌 스토리지 인프라 수요에 맞춰 공급량을 대폭 늘릴 방침이다."
+      ],
       "newsSource": "Investing.com · 2026-10-02 02:03",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2114201",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "스토리지(SSD/HDD) 및 메모리반도체 공급",
+          "reason": "AI 데이터센터의 대규모 저장장치(스토리지) 수요 증가 테마와 직접적으로 연동되는 국내 대표 메모리 및 스토리지 솔루션 보유 기업이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "데이터센터용 고성능 메모리 공급",
+          "reason": "AI 데이터센터 인프라 확충에 따른 서버용 고용량 메모리 및 데이터 저장 생태계 전반의 수요 변화와 연관되어 있다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "심텍",
+          "code": "222800",
+          "role": "메모리 및 패키지 기판 공급",
+          "reason": "데이터센터 서버 및 스토리지에 탑재되는 반도체 패키지 기판을 공급하며, 전방 스토리지 시장 확대의 간접적 수혜 테마에 속한다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+4.70%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 65,
@@ -1287,17 +1491,75 @@
     },
     {
       "id": 68,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 선정 반도체 주식 및 M&A 검증",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI가 선정한 반도체 주식, 82억 달러 인수로 검증…6월 이후 +20%",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인공지능이 선정한 반도체 관련 주식, 82억 달러 규모 인수합병으로 가치 입증… 6월 이후 20% 상승세 기록",
+      "newsSummaryKo": [
+        "인공지능(AI)이 선정한 반도체 종목들이 대규모 인수합병(M&A)을 통해 시장에서 그 가치를 입증받았습니다.",
+        "관련 기업의 82억 달러 규모 인수 건이 성사되면서 투자자들의 주목을 끌었습니다.",
+        "해당 반도체 관련 주가 지표는 지난 6월 이후 20% 이상의 상승 흐름을 나타냈습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-02 01:47",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2114200",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 메모리 반도체 및 AI용 HBM 공급",
+          "reason": "AI 반도체 수요 급증 및 글로벌 반도체 시장의 인수합병·투자 확대 기조에 직접적인 영향을 받는 국내 대표 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 및 파운드리·메모리 생산",
+          "reason": "글로벌 반도체 업황 및 AI 연관 밸류체인의 전반적인 투자 심리에 민감하게 연동되는 국내 최대 시가총액의 반도체 기업입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비(TC 본더) 제조",
+          "reason": "AI 반도체 핵심 부품인 HBM 생산에 필수적인 장비를 공급하며 글로벌 반도체 장비 수요 증가와 밀접한 연관이 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "ISC",
+          "code": "095340",
+          "role": "반도체 테스트 소켓 제조",
+          "reason": "고성능 AI 반도체 및 서버용 칩의 최종 성능 테스트에 사용되는 실리콘 러버 소켓을 공급하여 전방 산업과 연결됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-8.24%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 제조",
+          "reason": "반도체 패키징 공정에 사용되는 레이저커터 등을 공급하며 글로벌 반도체 장비 투자의 후방 효과를 공유합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-5.67%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 69,
@@ -1457,17 +1719,31 @@
     },
     {
       "id": 82,
-      "theme": "AI 분석 대기 중",
+      "theme": "팔라듐 및 귀금속 시장 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "팔라듐 현물가, 미 국채금리·달러 강세 압박에 하락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미 국채 금리 상승 및 달러화 강세 영향으로 팔라듐 현물 가격 하락",
+      "newsSummaryKo": [
+        "최근 글로벌 금융시장에서 미국 국채 금리가 상승세를 보였습니다.",
+        "동시에 미 달러화가 강세를 나타내며 귀금속 시장 전반에 하방 압력을 가했습니다.",
+        "이러한 거시경제적 요인의 복합적 영향으로 팔라듐 현물 가격이 하락세를 기록했습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-01 15:27",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2113734",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "role": "귀금속 유통 및 IT 인프라",
+          "reason": "금, 은 등 귀금속 실물 거래 및 관련 비즈니스를 영위하여 원자재 가격 변동에 따른 시장 환경의 영향을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.68%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 83,
