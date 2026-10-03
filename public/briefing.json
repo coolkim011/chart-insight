@@ -52,17 +52,64 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "SK하이닉스의 인텔 오하이오 부지 검토와 글로벌 메모리 반도체 공급망 재편",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "SK하이닉스, 인텔 오하이오 공장 부지 주시… 마이크론이 주목해야 할 이유",
+      "newsSummaryKo": [
+        "SK하이닉스가 인텔의 미국 오하이오주 반도체 생산 부지 인수를 검토하고 있는 것으로 전해졌다.",
+        "이러한 움직임은 미국 내 생산 거점을 확보하려는 글로벌 메모리 반도체 기업들의 전략적 행보와 맞닿아 있다.",
+        "시장에서는 SK하이닉스의 미주 투자 확대가 경쟁사인 마이크론의 현지 시장 전략과 점유율에 미칠 영향에 주목하고 있다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T04:33",
       "newsLink": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 메모리 반도체 생산 및 미국 투자 검토 당사자",
+          "reason": "인텔의 오하이오 부지 인수 검토 주체로서 미주 지역 생산 거점 다변화 및 HBM 등 첨단 공정 확장 가능성과 직접적으로 연관됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM용 TC 본더 공급",
+          "reason": "SK하이닉스의 글로벌 생산 능력 확대 및 투자 증가에 따른 장비 공급 연계성이 높음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 증착 장비 공급",
+          "reason": "SK하이닉스의 팹(Fab) 신증설 및 투자 확대 시 수혜를 받을 수 있는 주요 공정 장비 협력사임.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "DB하이텍",
+          "code": "000990",
+          "role": "파운드리 및 반도체 위탁 생산",
+          "reason": "국내 메모리 및 시스템 반도체 생태계 전반의 투자 심리 및 업황 흐름을 공유하는 대표적인 상장사임.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-98.98%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -90,17 +137,75 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "중동 지정학적 리스크 및 에너지 공급망",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "이라크 국영 유조선, 호르무즈 해협 통해 원유 운송 재개",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "이라크 국영 유조선사, 호르무즈 해협 경유 원유 수송 재개",
+      "newsSummaryKo": [
+        "이라크 국영 유조선사가 호르무즈 해협을 통한 원유 운송을 다시 시작했다고 밝혔다.",
+        "이번 운송 재개는 걸프 지역의 주요 해상 초입인 호르무즈 해협에서의 물류 차질 우려를 완화하는 요인으로 작용한다.",
+        "글로벌 원유 수송의 핵심 통로인 해당 해협의 안정성 회복 여부는 국제 에너지 시장에 직접적인 영향을 미친다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 20:39",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2115377",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "한국석유",
+          "code": "004090",
+          "role": "석유류 제품 유통 및 비상 에너지 관련주",
+          "reason": "중동 지정학적 리스크 및 호르무즈 해협 상황에 따라 국제 유가 변동성이 확대될 때 국내에서 관련 테마로 즉각 반응하는 종목이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.15%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "흥구석유",
+          "code": "024060",
+          "role": "석유류 도소매 및 에너지 유통",
+          "reason": "중동 지역의 원유 수송 및 공급망 뉴스에 따른 국제 유가 및 국내 석유 가격 변동 우려 시 연동되어 주가 변동성이 커지는 특성이 있다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+2.25%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "HD현대중공업",
+          "code": "329180",
+          "role": "유조선 및 상선 건조",
+          "reason": "해운 물류 및 유조선 운항 재개는 장기적으로 글로벌 선박 발주 및 해상 운송 시장 환경에 간접적인 영향을 미친다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-2.78%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성중공업",
+          "code": "010140",
+          "role": "탱커선 및 해양 플랜트 건조",
+          "reason": "중동 원유 수송 해로의 안정성은 글로벌 에너지 해상 물동량 유지에 기여하여 조선업 전반의 업황과 연관된다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-4.70%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "HMM",
+          "code": "011200",
+          "role": "글로벌 해운 물류 서비스",
+          "reason": "중동 지역을 포함한 주요 해상 운송로의 안전과 물동량 흐름은 글로벌 해운사의 운임 및 노선 운영 환경에 간접적 영향을 미친다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-4.17%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
@@ -1835,17 +1940,75 @@
     },
     {
       "id": 90,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "인프라온 AI 실적 및 전망 상향",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Infineon, AI 및 기술 컨퍼런스서 AI 성장으로 전망 상향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인피니언, AI 성장세 힘입어 실적 전망 상향 조정",
+      "newsSummaryKo": [
+        "인피니언 테크놀로지스는 최근 열린 AI 및 기술 컨퍼런스에서 인공지능(AI) 부문의 가파른 성장을 실적 전망 상향의 주요 배경으로 제시했다.",
+        "이번 발표를 통해 글로벌 반도체 시장에서 AI 관련 인프라 및 전력 반도체 수요가 견조함을 입증했다.",
+        "인피니언의 긍정적인 가이던스 상향은 전방 산업의 수요 회복 기대감을 높이는 요인으로 작용하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-01 15:11",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2113729",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 및 파운드리",
+          "reason": "글로벌 AI 반도체 수요 증가 및 전방 시장 호조에 따른 메모리 반도체 실적 연동 효과가 기대됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM 및 메모리 반도체",
+          "reason": "AI 인프라 확장에 따른 고성능 메모리 수요 증가의 직접적인 수혜 테마로 묶임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비(TC 본더)",
+          "reason": "글로벌 AI 반도체 생태계 확장에 필수적인 고부가가치 후공정 장비를 공급함.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "ISC",
+          "code": "095340",
+          "role": "반도체 테스트 소켓",
+          "reason": "AI 및 고성능 반도체(HBP)용 테스트 소켓을 공급하며 글로벌 반도체 수요와 동행함.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-8.24%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "전공정 장비",
+          "reason": "반도체 전반의 투자 심리 개선 및 장비 수요 회복에 간접적으로 연동됨.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-3.69%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 91,
@@ -1921,17 +2084,19 @@
     },
     {
       "id": 97,
-      "theme": "AI 분석 대기 중",
+      "theme": "영국 주택 시장 둔화 및 금리 인상 우려",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "영국 주택 가격 상승세 9개월 만에 최저, 금리 인상 우려 수요 위축",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "영국 주택 가격 상승세 9개월래 최저…금리 인상 우려로 매수 수요 위축",
+      "newsSummaryKo": [
+        "영국의 주택 가격 상승세가 금리 인상 우려에 따른 수요 위축으로 인해 9개월 만에 최저 수준을 기록했다.",
+        "통화 긴축 기조가 장기화되면서 영국 부동산 시장의 매수 심리가 점차 위축되고 있는 것으로 나타났다.",
+        "이번 지표 둔화는 고금리 환경이 주거용 부동산 및 관련 소비 시장 전반에 미치는 영향을 보여준다."
+      ],
       "newsSource": "Investing.com · 2026-10-01 07:11",
       "newsLink": "https://kr.investing.com/news/economic-indicators/article-93CH-2112724",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 98,
@@ -1959,17 +2124,75 @@
     },
     {
       "id": 100,
-      "theme": "AI 분석 대기 중",
+      "theme": "구리(Copper) 가격 및 기술적 지지선",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Copper, 200MA·피보나치 지지선 변곡점: 실시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "구리 가격, 200일 이동평균선 및 피보나치 지지선 부근서 변곡점 형성",
+      "newsSummaryKo": [
+        "구리 가격이 주요 기술적 지표인 200일 이동평균선(200MA)과 피보나치 지지선 부근에서 움직이고 있습니다.",
+        "해당 가격 구간은 글로벌 원자재 시장에서 향후 추세 방향을 결정할 수 있는 중요 변곡점으로 작용합니다.",
+        "실시간 가격 변동에 따라 시장 참여자들은 추가 하락 여부와 반등 가능성을 주시하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-01 07:08",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2107806",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "이구산업",
+          "code": "025820",
+          "role": "비철금속(동제품) 제조 및 가공",
+          "reason": "구리를 주요 원재료로 사용하여 신동제품을 생산하므로 국제 구리 가격 변동이 실적과 원가에 직접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.19%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "풍산",
+          "code": "103140",
+          "role": "신동(동판·동대) 제품 제조",
+          "reason": "국내 최대의 신동제품 생산업체로, 런던금속거래소(LME)의 구리 가격 변동이 제품 판매 가격과 수익성에 직결됨.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.80%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "대창",
+          "code": "012800",
+          "role": "황동 단조품 및 봉대 제조",
+          "reason": "전기동을 원료로 황동 제품을 가공·판매하는 비철금속 제조업체로 구리 가격 등락에 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.07%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "서원",
+          "code": "021050",
+          "role": "신동아연 및 황동합금 제조",
+          "reason": "동합금 제품을 생산하는 비철금속 소재 기업으로 구리 국제 시세 변화에 따른 원가 변동성을 가짐.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.47%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "LS",
+          "code": "006260",
+          "role": "전선 및 비철금속 지주회사",
+          "reason": "자회사인 LS전선 등을 통해 구리를 대량으로 소비하는 전선 및 전력 기기 사업을 영위하여 원자재 가격 변동의 간접적 영향권에 있음.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.98%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     }
   ],
   "aiState": {
