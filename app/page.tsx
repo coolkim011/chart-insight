@@ -5,6 +5,7 @@ import React, { useState, useEffect } from "react";
 interface Stock {
   rank?: number;
   tier?: number;
+  verified?: boolean;
   name: string;
   code: string;
   role: string;
@@ -355,7 +356,12 @@ export default function Home() {
                                 <div className="flex items-center space-x-1.5 flex-wrap">
                                   <span className="text-sm font-extrabold text-white">{stock.name}</span>
                                   <span className="font-mono text-xs text-slate-400">{stock.code}</span>
-                                  
+                                  {stock.verified && (
+                                    <span title="종목코드와 종목명이 실제 상장 정보와 일치합니다" className="text-[10px] text-emerald-400">
+                                      ✓확인
+                                    </span>
+                                  )}
+
                                   {/* 실시간 등락률 배지 */}
                                   {stock.changeRate && (
                                     <span
@@ -376,11 +382,11 @@ export default function Home() {
                                     [차트 ↗]
                                   </button>
                                 </div>
-                                <div className="flex items-center space-x-1.5 mt-0.5">
+                                <div className="flex flex-wrap items-center gap-1.5 mt-0.5">
                                   <span className="rounded bg-slate-800 px-1.5 py-0.2 text-[10px] font-semibold text-slate-300">
                                     {stock.role}
                                   </span>
-                                  <span className="text-[11px] text-slate-300/90 truncate">{stock.reason}</span>
+                                  <span className="text-[11px] text-slate-300/90">{stock.reason}</span>
                                 </div>
                               </div>
                             </div>

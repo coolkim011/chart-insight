@@ -3,6 +3,7 @@ import sys
 import json
 import time
 import feedparser
+import urllib.error
 import urllib.parse
 import urllib.request
 import re
@@ -84,6 +85,76 @@ def fetch_single_stock_rate(code):
         except Exception:
             continue
     return {}
+
+
+def _norm_name(name):
+    return re.sub(r"\(주\)|㈜|\s", "", name or "").lower()
+
+
+def verify_stock(code, name):
+    """종목코드가 실제 상장 종목인지, AI가 쓴 종목명과 일치하는지 네이버 증권으로 확인한다.
+
+    반환: ("ok", 공식 종목명) / ("invalid", 사유) / ("unknown", None)
+    unknown은 조회 자체가 실패한 경우(네트워크 등)로, 이때는 AI 결과를 그대로 둔다.
+    """
+    url = f"https://m.stock.naver.com/api/stock/{code}/basic"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+    try:
+        with urllib.request.urlopen(req, timeout=5) as res:
+            info = json.loads(res.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        if e.code in (404, 409):
+            return "invalid", "존재하지 않는 종목코드"
+        return "unknown", None
+    except Exception:
+        return "unknown", None
+
+    official = info.get("stockName")
+    if not official:
+        return "invalid", "존재하지 않는 종목코드"
+    a, b = _norm_name(name), _norm_name(official)
+    if a and (a == b or a in b or b in a):
+        return "ok", official
+    return "invalid", f"종목명 불일치(AI: {name} / 실제: {official})"
+
+
+def verify_stocks(stocks):
+    """코드·종목명이 맞지 않는 종목은 버리고, 맞는 종목은 공식 종목명으로 바로잡는다."""
+    verified = []
+    for st in stocks:
+        status, detail = verify_stock(st["code"], st["name"])
+        if status == "invalid":
+            print(f"  [종목 제외: {st['code']} {detail}]")
+            continue
+        if status == "ok":
+            st["name"] = detail
+            st["verified"] = True
+        verified.append(st)
+    for idx, st in enumerate(verified):
+        st["rank"] = idx + 1
+    return verified
+
+
+def requeue_legacy_fallbacks(briefings):
+    """예전 기본 분석으로 저장된 기사(번역 없음·엉뚱한 종목)를 AI 분석 대기로 되돌린다."""
+    count = 0
+    for b in briefings:
+        if b.get("status"):
+            continue
+        ko, orig = b.get("newsHeadlineKo", ""), b.get("newsHeadlineOriginal", "")
+        if ko.startswith("글로벌 주요 경제 속보") or (orig and ko == orig):
+            b.update({
+                "theme": "AI 분석 대기 중",
+                "newsHeadlineKo": "",
+                "newsSummaryKo": [],
+                "stocks": [],
+                "status": "pending",
+                "attempts": 0,
+                "rawSummary": "",
+            })
+            count += 1
+    if count:
+        print(f"  예전 기본 분석 기사 {count}건을 재분석 대기로 전환")
 
 
 RSS_SOURCES = [
@@ -309,8 +380,10 @@ def analyze():
     data = load_briefing_file()
     briefings = data.get("briefings", [])
     client = make_client()
+    if client:
+        requeue_legacy_fallbacks(briefings)
 
-    pending = [b for b in briefings if b.get("status") == "pending"]
+    pending =[b for b in briefings if b.get("status") == "pending"]
     print(f"  분석 대기: {len(pending)}건 (이번 실행에서 최대 {MAX_AI_PER_RUN}건 처리)")
 
     if client:
@@ -326,7 +399,7 @@ def analyze():
                 item["categoryBadge"] = result.get("categoryBadge") or "글로벌 마켓"
                 item["newsHeadlineKo"] = result["newsHeadlineKo"]
                 item["newsSummaryKo"] = result.get("newsSummaryKo", [])
-                item["stocks"] = result["stocks"]
+                item["stocks"] = verify_stocks(result["stocks"])
                 item["status"] = "done"
                 item.pop("rawSummary", None)
                 item.pop("attempts", None)
