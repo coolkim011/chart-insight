@@ -40,31 +40,35 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 칩 및 광통신/광소자 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "주가 두 배 뛴 무명의 AI 칩 주식, 광(光)속 두 배 높인 신형 칩 공개",
+      "newsSummaryKo": [
+        "최근 주가가 두 배로 상승한 한 AI 칩 관련 기업이 광속을 기존 대비 두 배로 높인 새로운 칩을 공개했습니다.",
+        "해당 기업은 데이터 처리 속도와 효율성을 극대화하기 위한 광통신 기술 기반의 신제품을 선보였습니다.",
+        "이 신형 칩은 AI 연산 과정에서 발생하는 병목 현상을 해결하고 광학 데이터 전송 속도를 대폭 개선하는 데 초점을 맞추고 있습니다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T04:29",
       "newsLink": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 타이어 및 농기계 부품 공급망 재편",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "타이탄 인터내셔널, ITM 매각 계약 체결… 2억 8,500만 달러 중 신규 현금 유입 규모는?",
+      "newsSummaryKo": [
+        "타이탄 인터내셔널(TWI)이 ITM 사업부 매각 계약을 체결했습니다.",
+        "이번 매각의 전체 거래 규모는 2억 8,500만 달러에 달합니다.",
+        "시장에서는 이 거래를 통해 실제 확보되는 신규 현금성 자산의 규모에 주목하고 있습니다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T01:26",
       "newsLink": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
@@ -179,87 +183,99 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 거시경제 및 디지털자산 시장",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스트라이브 CEO, \"달러 부채 위기 심화로 비트코인 가격 무한대 상승 가능\"",
+      "newsSummaryKo": [
+        "스트라이브(Strive)의 최고경영자(CEO)가 달러 부채 위기의 심화를 언급하며 비트코인의 가치 상승 전망을 제기했다.",
+        "그는 미국의 부채 문제와 통화 시스템의 구조적 변화가 비트코인과 같은 대안적 자산에 대한 수요를 자극할 수 있다고 분석했다.",
+        "이번 발언은 거시경제 불확실성과 법정 화폐 가치 하락 우려에 따른 안전자산 및 디지털자산의 역할론을 강조하는 맥락에서 나왔다."
+      ],
       "newsSource": "Yahoo Finance · 2026-09-23T01:51",
       "newsLink": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "미국 모기지 금융사 내부자 지분 변동",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "페니맥 모기지 CAO 헨드리, 19,209달러 규모 주식 처분",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 페니맥 모기지 CAO 헨드리, 1만 9,209달러 규모 주식 처분",
+      "newsSummaryKo": [
+        "미국 주택담보대출 금융사인 페니맥 모기지(PennyMac Mortgage Investment Trust)의 회계책임자(CAO) 헨드리가 주식을 처분했다.",
+        "이번에 처분된 주식의 총 규모는 약 1만 9,209달러 수준이다.",
+        "해당 거래는 미국 증권거래위원회(SEC) 공시를 통해 확인된 내부자 거래 내역이다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 14:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2115358",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 금융 플랫폼의 주식 과대평가 분석 및 주가 변동",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로, 나무기술 42% 급락 전 과대평가 포착",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인베스팅프로, 나무기술 42% 급락 전 고평가 국면 포착",
+      "newsSummaryKo": [
+        "글로벌 금융 분석 플랫폼 인베스팅프로가 나무기술의 주가 급락 전 과대평가 상태를 사전에 감지했다.",
+        "해당 플랫폼의 분석 모델은 주식의 적정 가치를 산출하여 시장 왜곡 및 고평가 리스크를 식별한다.",
+        "이후 나무기술은 주가가 42% 급락하는 가격 조정을 겪었다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 11:46",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115348",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 9,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 증시 및 가치평가 분석",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로의 적정가치, 다임 커뮤니티 주식에서 62% 상승 포착",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인베스팅프로 분석 모델, 다임 커뮤니티 주식의 62% 상승 여력 포착",
+      "newsSummaryKo": [
+        "인베스팅프로의 적정가치 산출 모델에 따르면 다임 커뮤니티 주식의 상승 여력이 62%에 달하는 것으로 나타났다.",
+        "이번 분석은 정량적 가치평가 모델을 기반으로 해당 종목의 내재 가치와 시장 가격 간의 괴리를 포착한 것이다.",
+        "인베스팅프로 플랫폼은 금융 데이터와 알고리즘을 활용해 개별 종목의 적정 가치 평가 정보를 제공하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 11:11",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115347",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "금융/거시경제",
+      "theme": "글로벌 에너지 기업 적정 가치 분석",
+      "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "적정가치, Sable Offshore 주가 51% 하락 11개월 전 예측",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "세이블 오프쇼어, 11개월 전 예측된 적정 가치 대비 주가 51% 하락",
+      "newsSummaryKo": [
+        "세이블 오프쇼어(Sable Offshore)의 주가가 과거 예측된 적정 가치에 비해 51% 하락한 상태를 기록했다.",
+        "해당 주가 하락은 약 11개월 전에 이루어진 기업 가치 평가 분석 결과와 부합하는 흐름을 보여준다.",
+        "이번 사건은 에너지 및 자원 관련 기업들의 밸류에이션 산정과 시장 가격 간의 괴리에 대한 분석적 관심을 모으고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 11:03",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115346",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 11,
-      "theme": "AI 분석 대기 중",
+      "theme": "석유 소비 구조 및 공급망",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "주유소 너머: 우리는 실제로 얼마나 많은 석유를 소비하는가?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "주유소를 넘어선 원유: 실제 글로벌 석유 소비의 실태와 분석",
+      "newsSummaryKo": [
+        "본문 내용이 제공되지 않아 기사 기반의 구체적인 팩트 요약을 생성할 수 없습니다.",
+        "석유 소비와 관련된 글로벌 에너지 수급 구조를 다루는 내용으로 추정됩니다.",
+        "상세 기사 본문이 입력되지 않아 한국 주식시장 밸류체인 연계 종목을 특정할 수 없습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-03 10:51",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2115345",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 12,
@@ -1509,6 +1525,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1791071999.7322938,
+      "gemini-flash-latest": 1791071999.8376734
+    }
   }
 }
