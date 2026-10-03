@@ -71,6 +71,9 @@ def fetch_single_stock_rate(code):
             continue
     return {"changeRate": "0.00%", "isUp": True}
 
+CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+
 RSS_SOURCES = [
     {"name": "CNBC Markets", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
     {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex"},
@@ -180,16 +183,38 @@ def analyze_with_ai(headline, summary, client):
   ]
 }}
 """
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt
-        )
-        raw = response.text.strip()
-        if raw.startswith("```json"):
-            raw = raw[7:]
-        if raw.endswith("```"):
-            raw = raw[:-3]
-        return json.loads(raw.strip())
+        provider, api = client
+        if provider == "gemini":
+            for attempt in range(4):
+                try:
+                    raw = api.models.generate_content(
+                        model=GEMINI_MODEL,
+                        contents=prompt
+                    ).text.strip()
+                    break
+                except Exception as e:
+                    # 503(일시 과부하)/429(호출 한도)는 잠시 후 재시도
+                    if attempt < 3 and any(c in str(e) for c in ("503", "429")):
+                        wait = 5 * (attempt + 1)
+                        print(f"  [일시 오류, {wait}초 후 재시도 ({attempt + 1}/3)]")
+                        time.sleep(wait)
+                        continue
+                    raise
+        else:
+            response = api.messages.create(
+                model=CLAUDE_MODEL,
+                max_tokens=4096,
+                output_config={"effort": "low"},
+                messages=[{"role": "user", "content": prompt}]
+            )
+            if response.stop_reason == "refusal":
+                print("  [AI 응답 거절됨: 기본 분석으로 대체]")
+                return None
+            raw = "".join(b.text for b in response.content if b.type == "text").strip()
+        start, end = raw.find("{"), raw.rfind("}")
+        if start == -1 or end == -1:
+            raise ValueError("JSON 객체를 찾을 수 없음")
+        return json.loads(raw[start:end + 1])
     except Exception as e:
         print(f"  [AI 오류 발생: {e}]")
         return None
@@ -244,15 +269,25 @@ def run():
         except Exception as e:
             print(f"  기존 데이터 로드 예외: {e}")
 
-    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     client = None
-    if api_key:
+    anthropic_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    gemini_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if anthropic_key:
+        try:
+            import anthropic
+            client = ("claude", anthropic.Anthropic(api_key=anthropic_key))
+            print(f"  ✓ Claude AI 엔진 활성화 성공 ({CLAUDE_MODEL})")
+        except Exception as e:
+            print(f"  Claude 클라이언트 연결 실패: {e}")
+    if client is None and gemini_key:
         try:
             from google import genai
-            client = genai.Client(api_key=api_key)
-            print("  ✓ Gemini AI 엔진 활성화 성공")
+            client = ("gemini", genai.Client(api_key=gemini_key))
+            print(f"  ✓ Gemini AI 엔진 활성화 성공 ({GEMINI_MODEL})")
         except Exception as e:
             print(f"  Gemini 클라이언트 연결 실패: {e}")
+    if client is None:
+        print("  AI 키 없음: 기본 분석으로 진행")
 
     print("\n2. 멀티 뉴스 피드 수집...")
     new_articles = []
