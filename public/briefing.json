@@ -112,17 +112,75 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 AI 정책 및 리더십 전략",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "트럼프의 새 AI 총책, 미국의 AI 리스크 및 리더십 전략 제시",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "트럼프 행정부의 새로운 AI 수장이 제시한 미국의 AI 리스크 관리 및 리더십 강화 전략",
+      "newsSummaryKo": [
+        "도널드 트럼프 행정부의 새로운 AI 정책 책임자가 미국의 인공지능(AI) 리스크 관리 및 글로벌 리더십 유지를 위한 전략을 제시했습니다.",
+        "이번 발표는 국가 안보와 직결되는 AI 기술 패권 경쟁에서 우위를 점하기 위한 구체적인 규제 완화 및 기술 투자 방향을 담고 있습니다.",
+        "미국 정부의 AI 인프라 확충과 기술 표준 선점 기조가 향후 글로벌 반도체 및 IT 서플라이 체인에 미칠 영향이 주목됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 03:24",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2115399",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 공급",
+          "reason": "미국의 AI 인프라 투자가 확대될 경우 고대역폭메모리(HBM) 및 서버용 D램의 직접적인 수요 증가로 연결됩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI용 HBM 메모리 공급",
+          "reason": "미국 빅테크 기업들의 AI 데이터센터 투자 및 인프라 확충 정책에 따른 핵심 수혜 밸류체인에 속합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 공급",
+          "reason": "글로벌 AI 반도체 생산에 필수적인 후공정 장비를 공급하며 국내 메모리 반도체 밸류체인과 직결됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "ISC",
+          "code": "095340",
+          "role": "반도체 테스트 소켓 공급",
+          "reason": "고성능 AI 반도체 칩 테스트에 사용되는 실리콘 러버 소켓을 주요 고객사에 공급하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-8.24%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 공급",
+          "reason": "반도체 공정용 레이저 장비를 제조하며 전방 반도체 산업의 투자 확대에 따른 파생 수요가 발생합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-5.67%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
