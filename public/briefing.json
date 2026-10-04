@@ -40,17 +40,42 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "스페이스X 사명 변경 및 우주항공 공급망",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "머스크, SpaceX 사명을 ’SpaceXSI’로 변경 예정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "일론 머스크, 우주항공 기업 스페이스X 사명 'SpaceXSI'로 변경 추진",
+      "newsSummaryKo": [
+        "일론 머스크가 이끄는 우주탐사기업 스페이스X가 사명을 'SpaceXSI'로 변경할 예정입니다.",
+        "이번 사명 변경 계획은 향후 기업의 사업 확장이나 전략적 변화와 연관되어 있을 것으로 주목받고 있습니다.",
+        "구체적인 사명 변경 시기와 세부 배경에 대해서는 추가적인 공식 발표가 이어질 전망입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 17:43",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115442",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "AP위성",
+          "code": "211270",
+          "role": "위성통신 및 우주부품 공급",
+          "reason": "글로벌 우주항공 및 위성 산업의 성장과 스페이스X 관련 테마에 연동되어 국내 시장에서 함께 움직이는 경향이 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.48%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "role": "발사체 및 우주 체계 종합",
+          "reason": "국내 우주·항공 밸류체인의 대형 주로 글로벌 우주 탐사 및 발사체 시장의 전반적인 업황 변화에 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+3.68%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
