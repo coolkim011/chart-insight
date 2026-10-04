@@ -40,17 +40,64 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "인공지능(AI) 규제 및 거버넌스",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "전 Anthropic 연구원, 뉴욕시 의회 AI 청문회 증언 예정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "전 앤스로픽(Anthropic) 연구원, 뉴욕시 의회 AI 청문회 증언 예정",
+      "newsSummaryKo": [
+        "전직 앤스로픽 연구원이 뉴욕시 의회가 개최하는 인공지능(AI) 관련 청문회에 증인으로 참석할 예정이다.",
+        "이번 청문회는 급격히 발전하는 AI 기술의 안전성, 윤리적 문제 및 잠재적 위험에 대한 규제 방안을 논의하기 위해 마련됐다.",
+        "주요 AI 개발사 출신 전문가의 증언을 통해 정책 입안자들은 AI 산업에 대한 실효성 있는 감독 체계 수립을 모색할 것으로 전망된다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 20:38",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115450",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "솔트룩스",
+          "code": "304100",
+          "role": "대화형 인공지능 및 LLM 개발",
+          "reason": "글로벌 AI 규제 및 거버넌스 강화 움직임은 국내 AI 소프트웨어 및 언어모델 개발 기업들의 정책적 준수 기준에도 간접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.38%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "셀바스AI",
+          "code": "108860",
+          "role": "인공지능 솔루션 공급",
+          "reason": "AI 기술의 윤리적 기준과 안전성 논의가 확산됨에 따라 국내 AI 관련 기업들의 기술 신뢰성 검증 중요성이 대두되고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.11%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "role": "인공지능 기반 소프트웨어 개발",
+          "reason": "글로벌 AI 시장의 규제 환경 변화는 국내 AI 서비스 기업들의 비즈니스 전개 방향과 컴플라이언스 기준에 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+1.02%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "라온피플",
+          "code": "300120",
+          "role": "AI 머신비전 솔루션",
+          "reason": "글로벌 AI 산업에 대한 제도권의 감시와 규제 동향은 인공지능 관련 테마 전반의 투자 심리에 간접적으로 작용합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.31%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
