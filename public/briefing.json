@@ -40,17 +40,19 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 투자 열풍 및 글로벌 자본 조달",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "AI 딜 붐, 홍콩 자금 조달 역대 여름 최고치 기록 – 블룸버그",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AI 투자 열풍에 힘입어 홍콩 자금 조달 규모 역대 여름 시즌 최고치 경신",
+      "newsSummaryKo": [
+        "인공지능(AI) 관련 딜 붐에 힘입어 홍콩의 자금 조달 규모가 역대 여름 시즌 기준 최고치를 기록했습니다.",
+        "블룸버그 통신에 따르면 글로벌 AI 관련 투자 및 자본 유입이 홍콩 금융시장의 자금 조달 실적을 견인했습니다.",
+        "이번 기록은 AI 산업을 중심으로 한 글로벌 자본의 활발한 움직임과 투자 심리 회복을 반영하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 02:12",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115395",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 2,
