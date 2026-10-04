@@ -76,31 +76,103 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 확대에 따른 청정에너지 및 화석연료 전력원 공급",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "AI, 청정에너지 vs 화석연료…어느 쪽에 힘 싣나?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인공지능과 청정에너지, 그리고 화석연료: 전력 수요 급증에 따른 에너지원 선택의 기로",
+      "newsSummaryKo": [
+        "인공지능(AI) 산업의 급격한 성장은 데이터센터 구동을 위한 막대한 전력 수요를 발생시키고 있습니다.",
+        "이에 따라 전력 공급 안정을 위해 친환경 청정에너지와 전통적인 화석연료 사이에서 어떤 에너지원에 힘을 실어야 할지 논의가 이어지고 있습니다.",
+        "전력 그리드의 한계와 탄소중립 목표 사이에서 글로벌 에너지 수급 전략의 방향성에 대한 시장의 관심이 집중되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 11:47",
       "newsLink": "https://kr.investing.com/news/general-news/article-2115433",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "role": "복합화력발전 및 원전·가스터빈 제작",
+          "reason": "AI 데이터센터 전력 공급을 위한 화석연료 기반 가스터빈 및 무탄소 전력원 설비를 공급하는 국내 대표 발전 주기기 제조사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-3.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "효성중공업",
+          "code": "298040",
+          "role": "전력 변압기 및 송배전 기기 공급",
+          "reason": "늘어나는 발전량과 데이터센터 전력망 연결에 필수적인 초고압 변압기와 전력 그리드 장비를 제조합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.29%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "role": "전력기기 및 배전반 제조",
+          "reason": "글로벌 전력 인프라 투자 확대 기조 속에서 변압기와 배전반 등 전력 송배전 장비를 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.66%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "SK이터닉스",
+          "code": "475150",
+          "role": "신재생에너지 발전 사업",
+          "reason": "청정에너지 및 태양광·풍력 등 친환경 발전원 확대 테마와 구조적으로 연계되는 신재생에너지 전문 기업입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.24%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "바이오 주가 분석 및 적정가치 평가",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인베스팅프로 적정가치, 와이바이오로직스 38% 하락 미리 경고",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인베스팅프로 적정가치 모델, 와이바이오로직스 주가 38% 하락 사전 경고",
+      "newsSummaryKo": [
+        "인베스팅프로의 적정가치 분석 모델이 항체 신약 개발 기업 와이바이오로직스의 주가 하락 가능성을 사전에 경고했다.",
+        "해당 모델은 복합적인 재무 및 가치평가 지표를 바탕으로 특정 종목의 고평가 여부를 진단한다.",
+        "제시된 분석 결과는 기업의 내재 가치와 시장 가격 간의 괴리를 수치화하여 투자 참고 지표로 제공된다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 11:47",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2115432",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "와이바이오로직스",
+          "code": "338840",
+          "role": "항체 신약 개발 및 플랫폼 기술 이전",
+          "reason": "글로벌 재무 분석 플랫폼의 적정가치 평가 및 주가 하락 경고 대상이 된 당사 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "앱클론",
+          "code": "174900",
+          "role": "항체 치료제 및 CAR-T 세포 치료제 개발",
+          "reason": "항체 플랫폼 기술을 보유하고 있으며 국내 바이오 주가 변동성 및 시장 평가 트렌드에 함께 노출되는 종목입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+3.72%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
@@ -140,17 +212,64 @@
     },
     {
       "id": 9,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 에이전트의 온라인 여행 시장 재편 및 플랫폼 생태계 변화",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "AI 에이전트가 온라인 여행 시장을 재편한다…승자와 패자는?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "생성형 AI 에이전트, 온라인 여행 예약 생태계의 판도를 바꾸다",
+      "newsSummaryKo": [
+        "최근 AI 에이전트 기술의 발전으로 소비자는 개별 여행 플랫폼을 일일이 방문하지 않고도 맞춤형 여행 일정을 자동으로 설계하고 예약할 수 있게 되었습니다.",
+        "이러한 변화는 기존의 전통적인 온라인 여행사(OTA) 중심의 검색 및 예약 구조를 재편하며 시장 내 승자와 패자를 가르고 있습니다.",
+        "플랫폼들은 AI 기술을 도입해 사용자 경험을 고도화하고 체류 시간을 늘리기 위한 경쟁을 본격화하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-04 09:21",
       "newsLink": "https://kr.investing.com/news/general-news/article-2115424",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "하나투어",
+          "code": "039130",
+          "role": "종합 여행 상품 및 패키지 공급",
+          "reason": "온라인 여행 시장의 패러다임 변화에 맞춰 AI 및 디지털 채널 연계 서비스를 확대하며 플랫폼 경쟁에 대응하고 있음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.90%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "모두투어",
+          "code": "080160",
+          "role": "여행 서비스 및 예약 중개",
+          "reason": "AI 기반 여행 에이전트 확산에 따른 OTA 시장 재편 흐름과 연계되어 여행 상품 유통 구조의 변화를 겪고 있음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.81%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "NAVER",
+          "code": "035420",
+          "role": "검색 엔진 및 AI 솔루션 제공",
+          "reason": "자체 AI 기술과 검색 플랫폼을 활용해 여행 정보 탐색 및 예약 생태계로 사업 영역을 확장할 수 있는 잠재력을 보유함.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.52%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "카카오",
+          "code": "035720",
+          "role": "메신저 기반 플랫폼 및 커머스 서비스",
+          "reason": "메신저 생태계를 기반으로 한 AI 에이전트 서비스 연동 가능성이 있어 향후 여행 및 예약 서비스와의 간접적 연계가 기대됨.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.30%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 10,
