@@ -52,17 +52,86 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "코스피 200 지수 360선 이탈 및 대형주 변동성",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "KOSPI 200, 360 지지선 붕괴 후 추가 하락 경계: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "코스피 200, 360 지지선 붕괴 후 추가 하락 경계감 확산",
+      "newsSummaryKo": [
+        "코스피 200 지수가 주요 기술적 지지선으로 여겨지던 360포인트를 밑돌며 추가 하락 경계감이 커졌습니다.",
+        "시가총액 상위 대형주 전반에 매도 압력이 유입되면서 지수 하방 변동성이 확대되는 양상입니다.",
+        "주요 지지선 이탈에 따른 선물 및 옵션 등 파생상품 연계 프로그램 매물 출회 가능성이 경계되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 05:02",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2115479",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "코스피 200 시가총액 1위 대표주",
+          "reason": "코스피 200 지수 내 편입 비중이 가장 높아 지수 지지선 붕괴 시 즉각적인 외국인 및 기관 수급 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "코스피 200 시가총액 2위 대형 IT주",
+          "reason": "지수 내 비중이 크고 글로벌 반도체 업황 및 지수 선물 연계 프로그램 매매에 직접 노출되어 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "2차전지 대표 시가총액 상위주",
+          "reason": "코스피 200 지수 상위 종목으로서 지수 방향성에 따라 패시브 펀드 및 기관 자금 유출입의 직접적인 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "현대차",
+          "code": "005380",
+          "role": "자동차 대표 대형주",
+          "reason": "코스피 200 주요 구성 종목으로 지수 하락 국면에서 외국인 지분율 및 수급 변화가 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.77%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "키움증권",
+          "code": "039490",
+          "role": "증권 및 브로커리지 서비스",
+          "reason": "지수 변동성 확대 및 시장 조정 시 증시 거래대금 증감과 투자 심리 위축에 간접적인 영향을 받습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.08%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "대형 종합증권사",
+          "reason": "주요 지수 급변동에 따른 파생상품 운용 손익 및 증시 전반의 브로커리지 수익성에 연계됩니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -90,31 +159,180 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "반도체 전·후공정 장비",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "우리 AI 모델은 주간 14.83% 상승 전에 이 반도체 장비주에서 무엇을 포착했나?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AI 예측 모델이 포착한 반도체 장비주의 주간 급등 모멘텀",
+      "newsSummaryKo": [
+        "AI 기반 주식 예측 알고리즘이 주간 14.83% 급등세를 기록한 반도체 제조 장비 종목의 상승 징후를 사전에 포착한 사례가 보고되었습니다.",
+        "인공지능(AI) 인프라 투자 확대에 따라 글로벌 반도체 제조사들의 설비 투자가 재개되며 전·후공정 장비 기업들에 대한 시장의 관심이 집중되고 있습니다.",
+        "정량적 지표와 수급 데이터를 바탕으로 AI 모델이 반도체 장비 밸류체인의 펀더멘털 개선을 선제적으로 감지한 결과로 분석됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 04:39",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115496",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM용 듀얼 TC 본더 제조",
+          "reason": "AI 반도체 수요 폭증에 따른 고대역폭메모리(HBM) 필수 공정 장비의 핵심 공급사로 글로벌 장비주 랠리의 중심에 위치합니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "HPSP",
+          "code": "403870",
+          "role": "고압 수소 어닐링 장비 독점 공급",
+          "reason": "최선단 반도체 미세공정 트랜지스터 계면 특성 개선을 위한 고압 어닐링 장비를 독점 생산하며 높은 영업이익률을 유지하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-5.07%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "차세대 ALD(원자층증착) 장비 제조",
+          "reason": "차세대 메모리 및 파운드리 미세화 공정에 필수적인 ALD 증착 장비를 글로벌 반도체 제조사에 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "파크시스템스",
+          "code": "140860",
+          "role": "원자현미경(AFM) 계측 장비 제조",
+          "reason": "초미세 반도체 공정 전환 과정에서 나노 단위의 비파괴 3D 결함 측정이 가능한 산업용 원자현미경을 납품하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.50%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "테크윙",
+          "code": "089030",
+          "role": "반도체 테스트 핸들러 및 큐브 프로버 개발",
+          "reason": "메모리 및 비메모리 테스트 핸들러를 주력으로 공급하며 신규 HBM 검사장비 상용화를 추진하고 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-4.19%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 인프라 및 전력망 생태계",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "부드러운 고용 지표가 선물 시장 끌어올려…AI 인프라 종목 11.60% 급등",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "고용 지표 둔화에 미 선물 반등… 글로벌 AI 인프라 관련주 11%대 급등",
+      "newsSummaryKo": [
+        "미국 고용 지표가 완만한 둔화세를 나타내면서 긴축 우려 완화로 주요 지수 선물이 상승 흐름을 보였습니다.",
+        "데이터센터 확장 및 전력망 확충 기대감 속에 글로벌 AI 인프라 핵심 종목이 11.60% 급등했습니다.",
+        "매크로 환경 안정과 빅테크 기업들의 AI 하드웨어 설비투자 지속 기대가 기술주 중심의 반등을 견인했습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 04:29",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2115495",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "role": "AI 데이터센터용 초고압 변압기 및 전력기기 공급",
+          "reason": "북미 중심의 AI 데이터센터 전력 수요 급증에 따른 초고압 변압기 수주 잔고를 대거 확보하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.66%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 가속기용 초고대역폭메모리(HBM) 핵심 공급",
+          "reason": "AI 인프라 구축에 필수적인 HBM 시장에서 엔비디아 등 글로벌 빅테크에 주요 물량을 납품하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 서버 및 통신장비용 초고다층 PCB(MLB) 제조",
+          "reason": "글로벌 빅테크의 AI 서버 및 고성능 스위치 장비에 탑재되는 고다층 인쇄회로기판을 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "효성중공업",
+          "code": "298040",
+          "role": "초고압 변압기 및 차단기 등 전력 설비 제조",
+          "reason": "AI 인프라 확대로 인한 미국 및 유럽 내 전력망 증설 프로젝트에 전력기기를 수출하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.29%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 듀얼 TC 본더 장비 제작",
+          "reason": "AI 데이터센터용 반도체 패키징 공정에 필수적인 열압착 본딩 장비를 제조사에 독점적으로 공급해왔습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "산일전기",
+          "code": "062040",
+          "role": "데이터센터 및 신재생에너지용 특수변압기 제조",
+          "reason": "글로벌 빅테크 데이터센터 전력 공급 시스템에 적용되는 특수변압기 납품 이력을 보유하고 있습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+6.32%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "LS",
+          "code": "006260",
+          "role": "전력 케이블 및 배전 인프라 지주사",
+          "reason": "자회사 LS전선과 LS ELECTRIC을 통해 AI 데이터센터에 필요한 초고압 케이블 및 배전반 설비를 공급합니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-0.98%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "제룡전기",
+          "code": "033100",
+          "role": "송배전용 변압기 제조",
+          "reason": "미국 배전망 노후화 교체 및 AI 전력 인프라 확충 수요에 대응해 주상·지상 변압기를 북미로 수출합니다.",
+          "rank": 8,
+          "verified": true,
+          "changeRate": "+1.13%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
