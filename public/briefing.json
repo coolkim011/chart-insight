@@ -52,17 +52,19 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 인프라 및 소프트웨어 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "윌리엄 블레어, 레비티 ’시장수익률 상회’ 평가… AI 순풍 기대",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미 투자사 윌리엄 블레어, 레비티에 '시장수익률 상회' 평가… AI 수혜 기대",
+      "newsSummaryKo": [
+        "투자회사 윌리엄 블레어가 레비티에 대해 '시장수익률 상회' 평가를 내렸다.",
+        "이번 평가는 인공지능(AI) 확산에 따른 긍정적인 업황 순풍을 기대한 분석에 근거한다.",
+        "레비티는 관련 AI 시장의 성장에 힘입어 향후 사업 확장이 주목받고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 21:05",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2116734",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
