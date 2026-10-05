@@ -64,17 +64,19 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 금리 인상 및 리츠(REITs) 업황 하향 조정",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "컴패스 포인트, 프론트뷰 REIT 목표주가 금리 인상으로 하향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "컴패스 포인트, 금리 인상 여파로 프론트뷰 REIT 목표주가 하향 조정",
+      "newsSummaryKo": [
+        "투자회사 컴패스 포인트가 금리 인상을 이유로 프론트뷰 REIT의 목표주가를 하향 조정했습니다.",
+        "이번 조치는 최근의 거시경제적 금리 상승 기조가 부동산 투자신탁(REITs)의 밸류에이션에 미친 영향을 반영한 결과입니다.",
+        "프론트뷰 REIT를 비롯한 관련 부동산 자산들은 높은 조달 비용과 금리 환경 변화에 따른 압박을 받고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 12:47",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2116261",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 4,
@@ -102,45 +104,197 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AMD 서버 프로세서 수요 확대 및 글로벌 반도체 공급망",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "스티펠, 서버 사업 호조에 AMD 적정가치 700달러로 상향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "투자은행 스티펠, 서버 사업 호조 반영해 AMD 목표주가 700달러로 상향",
+      "newsSummaryKo": [
+        "투자은행 스티펠은 서버 사업의 지속적인 호조를 근거로 AMD의 적정 가치를 700달러로 상향 조정했다.",
+        "이번 목표가 상향은 글로벌 데이터센터 및 AI 서버 시장에서 AMD의 입지가 강화되고 있음을 반영한다.",
+        "AMD의 서버용 프로세서 판매 증가세가 향후 실적 성장을 견인할 주요 요인으로 분석됐다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 12:41",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2116245",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체(DRAM/NAND) 공급",
+          "reason": "글로벌 서버 시장의 확대로 인해 서버용 고성능 메모리 및 HBM 수요 증가가 AMD의 실적 호조와 연동되어 발생합니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "서버용 DRAM 및 HBM 공급",
+          "reason": "AMD를 포함한 글로벌 AI·서버 프로세서 생태계에 고대역폭 메모리(HBM) 및 서버용 반도체를 공급하는 핵심 위치에 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 공급",
+          "reason": "반도체 패키징 공정에 사용되는 레이저 장비를 생산하며, 서버용 고성능 칩 생산 증가의 간접적 수혜 테마로 엮입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-5.67%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 장비(TC 본더) 공급",
+          "reason": "AI 및 서버용 반도체 제조에 필수적인 HBM 생산 장비를 공급하여 글로벌 반도체 밸류체인과 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "PC 시장 둔화 및 전력반도체 수요 조정",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Stifel, PC 시장 약세로 Alpha & Omega Semiconductor 목표주가 하향 조정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스티펠, 글로벌 PC 시장 수요 둔화에 알파앤오메가 목표주가 하향",
+      "newsSummaryKo": [
+        "미국 투자은행 스티펠(Stifel)이 PC 및 IT 시장의 수요 약세를 이유로 전력반도체 기업 알파앤오메가 세미컨덕터(Alpha & Omega Semiconductor)의 목표주가를 하향 조정했습니다.",
+        "글로벌 PC 출하량 부진에 따라 전원 공급 및 배터리 관리에 쓰이는 파워 모스펫(Power MOSFET)과 전력관리반도체(PMIC)의 재고 조정 우려가 제기되었습니다.",
+        "PC 등 IT 전방 산업의 회복 지연이 관련 파운드리 가동률 및 후방 부품 서플라이 체인의 단기 실적 전망치 조정으로 이어지고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 12:41",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2116244",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "DB하이텍",
+          "code": "000990",
+          "role": "8인치 파운드리 및 전력반도체 생산",
+          "reason": "PC 및 전자기기용 전력반도체(PMIC, MOSFET) 위탁 생산 비중이 높아 IT 세트 수요 둔화 시 가동률 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-98.98%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "KEC",
+          "code": "092220",
+          "role": "파워 모스펫 등 전력반도체 소자 제조",
+          "reason": "알파앤오메가와 유사하게 가전 및 PC·IT 기기에 채택되는 전력용 이산소자(Discrete)를 양산·공급하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.08%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "티엘비",
+          "code": "356860",
+          "role": "PC·서버용 메모리 모듈 PCB 공급",
+          "reason": "PC용 DRAM 모듈 및 SSD용 PCB를 제조하여 글로벌 PC 출하량 증감에 매출이 직접적으로 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.31%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "LX세미콘",
+          "code": "108320",
+          "role": "디스플레이 구동칩(DDI) 및 PMIC 설계",
+          "reason": "노트북 및 모니터 패널용 DDI와 전력관리 칩을 공급하고 있어 PC 수요 둔화 시 부품 주문량에 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.35%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "네패스",
+          "code": "033640",
+          "role": "PMIC 등 비메모리 후공정 패키징",
+          "reason": "전력관리반도체(PMIC)의 WLP/FOWLP 패키징 및 테스트 서비스를 제공하여 전방 전력반도체 물동량에 연동됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.58%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "초저전력 MCU 및 엣지 AI",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "슈티펠, Ambiq Micro 목표주가 $85로 상향... 엣지 AI 잠재력 주목",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "슈티펠, 암빅 마이크로 목표주가 85달러로 상향… 엣지 AI 성장 잠재력 부각",
+      "newsSummaryKo": [
+        "글로벌 투자은행 슈티펠이 초저전력 반도체 전문 기업 암빅 마이크로(Ambiq Micro)의 목표주가를 85달러로 상향 조정했습니다.",
+        "슈티펠은 웨어러블 및 사물인터넷(IoT) 기기에서 고효율 연산을 지원하는 암빅 마이크로의 엣지 AI 기술 경쟁력에 주목했습니다.",
+        "저전력 온디바이스 연산 수요가 확대됨에 따라 초저전력 마이크로컨트롤러(MCU) 및 엣지 반도체 솔루션의 시장 지배력 강화가 기대됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-05 12:41",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2116243",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "role": "엣지 AI 반도체 IP 공급",
+          "reason": "엣지 디바이스 및 저전력 SoC 구현에 필수적인 저전력 NPU 및 메모리 서브시스템 IP를 글로벌 팹리스에 라이선싱하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.63%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "칩스앤미디어",
+          "code": "094360",
+          "role": "저전력 영상 NPU IP 개발",
+          "reason": "엣지 기기에서 영상 처리를 저전력으로 가속화하는 비디오 코덱 및 엣지 NPU IP를 개발하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.55%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "제주반도체",
+          "code": "080220",
+          "role": "초저전력 메모리(LPDDR) 설계",
+          "reason": "엣지 AI 및 IoT 기기에 탑재되는 초저전력 D램(LPDDR) 및 멀티칩패키지(MCP)를 주력으로 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+4.76%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "에이직랜드",
+          "code": "445090",
+          "role": "엣지 AI ASIC 디자인솔루션",
+          "reason": "엣지 AI 반도체 팹리스들의 주문형 반도체(ASIC)를 TSMC 공정을 통해 위탁 생산·개발하는 디자인하우스 역할을 수행합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.88%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
