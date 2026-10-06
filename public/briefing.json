@@ -40,31 +40,69 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 디젤 가격 강세 및 정유·화학 밸류체인",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "골드만삭스 \"정제설비 부족 심화로 2027년까지 디젤 고가격 유지될 것\"",
+      "newsSummaryKo": [
+        "골드만삭스는 정제설비의 만성적인 공급 부족으로 인해 디젤 가격이 2027년까지 높은 수준을 유지할 것으로 전망했다.",
+        "수요를 억제하고 재고를 다시 축적하기 위해서는 높은 수준의 정제마진이 지속되어야 한다고 분석했다.",
+        "글로벌 정유 업계의 타이트한 수급 구조가 당분간 해소되기 어려울 것으로 보인다."
+      ],
       "newsSource": "CNBC Markets · Tue, 06 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "S-Oil",
+          "code": "010950",
+          "role": "정제설비 운영 및 경유(디젤) 생산·판매",
+          "reason": "글로벌 디젤 가격 강세 및 정제마진 확조는 정유 부문의 핵심 수익성에 직접적인 영향을 미침",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK이노베이션",
+          "code": "096770",
+          "role": "석유정제 및 석유화학 제품 생산",
+          "reason": "정유 자회사(SK에너지)를 통해 디젤 등 석유제품 생산 및 글로벌 정제마진 변동에 직접 노출됨",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-3.36%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "흥구석유",
+          "code": "024060",
+          "role": "석유제품 국내 유통 및 판매",
+          "reason": "국제 석유 가격 및 정유 제품 시황 변동에 따라 시장 테마성 주가 변동성을 공유함",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.41%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 AI 전략 전환 및 마케팅 소프트웨어 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "RBC 캐피탈, AI 전략 전환에 허브스팟 ’시장수익률 상회’ 등급 재확인",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "RBC 캐피탈, AI 전략 전환 단행한 허브스팟에 대해 '시장수익률 상회' 투자등급 재확인",
+      "newsSummaryKo": [
+        "RBC 캐피탈은 인공지능(AI) 전략 전환을 추진 중인 허브스팟(HubSpot)에 대해 '시장수익률 상회' 등급을 다시 한번 확인했다.",
+        "이번 평가는 허브스팟이 최근 발표한 AI 중심의 비즈니스 모델 개편과 성장 잠재력을 긍정적으로 평가한 결과에 따른 것이다.",
+        "글로벌 투자 기관들은 기업용 소프트웨어(SaaS) 시장에서 AI 기술 도입 속도가 기업 가치 평가의 중요한 요인으로 작용하고 있음을 시사했다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 14:57",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2118066",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
@@ -80,31 +118,147 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 기반 사이버 보안 및 금융 리스크",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "JP모건 다이먼 CEO, AI로 사이버 위험 10배 증가 경고",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "JP모건 다이먼 CEO, '인공지능 도입으로 사이버 위험 10배 증가할 것' 경고",
+      "newsSummaryKo": [
+        "제이미 다이먼 JP모건 체이스 CEO는 인공지능 기술의 발전이 기업의 사이버 보안 위험을 과거보다 10배 이상 증가시킬 것이라고 경고했다.",
+        "그는 AI가 금융 범죄자들과 해커들의 공격 역량을 대폭 강화시키는 동시에 방어 체계에도 새로운 과제를 안겨주고 있다고 언급했다.",
+        "이에 따라 글로벌 금융기관들을 중심으로 고도화된 AI 기반 사이버 보안 솔루션 도입과 관련 투자가 더욱 시급해지고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 14:54",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2118064",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "안랩",
+          "code": "053800",
+          "role": "통합 보안 솔루션 및 사이버 위협 분석",
+          "reason": "AI 및 디지털 전환에 따른 고도화된 사이버 위협 증가로 통합 보안 솔루션 수요가 직접적으로 연관되는 국내 대표 보안 상장사임.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+15.58%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "시큐레터",
+          "code": "418250",
+          "role": "보안 소프트웨어 및 악성코드 진단",
+          "reason": "AI를 활용한 지능형 사이버 공격과 악성코드 차단 기술을 보유하고 있어 관련 보안 테마의 직접적인 영향권에 속함.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "지니언스",
+          "code": "263860",
+          "role": "네트워크 접근 제어 및 단말 보안",
+          "reason": "금융 및 기업 인프라 확대에 따른 제로 트러스트 보안 및 네트워크 접근 제어 솔루션을 공급하고 있음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+20.83%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "라온시큐어",
+          "code": "042510",
+          "role": "모바일 보안 및 인증 솔루션",
+          "reason": "금융권의 보안 강화 기조에 맞춰 생체 인증 및 모바일 보안 설루션을 제공하는 연관 기업임.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+29.98%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "파수AI",
+          "code": "150900",
+          "role": "데이터 보안 및 개인정보 보호",
+          "reason": "사이버 보안 위협 증대에 대응하여 문서 보안 및 데이터 중심의 정보 보호 솔루션을 제공함.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+15.60%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "빅테크 AI 인프라 투자 및 클라우드 성장",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "티그리스 파이낸셜, AI 성장세에 아마존 주가 목표 상향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "티그리스 파이낸셜, 인공지능 성장세 지속에 아마존 주가 목표가 상향",
+      "newsSummaryKo": [
+        "티그리스 파이낸셜 파트너스는 인공지능(AI) 부문의 지속적인 성장세를 근거로 아마존의 주가 목표가를 상향 조정했다.",
+        "이번 목표가 상향은 아마존웹서비스(AWS)를 포함한 클라우드 및 AI 인프라 사업의 확장성과 수익성 개선 기대를 반영한 것이다.",
+        "시장은 빅테크 기업들의 공격적인 AI 관련 데이터센터 및 서버 투자가 관련 글로벌 서플라이 체인에 미치는 파급효과에 주목하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 14:51",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2118058",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 서버용 고대역폭 메모리(HBM) 공급",
+          "reason": "글로벌 클라우드 서비스 제공업체(CSP)들의 AI 데이터센터 투자 확대에 따른 HBM 및 고성능 서버용 D램 수요 증가의 직접적인 수혜를 받는다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "서버용 메모리 및 파운드리 공급",
+          "reason": "아마존 등 빅테크의 AI 인프라 투자 확대에 발맞춰 서버용 메모리 반도체 및 AI 가속기 관련 공급망에서 중추적 역할을 담당한다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "고다층 인쇄회로기판(MLB) 공급",
+          "reason": "AI 가속기와 고성능 서버에 필수적으로 탑재되는 고다층 MLB를 글로벌 빅테크 및 네트워크 장비사에 공급하고 있다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 본딩 장비 공급",
+          "reason": "AI 서버 핵심 부품인 HBM 생산에 필수적인 TC 본더 장비를 국내외 메모리 반도체 제조사에 공급하며 밸류체인을 형성하고 있다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "리노공업",
+          "code": "058470",
+          "role": "반도체 테스트 소켓 공급",
+          "reason": "고성능 AI 반도체 및 서버용 칩 개발 과정에서 필수적인 테스트 소켓과 핀을 공급하여 간접적인 실적 연동 효과를 갖는다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+3.08%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
@@ -120,17 +274,53 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 인프라 및 클라우드 서비스 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "레이크 스트리트, AI 전환에 따라 럼블 주식에 ’매수’ 투자의견 제시",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 투자사 레이크 스트리트, AI 전환 수혜 전망에 럼블 '매수' 의견 제시",
+      "newsSummaryKo": [
+        "투자회사 레이크 스트리트가 인공지능(AI) 전환 가속화에 따라 비디오 플랫폼이자 클라우드 서비스 제공업체인 럼블에 대한 매수 투자의견을 제시했습니다.",
+        "이번 평가는 기업들의 AI 도입 확대가 클라우드 및 인프라 관련 기업들의 사업 기회로 이어질 것이라는 분석에 기반합니다.",
+        "럼블은 독립형 클라우드 인프라와 동영상 플랫폼 서비스를 중심으로 관련 시장 내 입지를 확대하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 14:45",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2118053",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KT",
+          "code": "030200",
+          "role": "클라우드 및 IDC(데이터센터) 인프라 제공",
+          "reason": "AI 전환에 따른 데이터센터(IDC) 및 클라우드 수요 증가로 인해 국내 AI 인프라 확충의 직접적인 영향을 받는 대표 통신·플랫폼 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.11%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK텔레콤",
+          "code": "017670",
+          "role": "AI 데이터센터 및 클라우드 솔루션 운영",
+          "reason": "AI 전환 트렌드에 발맞추어 AI 데이터센터(AIDC) 인프라 구축 및 클라우드 사업을 확장하고 있어 글로벌 AI 인프라 투자 동향과 밀접하게 연동됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "효성중공업",
+          "code": "298040",
+          "role": "데이터센터 전력 공급용 변압기 및 전력기기 제조",
+          "reason": "AI 전환과 클라우드 데이터센터 확충에 필수적인 전력 인프라 및 변압기를 공급하는 후방 산업군에 속합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.29%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
