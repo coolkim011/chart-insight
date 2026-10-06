@@ -76,17 +76,97 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "삼성전자 기술적 저항선 및 반도체 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자, 200SMA 돌파 실패 시 하락 반전 위험: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성전자, 200일 이동평균선(200SMA) 돌파 여부가 단기 방향성 가를 핵심 변수",
+      "newsSummaryKo": [
+        "삼성전자 주가가 주요 기술적 저항선인 200일 단순이동평균선(200SMA) 부근에서 분기점을 맞이하고 있습니다.",
+        "기술적 분석 기준 200일 이평선 안착에 실패할 경우 단기 매물 출회 및 하락 반전 가능성이 제기됩니다.",
+        "삼성전자의 주가 등락은 국내 반도체 소재·부품·장비 전반의 투자심리와 방향성에 직접적인 영향을 미칩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 01:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2116850",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 종합 반도체 제조 기업",
+          "reason": "기사에서 직접적으로 기술적 지표 및 주가 향방 분석의 대상이 된 핵심 종목입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 증착·식각 장비 제조",
+          "reason": "삼성전자의 주요 전공정 장비 공급사로, 삼성전자의 설비투자 및 주가 흐름에 직접적인 동조화를 보입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+1.45%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 노광공정용 포토레지스트 및 신너 공급",
+          "reason": "삼성전자 메모리 및 파운드리 라인에 주요 화학 소재를 대규모로 납품하는 1차 벤더입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.19%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "솔브레인",
+          "code": "357780",
+          "role": "반도체 공정용 고순도 불산 및 화학 소재 공급",
+          "reason": "삼성전자 반도체 식각·세정 공정에 핵심 케미컬을 공급하며 가동률에 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.67%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "하나마이크론",
+          "code": "067310",
+          "role": "반도체 후공정(OSAT) 패키징 및 테스트 외주",
+          "reason": "삼성전자의 메모리 및 비메모리 후공정 물량을 위탁 처리하는 주요 외주 파트너사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+5.24%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "티씨케이",
+          "code": "064760",
+          "role": "반도체 식각 공정용 SiC 포커스링 제조",
+          "reason": "삼성전자 식각 챔버에 사용되는 고순도 부품을 납품하여 공정 가동률 및 투자 심리에 영향을 받습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+0.17%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "피에스케이",
+          "code": "319660",
+          "role": "감광액 제거용 PR 스트립 장비 제조",
+          "reason": "삼성전자를 주요 고객사로 두고 있으며 전공정 장비 사이클에 따라 실적 연동성이 높습니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-1.71%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
@@ -102,17 +182,53 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "SK하이닉스 주가 흐름 및 방향성 탐색",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK Hynix, 핵심 구간서 방향성 탐색 중: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "SK하이닉스, 주요 가격 구간에서 향후 방향성 탐색 지속",
+      "newsSummaryKo": [
+        "본문 기사 내용이 제공되지 않아 구체적인 수치나 세부 사실은 명시되지 않았습니다.",
+        "다만 시장에서는 SK하이닉스의 주가가 기술적 핵심 구간에서 방향성을 모색하는 국면에 위치해 있는 것으로 전해집니다.",
+        "반도체 업황 및 메모리 반도체 가격 동향에 따라 향후 주가 추세가 결정될 것으로 전망됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 01:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2116848",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM 및 메모리 반도체 제조",
+          "reason": "기사의 직접적인 중심 기업으로 업황 및 주가 방향성에 직접적인 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM용 TC 본더 공급",
+          "reason": "SK하이닉스의 핵심 협력사이자 HBM 서플라이 체인의 핵심 장비 공급사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "ISC",
+          "code": "095340",
+          "role": "반도체 테스트 소켓 공급",
+          "reason": "SK하이닉스의 메모리 반도체 패키지 테스트 공정에 부품을 공급하는 후방 기업입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
@@ -2665,6 +2781,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1791331199.7903419,
+      "gemini-flash-latest": 1791331199.9006183
+    }
   }
 }
