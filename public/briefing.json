@@ -124,17 +124,19 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 투자 붐과 글로벌 채권 금리 상승",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "ECB 수석 이코노미스트, AI 투자 붐이 채권 금리 상승 요인",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "유럽중앙은행(ECB) 수석 이코노미스트 \"인공지능(AI) 투자 붐이 채권 금리 상승 요인\"",
+      "newsSummaryKo": [
+        "유럽중앙은행(ECB)의 수석 이코노미스트가 최근 급증하고 있는 인공지능(AI) 관련 투자가 채권 금리를 끌어올리는 주요 요인 중 하나로 작용하고 있다고 진단했습니다.",
+        "AI 인프라 확충을 위한 대규모 자본 지출이 글로벌 자금 수요를 자극하며 채권 시장의 수급과 금리에 영향을 미치고 있다는 분석입니다.",
+        "이러한 거시경제적 환경 변화는 전 세계 자본시장과 금리 동향에 지속적인 변수로 작용할 전망입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 08:01",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2117146",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 9,
@@ -150,17 +152,19 @@
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "호주 소비자 심리 하락 및 글로벌 거시경제 변동",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "호주 소비자 심리, 금리·유가 부담에 예상보다 큰 폭 하락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "고금리·고유가 여파에 호주 소비자 심리 지수 예상밖 하락세 기록",
+      "newsSummaryKo": [
+        "호주 지역의 소비자 심리가 기준 금리 인상과 유가 상승에 대한 부담으로 인해 예상치보다 큰 폭으로 하락했습니다.",
+        "이번 지수 하락은 가계의 재정적 압박이 가중되면서 소비 지출 여력이 위축되고 있음을 반영하고 있습니다.",
+        "글로벌 인플레이션 압력과 에너지 가격 변동성이 주요 경제국의 내수 지표에 지속적인 하방 압력으로 작용하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 02:04",
       "newsLink": "https://kr.investing.com/news/economic-indicators/article-2116880",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 11,
@@ -200,17 +204,19 @@
     },
     {
       "id": 14,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 바이오 기업 내부자 지분 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "어댑티브 바이오테크놀로지스 COO 줄리 루빈스타인, 주식 100만 달러 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "어댑티브 바이오테크놀로지스 COO 줄리 루빈스타인, 100만 달러 상당 주식 매도",
+      "newsSummaryKo": [
+        "미국 면역학 분야 기업 어댑티브 바이오테크놀로지스의 최고운영책임자(COO)인 줄리 루빈스타인이 보유 주식을 매도했다.",
+        "이번에 처분한 주식의 총 매도 대금은 약 100만 달러 규모에 달한다.",
+        "해당 거래는 미국 증권거래위원회(SEC) 공시를 통해 시장에 공개되었다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 01:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2116877",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 15,
@@ -238,17 +244,75 @@
     },
     {
       "id": 17,
-      "theme": "AI 분석 대기 중",
+      "theme": "미국 증시 고점 경신 및 통화정책 기대감",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "나스닥종합지수 사상 최고치 마감…연준 금리 인상 기대 약화",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "나스닥 지수 사상 최고가 마감… 연준 추가 금리 인상 전망 완화",
+      "newsSummaryKo": [
+        "나스닥 종합지수가 사상 최고치로 마감하며 강세장을 기록했다.",
+        "이번 지수 상승은 연방준비제도의 추가 금리 인상에 대한 시장의 기대가 약화된 데 기인한다.",
+        "글로벌 거시경제 지표 개선과 통화정책 완화 기대감이 위험자산 선호 심리를 자극했다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 01:33",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2116865",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 수요 민감 대형주",
+          "reason": "미국 나스닥 최고치 경신 및 글로벌 기술주 투자 심리 개선은 국내 대형 반도체주의 외국인 수급에 직접적인 영향을 미친다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 AI·메모리 반도체 리딩 기업",
+          "reason": "나스닥 중심의 기술주 랠리는 증시 전반의 위험자산 선호도를 높여 메모리 반도체 업황 기대감과 연동된다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 공급",
+          "reason": "글로벌 기술주 상승 및 나스닥 호조로 인한 투자 심리 개선은 국내 반도체 소부장 섹터의 밸류에이션에 우호적인 환경을 조성한다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 장비 공급",
+          "reason": "글로벌 IT 및 반도체 업황 회복 기대감이 국내 장비 공급사들의 전방 투자 심리에 간접적으로 반영된다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+2.26%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 전공정 장비 제조",
+          "reason": "거시경제 환경 개선과 금리 인상 우려 완화는 IT 하드웨어 및 장비 전반의 투자 확대로 이어질 수 있다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+17.51%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 18,
