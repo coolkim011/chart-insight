@@ -64,31 +64,91 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 반도체 및 AI 밸류체인 영향 분석",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "모건 스탠리, Nvidia를 반도체 업종 최선호주로 재선정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "모건스탠리, 엔비디아를 반도체 업종 최선호주로 재선정",
+      "newsSummaryKo": [
+        "모건스탠리가 엔비디아를 반도체 부문의 최선호주로 다시 선정했다.",
+        "이번 평가는 글로벌 AI 반도체 시장의 수요 지속성과 기업의 경쟁력을 반영한 결과이다.",
+        "해당 리포트는 반도체 업종 전반의 투자 심리와 글로벌 공급망 흐름에 영향을 미치고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 19:55",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118204",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM 공급",
+          "reason": "엔비디아의 AI 가속기에 핵심 메모리인 HBM을 독점적으로 공급하며 직접적인 실적 연동성을 가짐.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "TC 본더 공급",
+          "reason": "HBM 제조에 필수적인 TC 본더 장비를 SK하이닉스 등에 공급하여 엔비디아 밸류체인과 간접적으로 연동됨.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "ISC",
+          "code": "095340",
+          "role": "테스트 소켓 공급",
+          "reason": "AI 반도체 패키징 테스트에 사용되는 실리콘 러버 소켓을 글로벌 반도체 생태계에 공급함.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.24%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 및 파운드리",
+          "reason": "글로벌 메모리 반도체 선두 주자로서 AI 반도체 시장 확대에 따른 파급 효과를 공유하는 국내 반도체 대형주임.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 공급",
+          "reason": "반도체 제조 공정용 레이저 장비를 생산하며 전방 반도체 투자의 증감에 영향을 받음.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+2.26%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 및 디지털자산 채굴",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "KBW 가상 AI 서밋: Cipher Digital, 실행 능력이 핵심 시험대",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "KBW 가상 AI 서밋: 사이퍼 디지털, 인프라 실행 능력이 핵심 시험대",
+      "newsSummaryKo": [
+        "본 기사 본문은 제공되지 않아 세부 내용이 비어 있습니다.",
+        "제공된 정보가 없는 상태로 객관적 사실을 도출할 수 없습니다.",
+        "추가적인 기사 본문 입력 시 해당 내용을 바탕으로 요약이 가능합니다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 19:54",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2118199",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 5,
@@ -104,17 +164,42 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
+      "theme": "인공지능(AI) 모델 공공 및 방산 분야 적용 확대",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Anthropic, 정부 및 사이버 방어 파트너에 AI 모델 접근 확대",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "앤스로픽, 정부 및 사이버 방어 파트너 대상으로 AI 모델 접근성 확대",
+      "newsSummaryKo": [
+        "인공지능 기업 앤스로픽이 정부 기관 및 사이버 방어 파트너들을 대상으로 자사 AI 모델에 대한 접근을 확대한다고 밝혔다.",
+        "이번 조치는 공공 부문 및 보안 영역에서 첨단 인공지능 기술을 활용하여 사이버 위협 대응력을 높이기 위한 목적이다.",
+        "관련 파트너들은 앤스로픽의 AI 시스템을 활용해 국가 안보 및 공공 안전과 관련된 복잡한 데이터 분석 작업을 수행할 수 있게 된다."
+      ],
       "newsSource": "Investing.com · 2026-10-06 19:48",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118196",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "role": "클라우드 서비스 및 AI 인프라 연계",
+          "reason": "글로벌 AI 모델의 국내 공공 및 엔터프라이즈 도입 확산에 따른 클라우드 및 솔루션 연계 가능성이 부각되는 IT 서비스 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "role": "AI 기반 자연어 처리 및 분석",
+          "reason": "정부 및 공공 기관의 인공지능 기반 데이터 분석 및 자연어 처리 기술 수요 증가 테마와 연동되는 국내 AI 소프트웨어 상장사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+1.78%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
