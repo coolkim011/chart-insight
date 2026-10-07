@@ -40,31 +40,125 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "머스크 테라팹 및 글로벌 파운드리 경쟁",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "인텔, TSMC 협상에도 머스크의 테라팹 프로젝트 계속 참여",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인텔, TSMC 협상 속에서도 머스크 '테라팹' AI 칩 프로젝트 협력 지속",
+      "newsSummaryKo": [
+        "일론 머스크가 주도하는 초대형 AI 반도체 제조 거점 '테라팹(Terafab)' 프로젝트에 인텔이 지속적으로 참여하고 있는 것으로 확인되었습니다.",
+        "머스크 측이 대만 TSMC와 위탁 생산 및 협력을 논의하는 과정에서도 인텔은 첨단 패키징 및 파운드리 역량을 기반으로 프로젝트 내 입지를 유지하고 있습니다.",
+        "빅테크 중심의 자체 AI 가속기 칩 양산 추진과 파운드리 다변화 전략에 따라 글로벌 반도체 생산 인프라 및 후공정 공급망의 중요성이 부각되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 05:51",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118549",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 파운드리 및 AI 메모리 제조",
+          "reason": "테슬라 및 빅테크의 차세대 AI 칩 수주를 두고 인텔 및 TSMC와 파운드리·첨단 패키징 시장에서 직접 경쟁합니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "ISC",
+          "code": "095340",
+          "role": "AI 칩 및 패키징 테스트 소켓 공급",
+          "reason": "인텔을 비롯한 글로벌 주요 반도체 팹리스 및 파운드리를 대상으로 대면적 AI 칩용 실리콘 러버 테스트 소켓을 공급하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.46%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "리노공업",
+          "code": "058470",
+          "role": "반도체 테스트 핀 및 소켓 제조",
+          "reason": "글로벌 빅테크가 자체 개발하는 신규 AI 칩 R&D 및 양산 검증에 필요한 테스트 핀과 소켓을 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.69%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 마킹 및 그루빙 장비",
+          "reason": "첨단 파운드리 및 후공정 라인에서 웨이퍼 절단 및 패키징 레이저 가공 장비를 글로벌 칩 제조사에 공급하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-4.41%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "인도 중앙은행 기준금리 인상과 신흥국 익스포저",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "인도 증시, RBI 약 4년 만의 금리 인상 후 하락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인도 중앙은행(RBI), 약 4년 만에 기준금리 인상… 인도 증시 약세 마감",
+      "newsSummaryKo": [
+        "인도 중앙은행(RBI)이 인플레이션 대응을 목적으로 약 4년 만에 기준금리를 전격 인상했습니다.",
+        "통화 긴축 전환에 따라 차입 비용 증가 및 경기 둔화 우려가 확산되며 인도 주요 증시가 하락세를 나타냈습니다.",
+        "현지 금융시장 변동성 확대와 소비 심리 위축 가능성으로 인해 신흥국 시장 전반에 대한 경계감이 커지고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 05:45",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118547",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "현대차",
+          "code": "005380",
+          "role": "인도 완성차 점유율 상위 완성차 제조사",
+          "reason": "인도 현지에 대규모 생산 기지 및 법인을 두고 현지 판매 비중이 높아 인도 내 금리 인상에 따른 자동차 할부 수요 변화와 경기 변동에 직접적인 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.77%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "화신",
+          "code": "010690",
+          "role": "인도 현지 생산 체제를 갖춘 자동차 섀시 부품사",
+          "reason": "인도 첸나이 등에 현지 생산 법인을 운영하며 현대차 인도 공장에 섀시 및 보디 부품을 직접 공급하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.24%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "서연이화",
+          "code": "200880",
+          "role": "자동차 내장재 공급사",
+          "reason": "인도 현지 법인을 통해 완성차 제조사에 도어트림 등 내장 부품을 납품하고 있어 인도 자동차 생산·소비 지표에 밀접하게 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.17%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "현대모비스",
+          "code": "012330",
+          "role": "핵심 자동차 모듈 및 부품 공급사",
+          "reason": "현대차그룹의 인도 생산 기지에 핵심 모듈을 조달하는 후방 공급사로서 현지 완제품 수요 흐름에 간접적 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.22%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -77,7 +171,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118537",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -103,7 +197,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118536",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -141,7 +235,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118539",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
