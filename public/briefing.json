@@ -52,31 +52,169 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 국채 금리 급등 및 글로벌 금융시장 영향",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "[1008개장체크] 美 국채 금리 급등 및 장기 금리 20여년래 최고치 경신",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "[개장체크] 미국 국채 금리 급등, 장기물 금리 20여 년 만에 최고치 경신",
+      "newsSummaryKo": [
+        "미국 국채 금리가 급등하며 장기물 금리가 20여 년 만의 최고치를 경신했습니다.",
+        "글로벌 채권 시장의 변동성 확대가 국내외 금융시장 전반에 직접적인 영향을 미치고 있습니다.",
+        "안전자산 선호 및 금리 인상 장기화 우려로 인해 증시 내 위험자산 회피 심리가 고조되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 23:26",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2119909",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "시가총액 상위 대형주",
+          "reason": "글로벌 금리 급등 및 거시경제 변동성 확대 시 외국인 자금 이탈 우려로 직접적인 영향을 받는 국내 대표 대형주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 반도체 대장주",
+          "reason": "매크로 불확실성 및 금리 상승에 따른 밸류에이션 부담이 지수 전반과 함께 작용하는 주요 대형주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "대형 금융지주",
+          "reason": "시장금리 상승 및 거시경제 환경 변화에 따라 순이자마진(NIM) 및 조달 비용 등 업황 전반이 연동되는 은행 금융주입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 금융지주",
+          "reason": "미국 국채 금리 등 글로벌 금리 추이에 따른 국내 채권금리 변동의 영향을 받는 금융 섹터 대표 종목입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "종합 증권사",
+          "reason": "글로벌 금리 급등에 따른 증시 거래대금 감소 및 투자심리 위축 시 간접적으로 실적에 영향을 받는 증권주입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "삼성전자 3분기 실적 및 반도체 서플라이 체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자 3분기 영업이익 사상 최대…시장 기대치엔 소폭 미달",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성전자, 3분기 영업이익 사상 최대 기록…시장 기대치에는 소폭 미달",
+      "newsSummaryKo": [
+        "삼성전자는 3분기 연결 기준 사상 최대 규모의 분기 영업이익을 달성했다고 발표했습니다.",
+        "다만 이번 실적은 증권가와 시장이 사전에 기대했던 컨센서스에는 소폭 미달하는 수치를 기록했습니다.",
+        "구체적인 사업부별 실적과 세부 요인은 본문 발표를 통해 추가 공개될 예정입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 23:21",
       "newsLink": "https://kr.investing.com/news/earnings/article-2119916",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 및 완제품 제조사",
+          "reason": "3분기 사상 최대 영업이익 및 실적 발표의 직접적인 당사자입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 제조사",
+          "reason": "국내 메모리 반도체 대장주로서 삼성전자의 실적 발표에 따른 업황 분위기를 공유합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "삼성전자의 반도체 투자 및 생산 활동과 연동되어 장비를 공급하는 핵심 밸류체인 업체입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-7.22%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 증착 장비 공급",
+          "reason": "메모리 및 파운드리 실적 변동에 따른 팹 투자 계획과 직접적으로 연계되어 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-11.13%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 공정용 소재(포토레지스트 등) 공급",
+          "reason": "삼성전자의 반도체 가동률 및 생산량 증감에 따라 소재를 납품하는 주요 협력사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-2.49%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 장비 공급",
+          "reason": "반도체 후공정 장비를 공급하며 전방산업인 메모리 제조사의 투자 사이클에 간접적으로 영향을 받습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-4.78%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 제조",
+          "reason": "글로벌 메모리 반도체 생태계 전반의 업황 및 투자 분위기에 동조화되는 경향이 있습니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -116,17 +254,97 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "삼성전자 3분기 잠정실적 발표 및 주요 주요일정",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[1008주요일정] 삼성전자 3분기 잠정실적 발표 예정 등",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "[10월 8주 주요 일정] 삼성전자 3분기 잠정실적 발표 예정 등",
+      "newsSummaryKo": [
+        "본 주간에는 국내 반도체 대기업의 3분기 잠정실적 발표가 예정되어 있습니다.",
+        "해당 실적 발표는 국내 반도체 및 IT 섹터 전반의 업황을 가늠할 수 있는 주요 지표로 작용합니다.",
+        "시장 참여자들은 주요 기업들의 실적 발표와 함께 향후 가이던스 및 전방 수요 회복 여부에 주목하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 23:17",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2119910",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 제조 및 3분기 잠정실적 발표 주체",
+          "reason": "3분기 잠정실적 발표를 직접 앞두고 있어 본 일정의 중심이 되는 국내 대표 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 제조",
+          "reason": "국내 양대 메모리 반도체 기업으로서 삼성전자의 실적 발표 및 업황 분위기에 직접적인 동조화 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "삼성전자의 설비투자 및 가동률 변동에 따라 실적 연동성이 높은 대표적인 장비 협력사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-7.22%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 증착 장비 공급",
+          "reason": "전방 반도체 제조사의 투자 계획 및 실적 발표에 따른 수급 영향권에 속하는 소부장 기업입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-11.13%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 재료(포토레지스트 등) 공급",
+          "reason": "반도체 생산 공정에 필수적인 소재를 공급하며 전방 산업의 가동 상황과 밀접하게 연계되어 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-2.49%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 장비 공급",
+          "reason": "반도체 후공정 장비를 공급하며 1차, 2차 밸류체인 기업들의 실적 및 투자 사이클의 영향을 간접적으로 받습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-4.78%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비(TC 본더 등) 공급",
+          "reason": "반도체 서플라이 체인 전반의 투자 심리 및 업황 기대감 변화에 연동되어 파생적 영향을 받는 후방 장비사입니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
