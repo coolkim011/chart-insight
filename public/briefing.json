@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
     },
     {
@@ -99,7 +99,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2119321",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -137,7 +137,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2119325",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -285,7 +285,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118537",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -311,7 +311,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118536",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -349,7 +349,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118539",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
