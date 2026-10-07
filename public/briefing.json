@@ -40,17 +40,53 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미 연방준비제도(Fed) 통화정책 회의록 공개",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Fed officials see another hike coming, but no sign as to when, minutes show",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "연준 위원들 추가 금리 인상 시사…시기 예고는 없어",
+      "newsSummaryKo": [
+        "미 연방준비제도는 현지시간 수요일에 지난 9월 15일부터 16일까지 진행된 정책 회의의 의사록을 공개했다.",
+        "공개된 회의록에 따르면 연준 위원들은 향후 추가적인 금리 인상이 있을 것으로 예상했다.",
+        "다만 이번 회의록에서는 추가 금리 인상이 구체적으로 언제 이루어질지에 대한 시그널은 나타나지 않았다."
+      ],
       "newsSource": "CNBC Markets · Wed, 07 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT·반도체 수요 및 거시경제 변동성 노출 대형주",
+          "reason": "미 연준의 금리 정책 변화와 글로벌 유동성 환경은 외국인 수급 및 IT 세트 수요에 직접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 매크로 환경에 민감한 메모리 반도체 대표주",
+          "reason": "미국 통화정책에 따른 글로벌 경기 침체 우려나 환율 변동은 반도체 업황 전반의 밸류에이션에 영향을 줍니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "금리 정책 및 글로벌 금융시장 연동 대형 금융주",
+          "reason": "미 연준의 금리 인상 기조와 거시경제 지표 발표는 국내 시장금리 및 금융주 전반의 투자 심리에 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -90,17 +126,64 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "테슬라 주가 기술적 분석 및 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Tesla, $385 저항선 앞 중립 구간 진입: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "테슬라, 385달러 저항선 앞두고 중립 구간 진입",
+      "newsSummaryKo": [
+        "테슬라 주가가 주요 저항선인 385달러를 앞두고 중립 구간에 진입했다.",
+        "해당 가격대는 기술적 관점에서 단기 방향성을 가름하는 중요한 분기점으로 작용하고 있다.",
+        "시장에서는 향후 가격 움직임과 거래량 변화에 따른 추가적인 추세 형성을 주시하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 19:14",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2116473",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "배터리 셀 공급",
+          "reason": "테슬라의 전기차 생산량 변동 및 글로벌 주가 흐름에 직접적인 실적 연동성이 있는 주요 이차전지 공급사임.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "에코프로비엠",
+          "code": "247540",
+          "role": "양극재 공급",
+          "reason": "테슬라 공급망에 포함된 국내 배터리 셀 제조사에 양극재를 납품하여 전방 수요 변화에 간접적 영향을 받음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-3.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "엘앤에프",
+          "code": "066970",
+          "role": "하이니켈 양극재 공급",
+          "reason": "테슬라를 최종 전방 고객사로 두고 있는 국내 배터리 셀 업체를 통해 밸류체인이 연결되어 있음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-5.24%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "나노신소재",
+          "code": "121600",
+          "role": "탄소나노튜브(CNT) 도전재 공급",
+          "reason": "이차전지 소재 밸류체인 상에 위치하여 전방 완성차 시장의 업황 변화에 파생적 영향을 받음.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.19%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
@@ -237,17 +320,75 @@
     },
     {
       "id": 13,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 투자 및 시장 리스크",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "AI 붐은 버블 아니지만 리스크가 조정 촉발할 수 있어",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AI 열풍, 버블은 아니지만 잠재적 리스크에 따른 시장 조정 가능성 존재",
+      "newsSummaryKo": [
+        "현재의 인공지능(AI) 붐은 과거 닷컴 버블과 같은 실체 없는 거품과는 차이가 있다.",
+        "다만 급격한 투자와 밸류에이션 부담 등 특정 리스크 요인들이 향후 시장의 단기 조정을 촉발할 가능성은 남아 있다.",
+        "글로벌 증시 및 관련 기술주는 이러한 매크로 리스크와 AI 인프라 투자 수익성의 실현 여부에 주목하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 15:25",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2119585",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "HBM 및 AI 메모리 반도체 공급",
+          "reason": "글로벌 AI 인프라 투자 확대에 직접적인 영향을 받는 메모리 반도체 대표 기업임",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI용 HBM(고대역폭 메모리) 선도 공급",
+          "reason": "글로벌 AI 서버 수요 및 빅테크 투자 흐름에 가장 민감하게 반응하는 대장주임",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "TC 본더 장비 제조",
+          "reason": "AI 반도체 핵심 부품인 HBM 생산에 필수적인 장비를 SK하이닉스 등에 공급함",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 마커 및 반도체 장비 공급",
+          "reason": "AI 반도체 패키징 공정에 사용되는 레이저 장비를 생산하여 반도체 서플라이 체인에 포함됨",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-4.78%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 전공정 장비(ALD) 공급",
+          "reason": "AI 반도체 수요 증가에 따른 전방 산업의 반도체 투자 확대 시 간접적인 수혜가 기대됨",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-11.13%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 14,
@@ -836,17 +977,75 @@
     },
     {
       "id": 32,
-      "theme": "AI 분석 대기 중",
+      "theme": "조선업 수주 실적 및 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "韓조선, 9월 수주 ’껑충’…올해 누적 점유율 15% 차지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "한국 조선업, 9월 수주 실적 반등…연간 누적 글로벌 점유율 15% 기록",
+      "newsSummaryKo": [
+        "한국 조선업계가 9월 들어 수주 실적이 큰 폭으로 증가하는 흐름을 보였다.",
+        "이에 따라 올해 누적 기준 글로벌 조선 시장에서 15%의 점유율을 차지했다.",
+        "월별 수주 모멘텀 회복이 하반기 실적 개선 기대를 높이고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-07 05:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2118539",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 2,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성중공업",
+          "code": "010140",
+          "role": "대형 선박 및 LNG운반선 건조",
+          "reason": "글로벌 수주 확대로 조선 부문 일감을 확보하며 업황 개선의 직접적 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-4.70%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "role": "조선 지주사 및 중간지주 역할",
+          "reason": "계열 조선사들의 수주 실적이 연결 실적으로 반영되는 조선 부문의 핵심 지주회사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.69%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동성화인텍",
+          "code": "033500",
+          "role": "LNG 운반선용 보냉재 공급",
+          "reason": "국내 대형 조선사들에 친환경 선박 핵심 자재인 보냉재를 공급하여 수주 증가의 파급 효과를 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-2.91%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국카본",
+          "code": "017960",
+          "role": "LNG 선박용 보냉재 및 유리섬유 제조",
+          "reason": "조선사의 선박 건조량 확대에 따라 필수 자재인 보냉재 수요가 동반 증가하는 밸류체인 상에 위치합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.82%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "STX엔진",
+          "code": "077970",
+          "role": "선박용 디젤엔진 및 기자재 제조",
+          "reason": "선박 건조 밸류체인 후방에서 엔진 및 기자재를 공급하는 파생 연관 기업입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-2.12%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 33,
