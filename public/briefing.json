@@ -40,17 +40,86 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "S&P 500 사상 최고치 경신 및 글로벌 테크주 반등",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "S&P 500, 기술주 강세·유가 및 국채금리 안정에 힘입어 장중 사상 최고치 경신",
+      "newsSummaryKo": [
+        "S&P 500 지수가 기술주 중심의 강세에 힘입어 화요일 장중 사상 최고치를 다시 기록했습니다.",
+        "국제유가 안정과 미국 국채 금리 하락세가 수개월간 이어진 시장 충격을 극복하는 데 기여했습니다.",
+        "시장 불안 요인이 완화되면서 글로벌 위험자산 선호 심리가 재차 개선되는 흐름을 보였습니다."
+      ],
       "newsSource": "CNBC Markets · Tue, 06 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "국내 대표 글로벌 반도체 및 테크 대형주",
+          "reason": "미국 대형 기술주 랠리 및 글로벌 위험자산 선호 심리 개선에 가장 직접적으로 동조화되는 코스피 대장주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 및 메모리 반도체 핵심 공급사",
+          "reason": "미국 테크주 강세와 AI 인프라 투자 지속 기대감이 주가에 즉각적으로 반영되는 대표 메모리 반도체 기업입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM TC 본더 장비 제조",
+          "reason": "글로벌 테크 기업들의 AI 하드웨어 수요 확대 사이클에서 핵심 패키징 장비를 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "리노공업",
+          "code": "058470",
+          "role": "반도체 테스트 소켓 및 핀 생산",
+          "reason": "글로벌 빅테크 및 팹리스의 신규 칩 연구개발 및 양산 수요에 연동되는 테스트 부품 공급사입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.08%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 마커 및 커팅 장비 제조",
+          "reason": "테크 업황 회복에 따른 반도체 전·후공정 장비 투자 재개 시 간접 수혜를 받는 후방 장비사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+2.26%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "HPSP",
+          "code": "403870",
+          "role": "고압 수소 어닐링 장비 제조",
+          "reason": "선단 공정 중심의 반도체 가동률 회복 및 설비투자 기조와 연동되는 특수 장비 공급사입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+5.04%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
