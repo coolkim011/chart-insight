@@ -40,31 +40,125 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중국 부동산 시장 회복 전망",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "After a yearslong slump, China's real estate market may be set for a turnaround",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "수년간 침체 겪은 중국 부동산 시장, 내년 반등 가능성 제기",
+      "newsSummaryKo": [
+        "S&P 글로벌 레이팅스는 중국 대도시의 부동산 시장이 빠르면 내년에 회복될 수 있다고 전망했다.",
+        "이번 평가는 수년간 지속된 중국 부동산 시장의 침체기 이후 처음으로 나온 반등 가능성 제기다.",
+        "중국 주요 도시의 부동산 시장 회복 시점과 양상에 대한 글로벌 신용평가사의 분석이 주목받고 있다."
+      ],
       "newsSource": "CNBC Markets · Thu, 08 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&amp;P ratings agency said."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "role": "중국향 철강 수출 및 글로벌 철강 수요 영향",
+          "reason": "중국 부동산 및 건설 경기는 철강 등 기초소재 수요와 직결되어 있어 거시경제적 연동성을 가짐.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.09%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "현대제철",
+          "code": "004020",
+          "role": "철강재 공급 및 중국 시장 변동성 연계",
+          "reason": "중국 부동산 시장의 회복 여부에 따른 글로벌 철강 시황 및 건자재 수요 변화의 영향을 받음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.58%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG화학",
+          "code": "051910",
+          "role": "중국 법인을 통한 화학 소재 및 건자재 원료 공급",
+          "reason": "중국 건설 및 인프라 경기 회복 시 석유화학 제품 및 건축 자재 관련 수요가 간접적으로 영향을 받음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "롯데케미칼",
+          "code": "011170",
+          "role": "기초유화 및 플라스틱 소재 공급",
+          "reason": "중국 경기 부양 및 부동산 시황 개선은 범용 석유화학 제품의 수요 심리에 영향을 미침.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.60%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "HS효성첨단소재",
+          "code": "298050",
+          "role": "산업용 섬유 및 타이어코드 글로벌 공급",
+          "reason": "중국을 포함한 글로벌 거시경제 회복세는 전방 산업의 전반적인 수요 증감으로 이어질 수 있음.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "화웨이의 스마트폰 사업 재구축 및 모바일 부품 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Huawei doubles down on smartphones as EV sales slow",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "전기차 성장 둔화 속 스마트폰에 역량 집중하는 화웨이",
+      "newsSummaryKo": [
+        "중국 기술기업 화웨이가 미국 제재로 인해 컨슈머 사업부 매출이 반토막 난 이후 사업 재구축을 추진하고 있습니다.",
+        "화웨이는 전기차(EV) 판매가 둔화되는 흐름 속에서 스마트폰 사업 부문에 다시 역량을 집중하고 있습니다.",
+        "미국의 제재 조치가 과거 화웨이의 핵심 소비재 부문 수익성에 직접적인 타격을 준 것으로 확인되었습니다."
+      ],
       "newsSource": "CNBC Markets · Thu, 08 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue."
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "LG이노텍",
+          "code": "011070",
+          "role": "스마트폰용 카메라모듈 공급",
+          "reason": "글로벌 스마트폰 시장의 수요 변화 및 주요 스마트폰 제조사들의 판매량 변동에 따라 부품 공급 실적이 연동되는 후방 산업체입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성전기",
+          "code": "009150",
+          "role": "적층세라믹콘덴서(MLCC) 및 카메라모듈 공급",
+          "reason": "글로벌 스마트폰 출하량 증감 및 모바일 부품 공급망의 수요 변동에 직접적인 영향을 받는 부품 제조사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.27%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "비에이치",
+          "code": "090460",
+          "role": "FPCB(연성인쇄회로기판) 공급",
+          "reason": "모바일 기기에 탑재되는 회로기판을 생산하며, 전방 스마트폰 시장의 생산 재개 및 판매 확대 테마와 간접적으로 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-2.70%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -152,17 +246,75 @@
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 투자은행의 반도체 톱픽 선정",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "씨티, 3분기 실적 발표 앞두고 반도체 톱픽 5종목 선정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "씨티, 3분기 실적 발표를 앞두고 반도체 최선호주 5개 종목 선정",
+      "newsSummaryKo": [
+        "미국 투자은행 씨티(Citi)가 다가오는 3분기 실적 시즌을 대비하여 글로벌 반도체 섹터의 톱픽 5개 종목을 새롭게 선정했습니다.",
+        "이번 발표는 주요 반도체 기업들의 실적 발표를 앞두고 시장의 주목을 받는 종목들의 투자 매력도와 실적 전망을 조명하기 위해 이루어졌습니다.",
+        "씨티는 반도체 산업 내 수요 회복세와 기업별 펀더멘털을 고려해 엄선된 종목들을 투자 유망 주로 제시했습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 10:15",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2120446",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 및 파운드리",
+          "reason": "글로벌 반도체 업황 및 실적 발표의 핵심 지표가 되는 국내 대표 메모리 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체(HBM 등)",
+          "reason": "글로벌 AI 반도체 및 메모리 수요 변동에 직접적인 영향을 받는 국내 대표 반도체 대장주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "후공정 장비(TC 본더)",
+          "reason": "글로벌 메모리 반도체 기업들의 HBM 투자 확대와 직접적으로 연동되는 후공정 장비 공급사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비",
+          "reason": "반도체 생산 공정에 사용되는 레이저각인 및 커팅 장비를 국내외 주요 반도체 제조사에 공급합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.16%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "전공정 장비(CVD/ALD)",
+          "reason": "반도체 전공정 장비 제조사로 전방 반도체 기업의 설비투자 및 가동률 변화에 간접적인 영향을 받습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+8.08%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 11,
