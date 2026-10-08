@@ -52,17 +52,64 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 디젤 가격 강세 장기화 및 정유/화학 서플라이 체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "골드만삭스 \"정제설비 부족으로 디젤 가격 2027년까지 고점 유지 전망\"",
+      "newsSummaryKo": [
+        "골드만삭스는 정유 시설의 타이트한 수급 상황으로 인해 디젤 가격이 2027년까지 높은 수준을 유지할 것으로 분석했다.",
+        "수요를 억제하고 재고를 재구축하기 위해서는 당분간 높은 정제마진이 지속되어야 한다고 밝혔다.",
+        "글로벌 정유 업계의 설비 제약이 디젤 시장의 가격 상승 압력으로 작용하고 있다는 설명이다."
+      ],
       "newsSource": "CNBC Markets · Tue, 06 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK이노베이션",
+          "code": "096770",
+          "role": "정제마진 개선 수혜 정유사",
+          "reason": "글로벌 디젤 등 석유제품 가격 강세 및 정제마진 유지 전망은 정유 부문의 실적에 직접적인 영향을 미치는 요인이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-3.36%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "S-Oil",
+          "code": "010950",
+          "role": "정유 및 석유제품 수출 기업",
+          "reason": "글로벌 정유 설비 부족에 따른 디젤 가격 고공행진은 싱가포르 복합정제마진과 정유사 제품 스프레드에 영향을 준다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한화솔루션",
+          "code": "009830",
+          "role": "석유화학 기초유분 연계 업체",
+          "reason": "정유 시황 및 석유제품 수급 타이트 현상은 기초화학 제품의 가격 스프레드와 원가 구조에 간접적 연관이 있다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.72%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "효성화학",
+          "code": "298000",
+          "role": "화학 소재 생산",
+          "reason": "글로벌 에너지 및 정유 제품 가격 변동은 후방 화학 산업의 원재료 수급 및 가격 전가 흐름에 파생적인 영향을 미친다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-4.90%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -78,31 +125,91 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
+      "theme": "중동 지정학적 리스크 및 에너지 공급망 제재",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미국, 이란 유조선 등 석유 운송 관련 신규 제재 부과",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 정부, 이란 유조선 및 석유 운송 관련 신규 제재 단행",
+      "newsSummaryKo": [
+        "미국 정부가 이란의 석유 운송과 연관된 유조선 및 관련 세력을 대상으로 새로운 대(對)이란 제재를 부과했습니다.",
+        "이번 조치는 이란의 원유 수출 경로를 차단하고 해상 운송 네트워크를 압박하기 위한 목적에서 시행되었습니다.",
+        "미국의 추가 제재로 인해 향후 국제 유가 변동성과 글로벌 에너지 공급망의 불확실성이 커질 것으로 전망됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 17:28",
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2121190",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "흥구석유",
+          "code": "024060",
+          "role": "석유류 도소매 및 유통",
+          "reason": "중동 지정학적 리스크 및 원유 공급 차질 우려에 따라 국제 유가 변동 시 직접적인 주가 변동성을 보이는 관련 종목입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.25%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "중앙에너비스",
+          "code": "000440",
+          "role": "석유제품 판매업",
+          "reason": "국제 유가 및 에너지 수급 관련 뉴스가 발생할 때 국내 증시에서 에너지 테마로 묶여 즉각적인 반응을 나타내는 종목입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국석유",
+          "code": "004090",
+          "role": "석유제품 제조업 및 판매",
+          "reason": "중동발 에너지 공급망 제재 이슈가 유가 상승 및 원자재 시장 불안으로 이어질 경우 동반 테마로 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-2.15%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "극동유화",
+          "code": "014530",
+          "role": "윤활유 및 석유화학 제품 생산",
+          "reason": "원유 수급 불안정 및 정유·석유화학 업황 불확실성 부각 시 후방 산업군으로 연관되어 움직이는 경향이 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-99.01%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "HMM",
+          "code": "011200",
+          "role": "해상 화물 운송업",
+          "reason": "중동 해역의 지정학적 리스크 심화는 유조선 및 컨테이너선 등 글로벌 해운 운임과 항로 운영에 간접적인 영향을 미칠 수 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-4.17%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "제약·바이오 인수합병(M&A) 및 투자 심리 변화",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Jefferies, Viatris 인수 거래로 Pacira Pharmaceuticals 투자의견 하향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "제프리스, 비아트리스의 파시라 파마슈티컬스 인수 관련 투자의견 하향 조정",
+      "newsSummaryKo": [
+        "투자은행 제프리스(Jefferies)는 비아트리스(Viatris)의 파시라 파마슈티컬스(Pacira Pharmaceuticals) 인수 거래 발표 이후 파시라에 대한 투자의견을 하향 조정했다.",
+        "이번 평정 조치는 대규모 인수합병 거래가 피인수 기업 및 관련 제약 섹터의 단기적 주가 흐름과 밸류에이션에 미치는 영향을 반영한 결과다.",
+        "글로벌 제약·바이오 시장에서는 대형 제약사의 M&A가 피인수 기업의 파이프라인 및 재무 구조에 미치는 영향에 대한 분석이 이어지고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 17:26",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2121187",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 6,
@@ -154,17 +261,75 @@
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
+      "theme": "OpenAI 실적 및 AI 인프라 공급망",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "OpenAI 연간 매출 500억 달러, 기존 보고치보다 크게 낮아",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "오픈에이아이(OpenAI) 연간 매출 500억 달러…기존 시장 전망치 밑돌아",
+      "newsSummaryKo": [
+        "오픈에이아이(OpenAI)의 연간 매출이 500억 달러 수준으로 집계되었습니다.",
+        "이번에 공개된 매출 규모는 기존에 시장에서 보고되었던 수치보다 크게 낮은 수준입니다.",
+        "해당 수치는 AI 기술 기업의 실제 수익화 속도와 시장의 기대치 간의 간극을 보여주는 지표로 언급되었습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 17:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2121176",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "고대역폭 메모리(HBM) 공급",
+          "reason": "글로벌 AI 서버 및 데이터센터 인프라 투자 규모에 직접적인 영향을 받는 핵심 반도체 공급사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 및 파운드리",
+          "reason": "AI 연산용 서버에 필수적인 메모리 반도체를 공급하며 글로벌 AI 생태계 전반의 업황과 연동됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 장비 공급",
+          "reason": "AI 메모리 핵심 공정에 투입되는 TC 본더를 생산하며 전방 반도체 밸류체인과 연결되어 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 가속기용 초고다층 기판(MLB) 공급",
+          "reason": "글로벌 AI 가속기 제조사에 핵심 회로기판을 납품하여 AI 인프라 투자 트렌드에 직접 노출됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 제조 장비 공급",
+          "reason": "메모리 및 파운드리 고객사의 설비투자(CAPEX) 기조 변화에 따라 간접적인 영향을 받는 소부장 기업입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+8.08%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 11,
