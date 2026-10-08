@@ -64,17 +64,64 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "반도체 수출 호조에 따른 경상수지 흑자 지속",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "경상흑자 석 달째 400억달러 넘어…반도체 수출의 힘",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "반도체 수출 호조에 힘입어 경상수지 석 달 연속 40억 달러 초과 달성",
+      "newsSummaryKo": [
+        "반도체 수출의 강세에 힘입어 경상수지가 3개월 연속 40억 달러를 넘어섰습니다.",
+        "한국은행에 따르면 주력 품목인 반도체를 중심으로 수출 증가세가 이어지며 상품수지 흑자를 견인했습니다.",
+        "글로벌 IT 수요 회복과 메모리 반도체 단가 상승 등이 전체 경상수지 흑자 기조를 뒷받침했습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 03:16",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2120024",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 및 파운드리 반도체 제조",
+          "reason": "반도체 수출 확대를 주도하는 국내 최대 규모의 종합 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체(DRAM, NAND) 제조",
+          "reason": "HBM 등 고부가가치 메모리 반도체 수출을 통해 경상수지 개선에 직접적으로 기여합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비(TC 본더) 공급",
+          "reason": "고성능 메모리 반도체 생산에 필수적인 장비를 대장주 기업들의 서플라이 체인에 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 장비(CVD, Etch) 공급",
+          "reason": "반도체 제조사의 설비투자 및 생산 공정에 핵심 장비를 납품하는 전방 산업 연계 기업입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+4.42%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -114,31 +161,70 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "리츠(REITs) 유상증자 및 배당 재원 조달",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "번 돈 모자라 주주 돈으로 배당…삼성FN리츠, 또 증자",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성FN리츠, 가용 이익 초과하는 배당 위해 유상증자 단행",
+      "newsSummaryKo": [
+        "삼성FN리츠가 가용 이익을 초과하는 배당금을 지급하기 위해 추가적인 주주 배정 유상증자를 추진한다.",
+        "회사는 부족한 배당 재원을 확보하기 위해 주주 자본에 의존하는 방식을 반복하고 있다.",
+        "이러한 자본 조달 방식은 기존 주주의 지분 가치 희석 우려를 낳고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 02:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2120023",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성FN리츠",
+          "code": "448730",
+          "role": "상장 리츠 운용 및 자산 관리",
+          "reason": "본문 기사의 직접적인 주체로 유상증자 및 배당 정책을 실행하는 당사자임.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 테크 및 방산 투자 동향",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "[서학개미 안테나] 캐시 우드, 로빈후드 팔고 코어위브·크라토스 샀다…AI·방산에 베팅",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "[서학개미 안테나] 캐시 우드, 로빈후드 매각 후 코어위브·크라토스 매입… AI 및 방산 섹터 비중 확대",
+      "newsSummaryKo": [
+        "캐시 우드가 이끄는 아크 인베스트먼트가 미국 온라인 증권사 로빈후드의 주식을 매각했다.",
+        "대신 클라우드 컴퓨팅 및 인공지능(AI) 인프라 기업인 코어위브와 방산·무인 시스템 기업인 크라토스의 지분을 신규 매입했다.",
+        "이번 포트폴리오 조정을 통해 AI 연산 인프라와 국방·방산 분야에 대한 투자 비중을 높였다."
+      ],
       "newsSource": "Investing.com · 2026-10-08 02:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2120021",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 가속기용 고다층 인쇄회로기판(MLB) 공급",
+          "reason": "글로벌 AI 인프라 투자 확대 및 데이터센터 서버 수요 증가와 직간접적으로 연동되는 대표적인 국내 AI 서플라이 체인 기업이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "role": "항공우주 및 방산 체계 종합",
+          "reason": "미국 방산 및 무인 시스템 부문의 투자 심리 개선과 맞물려 글로벌 방산 섹터의 흐름을 공유하는 국내 대표 방산 기업이다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+3.68%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
@@ -2592,6 +2678,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1791503999.5964236,
+      "gemini-flash-latest": 1791503999.8155782
+    }
   }
 }
