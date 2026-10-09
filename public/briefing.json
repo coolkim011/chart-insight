@@ -49,22 +49,24 @@
       "newsLink": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 기업 실적",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Oil-Dri, 2026년 4분기 기록적인 실적에도 주가는 하락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "오일드리, 사상 최대 분기 실적 달성에도 주가 하락세",
+      "newsSummaryKo": [
+        "미국 흡착제 제조 기업 오일드리(Oil-Dri)가 2026회계연도 4분기에 기록적인 실적을 기록했습니다.",
+        "호실적 발표에도 불구하고 시장에서는 차익 실현 등의 영향으로 주가가 하락세를 나타냈습니다.",
+        "실적 달성 이후 향후 성장 지속성에 대한 시장의 신중한 평가가 주가에 반영된 것으로 풀이됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 15:46",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2122261",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
