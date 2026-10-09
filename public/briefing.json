@@ -88,17 +88,86 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "우주항공 및 스페이스X 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Space Exploration Technologies 주가, 오늘 왜 오르고 있나?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스페이스X(SpaceX) 가치 상승 배경과 우주항공 산업 모멘텀",
+      "newsSummaryKo": [
+        "스페이스X(Space Exploration Technologies)의 기업가치 및 비상장 거래 가격 상승세가 시장의 주목을 받고 있습니다.",
+        "스타링크(Starlink) 저궤도 위성 통신망 확장과 차세대 우주 발사체 스타십(Starship)의 시험 발사 진전이 주요 가치 상승 요인으로 지목됩니다.",
+        "글로벌 우주항공 및 민간 우주 개발(New Space) 시장 확장에 따라 국내 관련 서플라이 체인의 낙수효과 기대감이 형성되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 09:06",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2121700",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "role": "우주 발사체 엔진 및 항공우주 체계종합",
+          "reason": "누리호 고도화 사업 주관 등 국내 우주 발사체 엔진 제작 및 위성 사업을 총괄하는 대표 체계종합 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.68%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "한국항공우주",
+          "code": "047810",
+          "role": "군집위성 및 중·대형 위성 체계 개발",
+          "reason": "다목적실용위성, 차세대중형위성 등 국내 위성 본체 및 탑재체 개발을 주도하는 우주항공 대표 대장주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "인텔리안테크",
+          "code": "189300",
+          "role": "저궤도(LEO) 위성통신 안테나 제조",
+          "reason": "스페이스X의 스타링크와 유사한 글로벌 저궤도 통신망 사업자(원웹 등)에 위성 통신용 안테나를 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-8.03%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "role": "초고해상도 지구관측 위성 제조",
+          "reason": "국내 유일의 민간 지구관측 위성 시스템 수출 기업으로 글로벌 민간 우주 시장 확장의 직접적인 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-8.78%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "AP위성",
+          "code": "211270",
+          "role": "위성통신 단말기 및 탑재체 컴퓨터 개발",
+          "reason": "위성통신 표준 단말기 및 차세대 위성 탑재용 데이터 처리 장치를 제작하여 후방 부품 공급망을 담당합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-6.31%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "제노코",
+          "code": "361390",
+          "role": "위성 지상국 장비 및 탑재체 통신장비 제조",
+          "reason": "위성탑재체 핵심 부품인 X-band 트랜스미터와 위성지상국 수신 장비를 공급하는 통신 부품 기업입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+0.23%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
@@ -114,17 +183,75 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 은행주 금리 민감도",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "바클레이즈, 금리 민감도 이유로 스웨드뱅크 목표가 상향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "바클레이즈, 금리 민감도 수혜 주목하며 스웨드뱅크 목표주가 상향",
+      "newsSummaryKo": [
+        "바클레이즈가 북유럽 대형 금융사인 스웨드뱅크의 목표주가를 상향 조정했다.",
+        "상향 배경으로는 거시경제 내 금리 환경 변화에 따른 순이자이익 민감도와 수익 방어력이 지목됐다.",
+        "글로벌 은행권 전반에서 금리 경로 변화에 따른 순이자마진(NIM) 민감도가 핵심 실적 변수로 재부각되고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 09:03",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2121696",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 1위 종합금융지주",
+          "reason": "금리 환경 변화 시 순이자마진(NIM)과 이자수익 변동성이 가장 직접적으로 반영되는 국내 대형 은행 대장주다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 종합금융지주",
+          "reason": "시중은행 중심의 대출 포트폴리오를 기반으로 글로벌 금리 기조 변화에 실적 민감도가 높은 대표 지주사다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "하나금융지주",
+          "code": "086790",
+          "role": "대형 금융지주사",
+          "reason": "외환 및 기업금융 비중과 함께 시중 금리 변동에 따른 이자이익 영향도가 직결되는 대형 금융주다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+1.46%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "우리금융지주",
+          "code": "316140",
+          "role": "은행 중심 금융지주",
+          "reason": "수익 구조 내 은행 비중이 높아 기준금리 및 시장금리 변동에 따른 이자이익 민감도가 상대적으로 크다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "기업은행",
+          "code": "024110",
+          "role": "중소기업 특화 국책은행",
+          "reason": "중소기업 대출 자산 중심의 여수신 구조로 시장 금리 추이에 연동된 마진 압력 및 건전성 영향을 공유한다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.21%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
@@ -245,17 +372,75 @@
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "토큰증권(STO) 및 자산 토큰화",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "나스닥 CEO \"자산 토큰화, 잠겨 있는 수백억 달러 규모 자본 해방할 것\"",
+      "newsSummaryKo": [
+        "아데나 프리드먼 나스닥 최고경영자(CEO)는 자산 토큰화 기술이 금융 시장 내 잠겨 있는 수백억 달러 규모의 자본을 유동화할 수 있다고 밝혔습니다.",
+        "프리드먼 CEO는 토큰화를 통해 비유동성 자산의 거래 효율성을 높이고 글로벌 자본 배분을 최적화할 수 있음을 강조했습니다.",
+        "글로벌 대표 거래소 수장의 이번 발언으로 전통 금융 인프라와 블록체인 기반 토큰증권(STO) 간의 융합 논의가 다시금 주목받고 있습니다."
+      ],
       "newsSource": "CNBC Markets · Thu, 08 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 2,
-      "rawSummary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "STO 플랫폼 및 기초자산 토큰화 사업자",
+          "reason": "항공금융, 수산금융 등 다양한 실물자산 기반 토큰증권(STO) 컨소시엄을 주도하며 국내 자산 토큰화 사업을 직접 추진하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.12%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "서울옥션",
+          "code": "063170",
+          "role": "미술품 토큰화 및 조각투자 인프라 보유",
+          "reason": "관계사 서울옥션블루를 통해 미술품 실물자산의 토큰화 및 조각투자 플랫폼을 구축하여 STO 제도화 수혜 대표주로 분류됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.18%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "케이옥션",
+          "code": "102370",
+          "role": "미술품 기반 STO 발행 플랫폼",
+          "reason": "자회사 투게더아트를 통해 비유동 자산인 미술품의 토큰증권 발행 및 거래 인프라 연계 사업을 전개하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "핑거",
+          "code": "163730",
+          "role": "금융권 STO 솔루션 및 블록체인 인프라 공급",
+          "reason": "국내 주요 금융기관을 대상으로 토큰증권 발행·유통 시스템 및 블록체인 솔루션을 개발·공급하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.20%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "키움증권",
+          "code": "039490",
+          "role": "토큰증권 유통 증권사 및 계좌관리기관",
+          "reason": "국내 다수 STO 발행사들과 파트너십을 맺고 토큰증권 유통 플랫폼 및 계좌 인프라 구축을 준비 중입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.08%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 11,
