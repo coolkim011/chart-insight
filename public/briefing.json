@@ -40,17 +40,86 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 반도체 공매도 동향",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "RBC는 9월 말 반도체 공매도 1% 증가 보고",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "RBC 캐피털 \"9월 말 글로벌 반도체 섹터 공매도 잔고 1% 증가\"",
+      "newsSummaryKo": [
+        "RBC 캐피털 마켓은 9월 말 기준 글로벌 반도체 업종에 대한 공매도 포지션이 직전 대비 1% 증가했다고 밝혔습니다.",
+        "반도체 섹터 내 공매도 비중 증가는 글로벌 반도체 수요 및 단기 주가 흐름에 대한 경계 심리가 일부 반영된 결과로 분석됩니다.",
+        "글로벌 반도체 공매도 추이는 국내 메모리 반도체 제조사 및 관련 서플라이 체인의 수급 및 투자 심리에도 직간접적인 영향을 미칩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 20:49",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2122418",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 종합 반도체(IDM) 대표 기업",
+          "reason": "글로벌 반도체 섹터의 공매도 증감 및 투자 심리 변화에 직접적으로 연동되어 외국인 수급 영향을 받는 국내 최대 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 및 HBM 핵심 제조사",
+          "reason": "글로벌 반도체 업황 및 주요 기관의 숏 포지션 변동에 따라 주가 변동성과 외국인 매매 동향이 직결되는 대표주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM용 TC 본더 등 핵심 패키징 장비 공급",
+          "reason": "글로벌 반도체 섹터 센티먼트 및 대형 메모리 제조사의 투자 사이클에 장비 수주가 직접적인 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 증착·열처리 장비 제조",
+          "reason": "삼성전자 및 SK하이닉스의 전공정 설비 투자 집행 여부에 따라 실적이 좌우되는 대표 전공정 장비사입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.98%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체용 포토레지스트 및 전자재료 공급",
+          "reason": "반도체 칩 제조사의 공장 가동률 및 전방 산업 업황에 맞춰 소재 출하량이 변동되는 후방 소재 기업입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "하나마이크론",
+          "code": "067310",
+          "role": "반도체 후공정(OSAT) 패키징 및 테스트",
+          "reason": "대형 IDM의 외주 패키징 수요에 연동되어 반도체 업황 둔화나 회복 사이클의 영향을 간접적으로 받습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+0.99%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -126,17 +195,75 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 연준 통화 긴축 및 금리 인상 기조",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "연준 무살렘 총재 \"물가 2% 목표 위해 추가 금리 인상 필요\"",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미 연준 무살렘 총재, \"물가 2% 목표 위해 추가 금리 인상 가능성 배제 못 해\"",
+      "newsSummaryKo": [
+        "알베르토 무살렘 세인트루이스 연방준비은행 총재는 물가상승률을 목표치인 2%로 안착시키기 위해 추가 금리 인상이 필요할 수 있다고 밝혔습니다.",
+        "인플레이션 둔화 속도가 정체되거나 물가 상방 압력이 지속될 경우 통화정책 긴축 기조를 유지하거나 강화해야 한다는 입장을 시사했습니다.",
+        "연준 주요 인사의 매파적 발언이 이어지면서 조기 금리 인하 기대감이 약화되고 글로벌 금융시장의 금리 변동성이 확대되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 19:34",
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2122352",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 1위 대형 금융지주사",
+          "reason": "미국 연준의 추가 금리 인상 및 고금리 장기화 기조는 은행의 순이자마진(NIM) 방어 및 이자수익 유지에 직접적인 영향을 줍니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 복합 금융지주사",
+          "reason": "고금리 환경이 지속될 경우 은행 부문 이자이익 개선 및 채권 운용 수익률 관리에 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "하나금융지주",
+          "code": "086790",
+          "role": "외환 및 기업금융 특화 대형 금융지주",
+          "reason": "글로벌 금리 인상 가능성에 따른 환율 변동성 확대 및 고금리 지속 시 여수신 금리 스프레드 유지의 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+1.46%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "삼성생명",
+          "code": "032830",
+          "role": "국내 최대 생명보험사",
+          "reason": "고금리 기조 유지 시 신규 채권 투자 및 보유 자산 운용이익률 제고를 통해 이차역마진 부담이 완화됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.43%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "DB손해보험",
+          "code": "005830",
+          "role": "대형 손해보험사",
+          "reason": "시장금리 상승 국면에서 운용자산 수익률 개선 및 할인율 상승에 따른 보험부채 평가 부담 완화 효과가 나타납니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+0.95%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
@@ -149,7 +276,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
     },
     {
