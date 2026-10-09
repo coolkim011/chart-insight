@@ -40,17 +40,108 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "S&P 500 사상 최고치 경신 및 글로벌 기술주 랠리",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미 S&P 500, 기술주 강세·금리 안정에 힘입어 장중 사상 최고치 경신",
+      "newsSummaryKo": [
+        "미국 S&P 500 지수가 화요일 기술주 중심의 상승세에 힘입어 장중 사상 최고치를 다시 기록했습니다.",
+        "유가 안정세와 국채 금리 하락이 맞물리며 수개월간 이어진 시장 변동성과 충격을 극복하는 원동력이 되었습니다.",
+        "빅테크 기업들의 주가 호조가 지수 견인을 주도하며 글로벌 거시경제 불확실성 완화 신호를 나타냈습니다."
+      ],
       "newsSource": "CNBC Markets · Tue, 06 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT·반도체 대표 제조업체",
+          "reason": "미국 S&P 500의 대형 기술주 중심 랠리는 글로벌 위험자산 선호 심리를 자극해 코스피 IT 대장주 수급에 직접적인 영향을 줍니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 메모리 및 고대역폭메모리(HBM) 핵심 공급사",
+          "reason": "미국 빅테크 기업들의 주가 강세와 AI 인프라 투자 지속 기대감이 직결되는 국내 핵심 반도체 대장주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 장비 제조",
+          "reason": "미국 주요 테크 기업들의 실적 및 주가 강세가 이어질 경우 HBM 생산능력 확대용 후공정 장비 수요가 증가합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "리노공업",
+          "code": "058470",
+          "role": "글로벌 빅테크향 반도체 테스트 핀·소켓 제조",
+          "reason": "미국 주요 팹리스 및 빅테크 기업들의 신규 칩 연구개발과 수요 확대에 따라 테스트 부품 공급이 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.17%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 마커 및 가공 장비 공급",
+          "reason": "글로벌 반도체 설비투자 심리가 개선될 때 국내 메모리 및 외주반도체패키지테스트(OSAT)향 장비 수주가 동반 확대됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+1.16%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 포토레지스트(감광액) 및 전자재료 공급",
+          "reason": "글로벌 테크주 호조로 전방 메모리 반도체 가동률이 유지·회복되면 공정 소재 수요가 지속됩니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "솔브레인",
+          "code": "357780",
+          "role": "반도체 식각액 및 고순도 화학소재 공급",
+          "reason": "전방 대형 IT 제조사들의 반도체 웨이퍼 투입량 확대 시 고순도 공정 소재 사용량이 직접적으로 연계됩니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-0.48%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 증착(CVD·ALD) 전공정 장비 제조",
+          "reason": "빅테크 중심의 기술주 랠리가 향후 반도체 제조사들의 전공정 설비투자 재개로 이어질 경우 수혜를 받습니다.",
+          "rank": 8,
+          "verified": true,
+          "changeRate": "+1.98%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -63,7 +154,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital."
     },
     {
@@ -116,17 +207,19 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "미국 바이오텍 나스닥 상장",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Retension Pharmaceuticals, 나스닥 IPO 주당 $12에 가격 책정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "리텐션 파마슈티컬스, 나스닥 IPO 공모가 주당 12달러 확정",
+      "newsSummaryKo": [
+        "미국 제약바이오 기업 리텐션 파마슈티컬스(Retension Pharmaceuticals)가 나스닥 기업공개(IPO) 공모가를 주당 12달러로 책정했습니다.",
+        "회사는 이번 공모를 통해 파이프라인 임상 개발 및 연구 자금을 조달할 계획입니다.",
+        "공모 절차 완료 후 나스닥 시장에 정식 상장되어 거래가 개시될 예정입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 01:48",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-432SI-2121478",
       "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 8,
@@ -158,31 +251,136 @@
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
+      "theme": "TRexBio 나스닥 상장",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "TRexBio, 나스닥 IPO 공모가 주당 14달러로 확정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "조절T세포 치료제 개발사 TRexBio, 나스닥 공모가 주당 14달러 확정",
+      "newsSummaryKo": [
+        "미국 면역질환 신약 개발 바이오텍 TRexBio가 나스닥 기업공개(IPO) 공모가를 주당 14달러로 확정했습니다.",
+        "TRexBio는 조절 T세포(Treg) 플랫폼을 기반으로 자가면역 및 염증성 질환 표적 치료제를 개발하는 바이오 기업입니다.",
+        "이번 상장을 통해 조달된 자금은 주요 파이프라인의 임상 개발 및 연구 플랫폼 고도화에 투입될 예정입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 01:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-432SI-2121475",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SV인베스트먼트",
+          "code": "289080",
+          "role": "시리즈A 투자 벤처캐피털",
+          "reason": "미국 지사를 통해 TRexBio의 초기 시리즈 A 펀딩에 참여하여 지분을 확보한 이력이 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.56%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "지아이이노베이션",
+          "code": "358570",
+          "role": "면역조절 단백질 신약 개발사",
+          "reason": "TRexBio와 유사하게 조절 T세포(Treg) 조절 및 면역 질환 타깃 파이프라인을 개발하고 있어 동종 플랫폼 기술로 묶입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-5.05%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한올바이오파마",
+          "code": "009420",
+          "role": "자가면역질환 치료제 개발사",
+          "reason": "글로벌 자가면역 질환 타깃 항체 치료제를 개발 중으로 해외 자가면역 바이오텍의 상장 및 기업가치 평가와 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.83%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 11,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 수익성 우려 및 반도체 밸류체인 센티먼트",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "오픈AI 매출 보고서, AI 낙관론 꺾으며 소프트뱅크 주가 급락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "오픈AI 실적 우려에 흔들리는 AI 낙관론…소프트뱅크 등 투자사 주가 급락",
+      "newsSummaryKo": [
+        "오픈AI의 매출 및 비용 구조 관련 보고서가 공개되면서 생성형 AI 기술의 조기 수익화에 대한 시장의 낙관론이 둔화되었습니다.",
+        "이에 따라 오픈AI 및 글로벌 AI 스타트업에 대규모 투자를 집행해 온 소프트뱅크 등 주요 기술 투자 지주사의 주가가 급락세를 기록했습니다.",
+        "AI 소프트웨어의 수익화 지연 우려는 빅테크의 AI 인프라 자본지출(Capex) 지속성에 대한 의구심으로 이어지며 글로벌 하드웨어 밸류체인 전반에 영향을 미치고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-09 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2121467",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM(고대역폭메모리) 핵심 공급사",
+          "reason": "AI 가속기용 HBM 선도 기업으로, AI 서비스 수익성 우려에 따른 인프라 투자 지속 여부와 주가 연동성이 가장 높습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 종합 반도체 및 AI 인프라 공급사",
+          "reason": "데이터센터용 서버 DRAM, NAND 및 차세대 HBM을 공급하고 있어 글로벌 AI 투자 심리 변화에 직접적인 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 장비 제조",
+          "reason": "SK하이닉스 및 글로벌 메모리 제조사에 HBM 필수 장비인 TC 본더를 공급하고 있어 HBM 설비투자 변동에 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 가속기용 초고다층 PCB(MLB) 공급",
+          "reason": "오픈AI 모델을 구동하는 주요 AI 가속기 및 네트워크 장비용 기판을 빅테크에 공급하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "솔브레인",
+          "code": "357780",
+          "role": "첨단 반도체 공정용 식각액 및 전자소재 공급",
+          "reason": "선단 공정 메모리 및 파운드리 가동률 변화에 따라 전구체 및 특수가스 등 공정 소재 수요가 연계됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.48%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "대덕전자",
+          "code": "353200",
+          "role": "AI 서버 및 가속기용 FC-BGA 기판 공급",
+          "reason": "AI 서버용 고다층 패키지 서브스트레이트를 생산하며 후방 반도체 부품 공급망을 구성하고 있습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-0.44%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 12,
