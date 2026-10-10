@@ -40,31 +40,91 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 채권 및 크레딧 시장 전망",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "JP모건, 고정수익 시장서 '세대별 한 번 올 기회'라며 강세 전망 제시",
+      "newsSummaryKo": [
+        "JP모건의 포트폴리오 매니저 프리야 미스라는 고정수익 시장에서 세대에 한 번 있을 법한 투자 기회가 있다고 평가했다.",
+        "그는 현재 시장 상황에서 우량 기업들을 중심으로 크레딧 리스크를 적극적으로 감수할 필요가 있다고 제안했다.",
+        "이번 평가는 글로벌 채권 및 신용물 시장에서 고품질 자산을 중심으로 한 투자 매력도가 높아졌다는 시각을 반영한다."
+      ],
       "newsSource": "CNBC Markets · Sat, 10 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies."
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "화웨이의 스마트폰 사업 재구축 및 모바일 부품 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Huawei doubles down on smartphones as EV sales slow",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "전기차 판매 둔화 직면한 화웨이, 스마트폰 사업 역량 집중 재구축 나서",
+      "newsSummaryKo": [
+        "중국의 기술 기업 화웨이가 미국 제재로 인해 컨슈머 사업부의 매출이 절반으로 감소했다.",
+        "이에 따라 화웨이는 최근 성장이 둔화된 전기차 판매에서 벗어나 스마트폰 사업을 다시 강화하고자 한다.",
+        "이번 전략 수정은 타격을 입은 핵심 소비자 가전 부문의 실적을 회복하기 위한 조치다."
+      ],
       "newsSource": "CNBC Markets · Thu, 08 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 스마트폰 제조 및 모바일 부품 공급",
+          "reason": "화웨이의 스마트폰 시장 재진입 및 점유율 변화는 글로벌 스마트폰 및 모바일 반도체 밸류체인 전반의 경쟁 구도에 간접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "LG이노텍",
+          "code": "011070",
+          "role": "스마트폰용 카메라모듈 공급",
+          "reason": "글로벌 스마트폰 제조사들의 수요 변동 및 플래그십 모델 경쟁은 카메라모듈 등 고부가가치 부품 수요에 영향을 미침.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 제조용 장비 공급",
+          "reason": "스마트폰 수요 회복에 따른 모바일용 반도체(AP, 메모리 등) 생산 확대로 전방 반도체 소부장 밸류체인에 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+8.08%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "HPSP",
+          "code": "403870",
+          "role": "고압 수소 어닐링 장비 공급",
+          "reason": "모바일용 첨단 반도체 미세 공정 투자와 연계된 후방 장비 공급사로 글로벌 반도체 업황의 영향을 받음.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.37%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "덕산네오룩스",
+          "code": "213420",
+          "role": "OLED 소재(EML 등) 공급",
+          "reason": "스마트폰 폼팩터 변화 및 디스플레이 패널 채택 확대에 따라 간접적으로 전방 IT 수요와 연동됨.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+0.50%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
