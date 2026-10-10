@@ -52,17 +52,64 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "유럽 재정 리스크 및 글로벌 증시 연동성",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "프랑스 국채 스프레드 상승, 유럽 증시 랠리 흔들까?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "프랑스 국채 스프레드 확대에 유럽 증시 변동성 주목",
+      "newsSummaryKo": [
+        "프랑스의 국채 스프레드가 상승세를 보이며 유럽 금융 시장의 불안 요인으로 작용하고 있습니다.",
+        "채권 시장의 이러한 움직임은 그간 이어져온 유럽 증시의 랠리에 제동을 걸 수 있다는 우려를 낳고 있습니다.",
+        "유럽 주요국의 정치적 불확실성과 재정 건전성 우려가 글로벌 거시경제 지표 및 증시 흐름에 영향을 미치고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-10 12:18",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2122566",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 수요 변동성 반영 대형주",
+          "reason": "유럽 거시경제 불안 및 글로벌 증시 변동성은 외국인 투자자의 수급 변화를 통해 국내 대장주에 간접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 경기 민감 반도체 대형주",
+          "reason": "유럽 증시 랠리 둔화 및 금융시장 리스크 대두는 글로벌 IT 및 반도체 수요 심리에 연동되는 거시경제적 환경을 형성합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 주요 금융지주",
+          "reason": "글로벌 채권 금리 변동과 유로존 재정 이슈 등 거시경제 지표 변화는 국내 금융 시장의 전반적인 금리와 환율 흐름에 영향을 줍니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "국내 주요 금융지주",
+          "reason": "해외 채권 시장 및 국채 스프레드 확대 등 글로벌 매크로 변수는 국내 금융 섹터의 대외 Risk-off 심리 전파 경로와 연관되어 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
