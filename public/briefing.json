@@ -40,17 +40,75 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중국 부동산 시장 회복 전망",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "After a yearslong slump, China's real estate market may be set for a turnaround",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "수년간 침체 겪은 중국 부동산 시장, 내년 반등 가능성 제기",
+      "newsSummaryKo": [
+        "S&P 신용평가사는 중국 대도시의 부동산 시장 회복이 빠르면 내년에 가시화될 수 있다고 전망했다.",
+        "이번 전망은 수년간 지속된 중국 부동산 시장의 장기 침체 국면 이후에 나오는 분석이다.",
+        "중국 대도시를 중심으로 한 부동산 시장의 변화가 향후 거시경제 회복의 분수령이 될 것으로 보인다."
+      ],
       "newsSource": "CNBC Markets · Thu, 08 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&amp;P ratings agency said."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "role": "철강 소재 공급",
+          "reason": "중국 부동산 및 건설 경기 회복 시그널은 철강 수요 개선을 통해 실물 경제에 직접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.09%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "LG화학",
+          "code": "051910",
+          "role": "석유화학 소재 공급",
+          "reason": "중국 건설 및 인프라 경기는 범용 화학제품의 주요 수요처로 직결됨.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "현대제철",
+          "code": "004020",
+          "role": "건자재 및 철강재 공급",
+          "reason": "중국 전방 산업 업황 개선에 따른 글로벌 철강 수급 및 가격 변동에 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.58%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "롯데케미칼",
+          "code": "011170",
+          "role": "기초유화 제품 공급",
+          "reason": "대중국 수출 비중이 높은 석유화학 업종으로 중국 경기 회복 기조와 동행하는 경향이 있음.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.60%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "효성티앤씨",
+          "code": "298020",
+          "role": "섬유 및 화학 소재 공급",
+          "reason": "중국 의존도가 높은 섬유·소재 산업 특성상 대중국 거시경제 지표 개선의 간접적 영향을 받음.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.45%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -90,17 +148,19 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "제약·바이오 임원 주식 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Pacira BioSciences 선임 부사장 로렌 라이커, 217,920달러 상당 주식 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "파시라 바이오사이언스 로렌 라이커 선임 부사장, 21만 달러 규모 주식 매도",
+      "newsSummaryKo": [
+        "미국 특수 환자 관리 기업 파시라 바이오사이언스의 선임 부사장 로렌 라이커가 21만 7,920달러 상당의 주식을 매도했다.",
+        "이번 내부자 주식 처분은 해당 고위 임원의 지분 변동 공시를 통해 시장에 공개되었다.",
+        "기사 본문 외에 추가적인 구체적 거래 배경이나 세부 계약 조건은 언급되지 않았다."
+      ],
       "newsSource": "Investing.com · 2026-10-10 19:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2122593",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 6,
@@ -116,17 +176,19 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "지분 변동 및 주식 매수",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "스카이AI 10% 주주 바스티온 트레이딩, SKYA 주식 78,262달러 매수",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스카이AI 대주주 바스티온 트레이딩, 7만 8,262달러 규모 주식 매수",
+      "newsSummaryKo": [
+        "스카이AI의 10% 지분을 보유한 주주인 바스티온 트레이딩이 스카이AI 주식을 추가로 매수했다.",
+        "이번에 매수한 스카이AI 주식의 총 규모는 78,262달러에 달한다.",
+        "해당 거래는 주요 주주의 지분 확대 및 투자 활동과 관련된 공시 내용을 바탕으로 한다."
+      ],
       "newsSource": "Investing.com · 2026-10-10 18:31",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2122591",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 8,
