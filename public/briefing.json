@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting."
     },
     {
@@ -377,17 +377,53 @@
     },
     {
       "id": 18,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "인공지능(AI) 확산에 따른 글로벌 거시경제 변화 및 물가·금리 상승 압력",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "IMF 총재 \"AI, 세계 경제 성장의 희망이자 인플레이션·금리 높이는 위험 요인\"",
+      "newsSummaryKo": [
+        "크리스탈리나 게오르기에바 IMF 총재는 AI 기술이 경제 성장 기대를 높이는 동시에 인플레이션과 국채 금리를 밀어 올리고 있다고 경고했다.",
+        "이러한 거시경제적 압박은 전 세계 공공부채 수준이 이미 높아진 시점에서 동시에 가중되고 있다.",
+        "결과적으로 AI는 세계 지도자들에게 경제적 도약의 기회와 재정적 안정을 위협하는 리스크를 동시에 안겨주고 있다."
+      ],
       "newsSource": "CNBC Markets · Wed, 07 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 2,
-      "rawSummary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "AI 반도체 및 인프라 공급",
+          "reason": "AI 인프라 투자가 글로벌 금리 및 인플레이션 환경에 영향을 받는 거시경제 민감주",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM 등 AI용 메모리 공급",
+          "reason": "글로벌 AI 투자 사이클과 거시경제적 자금 조달 비용 변화에 직간접적으로 연동되는 대표적 AI 밸류체인 기업",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "AI 반도체 후공정 장비 공급",
+          "reason": "글로벌 AI 인프라 투자 확대 및 반도체 서플라이 체인에 속해 거시경제 지표 변화의 영향을 공유함",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 19,
@@ -2398,6 +2434,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1791676799.5291018,
+      "gemini-flash-latest": 1791676799.642091
+    }
   }
 }
