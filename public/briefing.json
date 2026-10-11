@@ -136,17 +136,53 @@
     },
     {
       "id": 9,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "가상자산 파생상품 및 예측시장",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "블록체인닷컴, 美 CFTC에 예측시장 및 가상자산 파생상품 거래 승인 신청",
+      "newsSummaryKo": [
+        "글로벌 가상자산 플랫폼 블록체인닷컴(Blockchain.com)이 미국 상품선물거래위원회(CFTC)에 공식 등록 및 인가를 신청했습니다.",
+        "이번 인가 신청은 미국 내에서 이벤트 계약(예측시장)과 암호화폐 파생상품 거래 서비스를 정식 제공하기 위한 조치입니다.",
+        "규제 당국의 승인을 획득할 경우 미국 내 제도권 가상자산 파생상품 및 파생계약 거래 인프라 확장이 본격화될 전망입니다."
+      ],
       "newsSource": "CNBC Markets · Fri, 09 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "한화투자증권",
+          "code": "003530",
+          "role": "가상자산 거래소(두나무) 주요 지분 보유 증권사",
+          "reason": "국내 1위 거래소 지분을 보유하고 있어 가상자산 금융 상품 인가 등 글로벌 규제 완화 흐름의 직접적 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-6.33%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "토큰증권(STO) 및 디지털자산 핀테크 인프라 기업",
+          "reason": "블록체인 기반의 계약형 자산 및 대체 파생 인프라 확장 시 연관 수혜를 받는 핀테크 사업자입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.12%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "다날",
+          "code": "064260",
+          "role": "디지털 결제 및 가상자산 페이먼트 서비스 운영사",
+          "reason": "가상자산 파생 인프라의 제도권 안착 및 시장 거래 활성화와 간접적으로 연계된 결제 플랫폼 기업입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.77%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 10,
