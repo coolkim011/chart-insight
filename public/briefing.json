@@ -64,17 +64,19 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 바이오 내부자 지분 매각",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Castle Biosciences 사장 겸 CEO 데릭 매졸드, 51만 5천 달러 상당 주식 매각",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "캐슬 바이오사이언스 CEO 데릭 매졸드, 51만 5천 달러 규모 자사주 매각",
+      "newsSummaryKo": [
+        "미국 암 진단 전문 기업 캐슬 바이오사이언스의 사장 겸 최고경영자(CEO) 데릭 매졸드가 약 51만 5천 달러 규모의 자사주를 매각했습니다.",
+        "이번 지분 매각은 미국 증권거래위원회(SEC) 내부자 거래 공시 규정에 따라 보고되었습니다.",
+        "해당 거래는 경영진의 개별 포트폴리오 조정 또는 사전에 계획된 거래 계획(Rule 10b5-1) 등에 따른 내부자 주식 매도 절차로 확인됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-11 02:47",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2122674",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 4,
@@ -126,17 +128,108 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 모멘텀 둔화 및 외국인 수급 이탈",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI 열풍 식으며 외국인 투자자, 한국 증시 대규모 이탈",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AI 수익성 우려 확대에 외국인 투자자, 국내 반도체 중심 대규모 순매도",
+      "newsSummaryKo": [
+        "글로벌 인공지능(AI) 수익화 지연 우려로 인해 외국인 투자자들의 투자 심리가 위축되며 국내 증시에서 대규모 자금 유출이 발생했습니다.",
+        "외국인 자금 이탈은 그동안 AI 랠리를 주도했던 국내 대표 메모리 반도체 및 HBM 밸류체인 종목에 집중되고 있습니다.",
+        "주요 AI 반도체 종목들의 수급 악화는 관련 소부장(소재·부품·장비) 전반의 밸류에이션 부담 및 변동성 확대로 이어지고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-11 02:23",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2122668",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM(고대역폭메모리) 핵심 공급사",
+          "reason": "AI 반도체 수요와 직결된 글로벌 HBM 선도 기업으로 외국인 수급 변동에 가장 즉각적인 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 제조 기업",
+          "reason": "코스피 시가총액 1위 종목으로 외국인 증시 이탈 시 매도세가 집중되는 대표 메모리 제조사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "TC본더 장비 제조",
+          "reason": "SK하이닉스에 HBM 제조용 듀얼 TC본더를 독점적으로 공급하여 AI 반도체 투자 심리와 직결됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "role": "패키징 리플로우 장비 공급",
+          "reason": "HBM 패키징 공정에 사용되는 디스컴 및 리플로우 장비를 공급하는 핵심 장비사입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+2.70%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 마커 및 커팅 장비 제조",
+          "reason": "HBM 제조에 필수적인 레이저 그루빙 및 다이싱 장비를 공급하고 있어 AI 메모리 설비투자에 연동됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+1.16%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "테크윙",
+          "code": "089030",
+          "role": "반도체 테스트 핸들러 제조",
+          "reason": "HBM 큐브 프로버 등 고대역폭메모리 검사장비 개발 및 납품을 추진 중인 후공정 장비사입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+2.61%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "대덕",
+          "code": "008060",
+          "role": "반도체 패키지 기판(FC-BGA) 공급",
+          "reason": "AI 가속기 및 서버용 고부가 반도체 기판을 공급하여 전방 AI 수요 둔화 시 실적 영향을 받습니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-0.15%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "하나마이크론",
+          "code": "067310",
+          "role": "반도체 후공정 외주(OSAT)",
+          "reason": "삼성전자 및 SK하이닉스의 후공정 패키징과 테스트 외주를 담당하는 후방 밸류체인 기업입니다.",
+          "rank": 8,
+          "verified": true,
+          "changeRate": "+0.99%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
