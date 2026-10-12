@@ -40,31 +40,147 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 채권 시장 강세 전망 및 우량 회사채 투자 기회",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "JP모건 \"채권 시장에 일생일대의 투자 기회 왔다\" 강세 전망",
+      "newsSummaryKo": [
+        "JP모건의 포트폴리오 매니저 프리야 미스라(Priya Misra)는 현재 채권(Fixed Income) 시장에서 우량 기업의 신용 위험(크레딧)을 감수할 시점이라고 언급했습니다.",
+        "그녀는 지금의 채권 시장 환경이 투자자들에게 일생일대의 드문 기회(once in a generation opportunity)를 제공하고 있다고 평가했습니다.",
+        "고품질 크레딧 채권에 대한 적극적인 포지션 구축을 통해 매력적인 위험 대비 수익률을 추구하는 전략을 시사했습니다."
+      ],
       "newsSource": "CNBC Markets · Sat, 10 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "대형 종합금융그룹",
+          "reason": "대규모 채권 및 유가증권 운용 자산을 보유하여 글로벌 채권 시장 강세 및 금리 피크아웃 국면에서 운용손익 개선과 직결됩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "대형 증권사",
+          "reason": "국내외 채권 자기자본투자(PI) 및 채권 중개·트레이딩 부문에서 높은 사업 비중을 차지합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국기업평가",
+          "code": "034950",
+          "role": "신용평가사",
+          "reason": "우량 회사채 및 크레딧물 발행과 유통 수요가 확대될 경우 신용평가 및 채권 가치평가 수수료 수익이 발생하는 구조입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.29%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "삼성화재",
+          "code": "000810",
+          "role": "손해보험사",
+          "reason": "운용자산의 상당 부분을 장기 우량 채권에 투자하고 있어 채권 가치 안정화 및 금리 안정의 수혜를 직접 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.09%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한화생명",
+          "code": "088350",
+          "role": "생명보험사",
+          "reason": "부채 듀레이션 관리를 위해 고등급 장기 크레딧 채권 편입 비중이 높아 채권 운용 환경 변화에 밀접하게 연동됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "중국 부동산 경기 턴어라운드",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "After a yearslong slump, China's real estate market may be set for a turnaround",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "수년간의 침체 끝에 중국 부동산 시장 반등 가능성 대두",
+      "newsSummaryKo": [
+        "국제 신용평가사 S&P는 중국 주요 대도시의 부동산 시장이 이르면 내년부터 회복세를 보일 수 있다고 전망했습니다.",
+        "중국 부동산 부문은 수년간의 심각한 침체기를 겪은 뒤 대도시를 중심으로 턴어라운드 신호가 포착되고 있습니다.",
+        "중국 대도시 부동산의 선제적 회복 전망에 따라 관련 인프라 및 건자재 수요 회복 여부에 시장의 관심이 쏠리고 있습니다."
+      ],
       "newsSource": "CNBC Markets · Thu, 08 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&amp;P ratings agency said."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "role": "종합 철강 지주사",
+          "reason": "중국 부동산 경기가 반등할 경우 글로벌 철강 수요 개선 및 철강 가격 상승의 직접적인 수혜를 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.09%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "진성티이씨",
+          "code": "036890",
+          "role": "굴착기 하부주행체 부품 제조",
+          "reason": "글로벌 주요 건설기계 제조사에 롤러 등 하부주행체 부품을 공급하여 완제품 수요 증가에 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-3.68%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "현대제철",
+          "code": "004020",
+          "role": "철강 및 봉형강 제조",
+          "reason": "중국 건설경기 반등에 따른 글로벌 철강 업황 회복 및 봉형강 수급 개선 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.58%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "대창단조",
+          "code": "015230",
+          "role": "중장비 하부주행체 부품 가공",
+          "reason": "건설장비 하부주행체 링크 및 롤러 부품을 납품하여 굴착기 생산 증가 사이클에 후방 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "롯데케미칼",
+          "code": "011170",
+          "role": "기초소재 및 건자재용 화학제품 제조",
+          "reason": "중국 부동산 및 건설 경기 회복 시 PVC 등 건자재 관련 석유화학 제품 수요가 파생적으로 개선될 수 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.60%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -80,17 +196,53 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
+      "theme": "게임 개발 AI 전환 및 언리얼 엔진 생태계",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "에픽 게임즈, 월트 디즈니 협업 게임 출시 연기…’AI 우선’ 개발 모델 전환",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "에픽게임즈, 디즈니 협업 프로젝트 출시 연기…‘AI 우선’ 개발 체제로 전환",
+      "newsSummaryKo": [
+        "에픽게임즈가 월트 디즈니와 추진 중이던 대규모 협업 게임 및 메타버스 프로젝트 출시 일정을 연기했다.",
+        "이번 연기는 게임 기획 및 에셋 제작 전반에 인공지능을 우선 적용하는 'AI 퍼스트' 개발 체제로 파이프라인을 전환하기 위한 조치다.",
+        "언리얼 엔진 기반의 대형 제작 파이프라인에 생성형 AI가 본격 결합됨에 따라 글로벌 콘텐츠 개발 프로세스의 재편이 가속화되고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-12 19:55",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124137",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "크래프톤",
+          "code": "259960",
+          "role": "언리얼 엔진 기반 대형 게임 개발 및 AI 도입사",
+          "reason": "에픽게임즈 언리얼 엔진의 핵심 파트너이자 제작 파이프라인 전반에 생성형 AI 기술을 도입하고 있는 대표 게임사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.12%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "자이언트스텝",
+          "code": "289220",
+          "role": "언리얼 엔진 공식 파트너 및 AI 리얼타임 콘텐츠 제작",
+          "reason": "에픽게임즈의 공식 인증 파트너사로서 언리얼 엔진과 자체 AI 버추얼 솔루션을 연계한 비주얼 콘텐츠를 개발합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "넷마블",
+          "code": "251270",
+          "role": "글로벌 IP 협력 및 AI 게임 센터 운용",
+          "reason": "디즈니 계열 IP 기반 게임 개발 이력을 보유하고 있으며 AI 센터를 통해 제작 효율화 솔루션을 연구·적용하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.50%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
@@ -178,17 +330,75 @@
     },
     {
       "id": 12,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미 연준 긴축 기조 및 고금리 장기화 우려",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "클리블랜드 연은 총재 \"인플레이션 고착화 막기 위해 추가 금리 인상 필요할 수도\"",
+      "newsSummaryKo": [
+        "베스 해맥 클리블랜드 연방준비은행 총재는 인플레이션을 낮추기 위해 더욱 긴축적인 통화 정책이 필요하다고 밝혔습니다.",
+        "해맥 총재는 대중 사이에서 지속적인 고물가 기대감이 형성되는 '인플레이션 심리(mindset)'가 자리 잡는 것을 막아야 한다고 강조했습니다.",
+        "미 연준 주요 인사의 이러한 매파적 발언은 시장 내 고금리 장기화 및 추가 긴축 가능성에 대한 경계감을 키우고 있습니다."
+      ],
       "newsSource": "CNBC Markets · Mon, 12 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 대형 금융지주사",
+          "reason": "미 연준의 긴축 기조 유지 및 고금리 장기화 환경에서 순이자마진(NIM) 방어 및 이자이익 유지 가능성이 부각되는 대표 금융주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "국내 대형 금융지주사",
+          "reason": "글로벌 긴축 연장 및 시장금리 상승 압력 발생 시 은행권 이자마진 유지와 직결되는 대형 시중은행 지주사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성생명",
+          "code": "032830",
+          "role": "대형 생명보험사",
+          "reason": "고금리 환경이 지속되면 신규 채권 투자 및 보유 자산의 운용수익률이 개선되는 구조적 수혜를 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.43%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "DB손해보험",
+          "code": "005830",
+          "role": "대형 손해보험사",
+          "reason": "시장금리 하락 지연 시 장기 보험부채 할인율 부담 완화와 자산운용 수익률 방어 효과를 공유합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.95%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "푸른저축은행",
+          "code": "007330",
+          "role": "제2금융권 저축은행",
+          "reason": "미국 연준의 추가 금리 인상 및 긴축 강화 이슈가 발생할 때마다 시장에서 금리 인상 수혜 테마주로 연동되는 경향이 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.30%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 13,
@@ -630,17 +840,75 @@
     },
     {
       "id": 36,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 수혜 테마의 에너지 및 이종 산업 확산",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "+40%, +39%, +19%: AI가 선별한 수익 종목, 에너지·기술주 넘어 확산",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AI 선정 고수익 종목, 기술주와 에너지 섹터 넘어 다양한 산업군으로 확산",
+      "newsSummaryKo": [
+        "인공지능(AI) 기반 투자 분석 알고리즘이 선별한 종목군에서 높은 수익률 기록이 잇따르고 있습니다.",
+        "초기 AI 수혜를 주도했던 전통 기술주와 데이터센터용 에너지·전력 섹터를 넘어 다른 산업군으로 투자 관심이 다변화되고 있습니다.",
+        "시장에서는 AI 인프라 구축의 파급력이 제조, 유틸리티, 서비스 등 다양한 연관 산업 전반으로 확장되는 추세가 관측됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-12 02:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2122910",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 3,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "role": "전력 설비 및 초고압 변압기 제조",
+          "reason": "AI 데이터센터 수요 급증에 따른 전력 인프라 및 에너지 수요 확산의 대표적인 수혜주로 꼽힙니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.66%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "NAVER",
+          "code": "035420",
+          "role": "생성형 AI 모델 및 클라우드 인프라 제공",
+          "reason": "자체 AI 모델과 클라우드 서비스를 기반으로 금융 및 다양한 산업군에 AI 솔루션을 확장 적용하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.80%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LS ELECTRIC",
+          "code": "010120",
+          "role": "배전반 및 전력 자동화 솔루션 공급",
+          "reason": "AI 인프라 증설로 요구되는 데이터센터 내부 배전 시스템 및 전력 관리 솔루션을 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+4.69%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "두산에너빌리티",
+          "code": "034020",
+          "role": "원자력 및 친환경 발전 플랜트 기자재 공급",
+          "reason": "AI 연산에 필요한 대규모 기저 전력 공급원으로서 원전 및 SMR 밸류체인에 연결되어 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-3.81%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "핑거",
+          "code": "163730",
+          "role": "금융 핀테크 및 AI 투자 솔루션 개발",
+          "reason": "금융기관을 대상으로 AI 및 데이터 기반 자산 관리·투자 솔루션을 개발 및 제공하는 이력이 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-4.41%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 37,
