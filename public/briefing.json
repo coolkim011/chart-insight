@@ -40,17 +40,53 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 금융 시장 및 동남아 금융 허브 동향",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "'지루한 것이 나쁜 건 아니다'…DBS CEO, 글로벌 혼란 속 싱가포르를 안전 피난처로 제시",
+      "newsSummaryKo": [
+        "동남아시아 최대 은행인 DBS의 최고경영자(CEO)가 글로벌 금융 시장의 혼란 속에서 싱가포르가 강력한 안전 피난처 역할을 하고 있다고 밝혔습니다.",
+        "DBS CEO는 시장 변동성이 커진 상황에서 싱가포르 금융 시장 특유의 안정성과 신뢰성을 강조했습니다.",
+        "이번 발언은 글로벌 지정학적 불확실성 증대 국면에서 싱가포르가 글로벌 자본의 피난처로서 지니는 위상을 재확인한 것으로 평가됩니다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 대표 금융지주사",
+          "reason": "싱가포르에 현지 지점 및 자산운용 법인을 두고 동남아 금융 허브를 통한 글로벌 네트워크 확장을 추진하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "글로벌 네트워크 보유 금융지주사",
+          "reason": "싱가포르 지점 및 현지 투자금융(GIB) 데스크를 운영하며 아시아 금융 허브 내 자산관리 및 기업금융 비즈니스를 영위하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "하나금융지주",
+          "code": "086790",
+          "role": "해외 비즈니스 영위 대형 금융지주사",
+          "reason": "싱가포르 현지 지점을 거점으로 동남아 지역 글로벌 자산관리 및 투자금융 사업을 진행하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+1.46%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -66,17 +102,75 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "코스피 급락 및 매도 사이드카 발동",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "속보 코스피 급락에 매도 사이드카 발동",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "코스피 급락 여파로 프로그램매도호가 일시효력정지(사이드카) 발동",
+      "newsSummaryKo": [
+        "국내 증시에서 코스피 급락세가 나타남에 따라 매도 사이드카가 발동되었습니다.",
+        "사이드카 발동은 선물 가격 급락으로 인해 현물 시장에 미치는 충격을 완화하기 위한 조치입니다.",
+        "프로그램매도호가의 효력이 일시적으로 정지되며 시장의 변동성 대응 상황이 주시되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 01:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124325",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "코스피 시가총액 최상위 대표 종목",
+          "reason": "코스피 시장 전반의 급락 및 사이드카 발동 시 지수 구성 비중이 가장 높아 직접적인 가격 변동 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "코스피 주요 대형 반도체 종목",
+          "reason": "지수 급락 국면에서 기관 및 외국인의 프로그램 매도 물량 출회의 직접적인 영향을 받는 대형주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "증권업 및 위탁매매(Brokerage) 서비스",
+          "reason": "증시 급락과 변동성 확대는 거래대금 및 파생상품 시장 거래 구조에 직접적인 영향을 미치는 금융 업종입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "종합 금융투자 서비스",
+          "reason": "국내 증시의 급변동성 발생 시 거래량 변화와 파생상품 운용 부문에서 증시 상황과 밀접하게 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "금융 지주회사 및 증권 자회사 보유",
+          "reason": "증시 전반의 투자 심리 위축 및 파생상품 시장 충격이 지주사 산하 증권 및 자회사 실적에 간접적으로 파급됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -92,17 +186,31 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "금융시장 변동성 및 레버리지 ETF 거래 급증",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "레버리지 ETF 위험 경고 놓친 한은…금안국 주식거래 53배 폭증",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "한국은행, 레버리지 ETF 위험 경고 부실... 금융안정국 주식거래 53배 폭증",
+      "newsSummaryKo": [
+        "한국은행 금융안정국 직원의 주식 거래량이 레버리지 ETF 투자 등으로 인해 전년 대비 53배 폭증한 것으로 나타났다.",
+        "한국은행은 고위험 파생상품 및 레버리지 ETF 투자에 대한 내부 통제와 위험 경고 체계가 제대로 작동하지 않았다는 비판을 받고 있다.",
+        "이번 사태로 인해 중앙은행 임직원의 도덕적 해이와 함께 거시건전성을 관리해야 할 기관 내부의 리스크 관리 부실이 도마 위에 올랐다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 01:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124323",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "국내 증시 대표 시가총액 종목",
+          "reason": "개인 및 기관 투자자들의 ETF 및 주식 거래량 변동에 직접적으로 연동되는 국내 증시 대장주이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
@@ -118,59 +226,247 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중동 리스크에 따른 글로벌 금리 인상 우려 및 금 가격 하락",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "중동 긴장 고조로 금리 인상 우려 확산…금, $4,160 근처서 하락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "중동 지정학적 리스크 확산 속 금리 인상 우려 부각… 국제 금값 4,160달러 부근서 하락세",
+      "newsSummaryKo": [
+        "중동 지역의 긴장 고조로 인해 글로벌 인플레이션 및 추가 금리 인상 우려가 확산되고 있다.",
+        "이러한 거시경제적 불확실성과 통화정책 긴축 우려가 복합적으로 작용하여 안전자산인 금 가격이 온스당 4,160달러 근처에서 하락세를 기록했다.",
+        "시장 참가자들은 지정학적 요인과 연방준비제도 등의 금리 경로 변화 가능성을 주시하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 01:20",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2124322",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KODEX 골드선물(H)",
+          "code": "132030",
+          "role": "국제 금 가격 연동 ETF",
+          "reason": "글로벌 금 가격 변동에 직접적으로 연동되어 국내 시장에서 가격 등락이 실시간으로 반영되는 상장 상품이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.70%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "국내 증시 외국인 순매도 및 지수 급락",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코스피, 개장 초 4%대 급락…외국인 4600억 ’팔자’에 6100선 위태",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "코스피, 외국인 4,600억 원 매도 폭탄에 개장 초 4%대 급락… 6,100선 위협받아",
+      "newsSummaryKo": [
+        "코스피 지수가 외국인 투자자의 4,600억 원대 순매도세에 밀려 개장 초 4%대 급락세를 기록했다.",
+        "대규모 외국인 자금 이탈 여파로 지수 방어선인 6,100선이 위태로운 국면에 접어들었다.",
+        "국내 증시 전반에 걸쳐 투자 심리가 위축되며 변동성이 크게 확대된 모습을 보였다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 01:11",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124319",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "코스피 시가총액 최상위 대표 종목",
+          "reason": "외국인 자금 이탈 및 지수 급락 시 시가총액 비중이 높아 가장 직접적인 주가 하락 압력을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "코스피 대형 반도체 대표 종목",
+          "reason": "외국인 순매도 공세에 연동되어 지수 하락기 체감 변동성이 큰 대형주임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "role": "코스피 대형 IT 서비스 및 지수 연동주",
+          "reason": "지수 급락 및 외국인 수급 악화 국면에서 대형주 동조화 현상으로 함께 영향을 받음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "코스피 시가총액 상위 대형주",
+          "reason": "외국인 매물 출회의 직접적인 영향을 받는 코스피 대형 시가총액 상위 종목임.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "코스피 대형 금융주",
+          "reason": "증시 전반의 급락과 외국인 수급 변화에 따라 간접적으로 투자 심리가 연동되는 금융 대형주임.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 모델 트렌드 변화와 저가·효율성 중심의 개발",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[서학개미 안테나] 최첨단 AI 모델도 옛말…개발자들, ’충분히 좋은’ 저가 모델로 이동",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "[글로벌 AI 트렌드] 개발자들, 최고 성능 대신 '충분히 좋은' 저가형 AI 모델로 이동",
+      "newsSummaryKo": [
+        "최첨단 대규모 AI 모델 대신 비용 효율성이 높은 저가형 AI 모델로 개발자들의 수요가 이동하고 있다.",
+        "업계에서는 무조건적인 성능 최고점 추구보다는 실용성과 경제성을 갖춘 모델이 주류로 부상하는 추세다.",
+        "이러한 트렌드 변화는 AI 서비스 운영 비용을 절감하고 인프라 효율성을 높이는 방향으로 작용하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 01:11",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124317",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "고성능 AI 메모리(HBM) 및 서버용 반도체 공급",
+          "reason": "AI 서비스 확산 및 인프라 효율화 과정에서 서버 및 데이터센터용 메모리 반도체 수요와 직접적으로 연동됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "AI 연산용 반도체 및 파운드리·메모리 솔루션 제공",
+          "reason": "AI 모델의 대중화 및 효율성 중심의 인프라 투자 변화에 따라 메모리 및 시스템 반도체 실적이 영향을 받음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 가속기 및 서버용 고다층 인쇄회로기판(MLB) 공급",
+          "reason": "글로벌 AI 서버 및 데이터센터 인프라 투자의 지속 여부에 따라 핵심 부품인 MLB 수요가 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 본딩 장비 공급",
+          "reason": "AI 인프라 구축에 필수적인 첨단 패키징 장비를 공급하며 전방 AI 산업 투자 동향과 간접적 연관성을 지님.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "대덕전자",
+          "code": "353200",
+          "role": "서버 및 네트워크용 반도체 기판 공급",
+          "reason": "AI 서버 및 고성능 컴퓨팅 장비에 사용되는 기판 제조사로서 전체적인 서버 시장 동향의 영향을 받음.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.44%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 반도체주 약세 및 중국 CXMT 추격에 따른 국내 반도체 대형주 하락",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[특징주] 삼전·닉스 급락…美 반도체주 약세에 中 CXMT 기술 추격까지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "[특징주] 삼성전자·SK하이닉스 급락…미국 반도체주 약세 및 중국 CXMT 기술 추격 여파",
+      "newsSummaryKo": [
+        "미국 증시에서 반도체 관련 종목들이 약세를 보인 영향으로 국내 증시에서 삼성전자와 SK하이닉스가 급락세를 나타냈다.",
+        "중국 메모리반도체 업체인 CXMT(창신메모리)의 기술 추격 우려가 시장에 전해지며 투자 심리에 부정적인 영향을 미쳤다.",
+        "글로벌 반도체 업황 및 경쟁 구도 변화에 대한 우려가 국내 양대 메모리 반도체 기업의 주가 하락을 이끌었다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 01:11",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124316",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 제조",
+          "reason": "미국 반도체주 약세 및 중국 경쟁사의 기술 추격 우려에 직접적으로 영향을 받는 국내 대표 메모리 반도체 대장주임",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 제조",
+          "reason": "글로벌 반도체 섹터 투자 심리 악화 및 경쟁 심화 뉴스로 인해 직접적인 주가 변동성을 보인 핵심 메모리 제조사임",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 공급",
+          "reason": "메모리 반도체 투자 심리 위축 및 대형주 주가 하락의 연장선에서 동반 영향을 받는 대표적인 반도체 장비 협력사임",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "국내 메모리 반도체 제조사의 설비투자(Capex) 기조 및 업황 우려에 연동되는 주요 전공정 장비 밸류체인임",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-4.35%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 증착 장비 공급",
+          "reason": "반도체 전방 산업의 업황 둔화 우려 및 투자 심리 악화 테마에 간접적으로 연동되는 소부장 종목임",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-3.16%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 11,
@@ -2259,6 +2555,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1791935999.179405,
+      "gemini-flash-latest": 1791935999.3111174
+    }
   }
 }
