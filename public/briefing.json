@@ -40,31 +40,58 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중국 시장 진출 및 미·중 거시경제 협력",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "비자(Visa), 중국 진출 40년 만에 현지 은행 카드 사업 최종 승인 획득",
+      "newsSummaryKo": [
+        "비자(Visa)가 중국 진출 40년 만에 현지 은행 카드 사업에 대한 중국 당국의 승인을 받았다.",
+        "이번 단계적 승인은 다음 달 미·중 정상의 올해 세 번째 회담을 앞두고 이루어졌다.",
+        "양국 정상을 앞둔 시점에서 거시경제 및 금융 분야의 제한적 협력 신호로 해석되고 있다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month."
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "한국정보통신",
+          "code": "025770",
+          "role": "지불결제(PG) 및 부가통신업자(VAN) 서비스",
+          "reason": "글로벌 결제 네트워크사의 중국 시장 개방은 국내 지급결제 및 핀테크 테마 전반의 거시적 투자 심리에 간접적인 영향을 미칠 수 있다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.52%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "NHN KCP",
+          "code": "060250",
+          "role": "온·오프라인 전자결제대행(PG) 서비스",
+          "reason": "글로벌 카드 및 결제 인프라 확충 뉴스는 국내외 결제 시스템 연동 및 핀테크 산업의 글로벌 동향과 연관되어 테마성 파급 효과를 가질 수 있다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.15%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 제약사 내부자 주식 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "제리스 바이오파마 CLO 베스 헥트, XERS 주식 156,792달러 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "제릭스 바이오파마 최고법률책임자(CLO) 베스 헥트, 15만 6792달러 상당 주식 매도",
+      "newsSummaryKo": [
+        "미국 제약사 제릭스 바이오파마의 최고법률책임자(CLO)인 베스 헥트가 자사 주식을 매도했다.",
+        "이번 주식 매도 규모는 총 15만 6792달러에 달한다.",
+        "해당 거래는 미국 증권거래위원회(SEC) 공시를 통해 확인되었다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 08:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2124625",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
@@ -104,17 +131,97 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 반도체 업황 우려 및 공급망 영향",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI 우려·중국 경쟁 심화로 글로벌 반도체 주식 급락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "인공지능 고점 우려 및 중국 경쟁 심화에 글로벌 반도체 주가 동반 급락",
+      "newsSummaryKo": [
+        "인공지능(AI) 수요 지속 가능성에 대한 우려와 중국 업체의 경쟁 심화 요인이 겹쳤습니다.",
+        "이로 인해 글로벌 증시에서 주요 반도체 관련 기업들의 주가가 일제히 하락세를 기록했습니다.",
+        "시장 전반에 걸쳐 반도체 섹터의 밸류에이션 부담과 업황 불확실성이 부각되었습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 08:26",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124628",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 및 파운드리 제조",
+          "reason": "글로벌 반도체 업황 둔화 및 매크로 우려 확산 시 국내 증시에서 가장 직접적인 투자 심리 영향을 받는 대장주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 제조 (D램 및 낸드)",
+          "reason": "AI 반도체 수요 변동성 및 글로벌 반도체 섹터 주가 하락 흐름에 민감하게 연동되는 핵심 반도체 종목입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비(TC 본더) 공급",
+          "reason": "글로벌 AI 반도체 투자 심리와 연동된 고대역폭메모리(HBM) 관련 후공정 장비 제조사로 간접적인 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 전공정 장비(ALD 등) 공급",
+          "reason": "전방 산업인 반도체 제조사들의 투자 계획 변동에 영향을 받는 핵심 장비 협력사입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.56%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 재료(포토레지스트 등) 공급",
+          "reason": "반도체 생산 라인 가동률 및 업황 증감에 따라 소재 수요가 연동되는 대표적인 소부장 기업입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-2.32%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 장비 공급",
+          "reason": "반도체 장비 전방 수요 둔화 시 후방 서플라이 체인 전반의 투자 심리와 동조화되는 경향이 있습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-3.33%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 및 디스플레이 장비 공급",
+          "reason": "글로벌 반도체 업황 부진에 따른 세트 업체의 설비투자(CAPEX) 조정 가능성에 영향을 받는 후방 장비사입니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-0.38%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
