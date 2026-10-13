@@ -40,45 +40,85 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미 연준 금리 전망 및 통화정책",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "존 윌리엄스 뉴욕 연은 총재 \"2027년 추가 금리 인상 필요 없을 수도\"",
+      "newsSummaryKo": [
+        "존 윌리엄스 뉴욕 연방준비은행 총재는 인플레이션 압력이 완화됨에 따라 2026년에 한 차례 더 금리 인상이 있을 것으로 전망했습니다.",
+        "반면 2027년에는 추가적인 금리 인상이 필요하지 않을 수 있다는 입장을 밝혔습니다.",
+        "이는 향후 금리 경로를 두고 시장 트레이더들의 시각과 일부 엇갈리는 견해를 보여줍니다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease."
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 에이전트 보안 및 금융권 접근 통제",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "JP모건 체이스, 외부 AI 에이전트의 계좌 직접 접근 차단",
+      "newsSummaryKo": [
+        "JP모건 체이스는 '뮤즈'와 '인스팅트' 같은 외부 AI 에이전트가 고객 계좌에 직접 접근하는 것을 차단했다.",
+        "제이미 다이먼 CEO는 대규모로 작동하는 비정상적 AI 에이전트의 위험성에 대해 경고했다.",
+        "JP모건은 이에 대응하기 위해 은행 차원의 자체 방어 도구를 구축하고 있다고 밝혔다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "이글루",
+          "code": "067920",
+          "role": "보안 솔루션 및 AI 기반 위협 탐지",
+          "reason": "금융권 및 기업의 AI 에이전트 접근 통제와 지능형 사이버 위협 대응 수요 증가와 연관된 보안 관련 상장사임.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+2.51%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "파수AI",
+          "code": "150900",
+          "role": "데이터 보안 및 AI 보안 솔루션",
+          "reason": "외부 AI 에이전트의 기업 내부 데이터 및 계좌 정보 접근을 통제하는 보안 프레임워크와 기술적 연관성이 있음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+5.44%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "지니언스",
+          "code": "263860",
+          "role": "네트워크 접근 제어(NAC) 및 제로 트러스트 보안",
+          "reason": "금융 인프라에서 외부 AI 에이전트와 같은 비인증 실체의 접근을 통제하는 제로 트러스트 보안 체계와 연관됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.93%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 금리 상승 및 주택·건자재 섹터 변동성",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Raymond James, 금리 상승에 Builders FirstSource 목표주가 75달러로 하향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "레이먼드 제임스, 금리 상승 여파로 빌더스 퍼스트소스 목표주가 75달러로 하향 조정",
+      "newsSummaryKo": [
+        "투자은행 레이먼드 제임스는 최근 금리 상승 추세를 반영하여 건자재 유통 기업 빌더스 퍼스트소스의 목표주가를 75달러로 하향 조정했다.",
+        "이번 조치는 고금리 장기화 우려가 주택 건설 및 관련 자재 수요에 미치는 부정적인 영향을 고려한 결정이다.",
+        "빌더스 퍼스트소스는 미국 내 주요 건축 자재 및 서비스 공급업체로 거시경제 지표 변화에 민감하게 반응하는 기업이다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 21:25",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2125817",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 4,
@@ -130,17 +170,19 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
+      "theme": "바이오/헬스케어 IPO",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "TRexBio, 나스닥 IPO에서 주당 $14에 1억 1,670만 달러 조달",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 면역학 바이오기업 티렉스 바이오, 나스닥 IPO 통해 1억 1,670만 달러 조달",
+      "newsSummaryKo": [
+        "미국 면역학 분야 바이오 기업인 TRexBio가 나스닥 초기 공개(IPO)를 성공적으로 마무리했습니다.",
+        "이번 기업공개를 통해 TRexBio는 주당 14달러의 공모가를 기록하며 총 1억 1,670만 달러의 자금을 조달했습니다.",
+        "조달된 자금은 면역 조절을 통한 자가면역질환 치료제 개발 및 파이프라인 임상 연구에 활용될 예정입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 21:00",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-432SI-2125801",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 9,
@@ -156,17 +198,19 @@
     },
     {
       "id": 10,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 제약·바이오 투자 심리 및 파이프라인 분석",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Stifel, Ideaya Biosciences에 매수 의견으로 분석 개시",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 투자은행 스티펠, 이데아야 바이오사이언스에 대한 '매수' 의견으로 분석 개시",
+      "newsSummaryKo": [
+        "미국 투자은행 스티펠(Stifel)이 바이오 기업 이데아야 바이오사이언스(Ideaya Biosciences)에 대한 분석을 시작하며 매수 의견을 제시했습니다.",
+        "이번 분석 개시는 해당 기업이 보유한 파이프라인과 임상 개발 진행 상황에 대한 월가의 평가를 반영한 것입니다.",
+        "스티펠의 리포트 발행 이후 글로벌 제약·바이오 섹터 및 관련 기술 제휴 기업들에 대한 시장의 관심이 이어지고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 20:57",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2125799",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 11,
@@ -353,17 +397,75 @@
     },
     {
       "id": 19,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 기술주 급락 및 안전자산 선호 심리",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "기술주 급락에 안전자산 선호…유로존 국채 금리 하락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "기술주 약세 속 안전자산 선호 심리 확산…유로존 국채 금리 하락",
+      "newsSummaryKo": [
+        "글로벌 증시에서 기술주가 급락세를 보이며 투자자들의 위험 회피 심리가 고조되었다.",
+        "이에 따라 안전자산 선호 현상이 뚜렷해지면서 유로존 주요 국채 가격이 상승하고 금리가 하락했다.",
+        "금융시장은 글로벌 거시경제 지표와 주요국의 통화정책 방향성에 주목하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 16:21",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2125601",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 2,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 대형 기술주",
+          "reason": "글로벌 기술주 투자 심리 위축 및 안전자산 선호 기조에 따라 외국인 수급 등에 직접적인 영향을 받는 국내 대표 기술주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 메모리 반도체 공급사",
+          "reason": "해외 기술주 하락 및 거시경제 변동성에 연동되어 주가 변동성이 확대되는 대표적인 국내 반도체 대장주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 장비 공급",
+          "reason": "전방 산업인 메모리 반도체 업황 및 글로벌 기술주 섹터의 투자 심리 변화에 동조화되는 경향을 보이는 장비 제조사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "글로벌 반도체 및 기술주 센티먼트에 영향을 받는 소부장 밸류체인 내 대표적인 장비 기업입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.56%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "DB하이텍",
+          "code": "000990",
+          "role": "파운드리 서비스",
+          "reason": "반도체 업황 전반의 투자 심리 및 거시경제 지표 변화에 간접적으로 영향을 받는 시스템반도체 관련 상장사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-98.98%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 20,
