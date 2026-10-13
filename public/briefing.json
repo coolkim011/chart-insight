@@ -76,17 +76,42 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "RWA(실물자산) 토큰화 및 블록체인 인프라",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "나스닥 CEO \"토큰화로 수백억 달러 규모의 묶인 자본 해방될 것\"",
+      "newsSummaryKo": [
+        "나스닥의 아데나 프리드먼 최고경영자(CEO)가 토큰화가 수백억 달러 규모의 유동성을 해방할 수 있다고 언급했다.",
+        "이번 발언은 블록체인 기술을 활용한 자산 토큰화가 금융 시장의 자본 효율성을 높일 수 있음을 시사한다.",
+        "토큰화를 통해 전통 금융 시장에서 정체되어 있던 자본이 활성화될 가능성이 제기되고 있다."
+      ],
       "newsSource": "CNBC Markets · Fri, 09 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "서울옥션",
+          "code": "063170",
+          "role": "미술품 등 실물자산 조각투자 및 STO(토큰증권) 플랫폼 연계",
+          "reason": "실물자산(RWA)의 토큰화 및 조각투자 제도권 편입 기대감과 직접적으로 테마를 같이하는 국내 상장사이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "블록체인 기반 STO(토큰증권) 발행 및 결제 인프라 제공",
+          "reason": "토큰증권(STO) 및 실물자산 디지털화 관련 솔루션을 개발 및 서비스하고 있다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.83%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
@@ -114,17 +139,75 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "반도체 장비 업황 불확실성",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "어플라이드 머티어리얼즈 주가 급락, 반도체 장비 전망 불확실",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 반도체 장비사 어플라이드 머티어리얼즈 주가 급락… 업계 전망 불투명",
+      "newsSummaryKo": [
+        "글로벌 대표 반도체 장비 기업인 어플라이드 머티어리얼즈의 주가가 큰 폭으로 하락했습니다.",
+        "이번 주가 급락은 향후 반도체 장비 시장 전반의 수요 전망에 대한 불확실성이 커진 데 기인합니다.",
+        "글로벌 반도체 장비 밸류체인의 투자 심리가 위축되면서 관련 업계의 실적 가시성에 대한 우려가 제기되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-13 16:33",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2125607",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 장비(CVD, Etch 등) 제조",
+          "reason": "글로벌 장비 업황 둔화 우려는 국내 전공정 장비 기업들의 투자 심리 및 밸류체인 전반에 직접적인 간접 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.38%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "원자층증착(ALD) 및 반도체 장비 제조",
+          "reason": "글로벌 반도체 장비 시장의 수요 불확실성은 국내 주요 장비 업체들의 수주 환경과 동조화되는 경향이 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+3.56%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 제조",
+          "reason": "글로벌 장비 섹터의 투자 심리 악화는 국내 대표 반도체 장비주의 주가 변동성 확대로 이어질 수 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 제조",
+          "reason": "반도체 장비 업종 전반의 업황 불확실성 증대에 따라 동종 업계로 투자 심리가 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-3.33%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "덕산하이메탈",
+          "code": "077360",
+          "role": "반도체 패키징 재료 및 솔더볼 제조",
+          "reason": "전방 반도체 장비 및 제조사들의 업황 둔화 우려는 후방 소재·부품 공급망 전반에 간접적인 영향을 미칩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-2.69%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
@@ -149,7 +232,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2125601",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
