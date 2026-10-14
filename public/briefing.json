@@ -40,17 +40,53 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 보안 및 소프트웨어 취약점 패치",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "뱅크오브아메리카, 앤트로픽 '미토스'가 노출한 소프트웨어 결함 보완 위해 외주 인력 1천 명 고용",
+      "newsSummaryKo": [
+        "뱅크오브아메리카는 앤트로픽의 인공지능 모델 '미토스'에 의해 드러난 소프트웨어 결함을 수정하기 위해 1,000명의 계약직 인력을 고용했다.",
+        "이번 조치는 기업들이 인공지능 관련 보안 위협을 방어하고 시스템을 정비하는 과정에서 발생하는 실제 비용의 규모를 보여주는 드문 사례다.",
+        "금융권에서 AI 기술 도입이 확대됨에 따라 동반되는 보안 취약점 점검 및 소프트웨어 패치 작업의 중요성이 부각되고 있다."
+      ],
       "newsSource": "CNBC Markets · Wed, 14 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "안랩",
+          "code": "053800",
+          "role": "소프트웨어 보안 및 취약점 진단 솔루션 제공",
+          "reason": "AI 활용에 따른 소프트웨어 결함 및 보안 위협 증가 테마와 연동되어 관련 보안 솔루션 수요에 영향을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.94%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "파수AI",
+          "code": "150900",
+          "role": "소프트웨어 보안 취약점 분석 및 데이터 보안",
+          "reason": "기업 애플리케이션 및 소스코드의 보안 취약점 분석 관련 사업을 영위하고 있어 글로벌 보안 지출 트렌드와 테마를 같이 함.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+3.99%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "지니언스",
+          "code": "263860",
+          "role": "네트워크 보안 및 엔드포인트 보안 솔루션",
+          "reason": "금융 및 대기업 환경의 IT 인프라 보안 강화 필요성이 대두될 때 관련 수혜 테마로 분류됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.22%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -66,17 +102,53 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "국제 금 가격 하락세 및 원자재 시장 동향",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Gold, 4,118 하락세 지속…추가 하락 위험 부각: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "국제 금 가격 4,118선 하락세 지속…추가 하락 위험 부각",
+      "newsSummaryKo": [
+        "국제 금 가격이 하락세를 지속하며 4,118 부근에서 움직임을 보이고 있다.",
+        "시장에서는 금 가격의 추가 하락 위험성에 대한 우려가 부각되고 있다.",
+        "관련 시세는 매시간 업데이트되며 투자자들의 주의가 요구되고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-14 19:14",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2123110",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KODEX 골드선물(H)",
+          "code": "132030",
+          "role": "원자재 연동 상장지수펀드(ETF)",
+          "reason": "런던금시장협회(LBMA)의 금 가격을 기초자산으로 하는 선물 가격을 추종하므로 금 하락세에 직접적인 영향을 받음",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "엘컴텍",
+          "code": "037950",
+          "role": "자원개발 및 금 관련 테마주",
+          "reason": "몽골 지역에서 금 탐사 및 개발 광권을 보유하고 있어 국제 금 가격 등락에 따라 주가가 테마성 변동을 보임",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+11.78%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "고려아연",
+          "code": "010130",
+          "role": "비철금속 제련 및 귀금속 생산",
+          "reason": "아연, 납뿐만 아니라 부산물로 금과 은을 제련·추출하여 판매하므로 귀금속 가격 변동이 실적에 일부 영향을 미침",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
