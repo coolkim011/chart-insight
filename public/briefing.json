@@ -64,17 +64,19 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 AI 기업 내부자 주식 매각",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "C3.ai CEO Thomas Siebel, 주식 510만 달러어치 매각",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "C3.ai 최고경영자 토마스 시벨, 510만 달러 규모 주식 매각 단행",
+      "newsSummaryKo": [
+        "미국 인공지능(AI) 소프트웨어 기업 C3.ai의 최고경영자(CEO)인 토마스 시벨이 보유 주식을 대거 매각했다.",
+        "이번에 처분한 주식의 총 가치는 약 510만 달러 규모에 달한다.",
+        "해당 주식 매각과 관련한 구체적인 배경이나 추가적인 지분 변동 내역은 본문에 명시되지 않았다."
+      ],
       "newsSource": "Investing.com · 2026-10-14 22:17",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2127389",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 4,
@@ -126,17 +128,19 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 바이오 기업 임원 자사주 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Q32 Bio 최고과학책임자 Shelia Violette, 자사주 7,629달러 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "큐32 바이오 쉴라 바이올렛 최고과학책임자, 자사주 7,629달러 규모 매도",
+      "newsSummaryKo": [
+        "큐32 바이오(Q32 Bio)의 최고과학책임자(CSO)인 쉴라 바이올렛(Shelia Violette)이 자사주를 매도했다.",
+        "이번 주식 매도 규모는 총 7,629달러에 달한다.",
+        "해당 거래는 미국 증권시장 상장사인 큐32 바이오의 내부자 거래 공시를 통해 나타났다."
+      ],
       "newsSource": "Investing.com · 2026-10-14 22:02",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2127383",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 9,
