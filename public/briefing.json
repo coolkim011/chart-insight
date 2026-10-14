@@ -14,32 +14,130 @@
     },
     {
       "name": "나스닥",
-      "price": "26,968.58",
-      "changeRate": "-0.87%",
+      "price": "26,909.90",
+      "changeRate": "-1.08%",
       "isUp": false
     },
     {
       "name": "S&P500",
-      "price": "7,755.71",
-      "changeRate": "-0.64%",
+      "price": "7,744.89",
+      "changeRate": "-0.78%",
       "isUp": false
     },
     {
       "name": "필라델피아반도체",
-      "price": "11,943.79",
-      "changeRate": "-2.17%",
+      "price": "11,863.86",
+      "changeRate": "-2.83%",
       "isUp": false
     },
     {
       "name": "원/달러",
-      "price": "1,340.66",
-      "changeRate": "+0.04%",
+      "price": "1,342.41",
+      "changeRate": "+0.17%",
       "isUp": true
     }
   ],
   "briefings": [
     {
       "id": 1,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "실적발표 콘퍼런스콜: Fastenal, 2026년 3분기 예상치 상회…영업이익률 확대",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 15:03",
+      "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2127125",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 2,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "실적 발표 콘퍼런스콜: 모건 스탠리, 2026년 3분기 예상치 상회에도 주가 하락",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:55",
+      "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2127117",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 3,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "기록적인 유조선 운임에 아시아 정유사 마진 압박",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:53",
+      "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2127114",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
+    },
+    {
+      "id": 4,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Strategy 주가가 오늘 하락하는 이유는?",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:52",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2127113",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 5,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "넥스테라, 실적 발표 후 주가 3.1% 변동 가능성…옵션시장 전망",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:50",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2127112",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 6,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "실적 발표 콘퍼런스콜: Tata Technologies, 2026년 2분기 견조한 성장",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:49",
+      "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2127111",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 7,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "일라이릴리 주가, 오늘 상승하는 이유는?",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:48",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2127110",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 8,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Elevance Health, 10월 21일 실적 발표 앞두고 주가 6.8% 변동 예상",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-10-14 14:48",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2127109",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 9,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
@@ -51,7 +149,7 @@
       "status": "skipped"
     },
     {
-      "id": 2,
+      "id": 10,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Palantir, $212.87 저항 거부신호 후 방향 모색: 매시 업데이트",
@@ -63,7 +161,7 @@
       "status": "skipped"
     },
     {
-      "id": 3,
+      "id": 11,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "IREN Ltd RSI 24.7 극단적 과매도 신호: 매시간 업데이트",
@@ -75,7 +173,7 @@
       "status": "skipped"
     },
     {
-      "id": 4,
+      "id": 12,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Alphabet C, $355 저항선서 상승 탄력 약화: 매시간 업데이트",
@@ -87,7 +185,7 @@
       "status": "skipped"
     },
     {
-      "id": 5,
+      "id": 13,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "뱅크오브아메리카, 2026년 3분기 실적 예상치 하회…개장 전 주가 급락",
@@ -99,7 +197,7 @@
       "status": "skipped"
     },
     {
-      "id": 6,
+      "id": 14,
       "theme": "테슬라 기술적 분석 및 주가 하락",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Tesla, 200일선·이치모쿠 구름 하락 돌파: 매시간 업데이트",
@@ -171,7 +269,7 @@
       "status": "done"
     },
     {
-      "id": 7,
+      "id": 15,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "달러 인덱스, 102.65 과열 구간 진입: 매시간 업데이트",
@@ -183,7 +281,7 @@
       "status": "skipped"
     },
     {
-      "id": 8,
+      "id": 16,
       "theme": "엔비디아 주가 하락 및 글로벌 반도체 공급망 영향",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "NVIDIA 이중천장 붕괴로 224.5달러 하락세 지속: 매시 업데이트",
@@ -255,7 +353,7 @@
       "status": "done"
     },
     {
-      "id": 9,
+      "id": 17,
       "theme": "미국 금융사 규제 및 실적 발표",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
@@ -271,7 +369,7 @@
       "status": "done"
     },
     {
-      "id": 10,
+      "id": 18,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Robert Walters 주가, 13분기 만의 수수료 수입 증가에 급등",
@@ -283,7 +381,7 @@
       "status": "skipped"
     },
     {
-      "id": 11,
+      "id": 19,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Glass Lewis, MPS 주주에 Banco BPM·Banca Generali 인수안 반대 권고",
@@ -295,7 +393,7 @@
       "status": "skipped"
     },
     {
-      "id": 12,
+      "id": 20,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Jefferies, 판매량 우려에 Hershey 목표주가 하향",
@@ -307,7 +405,7 @@
       "status": "skipped"
     },
     {
-      "id": 13,
+      "id": 21,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Canaccord, Amprius Technologies 투자의견 ‘매수’로 신규 제시",
@@ -319,7 +417,7 @@
       "status": "skipped"
     },
     {
-      "id": 14,
+      "id": 22,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "제프리스, 미국 소비 부진에 크래프트 하인즈 목표주가 하향",
@@ -331,7 +429,7 @@
       "status": "skipped"
     },
     {
-      "id": 15,
+      "id": 23,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "IRH·ZCCM-IH, 잠비아서 신규 광업 기회 모색",
@@ -343,7 +441,7 @@
       "status": "skipped"
     },
     {
-      "id": 16,
+      "id": 24,
       "theme": "첨단 반도체 공정 및 소재 수혜",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Truist, 첨단 반도체 공정 수혜 기대에 Entegris ‘매수’ 의견 제시",
@@ -404,7 +502,7 @@
       "status": "done"
     },
     {
-      "id": 17,
+      "id": 25,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "웰스파고, 동일점포 매출 부진에 Domino’s Pizza 목표주가 하향",
@@ -416,7 +514,7 @@
       "status": "skipped"
     },
     {
-      "id": 18,
+      "id": 26,
       "theme": "중국 9월 수출입 지표 예상치 상회",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "China's exports and imports surge past expectations in September",
@@ -488,7 +586,7 @@
       "status": "done"
     },
     {
-      "id": 19,
+      "id": 27,
       "theme": "TSMC 실적 기대감에 따른 반도체 공급망 영향",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "TSMC, 3분기 실적 발표 앞두고 주가 상승",
@@ -549,7 +647,7 @@
       "status": "done"
     },
     {
-      "id": 20,
+      "id": 28,
       "theme": "EUV 노광장비 및 첨단 반도체 소부장",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "ASML, AI 수요에 3분기 매출 사상 최대…2028년 생산능력 확대 추진",
@@ -610,7 +708,7 @@
       "status": "done"
     },
     {
-      "id": 21,
+      "id": 29,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Geely의 Ford España 지분 34% 인수, 중국 당국 승인",
@@ -622,7 +720,7 @@
       "status": "skipped"
     },
     {
-      "id": 22,
+      "id": 30,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "SK Eternix, 41,550 지지선 붕괴 시 급락 위험: 실시간 업데이트",
@@ -634,7 +732,7 @@
       "status": "skipped"
     },
     {
-      "id": 23,
+      "id": 31,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "LS Electric, 61.8% 피보나치서 하락 추세 테스트: 매시 업데이트",
@@ -646,7 +744,7 @@
       "status": "skipped"
     },
     {
-      "id": 24,
+      "id": 32,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "3분기 단기사채 발행 급감…증권사 조달 줄었는데 PF 유동화는 늘었다",
@@ -658,7 +756,7 @@
       "status": "skipped"
     },
     {
-      "id": 25,
+      "id": 33,
       "theme": "코스피 200 기술적 저항 및 지수 흐름",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "KOSPI 200, 368.00 저항 돌파 실패·과매수 경고: 매시간 업데이트",
@@ -730,7 +828,7 @@
       "status": "done"
     },
     {
-      "id": 26,
+      "id": 34,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Kioxia Holdings 이평선 전부 하회, 하락세 지속: 실시간 업데이트",
@@ -742,7 +840,7 @@
       "status": "skipped"
     },
     {
-      "id": 27,
+      "id": 35,
       "theme": "SK하이닉스 주가 하락 및 과매도 국면",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK Hynix 과매도 신호 속 하락 추세 지속: 매시간 업데이트",
@@ -792,7 +890,7 @@
       "status": "done"
     },
     {
-      "id": 28,
+      "id": 36,
       "theme": "삼성전자 주가 및 반도체 서플라이 체인",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자 ₩239,500 지지선 공방: 매시간 업데이트",
@@ -886,7 +984,7 @@
       "status": "done"
     },
     {
-      "id": 29,
+      "id": 37,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Chime Financial 공동창업자 겸 이사 King, 주식 148만 달러어치 매도",
@@ -898,7 +996,7 @@
       "status": "skipped"
     },
     {
-      "id": 30,
+      "id": 38,
       "theme": "중국 전기차의 해외 시장 진출 가속화",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
@@ -970,7 +1068,7 @@
       "status": "done"
     },
     {
-      "id": 31,
+      "id": 39,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Liquidia 인사책임자 Sarah Krepp, 자사주 14만9,377달러어치 매도",
@@ -982,7 +1080,7 @@
       "status": "skipped"
     },
     {
-      "id": 32,
+      "id": 40,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "갈더마, 블랙스톤으로부터 ZO 스킨 15억 달러에 인수 추진",
@@ -994,7 +1092,7 @@
       "status": "skipped"
     },
     {
-      "id": 33,
+      "id": 41,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "팔란티어 테크 이사 Lauren Stat, 보유 주식 100만 달러어치 이상 매도",
@@ -1006,7 +1104,7 @@
       "status": "skipped"
     },
     {
-      "id": 34,
+      "id": 42,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Liquidia Corp 최고개발책임자, 보유 주식 3만1,356달러어치 매도",
@@ -1018,7 +1116,7 @@
       "status": "skipped"
     },
     {
-      "id": 35,
+      "id": 43,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "팔란티어 테크 최고매출·법률책임자, 주식 362만 달러어치 매도",
@@ -1030,7 +1128,7 @@
       "status": "skipped"
     },
     {
-      "id": 36,
+      "id": 44,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Liquidia CFO Michael Kaseta, LQDA 주식 $539,354어치 매도",
@@ -1042,7 +1140,7 @@
       "status": "skipped"
     },
     {
-      "id": 37,
+      "id": 45,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "CrowdStrike CEO George Kurtz, 자사주 772만 달러어치 매도",
@@ -1054,7 +1152,7 @@
       "status": "skipped"
     },
     {
-      "id": 38,
+      "id": 46,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Liquidia CEO Roger Jeffs, 자사주 93만2,549달러어치 매도",
@@ -1066,7 +1164,7 @@
       "status": "skipped"
     },
     {
-      "id": 39,
+      "id": 47,
       "theme": "미 연준 금리 전망 및 통화정책",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
@@ -1082,7 +1180,7 @@
       "status": "done"
     },
     {
-      "id": 40,
+      "id": 48,
       "theme": "AI 에이전트 보안 및 금융권 접근 통제",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
@@ -1132,7 +1230,7 @@
       "status": "done"
     },
     {
-      "id": 41,
+      "id": 49,
       "theme": "미국 금리 상승 및 주택·건자재 섹터 변동성",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Raymond James, 금리 상승에 Builders FirstSource 목표주가 75달러로 하향",
@@ -1148,7 +1246,7 @@
       "status": "done"
     },
     {
-      "id": 42,
+      "id": 50,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Oracle, 뉴멕시코 가스 파이프라인 신속 승인 FERC에 촉구",
@@ -1160,7 +1258,7 @@
       "status": "skipped"
     },
     {
-      "id": 43,
+      "id": 51,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Harbour Island Acquisition, 나스닥에서 1억 달러 규모 IPO 가격 확정",
@@ -1172,7 +1270,7 @@
       "status": "skipped"
     },
     {
-      "id": 44,
+      "id": 52,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "후티 공격으로 Saudi Aramco 다란 본사 화재 발생 후 진화",
@@ -1184,7 +1282,7 @@
       "status": "skipped"
     },
     {
-      "id": 45,
+      "id": 53,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "United Therapeutics CEO Martine Rothblatt, 자사주 523만 달러 매도",
@@ -1196,7 +1294,7 @@
       "status": "skipped"
     },
     {
-      "id": 46,
+      "id": 54,
       "theme": "바이오/헬스케어 IPO",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "TRexBio, 나스닥 IPO에서 주당 $14에 1억 1,670만 달러 조달",
@@ -1212,7 +1310,7 @@
       "status": "done"
     },
     {
-      "id": 47,
+      "id": 55,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Freedom Capital, HealthStream 투자의견 ‘보유’로 분석 개시",
@@ -1224,7 +1322,7 @@
       "status": "skipped"
     },
     {
-      "id": 48,
+      "id": 56,
       "theme": "글로벌 제약·바이오 투자 심리 및 파이프라인 분석",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Stifel, Ideaya Biosciences에 매수 의견으로 분석 개시",
@@ -1240,7 +1338,7 @@
       "status": "done"
     },
     {
-      "id": 49,
+      "id": 57,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Wells Fargo, 2026년 3분기 주당순이익 예상 상회·매출 하회",
@@ -1252,7 +1350,7 @@
       "status": "skipped"
     },
     {
-      "id": 50,
+      "id": 58,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "씨티 투자자 미팅 후 박스·나반, 소프트웨어 업종 선두로 부상",
@@ -1264,7 +1362,7 @@
       "status": "skipped"
     },
     {
-      "id": 51,
+      "id": 59,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Raymond James, 주가 급락에도 Terex ‘적극 매수’ 유지",
@@ -1276,7 +1374,7 @@
       "status": "skipped"
     },
     {
-      "id": 52,
+      "id": 60,
       "theme": "RWA(실물자산) 토큰화 및 블록체인 인프라",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
@@ -1315,7 +1413,7 @@
       "status": "done"
     },
     {
-      "id": 53,
+      "id": 61,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "제퍼리스, 살로몬·아크테릭스 성장세 언급하며 Amer Sports 매수 개시",
@@ -1327,7 +1425,7 @@
       "status": "skipped"
     },
     {
-      "id": 54,
+      "id": 62,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표 콘퍼런스콜: 씨티그룹, 2026년 3분기 예상치 상회에도 주가 하락",
@@ -1339,7 +1437,7 @@
       "status": "skipped"
     },
     {
-      "id": 55,
+      "id": 63,
       "theme": "반도체 장비 업황 불확실성",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "어플라이드 머티어리얼즈 주가 급락, 반도체 장비 전망 불확실",
@@ -1411,7 +1509,7 @@
       "status": "done"
     },
     {
-      "id": 56,
+      "id": 64,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "MongoDB 주가, 오늘 상승한 이유는?",
@@ -1423,7 +1521,7 @@
       "status": "skipped"
     },
     {
-      "id": 57,
+      "id": 65,
       "theme": "글로벌 기술주 급락 및 안전자산 선호 심리",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "기술주 급락에 안전자산 선호…유로존 국채 금리 하락",
@@ -1495,7 +1593,7 @@
       "status": "done"
     },
     {
-      "id": 58,
+      "id": 66,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Willamette Valley Vineyards CFO, 보통주 2만204달러 매수",
@@ -1507,7 +1605,7 @@
       "status": "skipped"
     },
     {
-      "id": 59,
+      "id": 67,
       "theme": "클라우드 데이터베이스 및 AI 인프라",
       "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "MongoDB, 뱅크오브아메리카의 장기 AI 전략 긍정 평가에 주가 상승",
@@ -1523,7 +1621,7 @@
       "status": "done"
     },
     {
-      "id": 60,
+      "id": 68,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Freedom Broker, 실적 부진에 Taylor Devices 투자의견 하향",
@@ -1535,7 +1633,7 @@
       "status": "skipped"
     },
     {
-      "id": 61,
+      "id": 69,
       "theme": "중국 시장 진출 및 미·중 거시경제 협력",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
@@ -1574,7 +1672,7 @@
       "status": "done"
     },
     {
-      "id": 62,
+      "id": 70,
       "theme": "해외 제약사 내부자 주식 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "제리스 바이오파마 CLO 베스 헥트, XERS 주식 156,792달러 매도",
@@ -1590,7 +1688,7 @@
       "status": "done"
     },
     {
-      "id": 63,
+      "id": 71,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "HSBC, 오픈소스 경쟁 우려에 어도비 시스템즈(ADBE) 투자의견 하향 조정",
@@ -1602,7 +1700,7 @@
       "status": "skipped"
     },
     {
-      "id": 64,
+      "id": 72,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "로스차일드 레드번, 제품 개선에 미니메드 ’매수’ 투자의견 개시",
@@ -1614,7 +1712,7 @@
       "status": "skipped"
     },
     {
-      "id": 65,
+      "id": 73,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "플러스500, 헤지 캐피탈 인수 후 주가 상승",
@@ -1626,7 +1724,7 @@
       "status": "skipped"
     },
     {
-      "id": 66,
+      "id": 74,
       "theme": "글로벌 반도체 업황 우려 및 공급망 영향",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "AI 우려·중국 경쟁 심화로 글로벌 반도체 주식 급락",
@@ -1720,7 +1818,7 @@
       "status": "done"
     },
     {
-      "id": 67,
+      "id": 75,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "JP모건, 밸류에이션 우려에 Allient 주식 등급 하향 조정",
@@ -1732,7 +1830,7 @@
       "status": "skipped"
     },
     {
-      "id": 68,
+      "id": 76,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Michael Page 주가, 총이익 성장 재개에도 9주 최저치 기록",
@@ -1744,7 +1842,7 @@
       "status": "skipped"
     },
     {
-      "id": 69,
+      "id": 77,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "YouGov, 2027 회계연도 수익 성장 전망 발표에 주가 급등",
@@ -1756,7 +1854,7 @@
       "status": "skipped"
     },
     {
-      "id": 70,
+      "id": 78,
       "theme": "중국 반도체 경쟁 심화 우려에 따른 국내 대형 반도체주 주가 변동",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자·SK하이닉스, 중국 경쟁 우려로 급락",
@@ -1828,7 +1926,7 @@
       "status": "done"
     },
     {
-      "id": 71,
+      "id": 79,
       "theme": "BGF그룹 형제경영 및 반도체 사업 재편",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "동생이 키운 반도체 사업, 3년만에 형 품으로…BGF 홍정국·정혁 형제경영 새 국면",
@@ -1856,7 +1954,7 @@
       "status": "done"
     },
     {
-      "id": 72,
+      "id": 80,
       "theme": "중국 CXMT의 기술 돌파 및 K반도체 영향",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[차이나 풍향계] 中은 ’기술 돌파구’ 美는 ’양산 난제’…CXMT에 흔들린 K반도체",
@@ -1928,7 +2026,7 @@
       "status": "done"
     },
     {
-      "id": 73,
+      "id": 81,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "’한화 3남’ 김동선은 왜 한화M&S에 사재 1285억 걸었나",
@@ -1940,7 +2038,7 @@
       "status": "skipped"
     },
     {
-      "id": 74,
+      "id": 82,
       "theme": "삼성전자 주가 하락 및 반도체 공급망 영향",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자 주가, 오늘 급락한 이유는?",
@@ -2012,7 +2110,7 @@
       "status": "done"
     },
     {
-      "id": 75,
+      "id": 83,
       "theme": "SK하이닉스 주가 하락 및 반도체 서플라이 체인 영향",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK하이닉스 주가, 오늘 왜 급락했나?",
@@ -2073,7 +2171,7 @@
       "status": "done"
     },
     {
-      "id": 76,
+      "id": 84,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "씨티그룹, 대형 은행 실적 및 주요 CPI 데이터 앞두고 13% 상승",
@@ -2085,7 +2183,7 @@
       "status": "skipped"
     },
     {
-      "id": 77,
+      "id": 85,
       "theme": "글로벌 금융 시장 및 동남아 금융 허브 동향",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
@@ -2135,7 +2233,7 @@
       "status": "done"
     },
     {
-      "id": 78,
+      "id": 86,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
@@ -2147,7 +2245,7 @@
       "status": "skipped"
     },
     {
-      "id": 79,
+      "id": 87,
       "theme": "코스피 급락 및 매도 사이드카 발동",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "속보 코스피 급락에 매도 사이드카 발동",
@@ -2219,7 +2317,7 @@
       "status": "done"
     },
     {
-      "id": 80,
+      "id": 88,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미래에셋증권, 스페이스X로 적자전환...신규 주주환원정책은 기대",
@@ -2231,7 +2329,7 @@
       "status": "skipped"
     },
     {
-      "id": 81,
+      "id": 89,
       "theme": "금융시장 변동성 및 레버리지 ETF 거래 급증",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "레버리지 ETF 위험 경고 놓친 한은…금안국 주식거래 53배 폭증",
@@ -2259,7 +2357,7 @@
       "status": "done"
     },
     {
-      "id": 82,
+      "id": 90,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "JCTC 지분 10% 소유주, 23,066달러 규모 주식 매입",
@@ -2271,7 +2369,7 @@
       "status": "skipped"
     },
     {
-      "id": 83,
+      "id": 91,
       "theme": "중동 리스크에 따른 글로벌 금리 인상 우려 및 금 가격 하락",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "중동 긴장 고조로 금리 인상 우려 확산…금, $4,160 근처서 하락",
@@ -2299,7 +2397,7 @@
       "status": "done"
     },
     {
-      "id": 84,
+      "id": 92,
       "theme": "국내 증시 외국인 순매도 및 지수 급락",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "코스피, 개장 초 4%대 급락…외국인 4600억 ’팔자’에 6100선 위태",
@@ -2371,7 +2469,7 @@
       "status": "done"
     },
     {
-      "id": 85,
+      "id": 93,
       "theme": "AI 모델 트렌드 변화와 저가·효율성 중심의 개발",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[서학개미 안테나] 최첨단 AI 모델도 옛말…개발자들, ’충분히 좋은’ 저가 모델로 이동",
@@ -2443,7 +2541,7 @@
       "status": "done"
     },
     {
-      "id": 86,
+      "id": 94,
       "theme": "미국 반도체주 약세 및 중국 CXMT 추격에 따른 국내 반도체 대형주 하락",
       "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[특징주] 삼전·닉스 급락…美 반도체주 약세에 中 CXMT 기술 추격까지",
@@ -2515,7 +2613,7 @@
       "status": "done"
     },
     {
-      "id": 87,
+      "id": 95,
       "theme": "글로벌 채권 시장 강세 전망 및 우량 회사채 투자 기회",
       "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
@@ -2587,7 +2685,7 @@
       "status": "done"
     },
     {
-      "id": 88,
+      "id": 96,
       "theme": "중국 부동산 경기 턴어라운드",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "After a yearslong slump, China's real estate market may be set for a turnaround",
@@ -2659,7 +2757,7 @@
       "status": "done"
     },
     {
-      "id": 89,
+      "id": 97,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "유니슨, 최대 5억 달러 규모 미국 IPO 추진",
@@ -2671,7 +2769,7 @@
       "status": "skipped"
     },
     {
-      "id": 90,
+      "id": 98,
       "theme": "게임 개발 AI 전환 및 언리얼 엔진 생태계",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "에픽 게임즈, 월트 디즈니 협업 게임 출시 연기…’AI 우선’ 개발 모델 전환",
@@ -2721,7 +2819,7 @@
       "status": "done"
     },
     {
-      "id": 91,
+      "id": 99,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Cerebras Systems 주가, 오늘 52주 신저가로 미끄러진 이유는?",
@@ -2733,7 +2831,7 @@
       "status": "skipped"
     },
     {
-      "id": 92,
+      "id": 100,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "범블 주식, 오늘 급등하는 이유는?",
@@ -2741,233 +2839,6 @@
       "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-10-12 19:20",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2124127",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 93,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "해운 및 보험 비용, 원유 가치의 3분의 1 수준으로 급등",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-12 19:16",
-      "newsLink": "https://kr.investing.com/news/economy-news/article-2124125",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 94,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "사바 캐피탈, 블랙록 ECAT 주식 47,076달러 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-12 19:16",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2124123",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 95,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "휴매너, CMS 스타 등급서 메디케어 관리 보험사 중 최대 수혜",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-12 19:15",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124126",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 96,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Rocket Lab, $65 지지선 위기 테스트 중: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-12 19:14",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2123973",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 97,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "CNBC Markets · Mon, 12 Oct 2026",
-      "newsLink": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 98,
-      "theme": "미 연준 긴축 기조 및 고금리 장기화 우려",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "newsHeadlineKo": "클리블랜드 연은 총재 \"인플레이션 고착화 막기 위해 추가 금리 인상 필요할 수도\"",
-      "newsSummaryKo": [
-        "베스 해맥 클리블랜드 연방준비은행 총재는 인플레이션을 낮추기 위해 더욱 긴축적인 통화 정책이 필요하다고 밝혔습니다.",
-        "해맥 총재는 대중 사이에서 지속적인 고물가 기대감이 형성되는 '인플레이션 심리(mindset)'가 자리 잡는 것을 막아야 한다고 강조했습니다.",
-        "미 연준 주요 인사의 이러한 매파적 발언은 시장 내 고금리 장기화 및 추가 긴축 가능성에 대한 경계감을 키우고 있습니다."
-      ],
-      "newsSource": "CNBC Markets · Mon, 12 Oct 2026",
-      "newsLink": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "stocks": [
-        {
-          "tier": 1,
-          "name": "KB금융",
-          "code": "105560",
-          "role": "국내 대형 금융지주사",
-          "reason": "미 연준의 긴축 기조 유지 및 고금리 장기화 환경에서 순이자마진(NIM) 방어 및 이자이익 유지 가능성이 부각되는 대표 금융주입니다.",
-          "rank": 1,
-          "verified": true,
-          "changeRate": "+0.47%",
-          "isUp": true
-        },
-        {
-          "tier": 1,
-          "name": "신한지주",
-          "code": "055550",
-          "role": "국내 대형 금융지주사",
-          "reason": "글로벌 긴축 연장 및 시장금리 상승 압력 발생 시 은행권 이자마진 유지와 직결되는 대형 시중은행 지주사입니다.",
-          "rank": 2,
-          "verified": true,
-          "changeRate": "-1.66%",
-          "isUp": false
-        },
-        {
-          "tier": 2,
-          "name": "삼성생명",
-          "code": "032830",
-          "role": "대형 생명보험사",
-          "reason": "고금리 환경이 지속되면 신규 채권 투자 및 보유 자산의 운용수익률이 개선되는 구조적 수혜를 받습니다.",
-          "rank": 3,
-          "verified": true,
-          "changeRate": "+0.43%",
-          "isUp": true
-        },
-        {
-          "tier": 2,
-          "name": "DB손해보험",
-          "code": "005830",
-          "role": "대형 손해보험사",
-          "reason": "시장금리 하락 지연 시 장기 보험부채 할인율 부담 완화와 자산운용 수익률 방어 효과를 공유합니다.",
-          "rank": 4,
-          "verified": true,
-          "changeRate": "+0.95%",
-          "isUp": true
-        },
-        {
-          "tier": 3,
-          "name": "푸른저축은행",
-          "code": "007330",
-          "role": "제2금융권 저축은행",
-          "reason": "미국 연준의 추가 금리 인상 및 긴축 강화 이슈가 발생할 때마다 시장에서 금리 인상 수혜 테마주로 연동되는 경향이 있습니다.",
-          "rank": 5,
-          "verified": true,
-          "changeRate": "-0.30%",
-          "isUp": false
-        }
-      ],
-      "status": "done"
-    },
-    {
-      "id": 99,
-      "theme": "인플레이션 장기화 및 고금리 환경",
-      "categoryBadge": "금융/거시경제",
-      "newsHeadlineOriginal": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "newsHeadlineKo": "예측 시장 \"2026년 인플레이션 고점 지났으나 끈적한 흐름 지속될 것\"",
-      "newsSummaryKo": [
-        "예측 시장 트레이더들은 인플레이션이 정점을 통과했을 가능성이 높으나 하락 속도는 더딜 것으로 전망하고 있습니다.",
-        "식품과 에너지를 제외한 근원 인플레이션이 올해 2.2% 수준까지 하락할 가능성은 매우 낮은 것으로 분석되었습니다.",
-        "이에 따라 통화정책 완화 속도가 늦춰지고 고금리 기조가 시장 예상보다 길어질 수 있다는 관측이 제기됩니다."
-      ],
-      "newsSource": "CNBC Markets · Mon, 12 Oct 2026",
-      "newsLink": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "stocks": [
-        {
-          "tier": 1,
-          "name": "KB금융",
-          "code": "105560",
-          "role": "대형 금융지주사",
-          "reason": "인플레이션 고착화에 따른 기준금리 인하 지연 시 순이자마진(NIM) 방어에 유리한 대표 금융주입니다.",
-          "rank": 1,
-          "verified": true,
-          "changeRate": "+0.47%",
-          "isUp": true
-        },
-        {
-          "tier": 1,
-          "name": "신한지주",
-          "code": "055550",
-          "role": "대형 금융지주사",
-          "reason": "고금리 환경이 장기화될 경우 이자이익 기반의 실적 방어력이 부각되는 대형 은행주입니다.",
-          "rank": 2,
-          "verified": true,
-          "changeRate": "-1.66%",
-          "isUp": false
-        },
-        {
-          "tier": 2,
-          "name": "하나금융지주",
-          "code": "086790",
-          "role": "시중 금융지주사",
-          "reason": "금리 하하 압력이 둔화되는 환경에서 견조한 이자마진을 유지할 수 있는 금융 지주사입니다.",
-          "rank": 3,
-          "verified": true,
-          "changeRate": "+1.46%",
-          "isUp": true
-        },
-        {
-          "tier": 2,
-          "name": "우리금융지주",
-          "code": "316140",
-          "role": "시중 금융지주사",
-          "reason": "은행 부문 이익 비중이 높아 긴축적 통화 여건 지속 시 이익 방어력을 나타냅니다.",
-          "rank": 4,
-          "verified": true,
-          "changeRate": "-0.20%",
-          "isUp": false
-        },
-        {
-          "tier": 3,
-          "name": "기업은행",
-          "code": "024110",
-          "role": "중소기업 전문 특수은행",
-          "reason": "고배당 성향의 방어주로서 거시경제 불확실성 및 금리 인하 지연 국면에서 방어주 성격을 띱니다.",
-          "rank": 5,
-          "verified": true,
-          "changeRate": "-0.21%",
-          "isUp": false
-        },
-        {
-          "tier": 3,
-          "name": "SK텔레콤",
-          "code": "017670",
-          "role": "통신 서비스 제공사",
-          "reason": "물가 및 금리 불확실성이 지속되는 시장 환경에서 안정적인 현금흐름을 바탕으로 한 경기방어주로 분류됩니다.",
-          "rank": 6,
-          "verified": true,
-          "changeRate": "+0.00%",
-          "isUp": true
-        }
-      ],
-      "status": "done"
-    },
-    {
-      "id": 100,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "웰스파고, 변화하는 시장 환경 속 최선호 유통주 선정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-10-12 18:28",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2124109",
       "stocks": [],
       "status": "skipped"
     }
