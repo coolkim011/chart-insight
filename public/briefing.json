@@ -64,17 +64,75 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "해운 운임 상승 및 정유 마진 압박",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "기록적인 유조선 운임에 아시아 정유사 마진 압박",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "기록적인 유조선 운임 급등에 아시아 정유사 수익성 마진 압박 가중",
+      "newsSummaryKo": [
+        "최근 글로벌 유조선 운임이 기록적인 수준으로 치솟으면서 아시아 지역 정유사들의 원가 부담이 가중되고 있습니다.",
+        "상승한 운송 비용은 정유 기업들의 정제마진 회복을 제한하는 주요 하방 압력으로 작용하고 있습니다.",
+        "해운 시장의 공급 제약과 수급 불균형이 당분간 유조선 운임 강세를 지지할 것으로 전망됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-14 14:53",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2127114",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "HD현대중공업",
+          "code": "329180",
+          "role": "탱커 및 유조선 건조",
+          "reason": "유조선 운임 상승 및 선박 수요 증가 트렌드에 따라 신조선 발주 및 건조 수혜가 기대되는 대표 조선주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.78%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성중공업",
+          "code": "010140",
+          "role": "대형 선박 및 탱커 건조",
+          "reason": "글로벌 해운 시장의 탱커 선가 및 운임 변동에 따라 대형 선박 수주 잔고와 실적이 연동되는 조선사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-4.70%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "SK이노베이션",
+          "code": "096770",
+          "role": "석유 정제 및 정유 제품 생산",
+          "reason": "유조선 운임 상승에 따른 원가 부담과 정제마진 변동이 직접적인 실적 요인으로 작용하는 대표 아시아 정유사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-3.36%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "S-Oil",
+          "code": "010950",
+          "role": "석유 정제 및 윤활유 제조",
+          "reason": "해운 운임 상승에 따른 마진 압박 이슈가 발생하는 글로벌 정유·화학 밸류체인에 속해 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "팬오션",
+          "code": "028670",
+          "role": "해상 화물 운송 서비스",
+          "reason": "해운 업황 전반의 운임 지수 변동성 확대 테마와 간접적으로 연동되는 국내 벌크·탱커 해운사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.83%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
