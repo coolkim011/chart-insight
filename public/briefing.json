@@ -40,17 +40,75 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "중국 전기차의 해외 시장 진출 가속화",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "골드만삭스 \"투자자들, 중국 기업의 '수익성 있는' 해외 확장에 주목\"",
+      "newsSummaryKo": [
+        "중국 내 소비 수요 둔화로 인해 현지 기업들의 해외 진출 속도가 빨라지고 있습니다.",
+        "특히 전기차 브랜드를 중심으로 글로벌 시장 진입 계획이 가속화되고 있습니다.",
+        "골드만삭스는 글로벌 투자자들이 이러한 중국 기업 중 해외에서 실질적인 수익성을 창출할 수 있는 기업에 주목하고 있다고 분석했습니다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "현대차",
+          "code": "005380",
+          "role": "글로벌 완성차 제조사",
+          "reason": "중국 전기차 제조사들의 유럽 및 신흥국 시장 진출 가속화로 글로벌 점유율 경쟁이 직접적으로 심화됩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.77%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "기아",
+          "code": "000270",
+          "role": "글로벌 완성차 제조사",
+          "reason": "해외 주력 시장인 유럽과 동남아 등지에서 가격 경쟁력을 앞세운 중국 완성차 업체들과 직접 경쟁합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-3.00%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "EV용 2차전지 셀 제조",
+          "reason": "중국 완성차 업체의 해외 확장 시 중국 배터리 기업의 글로벌 점유율 확대로 이어져 배터리 수주 경쟁이 전개됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "현대모비스",
+          "code": "012330",
+          "role": "자동차 핵심 부품 및 전동화 부품 제조",
+          "reason": "현대차그룹의 글로벌 전동화 부품 공급사로서 완성차의 해외 경쟁 상황에 실적이 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.22%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "명신산업",
+          "code": "009900",
+          "role": "전기차 차체 핫스탬핑 부품 공급",
+          "reason": "글로벌 주요 전기차 업체를 고객사로 확보하고 있어 글로벌 전기차 시장 재편 및 경쟁 구도의 영향을 받습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.94%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
