@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday."
     },
     {
@@ -135,7 +135,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2126376",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -161,7 +161,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "The country's customs agency released September trade data on Wednesday."
     },
     {
@@ -175,22 +175,69 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2126058",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
       "id": 12,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "EUV 노광장비 및 첨단 반도체 소부장",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "ASML, AI 수요에 3분기 매출 사상 최대…2028년 생산능력 확대 추진",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "ASML, AI 수요 급증에 3분기 사상 최대 매출 달성…2028년 생산능력 확대 추진",
+      "newsSummaryKo": [
+        "글로벌 노광장비 선두 기업 ASML이 글로벌 AI 칩 수요 확대로 인해 3분기 기준 사상 최대 매출 실적을 달성했습니다.",
+        "ASML은 첨단 반도체 수요 증가에 대응하기 위해 오는 2028년까지 노광장비 생산능력(CAPA) 확대를 본격 추진한다고 밝혔습니다.",
+        "이에 따라 EUV(극자외선) 장비 공급망 확대와 함께 글로벌 파운드리 및 메모리 제조사들의 첨단 공정 투자 가속화가 전망됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-14 05:11",
       "newsLink": "https://kr.investing.com/news/earnings/article-2126056",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "에스앤에스텍",
+          "code": "101490",
+          "role": "EUV 블랭크마스크 및 펠리클 제조",
+          "reason": "노광장비의 핵심 소재인 EUV용 블랭크마스크 및 펠리클 양산을 추진하고 있어 EUV 가동률 및 생산 확대 시 수혜를 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-4.01%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "EUV 및 ArF 포토레지스트(PR) 개발·양산",
+          "reason": "ASML 노광장비 공정에 필수적으로 투입되는 감광액(포토레지스트)을 국산화하여 국내 칩 제조사에 공급하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-5.57%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "ASML EUV 장비 주요 도입 및 AI 반도체 제조",
+          "reason": "ASML의 핵심 고객사로서 High-NA 등 첨단 EUV 장비를 선제 도입해 파운드리 및 차세대 DRAM을 생산합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 어닐링 및 마킹 장비 제조",
+          "reason": "미세 노광 공정 이후 웨이퍼 손상을 최소화하는 레이저 전공정 장비를 공급하며 첨단 공정 밸류체인에 포함됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-5.16%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 13,
@@ -335,7 +382,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2122848",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
