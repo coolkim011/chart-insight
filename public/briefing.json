@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The country's customs agency released September trade data on Wednesday."
     },
     {
@@ -63,7 +63,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2126058",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -77,7 +77,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2126056",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -130,17 +130,75 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "코스피 200 기술적 저항 및 지수 흐름",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "KOSPI 200, 368.00 저항 돌파 실패·과매수 경고: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "코스피 200 지수, 368선 저항 돌파 실패… 기술적 과매수 신호 출현",
+      "newsSummaryKo": [
+        "코스피 200 지수가 단기 주요 저항선인 368.00선 돌파에 실패하며 상단이 제한되는 흐름을 보였습니다.",
+        "기술적 분석 지표상 과매수 경고 신호가 발생하며 단기 조정 가능성이 대두되었습니다.",
+        "대형주 중심의 지수 정체 시그널로 인해 대표 시가총액 상위주 및 파생상품 시장의 단기 변동성 확대가 예상됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-14 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2122849",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "코스피 200 최상위 비중 종목",
+          "reason": "코스피 200 지수 내 편입 비중이 가장 높아 지수의 368선 저항 및 기술적 변동성에 가장 직접적인 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "코스피 200 핵심 대형주",
+          "reason": "지수 시가총액 2위 종목으로 코스피 200의 지수 상단 저항 및 수급 변동에 직접적으로 연동됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "지수 연계 ELS/ETF 발행 및 증권 중개사",
+          "reason": "코스피 200 지수 기반 파생결합증권(ELS) 및 지수형 ETF 거래량과 밀접하게 연동된 수익 구조를 보유하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "지수 선물·옵션 및 파생상품 운용 증권 지주사",
+          "reason": "자회사 한국투자증권을 통해 지수 파생상품 트레이딩 및 지수 연동 금융상품을 대규모로 운용합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "키움증권",
+          "code": "039490",
+          "role": "국내 파생상품 및 주식 위탁매매 증권사",
+          "reason": "코스피 200 선물·옵션 및 레버리지·인버스 ETF 등 지수 파생 거래 증가 시 거래 수수료 수익이 변동합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.08%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
@@ -165,7 +223,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2122848",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
