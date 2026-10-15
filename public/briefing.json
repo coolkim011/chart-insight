@@ -40,31 +40,103 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미 연준 금리 전망 및 통화정책",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "윌리엄스 뉴욕 연은 총재, \"2027년 추가 금리 인상 필요 없을 수도\"… 시장 전망과 괴리",
+      "newsSummaryKo": [
+        "존 윌리엄스 뉴욕 연방준비은행 총재는 인플레이션 압력이 완화됨에 따라 2026년에 한 차례 추가 금리 인상이 있을 것으로 전망했다.",
+        "반면 그는 2027년에는 더 이상의 추가 금리 인상이 필요하지 않을 수 있다는 입장을 밝혔다.",
+        "이 같은 발언은 향후 금리 경로를 두고 시장 트레이더들의 기대와는 다소 엇갈리는 시각을 보여준다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 수요 및 매크로 변동성 민감 대형주",
+          "reason": "미국의 기준금리 경로와 거시경제 환경 변화는 외국인 투자자의 자금 흐름 및 글로벌 IT 전방 수요에 직접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 금리 및 환율 변동 연동 반도체 대표주",
+          "reason": "미 연준의 통화정책 변화에 따른 글로벌 금융시장 유동성과 달러화 가치 변동이 주가 및 밸류에이션에 영향을 미치는 대표적 거시 변수 연동 종목임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "글로벌 반도체 투자 심리 연동 장비 공급사",
+          "reason": "미국 거시경제 및 금리 정책 변화에 따른 글로벌 반도체 업계의 투자 계획과 증시 유동성 환경 변화에 간접적으로 영향받음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 에이전트 금융 계좌 접근 통제 및 보안",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "JP모건 체이스, 외부 AI 에이전트의 고객 계좌 직접 접근 차단",
+      "newsSummaryKo": [
+        "JP모건 체이스는 뮤즈(Muse)와 인스팅트(Instinct)를 포함한 외부 AI 에이전트들의 계좌 직접 접근을 차단했다고 밝혔다.",
+        "제이미 다이몬 CEO는 대규모로 작동하는 비정상적 AI 에이전트들의 위험성에 대해 경고했다.",
+        "이에 대응하여 JP모건 체이스는 자체적인 방어 도구를 구축하고 있다고 언급했다."
+      ],
       "newsSource": "CNBC Markets · Tue, 13 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "라온시큐어",
+          "code": "042510",
+          "role": "인증 및 보안 솔루션 공급",
+          "reason": "금융권의 외부 AI 및 자동화 시스템 접근 통제 강화에 따른 보안 및 본인인증 수요 증가 연계성",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+14.01%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "아톤",
+          "code": "158430",
+          "role": "핀테크 보안 및 인증서 솔루션",
+          "reason": "금융 보안 및 비대면 거래 채널에서 고도화된 접근 통제 솔루션 제공과 관련된 국내 핀테크 보안 기업",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-8.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "시큐브",
+          "code": "131090",
+          "role": "서버 보안 및 접근제어 솔루션",
+          "reason": "시스템 및 계정 접근 통제 분야의 보안 소프트웨어를 제공하는 국내 상장사",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-2.41%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -80,17 +152,19 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 기업 내부자 지분 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Blue Biofuels 이사 Chris Kneppers, 주식 1만 달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "블루 바이오퓨얼스 크리스 네퍼스 이사, 1만 달러 규모 주식 매도",
+      "newsSummaryKo": [
+        "블루 바이오퓨얼스의 이사인 크리스 네퍼스가 회사 주식을 매도했다.",
+        "이번 주식 처분 규모는 총 1만 달러어치에 달한다.",
+        "해당 거래는 기업 내부자의 지분 변동 공시를 통해 확인되었다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 18:46",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2128856",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 5,
@@ -130,31 +204,80 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
+      "theme": "우주항공 및 위성 통신 서플라이 체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "EU, SpaceX 경쟁사 위성 합작법인 신속 승인 추진",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "유럽연합, 스페이스X 대항마 위성 합작법인 승인 속도 낸다",
+      "newsSummaryKo": [
+        "유럽연합(EU) 경쟁 당국이 스페이스X의 독점에 대항하기 위한 위성 통신 합작법인 설립 승인을 신속하게 추진하고 있다.",
+        "이번 합작법인은 유럽 내 위성 통신 인프라를 강화하고 글로벌 저궤도 위성 시장에서 경쟁력을 확보하기 위해 기획됐다.",
+        "규제 당국의 빠른 심사 진행으로 관련 우주항공 및 위성 통신 산업의 투자와 인프라 구축에 속도가 붙을 전망이다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 18:01",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2128842",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "한화시스템",
+          "code": "272210",
+          "role": "저궤도 위성 통신 및 안테나 시스템 개발",
+          "reason": "국내 대표적인 저궤도 위성 통신 및 우주 밸류체인 기업으로 글로벌 우주 인프라 투자 확대의 수혜 기대감이 연동됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.41%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "인텔리안테크",
+          "code": "189300",
+          "role": "위성통신 안테나 및 단말기 공급",
+          "reason": "글로벌 저궤도 위성 통신 사업자들을 대상으로 위성 통신용 안테나를 공급하고 있어 위성 시장 성장의 직접적인 연관성을 지님.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-10.07%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "쎄트렉아이",
+          "code": "099320",
+          "role": "소형 인공위성 시스템 및 지상국 장비 제작",
+          "reason": "국내 최초의 위성 제작 기업으로 위성 통신 및 관측 인프라 확대 테마와 밀접하게 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-9.65%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "AP위성",
+          "code": "211270",
+          "role": "위성 통신 단말기 및 탑재체 부품 공급",
+          "reason": "위성 통신 기기 및 부품 제조 기술을 보유하고 있어 우주항공 및 위성 통신 전방 산업 성장 시 간접적 수혜 가능성이 있음.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-7.32%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
-      "theme": "AI 분석 대기 중",
+      "theme": "바이오테크 투자 심리 및 글로벌 증권사 선호주",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "구겐하임, 바이오테크 최선호주로 Surrozen 선정",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 투자은행 구겐하임, 바이오테크 부문 최선호주로 '서로젠' 전격 선정",
+      "newsSummaryKo": [
+        "미국의 유명 투자은행 구겐하임이 바이오테크 섹터 내 최선호주(Top Pick)로 서로젠(Surrozen)을 선정했습니다.",
+        "이번 선정은 구겐하임의 제약·바이오 산업 분석 및 기업 가치 평가를 바탕으로 이루어졌습니다.",
+        "구체적인 본문 기사 내용은 제공되지 않았으나, 서로젠의 파이프라인 및 성장 잠재력이 주목받은 것으로 평가됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 17:52",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2128837",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 10,
