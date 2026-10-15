@@ -40,31 +40,125 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 9월 CPI 발표 및 금리 인상 우려 재점화",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "[서학개미 안테나] 미국 9월 CPI 3.7%…휘발유 9.1% 급등에 금리 인상 우려 재점화",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 9월 CPI 3.7% 상승…휘발유 가격 급등으로 금리 인상 우려 재부각",
+      "newsSummaryKo": [
+        "미국의 9월 소비자물가지수(CPI)가 전년 동월 대비 3.7% 상승하며 시장 예상치를 상회했습니다.",
+        "이 기간 휘발유 가격이 9.1% 급등하면서 전체 물가 상승세를 견인한 것으로 나타났습니다.",
+        "물가 압력이 지속됨에 따라 미국 연방준비제도의 추가 금리 인상에 대한 우려가 다시 고개르 들고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 00:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2127471",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT·반도체 대장주",
+          "reason": "미국 거시경제 지표 악화 및 금리 인상 우려는 글로벌 소비 위축과 환율 변동성을 통해 국내 증시 전반에 직접적인 영향을 미침.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 대장주",
+          "reason": "매크로 불확실성 확대 및 고금리 장기화 우려는 기술주 전반의 밸류에이션 부담으로 작용함.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 공급",
+          "reason": "글로벌 거시경제 및 반도체 업황 센티멘트에 연동되어 주가 변동성을 보이는 대표적인 소부장 기업임.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 투자 및 GPU 담보 대출 확대",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "[서학개미 안테나] 블랙록 CEO 래리 핑크 \"AI 투자에 자본 부족\"…GPU 담보 대출까지 등장",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "블랙록 래리 핑크 CEO \"AI 인프라 자본 부족\"…GPU 자산 활용한 담보 대출까지 등장",
+      "newsSummaryKo": [
+        "블랙록의 래리 핑크 CEO는 인공지능(AI) 인프라 구축에 투입될 자본이 여전히 부족한 상태라고 진단했다.",
+        "급증하는 AI 데이터센터 및 연산 자원 수요를 충족하기 위해 전통적인 자금 조달 방식을 넘어선 대안이 모색되고 있다.",
+        "일부 시장에서는 고성능 그래픽처리장치(GPU)를 담보로 제공하고 자금을 조달하는 새로운 형태의 대출 방식까지 등장했다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 00:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2127473",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM(고대역폭 메모리) 및 AI 서버용 메모리 공급",
+          "reason": "AI 데이터센터 투자 확대에 따른 고성능 메모리 반도체 수요 증가와 직결되는 대표적인 글로벌 서플라이 체인 기업이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 반도체 및 파운드리, AI 하드웨어 생태계 구축",
+          "reason": "글로벌 AI 인프라 투자 확대 기조 속에서 서버용 D램 및 HBM 공급을 담당하는 국내 최대 반도체 기업이다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 장비 공급",
+          "reason": "AI 연산의 핵심인 GPU와 결합되는 HBM 생산 공정에 필수적인 장비를 공급하여 AI 인프라 투자 확장의 수혜 테마로 연동된다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 메커니즘 및 커팅 장비 공급",
+          "reason": "AI 반도체 패키징 공정에 사용되는 레이저 장비를 생산하며, AI 인프라 확장에 따른 반도체 후공정 밸류체인에 포함된다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-7.36%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "ISC",
+          "code": "095340",
+          "role": "반도체 테스트 소켓(실리콘 러버 소켓) 공급",
+          "reason": "AI 및 서버용 고성능 반도체 칩의 최종 성능 테스트 단계에 사용되는 소켓을 제조하여 간접적으로 연관된다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-10.56%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -80,31 +174,80 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "물류 산업 AI 전환 및 자동화",
+      "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "대한상의 물류위 \"AI 전환은 선택 아닌 필수\"…업계 협력 강화",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "대한상의 물류위원회, \"물류 AI 전환은 필수\"… 업계 협력 체계 강화 논의",
+      "newsSummaryKo": [
+        "대한상공회의소는 물류위원회 회의를 열고 인공지능(AI) 기반의 물류 디지털 전환이 선택이 아닌 필수 과제임을 강조했다.",
+        "이번 회의에서는 AI 기술 도입을 통한 물류 효율성 제고 방안과 업계 간 협력 강화 방안이 중점적으로 논의되었다.",
+        "참석자들은 물류 현장의 자동화와 데이터 기반의 공급망 최적화가 향후 경쟁력을 좌우할 것이라는 데 인식을 같이했다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 00:40",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2127474",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "role": "IT 서비스 및 물류 솔루션 제공",
+          "reason": "AI와 블록체인 등 첨단 IT 기술을 접목한 물류 통합 플랫폼(첼로 스퀘어)을 운영하며 물류 디지털 전환을 주도함.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "CJ대한통운",
+          "code": "000120",
+          "role": "종합 물류 서비스 및 스마트 물류 인프라",
+          "reason": "물류 센터 내 AI 기반 자동화 시스템과 첨단 물류 로봇을 도입하여 공급망 효율화 작업을 적극 추진 중임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+2.76%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "현대오토에버",
+          "code": "307950",
+          "role": "스마트 물류 IT 시스템 구축",
+          "reason": "그룹 내 물류 및 생산 공급망(SCM)의 디지털 전환과 스마트팩토리 관련 시스템 통합(SI) 역할을 수행함.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.81%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "에스피시스템스",
+          "code": "317830",
+          "role": "로봇 자동화 시스템 제조",
+          "reason": "스마트팩토리 및 물류 자동화 공정에 투입되는 갠트리 로봇 및 자동화 설비를 제조·공급함.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-5.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 플랫폼 기업 실적 및 주가 동향",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Airtasker, 2026년 1분기 성장세에 주가 소폭 상승",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "에어태스커, 2026년 1분기 견조한 성장세 힘입어 주가 소폭 상승",
+      "newsSummaryKo": [
+        "호주 기반의 서비스 마켓플레이스 플랫폼 에어태스커(Airtasker)가 2026년 1분기 실적을 발표했다.",
+        "이번 실적 발표에서 회사는 지속적인 성장세를 기록한 것으로 확인되었다.",
+        "실적 호조 소식에 힘입어 에어태스커의 주가는 시장에서 소폭 상승세를 나타냈다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 00:39",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2127467",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 6,
