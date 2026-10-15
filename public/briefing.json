@@ -40,31 +40,125 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 투자 및 반도체 장비 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "VAT Group, AI 수요 급증으로 2027년 매출 목표치 대폭 상향",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "VAT 그룹, AI 수요 급증에 힘입어 2027년 매출 목표치 대폭 상향 조정",
+      "newsSummaryKo": [
+        "글로벌 진공 밸브 선도 기업인 VAT 그룹이 인공지능(AI) 관련 수요 급증을 이유로 2027년 매출 목표치를 상향 조정했다.",
+        "이번 목표치 상향은 AI 데이터센터 및 고성능 컴퓨팅 인프라 확대에 따른 반도체 제조 장비 수요 증가를 반영한 것이다.",
+        "VAT 그룹은 급증하는 시장 수요에 대응하기 위해 생산 능력을 확충하고 공급망 안정화에 주력할 방침이다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 05:15",
       "newsLink": "https://kr.investing.com/news/earnings/article-2127622",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 장비 제조",
+          "reason": "글로벌 반도체 장비 투자 확대 기조 속에서 국내 대표적인 반도체 전공정 장비 공급사로서 동조화 경향을 보입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-14.24%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 증착 장비 제조",
+          "reason": "전방 반도체 소부장 업황 개선 및 AI 관련 칩 생산 증가에 따른 장비 수요 연동 효과가 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-12.89%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "테스",
+          "code": "095610",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "글로벌 장비 수요 증가가 국내 전공정 장비 및 부품 생태계 전반의 투자 심리에 영향을 미칩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-16.49%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 제조",
+          "reason": "AI 반도체 수요 급증이라는 거시적 트렌드가 국내 반도체 장비 전반의 밸류체인에 공통으로 작용합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미국 CPI 발표 후 국채 금리 급락",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "CPI 충격 후 미국 국채 금리 급락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "소비자물가지수(CPI) 충격 이후 미국 국채 금리 급락세 기록",
+      "newsSummaryKo": [
+        "미국의 소비자물가지수(CPI) 발표 직후 금융시장에서 큰 폭의 변동성이 나타났습니다.",
+        "물가 지표 충격 여파로 안전자산 선호 심리가 강화되며 미국 국채 금리가 급락했습니다.",
+        "이번 금리 급락은 향후 연방준비제도(Fed)의 통화정책 경로에 대한 시장의 기대를 반영하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 05:05",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2127619",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 IT 수요 및 매크로 지표 연동 대장주",
+          "reason": "미국 금리 하락 및 거시경제 지표 변동은 글로벌 IT 수요와 외국인 수급에 직접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 금리 및 환율 민감 대형 반도체주",
+          "reason": "미국 국채 금리 급락 등 거시경제 환경 변화는 대규모 자금 조달 비용 및 밸류에이션에 즉각적인 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "role": "글로벌 매크로 변동성에 연동되는 대형 수출주",
+          "reason": "미국 국채 금리와 환율 변동은 글로벌 자금 흐름과 대형 수출주의 투자 심리에 간접적인 연관성을 가집니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.68%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "현대차",
+          "code": "005380",
+          "role": "글로벌 금리 환경 변화에 민감한 완성차 대표주",
+          "reason": "미국 국채 금리 하락은 할부 금융 비용 및 북미 시장 소비 심리에 영향을 미칠 수 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.77%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
