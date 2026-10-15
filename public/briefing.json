@@ -52,17 +52,19 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 클라우드 및 기업용 소프트웨어(SaaS) 시장 동향",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "D.A. Davidson, AI 성장 전망에도 워크데이 투자의견 유지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미 증권사 D.A. 데이비슨, 인공지능(AI) 성장 전망에도 워크데이 투자의견 유지",
+      "newsSummaryKo": [
+        "투자회사 D.A. 데이비슨은 인공지능(AI) 성장 전망에도 불구하고 기업용 소프트웨어 기업 워크데이에 대한 기존 투자의견을 유지했습니다.",
+        "이번 평가는 AI 기술 도입 확대가 관련 소프트웨어 기업들의 실적과 주가에 미치는 영향을 분석하는 과정에서 이루어졌습니다.",
+        "구체적인 투자의견 변경 내용이나 목표주가 수정 여부는 본문에 언급되지 않았습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 14:39",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2128723",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
@@ -102,31 +104,92 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미·일 반도체 협력 및 파운드리 공급망",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Stifel, 미·일 반도체 공장 협약에 GlobalFoundries 매수 의견 유지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스티펠, 미·일 반도체 공장 협약 체결에 글로벌파운드리스 매수 의견 유지",
+      "newsSummaryKo": [
+        "미국과 일본 정부 간의 반도체 공장 협약 체결 소식이 전해졌다.",
+        "투자은행 스티펠은 해당 협약을 배경으로 글로벌파운드리스(GlobalFoundries)에 대한 기존 매수 의견을 유지했다.",
+        "이번 협약은 양국 간 반도체 공급망 협력 강화 조치의 일환으로 평가받고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 14:34",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2128713",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 파운드리 선두 기업",
+          "reason": "미국과 일본을 포함한 글로벌 반도체 공급망 재편 및 파운드리 시장 경쟁 구도와 직접적으로 연관된 국내 대표 기업이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "DB하이텍",
+          "code": "000990",
+          "role": "파운드리 및 시스템반도체 위탁생산",
+          "reason": "글로벌파운드리와 유사한 팹리스 및 파운드리 비즈니스 모델을 영위하여 글로벌 위탁생산 업황 변화에 영향을 받는다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-98.98%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "SFA반도체",
+          "code": "036540",
+          "role": "반도체 패키징 및 테스트 후공정",
+          "reason": "파운드리 생태계 전반의 가동률 및 투자 움직임에 연동되는 후공정 전문 기업이다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-12.55%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "글로벌 반도체 제조사의 설비투자(CAPEX) 확대 추세에 따라 간접적으로 수급 영향을 받는 장비 밸류체인이다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-15.47%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 IT 서비스 및 AI 투자 전망",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "스티펠, AI 성장 전망에 액센츄어 매수 의견 유지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "투자은행 스티펠, AI 성장 기대감에 액센츄어 '매수' 의견 유지",
+      "newsSummaryKo": [
+        "투자은행 스티펠은 인공지능(AI) 분야의 지속적인 성장 전망을 근거로 글로벌 IT 컨설팅 기업 액센츄어에 대한 매수 의견을 유지했습니다.",
+        "이번 평가는 기업들의 AI 도입 및 디지털 전환 수요가 지속되면서 IT 서비스 및 컨설팅 시장이 우호적인 환경을 유지할 것이라는 분석을 바탕으로 합니다.",
+        "스티펠은 액센츄어가 견고한 시장 지위와 AI 관련 서비스 확장을 통해 중장기적 수혜를 입을 것으로 전망했습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 14:33",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2128711",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "삼성에스디에스",
+          "code": "018260",
+          "role": "IT 서비스 및 클라우드·AI 전환 공급",
+          "reason": "국내 대표 IT 서비스 및 시스템 통합(SI) 기업으로 글로벌 기업들의 AI 및 클라우드 전환 투자 흐름과 동조화되는 경향이 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
