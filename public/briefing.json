@@ -40,31 +40,136 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중국의 대유럽 희토류 공급 지속",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "중국, 미·중 무역 협정 만료와 무관하게 EU로의 희토류 공급 유지 시사",
+      "newsSummaryKo": [
+        "유럽연합(EU)의 마로시 셰프초비치 무역 담당 집행위원이 지난주 베이징을 방문했다.",
+        "셰프초비치 집행위원은 베이징에서 왕원타오 중국 상무부장과 회동을 가졌다.",
+        "중국 측은 미국과의 무역 협정 만료 여부와 관계없이 유럽연합(EU)으로의 희토류 수출이 지속될 것임을 시사했다."
+      ],
       "newsSource": "CNBC Markets · Thu, 15 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "유니온머티리얼",
+          "code": "047400",
+          "role": "희토류 대체재(페라이트 자석) 생산",
+          "reason": "중국의 희토류 수출 통제 및 글로벌 공급망 이슈 발생 시 희토류 대체 테마주로 직접적인 시장 관심을 받는 국내 상장사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-4.93%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "노바텍",
+          "code": "285490",
+          "role": "희토류 영구자석 응용제품 개발",
+          "reason": "희토류 원자재 수급 및 공급망 변화에 따라 관련 원자재 및 자석 테마로 연동되어 움직이는 국내 기업입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-4.60%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "유니온",
+          "code": "000910",
+          "role": "계열사 지분 보유 및 희토류 관련 테마",
+          "reason": "희토류 관련 대표 종목인 유니온머티리얼의 모회사로 동반 테마를 형성하는 상장사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.14%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동국알앤에스",
+          "code": "075970",
+          "role": "희토류 확보 관련 국책과제 참여 이력",
+          "reason": "과거 희토류 관련 자원 확보 및 공급망 다변화 정책 수혜 기대감으로 함께 묶이는 종목입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.47%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "쎄노텍",
+          "code": "222420",
+          "role": "세라믹 비드 생산 및 광물 분쇄 공정 연관",
+          "reason": "광물 처리 및 소재 가공 공정에 사용되는 세라믹 비드를 생산하여 광물·자원 테마의 후방에 위치합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-3.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 데이터센터 전력 인프라 및 가스 발전",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Venture Global, AI 데이터센터용 가스 발전소 건설 추진",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 벤처글로벌, AI 데이터센터 전력 공급 위한 가스 발전소 건설 추진",
+      "newsSummaryKo": [
+        "미국의 LNG 기업 벤처글로벌(Venture Global)이 급증하는 AI 데이터센터의 전력 수요를 충족하기 위한 가스 발전소 건설을 추진하고 있다.",
+        "이번 프로젝트는 대규모 전력이 필수적인 AI 데이터센터 시장에 안정적인 에너지원을 공급하기 위한 인프라 구축의 일환이다.",
+        "글로벌 빅테크 기업들의 AI 인프라 투자 확대로 인해 전력 공급원 확보의 중요성이 커지는 가운데 가스 발전 및 관련 기자재 수요가 주목받고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 10:02",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2127956",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "role": "변압기 및 전력기기 공급",
+          "reason": "가스 발전소 및 AI 데이터센터 신설에 따른 전력망 인프라 구축 과정에서 변압기 및 배전반 등 전력기기 수요 증가가 예상됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.66%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "효성중공업",
+          "code": "298040",
+          "role": "전력 변환 장치 및 중전기기 제조",
+          "reason": "발전소와 데이터센터를 연결하는 전력 송배전 인프라 관련 중전기기 및 변압기를 공급하는 국내 대표 기업임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.29%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한화엔진",
+          "code": "082740",
+          "role": "발전용 엔진 및 관련 기자재",
+          "reason": "가스 발전 및 전력 공급 인프라 확대 시 연계될 수 있는 발전용 엔진 및 기자재 공급 밸류체인에 포함됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-4.45%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "대한전선",
+          "code": "001440",
+          "role": "전력 케이블 공급",
+          "reason": "발전소와 데이터센터를 연결하는 고부가가치 초고압 케이블 및 송전선 설비 수요와 연동됨.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.21%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -116,17 +221,75 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "ASML 실적 및 AI 반도체 수요 전망",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "Citi “ASML 실적, AI 반도체 수요 전망 2030년까지 이어질 것”",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "씨티 \"ASML 실적, 2030년까지 AI 반도체 수요 견조할 것\"",
+      "newsSummaryKo": [
+        "씨티그룹은 ASML의 실적과 관련해 인공지능(AI) 반도체 수요 전망이 2030년까지 지속될 것으로 분석했다.",
+        "이번 전망은 글로벌 AI 인프라 투자 확대에 따른 노광장비 및 관련 반도체 공급망의 장기 성장성을 시사한다.",
+        "반도체 장비 수요의 지속 가능성은 전후방 밸류체인 전반에 긍정적인 업황 기대감을 형성하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-15 09:55",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2127947",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 메모리(HBM) 공급",
+          "reason": "AI 반도체 수요 확증은 고대역폭메모리(HBM)를 선도하는 동사의 실적 가시성과 직접적으로 연동됨",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "파운드리 및 메모리 생산",
+          "reason": "글로벌 AI 반도체 수요 확장에 따라 EUV 등 첨단 공정 장비 활용과 메모리 공급 확대가 예상됨",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "HPSP",
+          "code": "403870",
+          "role": "고압 수소어닐링 장비 공급",
+          "reason": "반도체 미세공정 투자가 확대될 때 수혜를 받는 전공정 장비 기업으로 글로벌 장비 동향과 밀접함",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-12.87%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "증착 장비 공급",
+          "reason": "반도체 소부장 밸류체인 내에서 전공정 장비 수요 증가에 따른 실적 연동성이 높음",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-14.97%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "레이저 장비 공급",
+          "reason": "반도체 생산 공정 고도화 및 패키징 기술 발전과 함께 레이저 장비 수요가 파생적으로 증가함",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-9.71%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
