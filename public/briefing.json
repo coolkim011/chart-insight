@@ -40,17 +40,64 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 보안 취약점 분석 및 대응",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "뱅크오브아메리카, 앤스로픽의 AI가 발견한 소프트웨어 결함 보완 위해 1,000명의 계약직 채용",
+      "newsSummaryKo": [
+        "뱅크오브아메리카는 앤스로픽의 AI 모델 '미토스(Mythos)'에 의해 노출된 소프트웨어 결함을 패치하기 위해 1,000명의 계약직 인력을 고용했다.",
+        "이번 조치는 인공지능이 찾아낸 시스템 취약점을 방어하고 보완하는 데 투입되는 구체적인 비용과 규모를 보여주는 드문 사례다.",
+        "금융권에서 AI 도입이 가속화됨에 따라 고도화된 AI가 식별한 보안 취약점 대응의 중요성과 관련 비용이 증가하고 있음을 시사한다."
+      ],
       "newsSource": "CNBC Markets · Wed, 14 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "파수AI",
+          "code": "150900",
+          "role": "소프트웨어 보안 및 취약점 분석 솔루션 공급",
+          "reason": "AI 기술 발전과 함께 소프트웨어 취약점 진단 및 보안 패치 수요가 증가할 때 직접적인 수혜나 연관성이 부각되는 국내 정보보안 기업이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.80%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "지니언스",
+          "code": "263860",
+          "role": "네트워크 보안 및 엔드포인트 보안 솔루션 제공",
+          "reason": "글로벌 금융기관의 소프트웨어 결함 대응 및 보안 강화 기조와 맞물려 정보보호 및 제로트러스트 테마로 연동되는 상장사다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.23%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "안랩",
+          "code": "053800",
+          "role": "통합 보안 솔루션 및 보안 컨설팅 서비스",
+          "reason": "글로벌 보안 이슈 및 소프트웨어 결함 대응 트렌드가 국내 보안 서비스 및 솔루션 수요에 간접적인 영향을 미치는 대표적 국내 보안 기업이다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.08%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "시큐레터",
+          "code": "418250",
+          "role": "보안 소프트웨어 개발 및 취약점 진단",
+          "reason": "소프트웨어 내 잠재적 취약점 분석 및 위협 대응 기술을 보유하여 보안 관련 뉴스 플로우에 반응하는 경향이 있다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
