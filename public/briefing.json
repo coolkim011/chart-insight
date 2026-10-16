@@ -88,45 +88,274 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "SK하이닉스 주가 기술적 과매도 진입",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK하이닉스, RSI 23 극단적 과매도 신호: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "SK하이닉스, 상대강도지수(RSI) 23 기록하며 극단적 과매도 구간 진입",
+      "newsSummaryKo": [
+        "SK하이닉스의 상대강도지수(RSI)가 23 수준까지 하락하며 기술적 분석상 극단적인 과매도 구간에 도달했습니다.",
+        "일반적으로 RSI가 30 이하로 내려갈 경우 단기 매도세가 집중된 과매도 상태로 평가됩니다.",
+        "시장 참여자들은 기술적 지표 급락에 따른 주가 변동성 및 향후 반등 여부를 모니터링하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 05:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2122848",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 메모리 반도체(DRAM·NAND) 제조사",
+          "reason": "기술적 지표인 RSI가 23까지 하락하여 단기 과매도 신호가 발생한 직접적인 해당 종목입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM용 TC 본더 장비 공급사",
+          "reason": "SK하이닉스의 HBM 제조 라인에 핵심 장비인 TC 본더를 독점 공급하고 있어 주가 상관관계가 높습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "유진테크",
+          "code": "084370",
+          "role": "반도체 전공정 LP-CVD 증착 장비 제조사",
+          "reason": "SK하이닉스를 주요 고객사로 두고 메모리 공정용 박막 증착 장비를 대규모로 납품하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+4.82%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "와이씨켐",
+          "code": "112290",
+          "role": "반도체 특수 세정액 및 포토 공정 소재 제조사",
+          "reason": "SK하이닉스 메모리 공정에 사용되는 특수 세정액과 슬러리 등 후방 소재를 공급하는 업체입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+7.24%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "오킨스전자",
+          "code": "080580",
+          "role": "반도체 검사용 번인소켓 제조사",
+          "reason": "SK하이닉스 등 주요 칩 제조사에 번인소켓 및 테스트 인터페이스 부품을 공급하는 후방 부품사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+12.70%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "삼성전자 기술적 반등 및 반도체 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자 ₩219,750서 단기 반등 신호, 하락 추세 지속: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성전자, 기술적 단기 반등 신호 포착 속 중기 하락 추세 지속 국면",
+      "newsSummaryKo": [
+        "삼성전자 주가가 기술적 지표상 단기 반등 신호를 보였으나 여전히 전반적인 하락 추세 흐름에 머물러 있는 것으로 나타났습니다.",
+        "시장 분석에서는 주요 지지 가격대를 중심으로 단기 저가 매수 유입과 매도 압력이 교차하며 시간별 변동성을 확대하고 있습니다.",
+        "추가적인 추세 반전을 위해서는 기술적 반등 흐름의 안착과 함께 글로벌 반도체 업황 및 실적 가시성 회복이 주요 변수로 작용할 전망입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 05:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2122850",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 종합 반도체(IDM) 대형주",
+          "reason": "기사에서 직접적으로 주가 흐름 및 기술적 분석 지표가 다뤄진 핵심 종목입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 메모리 반도체 제조사",
+          "reason": "삼성전자와 함께 국내 반도체 섹터의 지수 흐름 및 투자 심리를 양분하는 대표 대형주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 증착·열처리 장비 제조",
+          "reason": "삼성전자 반도체 라인에 증착 및 식각 장비를 주력 공급하며 주가 등락에 높은 상관성을 보입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+7.11%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "솔브레인",
+          "code": "357780",
+          "role": "반도체 전공정 공정소재(식각액·세정액) 제조",
+          "reason": "삼성전자 반도체 제조 공정에 고순도 불산 및 화학 소재를 안정적으로 납품하는 1차 벤더입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+2.97%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "하나마이크론",
+          "code": "067310",
+          "role": "반도체 후공정(OSAT) 패키징 및 테스트",
+          "reason": "삼성전자의 메모리 및 비메모리 반도체 외주 패키징 물량을 대규모로 처리하는 핵심 후공정 협력사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+6.06%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 감광액(포토레지스트) 국산화 제조",
+          "reason": "삼성전자의 노광 공정용 포토레지스트를 국산화 공급하는 후방 핵심 소재 업체입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+5.56%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "유진테크",
+          "code": "084370",
+          "role": "반도체 저압 화학기상증착(LPCVD) 장비 제조",
+          "reason": "삼성전자와 SK하이닉스의 미세공정 전환에 필수적인 박막 형성 장비를 공급하는 후방 장비사입니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "+4.82%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "코스피 200 지수 지지선 이탈",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "KOSPI 200, 362.00 지지선 이탈로 하락 압력 확대: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "코스피 200 지수, 362.00 지지선 하향 이탈하며 하락 압력 가중",
+      "newsSummaryKo": [
+        "코스피 200 지수가 핵심 기술적 지지선인 362.00 포인트를 하회하며 단기 하방 압력이 확대되었습니다.",
+        "주요 지지선 붕괴에 따라 지수 추종 패시브 펀드 및 대형주 전반에 걸친 매도 압력이 강화되는 양상을 보이고 있습니다.",
+        "기술적 지지선 이탈 이후 시장 내 변동성이 증가하며 매시간 지수 추이 및 추가 하방 지지 구간 확인이 요구되는 상황입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 05:05",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2122849",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KODEX 200",
+          "code": "069500",
+          "role": "코스피 200 대표 추종 ETF",
+          "reason": "코스피 200 지수를 기초지수로 추종하므로 지수 변동과 가격이 직접적으로 연동됩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+4.31%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "코스피 200 시가총액 1위 대장주",
+          "reason": "코스피 200 지수 내 시가총액 비중이 가장 높아 지수 지지선 이탈 시 프로그램 및 외국인 매도 압력에 가장 직접적인 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "코스피 200 시가총액 2위 대표주",
+          "reason": "코스피 200 상위 비중 종목으로 지수 하락 압력 확대 시 패시브 수급 이탈의 직접적인 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "코스피 200 상위 2차전지 대표주",
+          "reason": "지수 비중 상위 종목으로서 코스피 200 지수 레벨 하향에 따른 대형주 바스켓 매도 물량 출회 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "role": "코스피 200 상위 제약·바이오 대표주",
+          "reason": "코스피 200 지수의 주요 구성 종목으로 지수 단위 수급 변동에 연동되어 주가 흐름이 형성됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.76%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "KODEX 200선물인버스2X",
+          "code": "252670",
+          "role": "지수 하락 헤지용 파생 ETF",
+          "reason": "F-KOSPI 200 지수 일일 수익률의 음의 2배수를 추종하여 코스피 200 하락 시 반사이익을 얻는 파생 상품입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-9.09%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "대형 증권사",
+          "reason": "주요 지수 하락 및 증시 변동성 확대 국면에서 거래대금 추이와 지수형 ELS 등 파생상품 운용 손익에 간접적인 영향을 받습니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "금융 투자 및 증권 지주사",
+          "reason": "증시 전반의 하락 압력 확대로 인한 위탁매매 수익 및 자기자본 운용(PI) 부문의 평가 손익에 간접적인 영향을 받습니다.",
+          "rank": 8,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
@@ -3063,6 +3292,8 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1792195199.3228226
+    }
   }
 }
