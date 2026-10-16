@@ -52,17 +52,19 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "방산 기업 임원 지분 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Kratos Defense의 Carrai 사장, 보통주 $259,116어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 방산기업 크라토스 디펜스, 카라이 사장 25만 달러 규모 보통주 매도",
+      "newsSummaryKo": [
+        "미국 방산 및 무인시스템 전문 기업인 크라토스 디펜스 앤드 보안 솔루션즈(Kratos Defense)의 카라이 사장이 보유 중인 보통주를 매도했다.",
+        "이번 주식 매도 규모는 총 25만 9,116달러어치에 달한다.",
+        "해당 거래 내역은 규제 당국 공를 통해 시장에 공개되었다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 23:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130371",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 3,
@@ -78,17 +80,19 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
+      "theme": "제약 바이오 임원 자사주 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "ANI Pharmaceuticals CEO Lalwani, 자사주 약 38만8,000달러 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "ANI 파마슈티컬스 랄와니 CEO, 약 38만 달러 규모 자사주 매도",
+      "newsSummaryKo": [
+        "ANI 파마슈티컬스의 최고경영자(CEO)인 랄와니가 약 38만 8,000달러어치의 자사주를 매도했다.",
+        "이번 지분 매각은 내부자의 주식 처분 공시에 따른 것이다.",
+        "해당 기업은 미국의 제약·바이오 기업으로 관련 시장의 주목을 받고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 23:18",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130368",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 5,
@@ -104,17 +108,19 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 기업 내부자 지분 변동",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AirJoule Technologies CEO Jore, 자사주 15만3,165달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "에어줄 테크놀로지스 최고경영자(CEO) 조르, 15만 달러 상당 자사주 매도",
+      "newsSummaryKo": [
+        "에어줄 테크놀로지스의 최고경영자인 조르가 15만 3,165달러 규모의 자사주를 매도했다.",
+        "이번 지분 매도에 관한 구체적인 거래 배경이나 목적은 공시 내용을 통해 확인되었다.",
+        "해당 기업의 경영진 주식 거래는 글로벌 증시에서 투자자들의 주목을 받는 기업 내부 거래 동향 중 하나다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 23:17",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130366",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 7,
@@ -318,17 +324,53 @@
     },
     {
       "id": 17,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미·중 금융 시장 접근성 협상 및 결제·금융 인프라",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 정부, 방콕 양자 회담서 중국에 마스터카드·씨티그룹 시장 접근성 압박",
+      "newsSummaryKo": [
+        "미국 재무부 관리에 따르면, 미국 측은 이번 주 방콕에서 열린 양자 회담에서 중국을 상대로 마스터카드와 씨티그룹의 시장 접근성 문제를 제기했다.",
+        "이번 회담은 미·중 간 금융 서비스 시장 개방과 장벽 해소를 위한 양국 간의 지속적인 소통의 일환으로 진행되었다.",
+        "미국 정부는 중국 금융 시장 내 자국 주요 금융 및 결제 서비스 기업들의 영업 환경 개선을 요구하고 있다."
+      ],
       "newsSource": "CNBC Markets · Fri, 16 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 2,
-      "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "한국정보통신",
+          "code": "025770",
+          "role": "지불결제(PG) 및 VAN 서비스",
+          "reason": "글로벌 결제 네트워크 및 카드 산업의 개방 이슈와 테마로 묶이는 국내 지급결제 관련 상장사.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.87%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "NHN KCP",
+          "code": "060250",
+          "role": "온라인 결제 및 PG 서비스",
+          "reason": "국경 간 결제 및 글로벌 카드 브랜드 연동 등 결제 인프라 업종의 거시적 동향에 영향을 받는 국내 PG사.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+6.22%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 장비 제조",
+          "reason": "본 기사는 국내 소부장 밸류체인과 직접적 연관성이 낮으나, 글로벌 거시경제 및 미·중 무역·외교 협상 테마의 파생 영향권으로 분류.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.93%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 18,
