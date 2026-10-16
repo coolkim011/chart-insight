@@ -40,17 +40,75 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 은행 실적 및 금융 규제 리스크",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "뱅크오브아메리카, 3분기 트레이딩 매출 부진과 12억 달러 규제 벌금 여파에 주가 하락",
+      "newsSummaryKo": [
+        "뱅크오브아메리카(BofA)의 주가가 시장 예상치를 밑도는 트레이딩 부문 매출 발표 영향으로 수요일 하락세를 기록했다.",
+        "이와 함께 미국 재무부로부터 부과된 12억 달러 규모의 벌금이 실적과 주가에 부정적인 영향을 미쳤다.",
+        "트레이딩 수익 둔화와 규제 리스크가 겹치며 대형 상업·투자은행의 비이자이익 부문에 대한 시장의 우려가 반영되었다."
+      ],
       "newsSource": "CNBC Markets · Wed, 14 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 1위 금융지주사",
+          "reason": "글로벌 대형 은행의 실적 둔화 및 센티먼트 변화는 국내 대표 금융지주사의 외국인 수급과 밸류에이션 동조화에 직접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 복합 금융지주사",
+          "reason": "은행 및 비은행 포트폴리오를 보유한 대표 금융주로서 글로벌 상업은행의 비이자이익 변동성 이슈와 주가 연동성을 보입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "종합 자본시장 금융지주",
+          "reason": "트레이딩 및 운용 손익 비중이 높은 자본시장 특화 금융사로 글로벌 트레이딩 수익성 둔화 흐름과 업종 리스크를 공유합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "하나금융지주",
+          "code": "086790",
+          "role": "글로벌 및 외환 특화 금융지주",
+          "reason": "외환 및 글로벌 금융 네트워크 비중이 높아 글로벌 은행주의 규제 및 실적 이슈에 센티먼트 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.46%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "대형 글로벌 투자증권사",
+          "reason": "글로벌 자산운용 및 FICC·파생상품 트레이딩 부문의 수익 환경이 글로벌 메이저 IB 트레이딩 여건과 간접적으로 연계되어 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
