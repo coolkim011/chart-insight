@@ -88,45 +88,119 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 기업 내부자 지분 매도",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Claritev 수석부사장 Tiffani Misencik, 주식 13만 8,390달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "Claritev 수석부사장 티파니 미센식, 13만 8,390달러 규모 자사주 매도",
+      "newsSummaryKo": [
+        "Claritev의 수석부사장(SVP) Tiffani Misencik이 약 13만 8,390달러 규모의 자사주를 매도했습니다.",
+        "이번 주식 처분은 내부자 거래 공시(Form 4)를 통해 확인된 사실입니다.",
+        "미국 현지 기업 주요 임원의 통상적인 개인 지분 매각 건으로, 회사 경영 전략이나 펀더멘털의 대규모 변화와는 무관한 단기 매도 건입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 20:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130300",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 핀테크·금융IT 솔루션",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Fidelity National 이사 Goldstein, FIS 주식 5만7,694달러어치 매입",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "피델리티 내셔널 인포메이션(FIS) 이사 골드스타인, 5만7,694달러 규모 자사주 매입",
+      "newsSummaryKo": [
+        "글로벌 금융 기술 및 결제 솔루션 기업 피델리티 내셔널 인포메이션 서비시스(FIS)의 이사 골드스타인이 자사주를 매입했습니다.",
+        "이번 내부자 매입 규모는 총 5만 7,694달러(약 8,000만 원)에 달합니다.",
+        "경영진의 지분 매입은 회사 내부 관계자의 사업 및 기업가치에 대한 긍정적인 시각을 반영하는 주요 지표로 해석됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 20:31",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130299",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "뱅크웨어글로벌",
+          "code": "199480",
+          "role": "코어뱅킹 소프트웨어 개발사",
+          "reason": "FIS의 핵심 사업 분야인 금융기관 대상 코어뱅킹 솔루션 및 금융 IT 인프라 소프트웨어를 공급하는 국내 대표 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+1.06%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "웹케시",
+          "code": "053580",
+          "role": "B2B 핀테크 및 금융 솔루션 공급사",
+          "reason": "국내 주요 금융기관 및 기업을 대상으로 자금관리 등 금융 IT 및 핀테크 인프라 솔루션을 제공하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+4.20%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "NHN KCP",
+          "code": "060250",
+          "role": "전자결제 및 결제 인프라 사업자",
+          "reason": "FIS가 글로벌 시장에서 영위하는 핵심 사업인 가맹점 결제 처리(Payment Processing) 및 전자결제 서비스를 국내에서 수행합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+6.22%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "나이스정보통신",
+          "code": "036800",
+          "role": "오프라인 VAN 및 온라인 PG 결제 사업자",
+          "reason": "금융 및 카드 결제 데이터 중계 인프라를 운영하며 결제 처리 부문에서 동일한 비즈니스 모델을 공유합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+5.43%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "리튬 공급망 및 배터리 소재",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Rock Tech Lithium 주가, 오늘 5.1% 상승한 이유",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "락 테크 리튬(Rock Tech Lithium) 주가 5.1% 상승 배경",
+      "newsSummaryKo": [
+        "캐나다 리튬 개발업체인 락 테크 리튬의 주가가 당일 거래에서 5.1% 상승 마감했다.",
+        "제공된 기사 본문 내용이 비어 있어 주가 상승을 이끈 구체적인 공시나 외부 요인은 본문에 명시되지 않았다.",
+        "해당 기업의 주가 변동 외에 추가적인 팩트와 수급 상황은 본문에서 확인할 수 없다."
+      ],
       "newsSource": "Investing.com · 2026-10-16 20:30",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130297",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "배터리 셀 제조",
+          "reason": "글로벌 리튬 가격 및 원자재 공급망 이슈에 직접적으로 영향을 받는 국내 대표 배터리 제조 기업이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "에코프로",
+          "code": "086520",
+          "role": "양극재 및 전구체 생산",
+          "reason": "리튬을 원료로 사용하는 이차전지 양극재 핵심 소재를 공급하는 지주회사이다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.62%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
@@ -151,7 +225,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -2846,7 +2920,8 @@
   ],
   "aiState": {
     "blocked": {
-      "gemini-3.8-flash": 1792195199.3228226
+      "gemini-3.8-flash": 1792195199.3228226,
+      "gemini-flash-latest": 1792195199.7631257
     }
   }
 }
