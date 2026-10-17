@@ -112,17 +112,64 @@
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
+      "theme": "러시아 관세 유예 및 대러 제재 완화 수혜",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "트럼프, 중간선거 앞두고 러시아 대상 포괄적 관세 유예",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "트럼프, 중간선거 앞두고 대(對)러시아 포괄적 관세 유예 결정",
+      "newsSummaryKo": [
+        "도널드 트럼프 미국 대통령이 중간선거를 앞두고 러시아를 대상으로 한 포괄적 관세 조치를 전격 유예하기로 발표했습니다.",
+        "이번 조치는 에너지 및 원자재 가격 안정을 도모하고 글로벌 공급망 부담을 완화하기 위한 정치·경제적 포석으로 풀이됩니다.",
+        "이에 따라 미국과 러시아 간 무역 긴장 완화 및 향후 지정학적 갈등 봉합과 전후 재건 협력에 대한 기대감이 형성되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 01:22",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2130403",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "현대코퍼레이션",
+          "code": "011760",
+          "role": "철강, 석유화학, 건설기계 글로벌 종합상사",
+          "reason": "러시아 모스크바 등 현지 지사를 통해 CIS 지역 원자재 및 기계·플랜트 유통 네트워크를 유지하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-3.10%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "디와이파워",
+          "code": "210540",
+          "role": "굴착기용 유압실린더 전문 제조사",
+          "reason": "HD현대건설기계 등 글로벌 주요 건설장비 제조사에 핵심 유압부품을 공급하여 장비 수요 증가와 직결됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.79%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "대모",
+          "code": "317850",
+          "role": "굴착기 부착물(어태치먼트) 전문 제조사",
+          "reason": "건설 및 광산 개발용 유압브레이커 등을 생산해 인프라 복구 및 개발 장비 시장에 공급합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.70%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "SG",
+          "code": "255220",
+          "role": "아스콘(아스팔트 콘크리트) 생산 전문기업",
+          "reason": "우크라이나 및 동유럽 도로 복구와 아스팔트 포장 관련 사업 참여 이력이 부각되는 종목입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+2.79%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
@@ -2885,6 +2932,8 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1792281599.520515
+    }
   }
 }
