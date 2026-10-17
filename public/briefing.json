@@ -40,45 +40,241 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "채권 대체 헤지펀드 전략(매니지드 퓨처스)",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "10년간의 '죽은 돈' 채권 비중 재고… 채권 대안으로 부각되는 헤지펀드 전략",
+      "newsSummaryKo": [
+        "투자자들이 기존 전통적 채권 자산 배분을 재검토해야 할 필요성이 제기되었습니다.",
+        "기사에서는 채권의 대안적인 투자 수단으로 '매니지드 퓨처스(Managed Futures, 선물 추세 추종)' 헤지펀드 노출 확대를 제시했습니다.",
+        "선물 및 파생상품 중심의 헤지펀드 접근법이 전통 채권 대비 우수한 투자 성과를 제공할 수 있다는 분석입니다."
+      ],
       "newsSource": "CNBC Markets · Sat, 17 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "글로벌 대체투자 및 자산배분 상품 운용사",
+          "reason": "해외 파생상품 및 헤지펀드 관련 글로벌 자산배분 상품 라인업을 보유하고 있어 대체투자 수요 확대 시 수수료 수익 및 운용 자산 확대와 연동됩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "종합 금융지주 및 헤지펀드·대체투자 자산운용 그룹",
+          "reason": "한국투자신탁운용과 밸류자산운용 등을 자회사로 두고 있어 헤지펀드 및 대체자산 펀드 상품의 판매와 운용을 총괄합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "NH투자증권",
+          "code": "005940",
+          "role": "기관투자자 파생결합상품 및 대체투자 주관 증권사",
+          "reason": "기관투자자를 대상으로 채권 대체형 파생결합증권 및 대체투자 헤지펀드 솔루션을 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.07%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "자산관리(WM) 및 글로벌 자산배분 서비스 제공사",
+          "reason": "고액자산가 및 법인 고객을 대상으로 채권 외 대체자산 및 글로벌 매니지드 펀드 포트폴리오 자문 서비스를 제공합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "키움증권",
+          "code": "039490",
+          "role": "국내외 선물·옵션 파생상품 브로커리지 증권사",
+          "reason": "해외 선물 및 파생상품 중개 시장 점유율 상위권으로, 선물 기반 트레이딩 및 펀드 거래량 확대 시 수수료 기반 수혜가 발생합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.08%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "중국 헬스케어 지출 확대 및 의료 인프라 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "중국인의 헬스케어 지출 비중 미국 육박, IMF \"정부 의료 지출이 소비 살릴 것\"",
+      "newsSummaryKo": [
+        "중국 국민의 소득 대비 헬스케어 지출 비중이 미국 수준에 근접할 정도로 높은 부담을 차지하고 있는 것으로 나타났습니다.",
+        "국제통화기금(IMF)은 중국 정부가 의료·헬스케어 부문의 재정 지출을 늘릴 경우 가계 부담이 줄어 민간 소비 진작으로 이어질 수 있다고 밝혔습니다.",
+        "중국 내 의료비 지출 비중 확대와 정부 차원의 헬스케어 인프라 투자 필요성이 제기되면서 중국 진출 의료기기 및 헬스케어 공급망이 주목받고 있습니다."
+      ],
       "newsSource": "CNBC Markets · Thu, 15 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "덴티움",
+          "code": "145720",
+          "role": "치과용 임플란트 제조사",
+          "reason": "전체 매출 중 중국 비중이 높아 중국 내 의료 지출 및 국공립·민간 치과 시술 수요 변화에 직접적인 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-3.28%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "휴젤",
+          "code": "145020",
+          "role": "바이오의약품(보툴리눔 톡신) 제조사",
+          "reason": "국내 기업 최초로 중국 보건당국으로부터 보툴리눔 톡신 허가를 취득해 현지 대형 유통망을 통해 공급하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+6.29%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "바텍",
+          "code": "043150",
+          "role": "치과용 디지털 엑스레이 및 3D CT 제조사",
+          "reason": "중국 현지 생산 법인 및 허가를 기반으로 중국 내 병의원에 치과용 영상진단 장비를 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+1.44%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "파마리서치",
+          "code": "214450",
+          "role": "재생의학 기반 의료기기 및 의약품 제조사",
+          "reason": "중국 현지 파트너사를 통해 스킨부스터 및 관절강 주사제 등 의료기기 제품군을 중국 시장에 수출하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+7.54%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "레이",
+          "code": "228670",
+          "role": "디지털 치과 치료 솔루션 개발사",
+          "reason": "중국 현지 유통 파트너 및 합작법인을 통해 치과용 CAD/CAM 및 진단 장비를 현지 치과 네트워크에 공급하고 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+6.24%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "메모리 반도체 업황 및 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "메모리 반도체 주식: 과도한 우려인가?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "메모리 반도체 시장, 피크아웃 우려는 과도한 수준인가",
+      "newsSummaryKo": [
+        "글로벌 시장에서 PC 및 스마트폰 등 레거시 IT 기기의 수요 회복 지연으로 메모리 반도체 피크아웃 우려가 제기되고 있습니다.",
+        "반면 AI 데이터센터 확장에 따른 고대역폭메모리(HBM) 및 고용량 서버용 D램 수요는 견조세를 유지하며 실적 차별화가 나타나고 있습니다.",
+        "증권가에서는 전통 메모리 업황 둔화 우려와 차세대 AI 메모리 공급 부족 사이에서 메모리 반도체 기업들의 밸류에이션 재평가 논쟁이 지속되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 16:15",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130522",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 메모리 반도체(D램/NAND) 및 HBM 제조 선두 기업",
+          "reason": "AI 서버향 HBM3E 및 서버용 D램 시장을 주도하고 있어 메모리 업황 우려 및 실적 변동성에 가장 직접적인 영향을 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 D램 및 NAND 플래시 1위 종합 반도체 제조 기업",
+          "reason": "전통 레거시 메모리 비중과 차세대 HBM 양산 전개에 따라 메모리 반도체 수급 및 센티먼트 변화에 즉각적으로 연동됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 TC 본더 공급",
+          "reason": "SK하이닉스를 비롯한 글로벌 메모리 제조사에 HBM 적층 필수 장비인 TC 본더를 독점적으로 공급하고 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 커팅 및 그루빙 장비 제조",
+          "reason": "고부가 D램 및 HBM 제조 공정 등에 레이저 장비를 공급하여 메모리 선단 공정 투자와 직결됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+5.91%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 노광 공정용 포토레지스트(PR) 공급",
+          "reason": "삼성전자의 3D 낸드 및 첨단 D램 라인에 감광액 등 핵심 소재를 공급하는 주요 협력사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+2.96%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 증착(ALD/CVD) 전공정 장비 공급",
+          "reason": "국내 양대 메모리 제조사의 메모리 전공정 설비 투자 집행 여부에 따라 실적 연동성이 높습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+6.13%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "하나마이크론",
+          "code": "067310",
+          "role": "메모리 반도체 후공정(OSAT) 패키징 및 테스트",
+          "reason": "삼성전자 및 SK하이닉스의 범용 메모리 패키징 외주 물량을 수주하여 후공정을 담당합니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "+5.28%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -106,31 +302,136 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "딥씨크 AI 모델 업데이트 및 검색 API 개방",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "딥씨크, AI 모델 업데이트 출시…검색 API 전면 개방",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "딥씨크, 차세대 AI 모델 업데이트 단행…검색 API 전면 개방",
+      "newsSummaryKo": [
+        "중국 인공지능(AI) 스타트업 딥씨크(DeepSeek)가 성능을 개선한 최신 AI 모델을 공개하고 공식 업데이트를 적용했습니다.",
+        "딥씨크는 이번 모델 업데이트와 함께 외부 개발자 및 기업 사용자를 대상으로 실시간 웹 검색이 연동되는 검색 API를 전면 개방했습니다.",
+        "저비용·고효율 오픈소스 모델과 API의 공개 확대로 글로벌 생성형 AI 검색 및 LLM 응용 서비스 시장의 경쟁이 가속화될 전망입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 14:33",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130518",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "솔트룩스",
+          "code": "304100",
+          "role": "자체 LLM 및 AI 검색 플랫폼 개발",
+          "reason": "자체 거대언어모델(루시아)과 엔터프라이즈 AI 검색 엔진 솔루션을 보유하여 생성형 AI 검색 시장 확대 시 직접적인 테마 수혜를 받습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.96%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "마음AI",
+          "code": "377480",
+          "role": "멀티모달 AI 플랫폼 및 파운데이션 모델 개발",
+          "reason": "AI 모델 및 API 서비스 플랫폼을 제공하고 있어 글로벌 AI API 개방 및 모델 고도화 이슈에 민감하게 반응합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+5.97%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "코난테크놀로지",
+          "code": "402030",
+          "role": "대용량 AI 검색 엔진 및 온프레미스 LLM 공급",
+          "reason": "AI 검색 기술 및 생성형 언어모델(코난 LLM)을 공급하며 검색 API 및 AI 인프라 연동 수요 증가와 맞물려 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.43%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "이스트소프트",
+          "code": "047560",
+          "role": "AI 휴먼 및 생성형 AI 응용 소프트웨어 개발",
+          "reason": "오픈소스 LLM 및 다양한 생성형 AI API를 접목해 대화형 소프트웨어 및 검색 기반 서비스를 개발하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+4.12%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "role": "고효율 AI 연산용 NPU 및 메모리 반도체 IP 설계",
+          "reason": "딥씨크 등 고효율·경량화 AI 알고리즘 확산에 따라 엣지 및 클라우드용 AI 반도체 IP 수요가 장기적으로 연계됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+3.00%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "테더의 실물 금(Gold) 플랫폼 투자 및 RWA 생태계",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "테더 Global Investments Fund, Gold.com 주식 128만 달러어치 매입",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스테이블코인 발행사 테더, 골드닷컴 지분 128만 달러어치 인수",
+      "newsSummaryKo": [
+        "스테이블코인 USDT 발행사인 테더의 글로벌 투자 펀드가 골드닷컴(Gold.com) 지분을 128만 달러 규모로 매입했다.",
+        "테더는 금 기반 토큰(Tether Gold, XAUT)을 발행 및 운용하며 실물 자산과 디지털 자산을 연계하는 투자를 확대하고 있다.",
+        "이번 지분 인수는 가상자산 생태계 내 실물연계자산(RWA) 및 금 관련 디지털 금융 인프라 강화를 목적으로 파악된다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 14:32",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130516",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "아이티센글로벌",
+          "code": "124500",
+          "role": "국내 최대 귀금속 유통 자회사 보유 및 금 RWA 플랫폼 운영사",
+          "reason": "자회사 한국금거래소디지털에셋을 통해 금 실물 기반 블록체인 토큰화(RWA) 및 디지털 금 거래 플랫폼 사업을 직접 영위하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+4.74%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "토큰증권(STO) 및 실물자산 기반 핀테크 플랫폼 기업",
+          "reason": "금, 탄소배출권, 신재생에너지 등 실물 자산을 디지털 자산화하는 STO 및 결제 인프라 사업을 구축 중입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+2.71%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "엘컴텍",
+          "code": "037950",
+          "role": "금 광구 개발 및 탐사 사업 영위사",
+          "reason": "몽골 지역 금 광구 탐사권을 보유하고 있어 글로벌 금 자산 가치 변동 및 금 테마 부각 시 후방 연관 종목으로 분류됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.55%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "고려아연",
+          "code": "010130",
+          "role": "국내 최대 금·은 등 비철금속 및 귀금속 제련 기업",
+          "reason": "아연 등 비철금속 제련 과정에서 금 부산물을 연간 대규모로 회수·생산해 공급하는 실물 금 시장의 핵심 기업입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.39%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
