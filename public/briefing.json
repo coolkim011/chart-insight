@@ -64,17 +64,86 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 금리 경로 및 거시경제 영향",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "시티, 금리가 주가 밸류에이션보다 경제에 더 큰 영향 미칠 수 있어",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "씨티그룹 \"금리, 주가 밸류에이션보다 실물경제에 더 큰 영향 미칠 수 있어\"",
+      "newsSummaryKo": [
+        "씨티그룹은 금리 변동이 주식 시장의 밸류에이션 멀티플 조정보다 실물경제 전반에 미치는 파급력이 더 클 수 있다고 분석했다.",
+        "금리가 실물경기와 기업 펀더멘털을 거쳐 주가에 전달되는 경로가 강화되면서 경기 민감 지표의 중요성이 부각되고 있다.",
+        "이에 따라 투자자들의 관심이 단순 통화정책 완화 기대감에서 금리 수준에 따른 실물경제 건전성 및 경기 연착륙 여부로 이동하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 19:54",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2130532",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 대표 금융지주사",
+          "reason": "금리 변동 및 실물경제 흐름에 따른 순이자마진(NIM)과 자산 건전성 지표에 가장 직접적인 영향을 받음",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 복합 금융그룹",
+          "reason": "금리 환경과 거시경제 성장률에 연동되어 대출 자산 성장 및 대손충당금 규모가 결정됨",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "대형 종합증권사",
+          "reason": "금리 향방과 거시경제 여건에 따라 증시 거래대금 및 자산관리(WM) 부문의 수익성이 좌우됨",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "투자금융 중심 지주사",
+          "reason": "실물경기 및 금리 변동성에 직접 노출되는 투자은행(IB) 및 자기자본투자(PI) 부문을 보유함",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "우리금융지주",
+          "code": "316140",
+          "role": "은행 중심 금융지주사",
+          "reason": "은행 부문 의존도가 높아 거시경제 연착륙 여부와 한계기업 대출 부실화 위험에 민감하게 연동됨",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "해외 및 자기자본 투자 증권사",
+          "reason": "글로벌 거시경제 변동 및 해외 대체투자 자산 가치가 글로벌 금리 환경의 영향을 받음",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
