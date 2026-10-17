@@ -124,17 +124,86 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "한국은행 기준금리 전망 및 국고채 금리 변동",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "한은, 금리 인상 열어둘까…국고채 반등 경계",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "한은 매파적 기조 경계감 속 국고채 금리 반등 가능성 주목",
+      "newsSummaryKo": [
+        "한국은행 금융통화위원회를 앞두고 기준금리 인상 가능성을 열어두는 매파적 기조에 대한 시장의 경계감이 확산되고 있습니다.",
+        "시장 참가자들은 통화 긴축 장기화 우려로 인해 최근 하향 안정세를 보이던 국고채 금리가 다시 반등할 가능성을 주시하고 있습니다.",
+        "국채 금리 변동성 확대는 은행의 순이자마진과 보험사의 운용자산 이익률, 증권사의 채권 평가손익 등에 직접적인 영향을 미칠 것으로 예상됩니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 21:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130542",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "국내 대표 금융지주사",
+          "reason": "기준금리 동결 지연 또는 인상 가능성 유지 시 대출 금리 하락 압력이 완화되어 순이자마진(NIM) 방어에 유리하게 작용합니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 시중은행 보유 금융지주사",
+          "reason": "시장금리 및 국고채 금리 반등 시 은행 부문의 이자수익 기반 유지와 마진 방어 효과가 발생합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성생명",
+          "code": "032830",
+          "role": "대형 생명보험사",
+          "reason": "국고채 금리 반등 시 신규 채권 투자이원이 제고되고 부채 할인율 상승에 따른 자본 관리 부담이 완화됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.43%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한화생명",
+          "code": "088350",
+          "role": "생명보험사",
+          "reason": "장기 국고채 편입 비중이 높아 시장금리 상승 시 장기 자산운용 수익률 개선 혜택을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "대형 증권사",
+          "reason": "국고채 금리가 급반등할 경우 보유 채권에 대한 평가손실이 발생할 수 있어 채권 운용 부문의 민감도가 높습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "자산관리 및 위탁매매 전문 증권사",
+          "reason": "단기 자금 및 채권 운용 규모가 커 금리 변동성에 따른 트레이딩 손익 변동에 노출되어 있습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
