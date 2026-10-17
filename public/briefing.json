@@ -52,17 +52,108 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "삼성전자 글로벌 분기 영업이익 1위 및 반도체 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성전자, 엔비디아 제치고 글로벌 분기 영업이익 1위 등극",
+      "newsSummaryKo": [
+        "삼성전자가 글로벌 AI 반도체 선두주자인 엔비디아를 제치고 분기 기준 전 세계 영업이익 1위 기업에 올랐습니다.",
+        "메모리 반도체(DRAM·NAND) 가격 회복과 고부가가치 AI 메모리 공급 확대가 실적 개선을 견인한 것으로 분석됩니다.",
+        "이에 따라 국내 반도체 종합 제조사를 중심으로 전공정 및 후공정 소부장 공급망 전반의 실적 연동 기대감이 형성되고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 13:12",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130511",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 제조사(IDM)",
+          "reason": "엔비디아를 제치고 분기 영업이익 글로벌 1위를 달성한 당사자로서 실적 성장의 직접적 주체입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "종합 반도체 제조사(IDM)",
+          "reason": "삼성전자와 함께 글로벌 메모리 반도체 시장을 과점하며 업황 반등 및 실적 호조 사이클을 공유합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 전공정 증착 장비 공급",
+          "reason": "삼성전자의 메모리 및 비메모리 생산 라인에 플라즈마 화학기상증착(PECVD) 및 ALD 장비를 납품하는 주요 벤더입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+6.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "동진쎄미켐",
+          "code": "005290",
+          "role": "반도체 공정용 화학 소재 공급",
+          "reason": "삼성전자 반도체 제조 라인에 포토레지스트(감광액) 및 신너 등 핵심 전자재료를 공급하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+2.96%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 패키징 장비 제조",
+          "reason": "고부가 메모리 반도체 생산에 필수적인 듀얼 TC 본더 등 핵심 후공정 장비를 제조 및 공급합니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "하나마이크론",
+          "code": "067310",
+          "role": "반도체 패키징 및 테스트(OSAT)",
+          "reason": "삼성전자의 메모리 및 시스템 반도체 후공정 외주 패키징을 담당하는 핵심 협력사입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+5.28%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "솔브레인",
+          "code": "357780",
+          "role": "반도체 공정용 고순도 화학 소재 공급",
+          "reason": "삼성전자 및 국내 제조사에 식각액(불산계열)과 세정액 등 소모성 화학 재료를 공급합니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "-0.30%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "유진테크",
+          "code": "084370",
+          "role": "반도체 박막 형성 전공정 장비 제조",
+          "reason": "삼성전자의 고성능 DRAM 공정 등에 사용되는 저압 화학기상증착(LPCVD) 장비를 공급합니다.",
+          "rank": 8,
+          "verified": true,
+          "changeRate": "+3.94%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
