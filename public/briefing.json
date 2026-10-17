@@ -124,17 +124,75 @@
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "가상자산 및 비트코인 현물 ETF",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "비트코인, ETF 자금 유출 부담 속 $81,000 위에서 유지",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "비트코인, 현물 ETF 순유출 압박에도 8만 1,000달러 선 유지",
+      "newsSummaryKo": [
+        "비트코인 현물 ETF에서 자금 유출세가 이어지며 단기적인 수급 부담이 발생하고 있습니다.",
+        "이러한 매도 압박 속에서도 비트코인 가격은 8만 1,000달러 선 위에서 하방 지지력을 보이며 거래를 지속하고 있습니다.",
+        "시장 참여자들은 ETF 자금 흐름의 변동성과 글로벌 거시경제 환경이 가상자산 시세에 미치는 영향을 주시하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 05:48",
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2130456",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "우리기술투자",
+          "code": "041190",
+          "role": "국내 주요 암호화폐 거래소(업비트) 운영사 두나무 지분 보유사",
+          "reason": "국내 최대 가상자산 거래소 업비트를 운영하는 두나무 지분을 보유하고 있어 비트코인 가격 추이 및 거래량 변화에 가장 직접적으로 연동되는 대표 종목입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+2.00%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "한화투자증권",
+          "code": "003530",
+          "role": "두나무 지분 보유 금융투자사",
+          "reason": "두나무 지분을 직접 보유하고 있어 가상자산 시장 전반의 변동성 및 비트코인 시세 흐름과 밀접하게 연동됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-6.33%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "갤럭시아머니트리",
+          "code": "094480",
+          "role": "토큰증권(STO) 및 전자결제 플랫폼 사업자",
+          "reason": "블록체인 기반 결제 및 디지털자산(STO) 관련 사업을 영위하고 있어 디지털자산 시장 전반의 투자심리에 영향을 받습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.71%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "위메이드",
+          "code": "112040",
+          "role": "블록체인 메인넷 플랫폼 구축 및 가상자산(위믹스) 발행사",
+          "reason": "자체 가상자산 위믹스를 기반으로 블록체인 생태계를 운영하고 있어 비트코인을 비롯한 암호화폐 시장 시세 흐름과 연동되는 특성이 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.65%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "케이아이엔엑스",
+          "code": "093320",
+          "role": "인터넷 인프라(IX) 및 데이터센터(IDC) 서비스 공급자",
+          "reason": "국내 주요 암호화폐 거래소의 트래픽을 처리하는 인터넷 인프라 및 IDC 서비스를 제공한 이력이 있어 후방 산업으로 연계됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+4.33%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
