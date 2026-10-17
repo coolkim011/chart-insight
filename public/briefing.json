@@ -64,17 +64,64 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "메르세데스-벤츠 프리미엄 전기 SUV 밸류체인",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "메르세데스, 프리미엄 전기차 라인업 확대 위한 전기 SUV 공개",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "메르세데스-벤츠, 프리미엄 전기차 라인업 확대를 위한 신규 전기 SUV 공개",
+      "newsSummaryKo": [
+        "메르세데스-벤츠가 프리미엄 전동화 전환 전략의 일환으로 신규 전기 SUV 모델을 공개했습니다.",
+        "해당 신차는 대용량 배터리 시스템과 독자적 디지털 콕핏을 탑재해 럭셔리 전기차 시장 내 입지 강화를 목표로 합니다.",
+        "글로벌 프리미엄 전기차 라인업 확대에 따라 탑재되는 첨단 디스플레이, 섀시 모듈, 배터리 서플라이 체인이 주목받고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-17 17:51",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130526",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG디스플레이",
+          "code": "034220",
+          "role": "차량용 P-OLED 디스플레이 공급",
+          "reason": "메르세데스-벤츠 프리미엄 전기차의 핵심 인테리어인 'MBUX 하이퍼스크린'에 차량용 OLED 패널을 단독 또는 주력 공급하고 있습니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.10%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "현대모비스",
+          "code": "012330",
+          "role": "전기차용 섀시 모듈 공급",
+          "reason": "메르세데스-벤츠 북미 공장에서 양산되는 전기 SUV 전용 섀시 모듈을 수주해 현지 공급하는 직접적인 파트너십을 맺고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.22%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "전기차용 리튬이온 배터리 셀 공급",
+          "reason": "메르세데스-벤츠 프리미엄 전기차 및 차세대 전동화 플랫폼용 배터리 셀 공급 계약을 체결한 바 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한온시스템",
+          "code": "018880",
+          "role": "전기차 전동 컴프레서 및 열관리 부품 공급",
+          "reason": "메르세데스-벤츠를 비롯한 글로벌 완성차의 전동화 모델에 고효율 열관리 시스템과 전동 컴프레서를 납품하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.11%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
