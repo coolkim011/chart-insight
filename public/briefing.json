@@ -40,17 +40,64 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중국 반도체 산업 추격 및 K-반도체 대응 전략",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[인터뷰] 안기현 반도체협회 전무 \"中 반도체 추격 빨라져…K-반도체, 기술개발 속도 높여야\"",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "안기현 반도체협회 전무 \"中 반도체 추격 빨라져…K-반도체, 기술개발 속도 높여야\"",
+      "newsSummaryKo": [
+        "한국반도체산업협회 안기현 전무는 중국의 반도체 기술 추격 속도가 빨라지고 있다고 진단했습니다.",
+        "이에 따라 국내 반도체 산업이 경쟁력을 유지하기 위해서는 기술 개발 속도를 더욱 높여야 한다고 강조했습니다.",
+        "급변하는 글로벌 공급망 환경 속에서 지속 가능한 성장을 위한 전략적 대응의 필요성이 제기되었습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-18 21:41",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130671",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "메모리 및 파운드리 제조",
+          "reason": "중국의 기술 추격에 대응하여 초미세 공정 및 차세대 메모리 기술 개발 가속화가 요구되는 국내 대표 종합 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 제조",
+          "reason": "HBM 등 고부가가치 메모리 반도체 시장에서의 기술 격차 유지와 연구개발 투자가 강조되는 핵심 상장사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 장비 공급",
+          "reason": "국내 메모리 및 파운드리 업체의 설비투자 및 공정 기술 고도화 과정에서 반도체 제조 장비를 공급하는 주요 소부장 기업입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+6.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "증착 장비 공급",
+          "reason": "반도체 소자 제조에 필수적인 증착 장비를 생산하며 국내 소부장 서플라이 체인의 한 축을 담당하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+2.93%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
