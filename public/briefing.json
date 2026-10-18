@@ -40,17 +40,64 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 보안 취약점 진단 및 소프트웨어 패치",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "뱅크오브아메리카, 앤스로픽 AI가 드러낸 소프트웨어 결함 보완 위해 외주 인력 1천 명 고용",
+      "newsSummaryKo": [
+        "뱅크오브아메리카는 앤스로픽의 AI 모델 '미토스(Mythos)'에 의해 노출된 소프트웨어 결함을 패치하기 위해 1,000명의 외주 계약직을 고용했다.",
+        "이번 조치는 인공지능이 야기할 수 있는 보안 취약점에 대응하고 이를 방어하는 과정에서 발생하는 실제적인 비용과 투입 자원을 이례적으로 보여준다.",
+        "금융권에서 AI 도입이 가속화됨에 따라 시스템 보안 유지 및 취약점 식별을 위한 인프라 관리 비용이 증가하고 있음을 시사한다."
+      ],
       "newsSource": "CNBC Markets · Wed, 14 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "파수AI",
+          "code": "150900",
+          "role": "소프트웨어 보안 및 취약점 분석 솔루션 공급",
+          "reason": "소프트웨어 결함 진단 및 보안 패치 관련 기업으로 AI 확산에 따른 보안 수요와 연관된다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.80%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "지니언스",
+          "code": "263860",
+          "role": "엔드포인트 보안 및 네트워크 접근 제어",
+          "reason": "글로벌 금융사의 IT 시스템 보안 강화 및 취약점 대응 기조와 테마가 맞물린다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.23%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "안랩",
+          "code": "053800",
+          "role": "통합 보안 솔루션 및 컨설팅",
+          "reason": "AI 기술 발전으로 인해 대두되는 기업 IT 시스템 보안 위협 방어 관점에서 비교된다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.08%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "시큐브",
+          "code": "131090",
+          "role": "서버 보안 및 암호화 솔루션",
+          "reason": "소프트웨어 결함 패치 및 시스템 보안 강화 업종의 간접적 테마로 묶인다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.24%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -90,17 +137,19 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 기업 내부자 거래",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Flexsteel 이사 William S. Creekmuir, 자사주 10만1,411달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "플렉스스틸 이사 윌리엄 크리크뮤어, 10만 달러 규모 자사주 매도",
+      "newsSummaryKo": [
+        "미국 가구 제조 기업 플렉스스틸(Flexsteel)의 이사 윌리엄 S. 크리크뮤어가 자사주를 매도했다.",
+        "이번에 매도한 자사주의 총 가치는 10만 1,411달러 규모이다.",
+        "해당 거래는 미국 증권거래위원회(SEC) 공시를 통해 확인되었다."
+      ],
       "newsSource": "Investing.com · 2026-10-18 10:31",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2130619",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 6,
