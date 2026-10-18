@@ -40,17 +40,97 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "SK그룹 AI 생태계 및 반도체 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "최태원 회장 \"20대로 돌아가면 무조건 창업\"…AI 시대 청년들에 도전 강조",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "최태원 SK 회장 \"20대로 돌아가면 무조건 창업\"…AI 시대 청년 창업과 도전 역설",
+      "newsSummaryKo": [
+        "최태원 SK그룹 회장은 청년들과의 만남 자리에서 AI 시대를 맞아 다시 20대로 돌아간다면 무조건 창업에 도전할 것이라고 밝혔다.",
+        "최 회장은 인공지능(AI) 기술의 급격한 발전이 새로운 산업 기회와 시장을 창출하고 있음을 강조하며 청년들의 적극적인 도전을 독려했다.",
+        "SK그룹은 AI 반도체(HBM) 및 AI 데이터센터 인프라 구축을 그룹의 핵심 성장 동력으로 삼고 관련 투자를 확대하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-18 01:10",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130563",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "HBM 및 AI 메모리 반도체 총괄",
+          "reason": "최태원 회장이 이끄는 SK그룹의 핵심 계열사이자 엔비디아 향 HBM 공급을 주도하는 대표 AI 반도체 기업입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK",
+          "code": "034730",
+          "role": "SK그룹 지주사",
+          "reason": "AI와 반도체 중심의 그룹 포트폴리오 리밸런싱 및 미래 기술 투자를 총괄하는 최상위 지주회사입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "TC 본더 공급",
+          "reason": "SK하이닉스의 HBM 제조 공정에 필수적인 듀얼 TC 본더 장비를 독점적 수준으로 공급하는 핵심 협력사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "피에스케이홀딩스",
+          "code": "031980",
+          "role": "패키징 리플로우 장비 공급",
+          "reason": "HBM 패키징 공정에 사용되는 디스컴 및 리플로우 장비를 SK하이닉스 등에 공급하고 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+7.45%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "초고다층 인쇄회로기판(MLB) 제조",
+          "reason": "AI 서버 및 가속기 기판용 고다층 메인보드를 글로벌 빅테크 및 반도체 밸류체인에 납품하고 있습니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "제우스",
+          "code": "079370",
+          "role": "반도체 세정 장비 공급",
+          "reason": "SK하이닉스 HBM 공정에 적용되는 고급 세정 장비를 공급하는 후방 장비사입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+8.87%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "와이씨",
+          "code": "232140",
+          "role": "고속 메모리 테스터 공급",
+          "reason": "HBM 고속 검사를 위한 차세대 메모리 웨이퍼 테스터를 개발하여 SK하이닉스 밸류체인 진입을 추진 중입니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "+4.44%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
