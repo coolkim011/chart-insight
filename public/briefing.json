@@ -52,17 +52,53 @@
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 기관 투자자의 우주항공 및 민간우주기업 투자 확대",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "하버드대 기금, 스페이스X를 최대 보유 자산으로 내세우며 2026 회계연도에 27% 급증",
+      "newsSummaryKo": [
+        "하버드 대학교의 기금(Endowment)은 스페이스X를 최대 보유 자산으로 편입하면서 2026 회계연도에 27% 증가했다.",
+        "이번 12개월 기간은 2021년 이후 해당 대학 기금 역사상 가장 강력한 투자 수익률을 기록한 시기로 나타났다.",
+        "스페이스X 등 민간 우주 및 테크 관련 자산의 가치 상승이 이번 기금 실적 개선을 이끈 주요 원인으로 작용했다."
+      ],
       "newsSource": "CNBC Markets · Thu, 15 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "The latest 12-month period marked the strongest return for the university's fund since 2021."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "AP위성",
+          "code": "211270",
+          "role": "위성탑재체 및 위성통신 단말기 제조",
+          "reason": "스페이스X 등 글로벌 민간 우주항공 생태계 확대 및 우주 테마 성장에 따른 시장의 동조화 현상으로 관심받는 국내 우주부품 상장사이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+2.39%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "켄코아에어로스페이스",
+          "code": "274090",
+          "role": "항공우주 부품 가공 및 동체 조립",
+          "reason": "글로벌 우주항공 및 발사체 관련 공급망에 참여하거나 연계된 이력을 보유하여 해외 우주 산업 모멘텀에 간접적으로 반응하는 국내 항공우주·소부장 기업이다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+9.71%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "role": "발사체 체계 종합 및 엔진 제작",
+          "reason": "국내 우주 발사체 및 위성 사업의 중심에 있는 대형 방산·우주 기업으로, 글로벌 우주 투자 심리 개선 시 매크로 측면에서 테마를 공유한다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+3.68%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -90,17 +126,42 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 항공 업황 및 운송 서비스 변동성",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Air Canada 주가, 오늘 왜 하락하나?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "에어캐나다 주가 하락 배경 및 글로벌 항공 섹터 동향",
+      "newsSummaryKo": [
+        "제공된 기사 본문 내용이 존재하지 않아 구체적인 하락 원인을 확인할 수 없습니다.",
+        "일반적인 항공주 주가 변동은 유가 변동성, 거시경제 지표, 여행 수요 등에 영향을 받습니다.",
+        "본문 부재로 인해 객관적 사실 기반의 추가 요약을 작성할 수 없습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-19 16:23",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2132006",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "대한항공",
+          "code": "003490",
+          "role": "국내 대형 항공 운송 서비스",
+          "reason": "글로벌 항공 업황 둔화 및 매크로 변동성 발생 시 함께 테마로 묶여 심리적 영향을 받는 국내 대표 항공사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.49%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "아시아나항공",
+          "code": "020560",
+          "role": "국내 대형 항공 운송 서비스",
+          "reason": "글로벌 항공 시장의 업황 악화 우려 시 동반하여 주가 변동성이 확대되는 경향이 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
