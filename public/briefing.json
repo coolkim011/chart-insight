@@ -40,31 +40,136 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 자산 배분 전략 및 채권 대체 투자",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "10년간의 '죽은 돈': 헤지펀드 투자 전략이 채권보다 우위를 점할 수 있는 이유",
+      "newsSummaryKo": [
+        "일부 투자자들은 전통적인 채권 배분 비중을 재고하고 관리형 선물(Managed Futures) 노출을 선택할 필요가 있다.",
+        "장기간 채권 중심의 투자 전략이 정체기를 겪으면서 대안적 투자 접근법에 대한 관심이 높아지고 있다.",
+        "헤지펀드와 유사한 운용 전략이 전통적인 고정수익 상품 대비 포트폴리오 다각화와 성과 측면에서 이점을 제공할 수 있다."
+      ],
       "newsSource": "CNBC Markets · Sat, 17 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "글로벌 자산관리 및 헤지펀드/대체투자 상품 공급",
+          "reason": "글로벌 자산 배분 트렌드 변화에 따른 대체투자 상품 및 헤지펀드 라인업 수요 변화와 연관됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "글로벌 대체투자 및 금융상품 운용",
+          "reason": "채권 대체재로서의 다양한 글로벌 금융 상품 및 구조화 상품 판매와 관련이 있음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "자산관리 및 증권업 영위",
+          "reason": "글로벌 금융 시장의 자산 배분 다변화 추세가 증권사 브로커리지 및 자산관리 부문에 영향을 미침.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "NH투자증권",
+          "code": "005940",
+          "role": "금융상품 자문 및 판매",
+          "reason": "고액 자산가들의 포트폴리오 재편 시 대체투자 및 자산 배분 전략 수요에 대응.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+0.07%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "중국 의료비 지출 확대와 소비 진작 전망",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "중국인 의료비 지출, 미국 수준 육박… IMF \"정부 지출 확대가 소비 살릴 것\"",
+      "newsSummaryKo": [
+        "국제통화기금(IMF)은 중국 국민들이 소득 대비 미국인들과 거의 비슷한 수준을 의료비로 지출하고 있다고 분석했다.",
+        "이에 따라 중국 정부가 의료 부문에 대한 재정 지출을 늘릴 경우 침체된 내수 소비를 진작하는 데 도움이 될 수 있다고 제언했다.",
+        "이번 분석은 중국의 높은 의료비 부담이 가계 소비 여력을 제약하고 있다는 진단에 기반하고 있다."
+      ],
       "newsSource": "CNBC Markets · Thu, 15 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성바이오로직스",
+          "code": "207940",
+          "role": "글로벌 위탁개발생산(CDMO)",
+          "reason": "중국을 포함한 글로벌 헬스케어 및 제약 시장의 정책 변화와 수요 변동에 직접적으로 연동되는 대표 제약·바이오 대장주이다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.76%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "셀트리온",
+          "code": "068270",
+          "role": "바이오시밀러 개발 및 제조",
+          "reason": "글로벌 의료 및 제약 비용 절감 트렌드와 각국의 헬스케어 정책 방향에 영향을 받는 대표적인 국내 바이오 기업이다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+2.16%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한미약품",
+          "code": "128940",
+          "role": "의약품 연구개발 및 제조",
+          "reason": "글로벌 제약·바이오 시장의 거시적 수요 변화와 의료 정책 환경에 간접적인 영향을 받는 상위 제약사이다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.30%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동국제약",
+          "code": "086450",
+          "role": "제의약품 및 헬스케어 제품 생산",
+          "reason": "국내외 헬스케어 및 의료 지출 트렌드와 연관된 헬스케어 관련 기업이다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "서린바이오",
+          "code": "038070",
+          "role": "바이오 인프라 및 시약 유통",
+          "reason": "바이오 연구개발 및 헬스케어 전방 산업의 투자 심리와 연동되는 파생 섹터 기업이다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+2.62%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
@@ -104,17 +209,19 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 클라우드 및 고성능 컴퓨팅 인프라",
+      "categoryBadge": "디지털자산/핀테크",
       "newsHeadlineOriginal": "Bitdeer 주가, AI 클라우드 수익 잔고 29억 달러에 6.5% 급등",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "비트디어, AI 클라우드 수주 잔고 29억 달러 돌파에 주가 6.5% 급등",
+      "newsSummaryKo": [
+        "비트디어의 AI 클라우드 부문 수익 잔고가 29억 달러를 기록했다.",
+        "이러한 대규모 수주 잔고 소식이 전해지면서 비트디어의 주가가 6.5% 상승했다.",
+        "해당 기업은 기존 디지털 자산 채굴 인프라를 바탕으로 AI 클라우드 서비스 영역으로 사업을 확장하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-19 21:02",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2132214",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 7,
