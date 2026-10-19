@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week."
     },
     {
@@ -75,22 +75,102 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130694",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 수익성 우려 및 글로벌 반도체주 조정",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "[1019개장체크] 美 증시, AI 인프라 부채 및 수익성 우려에 따른 기술주·반도체주 폭락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "美 증시, AI 인프라 부채 부담과 수익성 회의론에 기술주·반도체주 급락",
+      "newsSummaryKo": [
+        "미국 증시에서 빅테크 기업들의 대규모 AI 인프라 투자에 따른 부채 급증과 자본적 지출(CAPEX) 대비 수익성 회의론이 대두되며 주요 기술주가 급락했습니다.",
+        "엔비디아를 비롯한 글로벌 핵심 칩 제조사들의 주가가 조정을 받으며 필라델피아 반도체 지수가 큰 폭의 하락세를 나타냈습니다.",
+        "글로벌 AI 데이터센터 투자 속도 조절 가능성이 제기됨에 따라 고대역폭메모리(HBM) 및 반도체 소부장 전반에 대한 단기 투자심리 위축 우려가 커지고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-18 23:29",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130689",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "글로벌 AI 가속기향 HBM 주력 공급사",
+          "reason": "엔비디아 등 글로벌 AI 칩 선도기업에 HBM3E를 공급하고 있어 북미 AI 인프라 투자 및 반도체 업황 지표와 주가 동조화가 가장 직접적입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 제조 및 파운드리·HBM 공급사",
+          "reason": "글로벌 IT 빅테크 기업들의 서버용 D램 및 차세대 HBM 공급사이자 파운드리 사업을 영위하고 있어 기술주 전반의 CAPEX 조정 우려에 직접적인 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 듀얼 TC 본더 장비 제조사",
+          "reason": "SK하이닉스 및 글로벌 반도체 패키징 기업에 HBM 접합용 핵심 장비를 공급하고 있어 HBM 설비투자 변동성에 직접 연계됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 가속기 및 네트워크 스위치용 고다층인쇄회로기판(MLB) 공급사",
+          "reason": "구글, 엔비디아 등 북미 빅테크의 AI 서버 및 통신 장비에 핵심 기판을 직접 납품하므로 글로벌 AI 인프라 투자 감축 여부에 직접 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "디아이티",
+          "code": "110990",
+          "role": "HBM 수율 향상용 레이저 앤닐링 장비 제조사",
+          "reason": "SK하이닉스향 HBM 제조 공정 필수 검사 및 열처리 장비를 공급하여 대장주의 CAPEX 집행 추이에 연동됩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "+4.76%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "테크윙",
+          "code": "089030",
+          "role": "HBM 및 고속 메모리 반도체 검사용 핸들러 제조사",
+          "reason": "HBM 전수 검사용 큐브 프로버 장비를 개발하여 양산 라인 진입을 추진 중이므로 메모리 업계의 차세대 투자 일정에 간접적 영향을 받습니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "+4.26%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "오픈엣지테크놀로지",
+          "code": "394280",
+          "role": "AI 반도체 통합 IP 솔루션 개발사",
+          "reason": "글로벌 NPU 및 고성능 메모리 컨트롤러 IP를 설계하는 기업으로 AI 칩 개발 생태계 및 업황 센티멘트에 간접적으로 노출되어 있습니다.",
+          "rank": 7,
+          "verified": true,
+          "changeRate": "+3.00%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
@@ -115,7 +195,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130692",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -129,7 +209,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130683",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -143,7 +223,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2130688",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
