@@ -40,17 +40,64 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 방산 및 첨단 제조 공급망 투자 확대",
+      "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "JP모건 체이스, 방산 및 하드웨어 공급망에 50억 달러 첫 직접 투자 단행",
+      "newsSummaryKo": [
+        "JP모건 체이스는 방산 기술, 하드웨어 및 관련 공급망에 초점을 맞춰 자사 대차대조표를 활용한 직접 투자를 집행하고 있다.",
+        "이번 투자 규모는 이미 50억 달러에 달하며 로봇 공장 및 극초음속 미사일 등의 분야를 아우르고 있다.",
+        "해당 금융회사는 첨단 방위산업 및 제조 기반의 공급망 강화를 위한 자본 투자를 가속화하는 중이다."
+      ],
       "newsSource": "CNBC Markets · Mon, 19 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "현대로템",
+          "code": "064350",
+          "role": "중기계 및 무인화 로봇 체계 제조",
+          "reason": "방산 장비 제조와 더불어 로봇 공장 및 자동화 제조 기술의 접목이 확대되는 글로벌 방산·중공업 섹터에 속한다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한화시스템",
+          "code": "272210",
+          "role": "방산 전자, 레이다 및 첨단 하드웨어 공급",
+          "reason": "첨단 방산 기술 및 하드웨어 공급망에 필수적인 전자광학 및 레이다 시스템을 개발·공급한다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.41%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "role": "협동로봇 및 자동화 솔루션 제공",
+          "reason": "기사에 언급된 '로봇 공장' 및 스마트 제조 자동화 트렌드와 직결되는 국내 로보틱스 전문 기업이다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+7.23%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "스맥",
+          "code": "099440",
+          "role": "공작기계 및 자동화 시스템 공급",
+          "reason": "하드웨어 제조 공장에 필수적인 공작기계와 자동화 장비를 공급하여 후방 제조 서플라이 체인을 형성한다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+8.85%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
