@@ -40,17 +40,42 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "휴머노이드 로봇 및 AI 생태계",
+      "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "Faraday Future Robotics, LD Micro서 개방형 AI 생태계 전략 제시",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "패러데이 퓨처 로보틱스, LD 마이크로 컨퍼런스서 개방형 AI 생태계 전략 발표",
+      "newsSummaryKo": [
+        "패러데이 퓨처 로보틱스가 최근 LD 마이크로 컨퍼런스에 참가해 개방형 인공지능(AI) 생태계 구축 전략을 공개했다.",
+        "이번 발표는 로보틱스 및 AI 기술 고도화를 위한 자사의 비전과 산업 내 협력 방안에 초점이 맞춰졌다.",
+        "회사는 향후 다양한 파트너사들과의 연계를 통해 AI 생태계를 확장해 나가겠다는 방침이다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 22:09",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2134080",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "레인보우로보틱스",
+          "code": "277810",
+          "role": "로봇 부품 및 제어기 공급",
+          "reason": "글로벌 로봇 및 AI 생태계 확장 트렌드에 따라 국내 휴머노이드 및 협동로봇 관련 기술 보유 기업으로 테마적 연관성이 부각됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.72%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "두산로보틱스",
+          "code": "454910",
+          "role": "로봇 솔루션 제공",
+          "reason": "글로벌 로보틱스 시장의 기술 진화 및 AI 협업 확대 흐름과 동조화되는 국내 대표 로봇 상장사임.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+2.69%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -102,17 +127,64 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
+      "theme": "스페이스X와 테슬라 합병 검토",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "SpaceX와 테슬라, 합병 검토 위한 특별위원회 구성",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "스페이스X와 테슬라, 합병 검토를 위한 특별위원회 구성 추진",
+      "newsSummaryKo": [
+        "일론 머스크가 이끄는 우주탐사기업 스페이스X와 전기차 기업 테슬라가 합병 검토를 위한 특별위원회를 구성 중인 것으로 알려졌다.",
+        "이번 합병 검토는 양사 간의 기술적 시너지 창출과 자율주행, 위성 통신 등 미래 모빌리티 사업 통합을 염두에 둔 것으로 분석된다.",
+        "구체적인 합병 조건과 타당성 검토를 거쳐 향후 공식적인 절차가 진행될지 글로벌 시장의 이목이 집중되고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 21:56",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2134074",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG이노텍",
+          "code": "011070",
+          "role": "전장 부품 공급",
+          "reason": "테슬라의 자율주행 및 전장 부품 서플라이 체인에 포함되어 있어 완성차 기업 간의 구조적 변화에 직접적인 영향을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "화신",
+          "code": "010690",
+          "role": "샤시 및 차체 부품 공급",
+          "reason": "테슬라 등 글로벌 전기차 메이커에 주요 차체 부품을 공급하는 1차 협력사로 전방 산업 변동성에 연동됨.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.24%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼기",
+          "code": "122350",
+          "role": "전기차 변속기 및 배터리 부품",
+          "reason": "테슬라 등 글로벌 완성차업체로 알루미늄 다이캐스팅 부품을 공급하며 전기차 서플라이 체인에 속함.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.62%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "AP위성",
+          "code": "211270",
+          "role": "위성통신 단말기 및 부품",
+          "reason": "스페이스X의 스타링크 등 우주항공 및 위성 통신 테마와 국내에서 동조화 현상을 보이는 관련주임.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.33%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
