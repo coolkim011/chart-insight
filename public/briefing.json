@@ -40,17 +40,53 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "미·중 금융 시장 접근성 협상",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국, 방콕 양자 회담서 중국에 마스터카드·씨티그룹 시장 접근 허용 압박",
+      "newsSummaryKo": [
+        "미국 재무부 관리에 따르면, 미국 측은 이번 방콕 양자 회담에서 중국을 상대로 마스터카드와 씨티그룹의 시장 접근 문제를 제기했습니다.",
+        "이번 회담은 미·중 간 금융 및 경제 현안을 논의하기 위해 방콕에서 개최된 양자 회의의 일환으로 진행되었습니다.",
+        "미국 정부는 중국 금융 시장에서의 자국 주요 금융 및 결제 서비스 업체의 영업 환경 개선을 지속적으로 촉구하고 있습니다."
+      ],
       "newsSource": "CNBC Markets · Fri, 16 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "글로벌 금융 및 결제 시장 동향 연동",
+          "reason": "미·중 금융 시장 개방 협상 및 글로벌 금융 규제 변화는 국내 대형 금융지주의 글로벌 사업 환경과 투자 심리에 간접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "글로벌 금융 시장 지표 연동",
+          "reason": "미국과 중국 간의 금융 거시 정책 및 시장 개방 압박 뉴스는 글로벌 금융 산업의 전반적인 규제 및 개방 기조를 보여주는 지표입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "NHN KCP",
+          "code": "060250",
+          "role": "지불결제(PG) 및 글로벌 결제 연관 테마",
+          "reason": "마스터카드 등 글로벌 결제 네트워크 업체의 중국 시장 접근성 이슈는 국내 결제 및 핀테크 관련 테마의 투자 심리에 동조화 현상을 유발할 수 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-3.21%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -90,17 +126,64 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
+      "theme": "테슬라 주가 박스권 횡보 및 글로벌 전기차 밸류체인 영향",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Tesla $350~$388 박스권 갇혀 방향성 실종: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "테슬라 주가 350~388달러 박스권 횡보 속 방향성 탐색 지속",
+      "newsSummaryKo": [
+        "미국 증시에서 테슬라 주가는 최근 350달러와 388달러 사이의 좁은 박스권에 갇힌 채 뚜렷한 방향성을 찾지 못하고 있다.",
+        "시장 참여자들은 추가적인 상승 모멘텀이나 하락 반전을 이끌어낼 만한 새로운 촉매제를 주시하고 있다.",
+        "해당 주가 흐름은 글로벌 전기차 수요 및 자율주행 관련 뉴스와 실시간으로 연동되어 매시간 업데이트되며 변동성을 보이고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 19:13",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2131860",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "배터리 셀 공급",
+          "reason": "테슬라에 원통형 배터리를 공급하며 테슬라의 주가 및 판매량 변동에 직접적인 실적 연관성을 가집니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "엘앤에프",
+          "code": "066970",
+          "role": "양극재 공급",
+          "reason": "테슬라 향 하이니켈 양극재를 직접 공급하는 1차 밸류체인 핵심 기업입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.39%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "천보",
+          "code": "278280",
+          "role": "전해질 소재 공급",
+          "reason": "전기차용 배터리에 탑재되는 전해액 첨가제를 생산하여 글로벌 배터리 밸류체인에 포함됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+2.64%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "나노신소재",
+          "code": "121600",
+          "role": "탄소나노튜브(CNT) 도전재 공급",
+          "reason": "차세대 배터리 소재인 CNT 도전재를 공급하며 전기차 시장 성장 및 테슬라 배터리 전략 변화에 후방 파생 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-6.23%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
