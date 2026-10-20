@@ -64,17 +64,19 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "해외 바이오 기업 주가 변동",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Climb Bio 주가, 오늘 급등한 이유는?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "클라임 바이오, 주가 급등 배경은?",
+      "newsSummaryKo": [
+        "제공된 기사 본문 내용이 비어 있어 구체적인 주가 급등 원인을 확인할 수 없습니다.",
+        "본문 부재로 인해 Climb Bio사의 임상 결과, 실적 발표, M&A 등 관련 이벤트 정보를 파악할 수 없습니다.",
+        "추가적인 팩트 데이터가 제공되지 않아 객관적인 사건 요약을 작성할 수 없습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 14:56",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2133690",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 4,
@@ -90,17 +92,19 @@
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "사우스웨스트 항공 주가 변동 및 글로벌 항공 산업",
+      "categoryBadge": "글ローバル 마켓",
       "newsHeadlineOriginal": "Southwest Airlines 주가가 오늘 급등한 이유는?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 사우스웨스트 항공 주가 급등 배경 및 시장 동향",
+      "newsSummaryKo": [
+        "제공된 기사 본문 내용이 비어 있어 구체적인 사우스웨스트 항공의 주가 급등 사유를 확인할 수 없습니다.",
+        "일반적으로 항공사 주가는 유가 변동, 여행 수요 변화, 실적 발표 등에 영향을 받아 변동성을 보입니다.",
+        "본문 데이터가 부재하여 객관적인 사실 기반의 추가 요약을 작성할 수 없습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 14:55",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2133688",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 6,
@@ -140,17 +144,75 @@
     },
     {
       "id": 9,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 인프라 및 데이터센터 밸류체인",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "HSBC CEO, \"AI 붐이 모든 데이터센터를 유망한 투자처로 만들지는 않을 것\" 경고",
+      "newsSummaryKo": [
+        "HSBC 최고경영자는 AI 붐으로 인해 모든 데이터센터가 성공적인 투자가 되지는 않을 것이라고 경고했다.",
+        "데이터센터 캠퍼스는 인공지능(AI)과 클라우드 컴퓨팅을 구동하는 서버들을 수용하는 역할을 한다.",
+        "급증하는 AI 인프라 투자 속에서도 개별 자산의 수익성과 효용성에 대한 선별적 접근이 필요하다는 지적이 제기된다."
+      ],
       "newsSource": "CNBC Markets · Tue, 20 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "AI 서버용 메모리반도체(HBM, 서버용 DRAM) 공급",
+          "reason": "AI 데이터센터 구동에 필수적인 서버용 고성능 메모리를 공급하여 AI 인프라 투자 확대의 직접적인 영향을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 데이터센터용 HBM(고대역폭 메모리) 공급",
+          "reason": "AI 연산을 담당하는 서버용 핵심 반도체인 HBM을 글로벌 빅테크 데이터센터 공급망에 납품함.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 데이터센터 서버용 고다층 인쇄회로기판(MLB) 공급",
+          "reason": "글로벌 AI 가속기 및 네트워크 장비에 쓰이는 고기능성 MLB를 공급하며 AI 데이터센터 투자 사이클과 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 본딩 장비 공급",
+          "reason": "AI 서버 핵심 부품인 HBM 생산에 필수적인 TC 본더 장비를 공급하여 밸류체인 상류에 위치함.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "효성중공업",
+          "code": "298040",
+          "role": "데이터센터용 전력 변압기 및 전력기기 공급",
+          "reason": "데이터센터 전력 소비 급증에 따른 전력 인프라 확충 테마와 간접적으로 연계됨.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.29%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 10,
@@ -229,17 +291,53 @@
     },
     {
       "id": 14,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "항공우주 글로벌 공급망 및 실적 발표",
+      "categoryBadge": "글ローバル マ켓",
       "newsHeadlineOriginal": "GE Aerospace 주가, 실적 예상치 웃돌고도 하락한 이유는?",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "GE 에어로스페이스, 시장 예상 웃도는 실적에도 주가 하락한 배경은?",
+      "newsSummaryKo": [
+        "GE 에어로스페이스가 시장의 예상치를 상회하는 양호한 실적을 발표했습니다.",
+        "그러나 호실적 기록에도 불구하고 주가는 오히려 하락세를 나타냈습니다.",
+        "구체적인 기사 본문 내용이 제공되지 않아 세부적인 하락 원인은 명시되지 않았습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 13:51",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2133505",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 1,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "한화에어로스페이스",
+          "code": "012450",
+          "role": "항공기 엔진 부품 생산",
+          "reason": "글로벌 항공기 엔진 및 부품 공급망에 참여하고 있어 GE 등 해외 항공우주 기업의 실적 및 업황 변동에 연동되는 국내 대표 상장사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.68%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "대한항공",
+          "code": "003490",
+          "role": "항공기 운항 및 정비",
+          "reason": "글로벌 항공기 제작사의 동향과 부품 수급 상황에 따라 정비 및 기단 운영 비용 등이 간접적인 영향을 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.49%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한국항공우주",
+          "code": "047810",
+          "role": "항공기 기체 구조물 제작",
+          "reason": "글로벌 항공기 서플라이 체인의 전반적인 투자 심리와 수요 변화에 동조화되는 경향이 있습니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 15,
@@ -554,17 +652,64 @@
     },
     {
       "id": 30,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "SK하이닉스 주가 기술적 지표 및 과매도 국면",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "SK Hynix RSI 19.94 극단 과매도, 하락 추세 지속: 매시 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "SK하이닉스, RSI 19.94 기록하며 극단적 과매도 구간 진입 및 하락세 지속",
+      "newsSummaryKo": [
+        "SK하이닉스가 상대강도지수(RSI) 19.94를 기록하며 기술적으로 극단적인 과매도 국면에 진입했습니다.",
+        "현재 시장에서 해당 종목은 하락 추세가 지속되는 양상을 보이고 있습니다.",
+        "본 지표는 실시간 시세 업데이트를 바탕으로 산출된 수치입니다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 05:03",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130735",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 3,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체(DRAM/NAND) 제조 및 공급",
+          "reason": "기사의 직접적인 분석 대상인 메모리 반도체 대장주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비(TC 본더) 공급",
+          "reason": "SK하이닉스의 HBM 제조 공정에 핵심 장비를 공급하여 밸류체인상 밀접하게 연동됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "주성엔지니어링",
+          "code": "036930",
+          "role": "반도체 전공정 장비(ALD 등) 공급",
+          "reason": "SK하이닉스의 반도체 제조 라인에 주요 전공정 장비를 납품하는 협력사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-5.44%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이오테크닉스",
+          "code": "039030",
+          "role": "반도체 레이저 장비 공급",
+          "reason": "SK하이닉스의 메모리 생산 공정 전반의 설비 투수 추이에 간접적으로 영향을 받는 후방 장비사입니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-3.77%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 31,
@@ -2386,6 +2531,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1792565999.1468382,
+      "gemini-flash-latest": 1792565999.2216692
+    }
   }
 }
