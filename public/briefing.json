@@ -157,7 +157,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130736",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -255,7 +255,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130735",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -296,17 +296,53 @@
     },
     {
       "id": 17,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "IMF-세계은행 연차총회 주요 의제",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "Three big takeaways from the IMF-World Bank meetings",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "방콕서 열린 IMF·세계은행 회의, 부채·AI·우크라이나가 핵심 화두로 부상",
+      "newsSummaryKo": [
+        "방콕에서 개최된 IMF-세계은행 연차총회에서는 글로벌 부채, 인공지능(AI), 우크라이나 문제가 주요 화두로 다뤄졌다.",
+        "과거 2018년 총회의 핵심 관심사였던 중국 경제는 이번 회의에서 뒷바퀴로 밀려나는 모습을 보였다.",
+        "이번 회의는 전 세계적인 거시경제 리스크와 기술 변화가 국제 금융 질서의 주요 논의 대상임을 시사했다."
+      ],
       "newsSource": "CNBC Markets · Tue, 20 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 2,
-      "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "글로벌 AI 인프라 및 반도체 공급",
+          "reason": "AI가 글로벌 거시 경제 및 기술 투자의 핵심 의제로 다뤄짐에 따라 반도체 밸류체인 전반의 대외 환경에 직접적인 영향을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 메모리 반도체 공급",
+          "reason": "AI 관련 글로벌 투자 및 정책 방향성이 반도체 산업의 수요 전망과 연동되어 있음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 공급",
+          "reason": "AI 인프라 투자 확대에 따른 반도체 장비 수요 변화가 간접적으로 연동됨.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 18,
