@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130736",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -78,17 +78,75 @@
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "삼성전자 주가 하락 및 과매도 국면 진입",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전자, 52주 저점 부근 과매도 갈림길: 매시간 업데이트",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성전자, 52주 신저가 근접 속 과매도 구간 진입 여부 주목",
+      "newsSummaryKo": [
+        "삼성전자가 52주 신저가 부근에서 거래되며 기술적 과매도 국면의 갈림길에 놓였다.",
+        "시장에서는 주가 하락에 따른 밸류에이션 매력과 추가 하락 가능성에 대한 우려가 교차하고 있다.",
+        "주가 변동성에 따라 국내 반도체 전반의 투자 심리에도 영향을 미치고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-20 05:03",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130734",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "종합 반도체 및 완제품 제조",
+          "reason": "기사의 직접적인 대상이자 국내 반도체 대장주로서 주가 등락에 가장 즉각적인 영향을 받음.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "메모리 반도체 제조",
+          "reason": "국내 반도체 섹터의 양대 축으로, 삼성전자의 주가 및 업황 센티멘트에 동조화되는 경향이 큼.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "원익IPS",
+          "code": "240810",
+          "role": "반도체 제조 장비 공급",
+          "reason": "삼성전자의 설비투자(CAPEX) 및 업황 변동에 직접적인 영향을 받는 대표적인 국내 소부장 기업.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-3.78%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "테스",
+          "code": "095610",
+          "role": "반도체 전공정 장비 공급",
+          "reason": "삼성전자 등 주요 메모리 업체를 고객사로 두고 있어 반도체 투자 심리에 연동됨.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-4.38%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "반도체 후공정 장비 제조",
+          "reason": "반도체 업종 전반의 투자 심리 및 밸류체인 파생 효과가 미치는 대표적 후공정 장비 종목.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
@@ -101,7 +159,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2130735",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -151,7 +209,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
