@@ -40,17 +40,64 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 AI 기업 IPO 지연 및 시장 동향",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "앤스로픽, 오픈AI 상장 연기로 올해 마지막 대어급 IPO로 부상",
+      "newsSummaryKo": [
+        "예측 시장 칼시(Kalshi)에 따르면, 앤스로픽은 오픈AI의 상장 연기 이후 2026년 예정된 마지막 대형 기업공개(IPO)로 평가받고 있습니다.",
+        "당초 상장을 기대했던 오픈AI를 포함해 주요 AI 관련 기업들이 공모 시장 데뷔를 연기하고 있습니다.",
+        "이러한 대형 AI 기업들의 상장 지연은 글로벌 주식시장 및 AI 관련 투자 심리에 직접적인 영향을 미치고 있습니다."
+      ],
       "newsSource": "CNBC Markets · Mon, 19 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "SK하이닉스",
+          "code": "000660",
+          "role": "AI 서버용 고대역폭메모리(HBM) 공급",
+          "reason": "글로벌 AI 빅테크 및 LLM 개발사의 투자 규모와 수요에 직접 연동되는 인프라 핵심 공급사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.41%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성전자",
+          "code": "005930",
+          "role": "AI 반도체 및 메모리 솔루션 제공",
+          "reason": "앤스로픽 및 오픈AI 등 글로벌 AI 생태계의 인프라 투자 확장에 따른 반도체 수혜 테마로 묶입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-2.88%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "AI 가속기용 초고다층 인쇄회로기판(MLB) 공급",
+          "reason": "글로벌 빅테크의 AI 인프라 투자 심리 변화에 따라 실적 연관성이 높은 전방 부품사입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한미반도체",
+          "code": "042700",
+          "role": "HBM 제조용 본딩 장비 공급",
+          "reason": "AI 반도체 밸류체인 내 핵심 장비를 공급하며 글로벌 AI 투자 동향과 주가 흐름이 동조화되는 경향이 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-1.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
@@ -66,17 +113,64 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "항공유가 전망 및 항공 업황",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "United Airlines CEO “2027년에도 연료 가격 높은 수준 유지 전망”",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "유나이티드항공 CEO \"2027년까지 고유가 기조 지속될 것\"",
+      "newsSummaryKo": [
+        "유나이티드항공의 최고경영자(CEO)가 2027년에도 항공 연료 가격이 높은 수준을 유지할 것으로 전망했다.",
+        "이러한 연료비 강세 전망은 글로벌 항공사들의 운영 비용 부담에 직접적인 영향을 미치는 요소로 작용하고 있다.",
+        "항공 업계는 지속되는 고유가 환경 속에서 비용 구조 개선 및 효율성 제고 방안을 모색하고 있다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 14:51",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2135630",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "대한항공",
+          "code": "003490",
+          "role": "대형 항공 운송 서비스",
+          "reason": "항공 연료비는 항공사 영업비용의 큰 비중을 차지하므로 고유가 전망은 유류할증료 및 비용 구조에 직접적인 영향을 미침",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.49%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "아시아나항공",
+          "code": "020560",
+          "role": "항공 운송 서비스",
+          "reason": "글로벌 항공유가 변동 및 고유가 장기화 전망은 여객 및 화물 사업의 유류비 부담과 직결됨",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "제주항공",
+          "code": "089590",
+          "role": "저비용 항공(LCC) 운송",
+          "reason": "고유가 기조가 유지될 경우 비용 통제가 중요한 저비용 항공사의 수익성에 영향을 미치는 연관 테마주임",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.99%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "S-Oil",
+          "code": "010950",
+          "role": "정유 및 항공유 생산",
+          "reason": "항공유를 포함한 정유 제품의 마감 가격 및 시황이 정유사들의 실적에 간접적인 파생 효과를 줌",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.58%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -2281,6 +2375,9 @@
     }
   ],
   "aiState": {
-    "blocked": {}
+    "blocked": {
+      "gemini-3.8-flash": 1792652399.0624928,
+      "gemini-flash-latest": 1792652399.1611102
+    }
   }
 }
