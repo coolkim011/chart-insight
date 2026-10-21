@@ -40,115 +40,469 @@
   "briefings": [
     {
       "id": 1,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "글로벌 자산 배분 및 헤지펀드 전략 변화",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "십년 동안의 정체기: 헤지펀드 전략이 채권 투자의 대안이 될 수 있는 이유",
+      "newsSummaryKo": [
+        "일부 투자자들은 전통적인 채권 자산 배분에 대한 재고를 고려해야 한다는 의견이 제기되고 있다.",
+        "기사는 채권 대신 관리형 선물(Managed Futures) 노출을 선택하는 것이 투자 우위를 제공할 수 있다고 언급한다.",
+        "과거 수십 년간 정체기를 겪었던 전통적 투자 방식에서 벗어나 새로운 헤지펀드 접근법이 주목받고 있다."
+      ],
       "newsSource": "CNBC Markets · Sat, 17 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "종합 금융 서비스 및 자산관리(WM)",
+          "reason": "글로벌 자산 배분 트렌드 변화 및 대체투자 상품 수요 증대에 따라 금융 상품 판매 및 운용 환경이 직접적으로 연동됨.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "미래에셋증권",
+          "code": "006800",
+          "role": "글로벌 투자 및 자산운용 서비스",
+          "reason": "전통 채권 외에 헤지펀드 및 관리형 선물 등 대체투자 상품에 대한 기관 및 개인 투자자의 포트폴리오 다변화 수요에 영향을 받음.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.40%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "증권 및 자산운용 자회사 보유 금융그룹",
+          "reason": "글로벌 금융 시장의 자산 배분 전략 변화가 증권사 및 운용 자회사의 대체투자 비즈니스에 간접적인 영향을 미침.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 2,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 조선업 재건 및 해양 방산 공급망",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "美는 조선소 신설, 日은 건조능력 2배...조선업 재건 경쟁",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "미국 조선소 신설·일본 건조능력 확대 등 글로벌 조선업 재건 경쟁 본격화",
+      "newsSummaryKo": [
+        "미국이 노후화된 조선소를 신설하며 해군력 및 상선 건조 인프라 재건에 나서고 있습니다.",
+        "일본은 선박 건조 능력을 기존 대비 2배로 확대하는 등 글로벌 시장에서의 주도권 경쟁을 강화하고 있습니다.",
+        "미·일 양국을 중심으로 한 조선업 재건 움직임은 전 세계 해운 및 조선 기자재 밸류체인에 구조적 변화를 촉발하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136171",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "HD현대중공업",
+          "code": "329180",
+          "role": "대형 선박 및 해양 구조물 건조",
+          "reason": "글로벌 조선업 경쟁 심화 및 친환경·특수선 수요 증가에 따라 직접적인 수주 및 건조 실적이 연동되는 국내 대표 조선사입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.78%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "삼성중공업",
+          "code": "010140",
+          "role": "LNG운반선 및 해양플랜트 건조",
+          "reason": "글로벌 해운·조선 인프라 재편 국면에서 대형 상선 및 해양 설비 건조 역량을 보유한 핵심 대장주입니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-4.70%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "HD한국조선해양",
+          "code": "009540",
+          "role": "조선 지주사 및 선박 엔진·엔지니어링 공급",
+          "reason": "조선 부문 중간지주사로서 글로벌 조선 건조 경쟁 속에서 해양 엔지니어링 및 선박 솔루션을 제공합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-1.69%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "한국카본",
+          "code": "017960",
+          "role": "LNG 보냉재 및 조선 기자재 공급",
+          "reason": "국내 대형 조선사들에 선박 건조 필수 소재인 보냉재를 공급하여 전방 조선업황과 직접 연결됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.82%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "동성화인텍",
+          "code": "033500",
+          "role": "LNG 운반선용 초저온 보냉재 제조",
+          "reason": "조선소의 선박 건조 물량 확대에 따라 초저온 보냉재 수요가 동반 증가하는 연관 부품 공급사입니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-1.09%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "STX엔진",
+          "code": "077970",
+          "role": "선박용 디젤 엔진 및 방위산업용 엔진 제조",
+          "reason": "조선소의 선박 건조 대수 증가 시 필수적으로 탑재되는 선박용 엔진 및 기자재를 공급하는 후방산업 기업입니다.",
+          "rank": 6,
+          "verified": true,
+          "changeRate": "-2.12%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "수능 시즌 제약·바이오 및 건강기능식품 마케팅",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "수능 코앞…제약사들도 수험생·학부모 선점 ’마케팅 열공’",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "수능 앞두고 제약업계, 수험생 및 학부모 타겟 마케팅 본격화",
+      "newsSummaryKo": [
+        "대학수학능력시험을 앞두고 주요 제약사들이 수험생과 학부모를 겨냥한 마케팅 활동을 강화하고 있습니다.",
+        "집중력 향상 및 피로 회복에 도움을 줄 수 있는 관련 건강기능식품과 피로회복제에 대한 수요가 증가하고 있습니다.",
+        "제약 업계는 시즌 특수를 맞아 온·오프라인을 통한 프로모션과 제품 알리기에 주력하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136170",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "광동제약",
+          "code": "009290",
+          "role": "음료 및 건강기능식품 제조",
+          "reason": "수험생 타겟 음료 및 건강 관련 제품군의 마케팅을 전개하며 시즌 특수와 연관됩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.04%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "한국은행 통화정책 및 금리 변동",
+      "categoryBadge": "금융/거시경제",
       "newsHeadlineOriginal": "채권시장에 찬물 끼얹나…한은 ’매파 신호’에 금리 상승 경계",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "채권시장에 찬물 끼얹나…한은 '매파 신호'에 금리 상승 경계",
+      "newsSummaryKo": [
+        "한국은행의 매파적(통화 긴축 선호) 신호가 채권시장에 미치는 영향에 대한 우려가 커지고 있습니다.",
+        "통화당국의 발언과 정책 방향성에 따라 국내 채권 금리 상승에 대한 경계감이 확산되는 양상입니다.",
+        "시장은 향후 기준금리 결정 및 통화정책 스탠스 변화에 주목하며 변동성에 대비하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136169",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "KB금융",
+          "code": "105560",
+          "role": "대형 금융지주",
+          "reason": "금리 변동 및 통화정책 변화에 따라 이자수익 및 조달 비용 등 실적이 직접적인 영향을 받는 대표 금융주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+0.47%",
+          "isUp": true
+        },
+        {
+          "tier": 1,
+          "name": "신한지주",
+          "code": "055550",
+          "role": "대형 금융지주",
+          "reason": "시장금리 방향성에 민감하게 반응하는 은행 중심의 금융그룹으로 거시경제 지표 변화에 직접 노출됩니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-1.66%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "삼성증권",
+          "code": "016360",
+          "role": "증권사 (채권 및 자금운용)",
+          "reason": "금리 상승과 채권시장 변동성은 증권사의 채권 평가 손익 및 트레이딩 부문에 직접적인 영향을 미칩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.33%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "한국금융지주",
+          "code": "071050",
+          "role": "증권 및 금융서비스",
+          "reason": "채권 금리 변화에 따른 채권 발행 및 유통 시장의 변화가 실적과 자금 조달에 연동됩니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.81%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "한화생명",
+          "code": "088350",
+          "role": "생명보험사 (자산운용)",
+          "reason": "금리 수준은 보험사의 자산·부채 종합관리(ALM)와 장기 투자수익률에 간접적 및 구조적 영향을 미칩니다.",
+          "rank": 5,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 5,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "메모리 업황 호조에 따른 기판(패키지 기판) 가격 협상력 강화",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "\"메모리 잘나가니 기판도 귀한 몸\"…삼성전기, 가격 협상력 커진다",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "메모리 반도체 호황에 기판 수요 증가…삼성전기 가격 협상력 확대",
+      "newsSummaryKo": [
+        "최근 메모리 반도체 시장의 업황 회복과 수요 증가로 인해 반도체 기판의 공급 부족 및 가치 상승이 나타나고 있습니다.",
+        "이로 인해 주요 기판 생산업체인 삼성전기를 비롯한 관련 기업들의 가격 협상력이 커지는 추세입니다.",
+        "고부가가치 패키지 기판을 중심으로 전방 산업의 수요 확산이 실적에 긍정적인 영향을 미치고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136167",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전기",
+          "code": "009150",
+          "role": "하이엔드 패키지 기판(FC-BGA 등) 생산",
+          "reason": "메모리 및 비메모리 반도체용 고부가가치 기판을 공급하며 업황 호조에 따른 직접적인 수혜 및 가격 협상력 확대가 기대되는 대장주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.27%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "대덕전자",
+          "code": "353200",
+          "role": "반도체 패키지 기판(FC-BGA, FC-CSP) 제조",
+          "reason": "삼성전기와 유사하게 메모리 및 시스템 반도체용 기판을 주력으로 생산하여 패키지 기판 수요 증가의 영향을 함께 받습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.44%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG이노텍",
+          "code": "011070",
+          "role": "반도체 기판(RF-PCB, FC-BGA 등) 생산",
+          "reason": "기판 사업 포트폴리오를 보유하고 있어 반도체 기판 시장의 업황 개선 및 단가 상승 환경과 밀접하게 연동됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "인쇄회로기판(PCB) 제조",
+          "reason": "고다층 인쇄회로기판(MLB)을 중심으로 전방 반도체 및 네트워크 기판 수요 증가 트렌드에 간접적으로 영향을 받습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "테슬라 실적 부진 및 AI 투자 확대",
+      "categoryBadge": "로봇/자동화",
       "newsHeadlineOriginal": "테슬라, 매출 제자리인데 영업이익 56% 급감…AI 투자에 수익성 압박",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "테슬라, 매출 정체 속 영업이익 56% 급감…공격적 AI 투자가 수익성 압박",
+      "newsSummaryKo": [
+        "테슬라의 최근 분기 매출은 제자리걸음을 기록한 반면, 영업이익은 전년 동기 대비 56% 급감했습니다.",
+        "이 같은 수익성 악화는 인공지능(AI) 및 자율주행 기술 관련 투자가 대폭 확대된 데 기인합니다.",
+        "회사는 미래 성장 동력 확보를 위해 비용 증가를 감수하고 AI 분야에 대한 투자를 지속하고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:31",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136161",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "배터리 셀 공급",
+          "reason": "테슬라의 전기차 생산 및 판매 추이에 직접적으로 영향을 받는 핵심 이차전지 밸류체인 대장주입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "엠케이전자",
+          "code": "033160",
+          "role": "본딩와이어 및 소재 공급",
+          "reason": "테슬라 향 전기차 및 자율주행 관련 부품에 간접적으로 소재를 공급하는 서플라이 체인에 속합니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.53%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "현대모비스",
+          "code": "012330",
+          "role": "전장 부품 및 자율주행 솔루션",
+          "reason": "글로벌 전기차 및 자율주행 시장의 성장성 둔화 및 투자 트렌드 변화에 동조화되는 국내 완성차 전장부품 대표 기업입니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.22%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 7,
-      "theme": "AI 분석 대기 중",
-      "categoryBadge": "글로벌 마켓",
+      "theme": "AI 반도체용 고성능 기판 밸류체인",
+      "categoryBadge": "반도체/소부장",
       "newsHeadlineOriginal": "삼성전기, 엔비디아에 AI 반도체 기판 장기 공급…세종·부산 생산라인 증설",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "삼성전기, 엔비디아에 AI 반도체 기판 장기 공급…세종 및 부산 생산라인 증설",
+      "newsSummaryKo": [
+        "삼성전기가 글로벌 AI 가속기 선두 기업인 엔비디아에 AI 반도체용 고성능 기판을 장기 공급하기로 했다.",
+        "이에 따라 삼성전기는 수요 대응을 위해 세종과 부산 사업장의 생산라인 증설을 추진한다.",
+        "이번 공급 체결을 통해 고부가가치 제품인 플립칩-볼그리드어레이(FC-BGA) 부문의 실적 성장이 기대된다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:31",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136163",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "삼성전기",
+          "code": "009150",
+          "role": "FC-BGA 기판 제조 및 엔비디아 공급",
+          "reason": "엔비디아에 AI 반도체용 고성능 기판을 장기 공급하며 세종 및 부산 생산라인 증설을 진행하는 당사자임.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-2.27%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "대덕전자",
+          "code": "353200",
+          "role": "고부가 FC-BGA 및 패키지 기판 제조",
+          "reason": "삼성전기와 마찬가지로 국내 주요 반도체용 FC-BGA 기판 생산업체로서 AI 및 서버용 기판 시장 확대의 수혜 연쇄 효과가 기대됨.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "-0.44%",
+          "isUp": false
+        },
+        {
+          "tier": 2,
+          "name": "LG이노텍",
+          "code": "011070",
+          "role": "반도체 기판(FC-BGA 등) 생산",
+          "reason": "FC-BGA 등 고부가 기판 사업을 신성장 동력으로 육성하고 있어, 하이엔드 기판 시장 성장의 영향권에 있음.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "-0.34%",
+          "isUp": false
+        },
+        {
+          "tier": 3,
+          "name": "이수페타시스",
+          "code": "007660",
+          "role": "고다층 인쇄회로기판(MLB) 제조",
+          "reason": "엔비디아 등 글로벌 AI 가속기향 핵심 MLB 공급사로, AI 반도체 기판 및 하드웨어 생태계와 밀접하게 연계됨.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-0.20%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 8,
-      "theme": "AI 분석 대기 중",
+      "theme": "중국 배터리 밸류체인 실적 부진 및 주가 하락",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "CATL, 3Q 실적 부진에 주가 ’12% 급락’…中 배터리주 동반 약세",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "CATL, 3분기 실적 부진 여파에 주가 12% 급락… 중국 배터리주 동반 약세",
+      "newsSummaryKo": [
+        "중국 배터리 기업 CATL이 부진한 3분기 실적을 기록하며 주가가 12% 급락했다.",
+        "CATL의 실적 부진과 주가 급락 여파로 중국 증시 내 여타 배터리 관련주들도 동반 약세를 보였다.",
+        "전방 산업의 성장 둔화 및 실적 우려가 글로벌 배터리 및 전기차 섹터 전반에 투자 심리 위축으로 작용했다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 22:31",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136164",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 2,
+          "name": "LG에너지솔루션",
+          "code": "373220",
+          "role": "글로벌 배터리 제조 및 경쟁사",
+          "reason": "중국 1위 배터리 업체의 실적 부진과 주가 하락은 글로벌 배터리 섹터 전반의 업황 둔화 우려로 작용하여 국내 유사 기업의 투자 심리에 간접적인 영향을 미칩니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "+3.13%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "삼성SDI",
+          "code": "006400",
+          "role": "글로벌 배터리 제조",
+          "reason": "글로벌 배터리 시장의 수요 둔화 및 선두 업체의 실적 악화 뉴스는 동일 산업군에 속한 국내 배터리 제조사들의 밸류에이션에 연동되어 반영될 수 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.70%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "LG화학",
+          "code": "051910",
+          "role": "배터리 소재 공급 및 화학 기반 사업",
+          "reason": "전방 배터리 산업의 업황 둔화 우려가 부각될 경우, 배터리 소재 및 전지 부문을 자회사로 두거나 연계된 화학 기업의 주가 흐름에 간접적인 부담으로 작용합니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.00%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "POSCO홀딩스",
+          "code": "005490",
+          "role": "이차전지 소재 밸류체인",
+          "reason": "글로벌 배터리 생태계의 성장성 둔화 우려는 리튬, 양극재 등 이차전지 소재 공급망 전반의 업황 심리에 후행적인 영향을 미칠 수 있습니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "+1.09%",
+          "isUp": true
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 9,
