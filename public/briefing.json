@@ -64,17 +64,64 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "AI 데이터센터 전력 인프라 및 전력 솔루션",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AIB Data Centers, LD Micro 행사서 전력 우선 성장 전략 제시",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AIB 데이터센터, LD 마이크로 행에서 전력 우선 성장 전략 발표",
+      "newsSummaryKo": [
+        "AIB 데이터센터는 최근 열린 LD 마이크로 컨퍼런스에 참가하여 기업의 향후 성장 전략을 공개했습니다.",
+        "이번 행사에서 AIB 데이터센터는 전력 공급을 최우선으로 두는 전력 우선(Power-first) 성장 전략을 강조했습니다.",
+        "해당 전략은 급증하는 AI 데이터센터의 전력 수요 대응과 안정적인 인프라 구축에 초점을 맞추고 있습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 19:08",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2135856",
-      "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "stocks": [
+        {
+          "tier": 1,
+          "name": "효성중공업",
+          "code": "298040",
+          "role": "변압기 및 전력기기 공급",
+          "reason": "AI 데이터센터 확장에 따른 전력 인프라 및 초고압 변압기 수요 증가로 직접적인 수혜가 기대되는 대표적인 전력기기 종목입니다.",
+          "rank": 1,
+          "verified": true,
+          "changeRate": "-1.29%",
+          "isUp": false
+        },
+        {
+          "tier": 1,
+          "name": "HD현대일렉트릭",
+          "code": "267260",
+          "role": "전력변환장치 및 배전반 공급",
+          "reason": "글로벌 데이터센터 전력망 구축 과정에서 북미 및 글로벌 시장을 중심으로 전력기기 공급 확대를 추진하고 있습니다.",
+          "rank": 2,
+          "verified": true,
+          "changeRate": "+0.66%",
+          "isUp": true
+        },
+        {
+          "tier": 2,
+          "name": "대한전선",
+          "code": "001440",
+          "role": "전력 케이블 공급",
+          "reason": "AI 데이터센터 및 전력망 구축에 필수적인 초고압 케이블 및 전선 제품군을 생산하여 전력 인프라 밸류체인과 연결됩니다.",
+          "rank": 3,
+          "verified": true,
+          "changeRate": "+0.21%",
+          "isUp": true
+        },
+        {
+          "tier": 3,
+          "name": "가온전선",
+          "code": "000500",
+          "role": "전력 및 통신케이블 제조",
+          "reason": "전력 인프라 투자 확대 기조에 따라 전력 케이블 및 관련 자재의 간접적인 수요 증가 영향권에 속합니다.",
+          "rank": 4,
+          "verified": true,
+          "changeRate": "-2.63%",
+          "isUp": false
+        }
+      ],
+      "status": "done"
     },
     {
       "id": 4,
@@ -102,17 +149,19 @@
     },
     {
       "id": 6,
-      "theme": "AI 분석 대기 중",
+      "theme": "글로벌 AI 및 클라우드 커뮤니케이션",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Crexendo, LD Micro 콘퍼런스서 AI·성장 전략 제시",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "크렉센도, LD 마이크로 콘퍼런스서 인공지능(AI) 기반 성장 전략 발표",
+      "newsSummaryKo": [
+        "클라우드 커뮤니케이션 및 소프트웨어 제공업체인 크렉센도가 최근 LD 마이크로 콘퍼런스에 참가했습니다.",
+        "회사는 이 자리에서 자사 비즈니스의 핵심 성장 동력인 인공지능(AI) 전략을 상세히 제시했습니다.",
+        "이번 발표를 통해 클라우드 기반 서비스와 AI 기술의 결합을 통한 시장 확대 방안을 공유했습니다."
+      ],
       "newsSource": "Investing.com · 2026-10-21 18:41",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2135846",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 7,
