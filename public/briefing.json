@@ -64,17 +64,19 @@
     },
     {
       "id": 3,
-      "theme": "AI 분석 대기 중",
+      "theme": "구리 및 광산 개발 실적",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: AIC Mines, 2026년 1분기 사상 최대 광산 순현금흐름 기록",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
+      "newsHeadlineKo": "AIC 마인즈, 2026년 1분기 사상 최대 광산 순현금흐름 달성",
+      "newsSummaryKo": [
+        "광산 개발 기업인 AIC 마인즈가 2026년 1분기 기준 사상 최대 규모의 광산 순현금흐름을 기록했다.",
+        "이번 실적은 주요 광산 사업장의 생산성 향상과 효율적인 비용 관리가 복합적으로 작용한 결과로 분석된다.",
+        "해당 기업의 견조한 현금창출력은 향후 추가적인 광산 개발 및 자산 확장에 긍정적인 요인으로 작용할 전망이다."
+      ],
       "newsSource": "Investing.com · 2026-10-22 00:41",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2136255",
       "stocks": [],
-      "status": "pending",
-      "attempts": 0,
-      "rawSummary": ""
+      "status": "done"
     },
     {
       "id": 4,
