@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -75,7 +75,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2137955",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -257,7 +257,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -367,7 +367,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136413",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -429,7 +429,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136418",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -443,7 +443,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2136414",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
