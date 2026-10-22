@@ -193,7 +193,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2138142",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -243,7 +243,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -269,7 +269,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2137955",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -451,7 +451,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -552,7 +552,7 @@
     },
     {
       "id": 43,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "SK하이닉스 美 인디애나 공장 세수, 공원·도시 개발 등 현지 인프라 확충에 투입",
       "newsHeadlineKo": "",
@@ -560,9 +560,8 @@
       "newsSource": "Investing.com · 2026-10-22 05:51",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136413",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 44,
@@ -614,7 +613,7 @@
     },
     {
       "id": 48,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "중국 CSI 300, AI 급락 심화로 약세장 진입",
       "newsHeadlineKo": "",
@@ -622,13 +621,12 @@
       "newsSource": "Investing.com · 2026-10-22 05:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2136418",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 49,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "노키아 핀란드, AI 네트워크 수요에 3분기 영업이익 35% 급등",
       "newsHeadlineKo": "",
@@ -636,9 +634,8 @@
       "newsSource": "Investing.com · 2026-10-22 05:39",
       "newsLink": "https://kr.investing.com/news/earnings/article-2136414",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 50,
