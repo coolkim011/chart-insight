@@ -97,7 +97,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2140063",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -219,7 +219,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2139938",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -245,7 +245,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -259,7 +259,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2139893",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -285,7 +285,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2139892",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -359,7 +359,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
     },
     {
@@ -385,7 +385,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2139653",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -570,7 +570,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Anthropic is AI trade's last big hope for a major IPO this year",
       "newsHeadlineKo": "",
@@ -578,9 +578,8 @@
       "newsSource": "CNBC Markets · Mon, 19 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
