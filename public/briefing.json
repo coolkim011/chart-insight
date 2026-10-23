@@ -157,7 +157,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
     },
     {
@@ -195,7 +195,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2138698",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -269,7 +269,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds."
     },
     {
@@ -283,7 +283,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains."
     },
     {
@@ -309,7 +309,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2138560",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -443,7 +443,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2138512",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -628,7 +628,7 @@
     },
     {
       "id": 49,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Western Digital, 실적 예상치 웃돌았지만 AI주 매도세에 상승분 반납",
       "newsHeadlineKo": "",
@@ -636,9 +636,8 @@
       "newsSource": "Investing.com · 2026-10-22 20:09",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2138142",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 50,
@@ -703,7 +702,7 @@
     },
     {
       "id": 55,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Kevin Weil, 신약 개발 자동화 기업 Warp Sciences 설립…2억1500만 달러 조달 - 블룸버그",
       "newsHeadlineKo": "",
@@ -711,9 +710,8 @@
       "newsSource": "Investing.com · 2026-10-22 15:58",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2137955",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 56,
