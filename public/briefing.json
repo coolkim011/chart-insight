@@ -49,7 +49,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2140113",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -111,7 +111,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2140105",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2140106",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -175,7 +175,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -249,7 +249,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2140063",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -371,7 +371,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2139938",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "id": 29,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "The world’s finance chiefs see new risks — and less China angst",
       "newsHeadlineKo": "",
@@ -396,13 +396,12 @@
       "newsSource": "CNBC Markets · Tue, 20 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 30,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AIM ImmunoTech CEO Equels, 보통주 5,093달러어치 매수",
       "newsHeadlineKo": "",
@@ -410,9 +409,8 @@
       "newsSource": "Investing.com · 2026-10-23 17:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2139893",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 31,
