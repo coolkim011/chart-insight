@@ -145,7 +145,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2140113",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -207,7 +207,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2140105",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -221,7 +221,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2140106",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -271,7 +271,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -345,7 +345,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2140063",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "id": 35,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "OpenAI, AI 탈출 방지 위해 프런티어 모델 오프라인 훈련 의무화",
       "newsHeadlineKo": "",
@@ -466,9 +466,8 @@
       "newsSource": "Investing.com · 2026-10-23 19:28",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2139938",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 36,
@@ -522,7 +521,7 @@
     },
     {
       "id": 40,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "옵션메트릭스, 밀·대두가 구리 능가하는 원자재 숨은 강자 발굴",
       "newsHeadlineKo": "",
@@ -530,9 +529,8 @@
       "newsSource": "Investing.com · 2026-10-23 16:56",
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2139892",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 41,
@@ -851,7 +849,7 @@
     },
     {
       "id": 67,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Atoss, AI 효율화로 2026년 마진 목표 상향…3분기 영업이익 23% 증가",
       "newsHeadlineKo": "",
@@ -859,9 +857,8 @@
       "newsSource": "Investing.com · 2026-10-23 06:10",
       "newsLink": "https://kr.investing.com/news/earnings/article-2138698",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 68,
