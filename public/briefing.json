@@ -73,7 +73,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -159,7 +159,7 @@
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2140166",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -269,7 +269,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2140113",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -331,7 +331,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2140105",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -345,7 +345,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2140106",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -1057,7 +1057,7 @@
     },
     {
       "id": 84,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
       "newsHeadlineKo": "",
@@ -1065,9 +1065,8 @@
       "newsSource": "CNBC Markets · Mon, 19 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 85,
@@ -1083,7 +1082,7 @@
     },
     {
       "id": 86,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "HD현대, 美 조선 생산기지 직접 짓는다...키윗과 합작법인 설립",
       "newsHeadlineKo": "",
@@ -1091,9 +1090,8 @@
       "newsSource": "Investing.com · 2026-10-23 01:30",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2138560",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 87,
@@ -1217,7 +1215,7 @@
     },
     {
       "id": 97,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "XAI Floating Rate 부사장 John Spence, 주식 3만4,140달러 매입",
       "newsHeadlineKo": "",
@@ -1225,9 +1223,8 @@
       "newsSource": "Investing.com · 2026-10-23 00:16",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2138512",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 98,
