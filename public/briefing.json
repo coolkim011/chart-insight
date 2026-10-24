@@ -133,7 +133,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -219,7 +219,7 @@
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2140166",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -320,7 +320,7 @@
     },
     {
       "id": 24,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "영국, AI 보안에 8억 달러 규모 투자 계획 발표",
       "newsHeadlineKo": "",
@@ -328,9 +328,8 @@
       "newsSource": "Investing.com · 2026-10-24 06:04",
       "newsLink": "https://kr.investing.com/news/economy-news/article-2140113",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 25,
@@ -382,7 +381,7 @@
     },
     {
       "id": 29,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Athena Gold CEO Koby Kushner, 자사주 3,534달러어치 매입",
       "newsHeadlineKo": "",
@@ -390,13 +389,12 @@
       "newsSource": "Investing.com · 2026-10-24 05:16",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2140105",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 30,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "비트코인, 고래 지갑 출금 급증·기관 활동에 $84,000 회복 주목",
       "newsHeadlineKo": "",
@@ -404,9 +402,8 @@
       "newsSource": "Investing.com · 2026-10-24 05:15",
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2140106",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 31,
