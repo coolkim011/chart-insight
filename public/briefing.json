@@ -49,7 +49,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2140236",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -75,7 +75,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2140233",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -149,7 +149,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140200",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -163,7 +163,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140198",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -189,7 +189,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2140193",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
