@@ -85,7 +85,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140329",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -123,7 +123,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140325",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -137,7 +137,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
     },
     {
@@ -151,7 +151,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds."
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "id": 18,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
       "newsHeadlineKo": "",
@@ -260,13 +260,12 @@
       "newsSource": "CNBC Markets · Mon, 19 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 19,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "골드만삭스, AI 주식 매도세 속 코스피 목표치 25% 하향",
       "newsHeadlineKo": "",
@@ -274,13 +273,12 @@
       "newsSource": "Investing.com · 2026-10-25 08:50",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140260",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 20,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Anixa Biosciences 사장·COO·CFO, 자사주 1만5,620달러 매수",
       "newsHeadlineKo": "",
@@ -288,9 +286,8 @@
       "newsSource": "Investing.com · 2026-10-25 08:31",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2140256",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 21,
@@ -306,7 +303,7 @@
     },
     {
       "id": 22,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "5대 AI 애널리스트 동향: 스페이스X, 앞으로 수개월이 ’촉매 집중’ 시기",
       "newsHeadlineKo": "",
@@ -314,9 +311,8 @@
       "newsSource": "Investing.com · 2026-10-25 07:49",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140252",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 23,
