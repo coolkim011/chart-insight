@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -171,7 +171,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2141825",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -257,7 +257,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -331,7 +331,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2141080",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -381,7 +381,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140483",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -407,7 +407,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140475",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -469,7 +469,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
     },
     {
@@ -486,7 +486,7 @@
     },
     {
       "id": 37,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "’빚투’ 청산 때마다 반등했던 코스닥…\"바닥권 형성 신호\"",
       "newsHeadlineKo": "",
@@ -494,9 +494,8 @@
       "newsSource": "Investing.com · 2026-10-25 23:56",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140365",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 38,
