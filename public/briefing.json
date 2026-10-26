@@ -49,7 +49,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142158",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -63,7 +63,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142157",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -149,7 +149,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -271,7 +271,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2141825",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -357,7 +357,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -431,7 +431,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2141080",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -481,7 +481,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140483",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -507,7 +507,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140475",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
