@@ -145,7 +145,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142158",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -159,7 +159,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142157",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -245,7 +245,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -367,7 +367,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2141825",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -453,7 +453,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -527,7 +527,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2141080",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "’CD금리 대체’ KOFR 스왑 청산 492조…1년 만에 하루 거래 10배 성장",
       "newsHeadlineKo": "",
@@ -576,9 +576,8 @@
       "newsSource": "Investing.com · 2026-10-26 05:30",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140483",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
@@ -594,7 +593,7 @@
     },
     {
       "id": 46,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "삼성SDI, 美 인디애나 공장 ’단독 운영’ 후속 협의…내달 현지 당국과 세부 조율",
       "newsHeadlineKo": "",
@@ -602,9 +601,8 @@
       "newsSource": "Investing.com · 2026-10-26 05:23",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2140475",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 47,
