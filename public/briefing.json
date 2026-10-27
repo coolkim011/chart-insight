@@ -73,7 +73,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2143311",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -111,7 +111,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2143305",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -245,7 +245,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -283,7 +283,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2140390",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -309,7 +309,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2140387",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -323,7 +323,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2140391",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -433,7 +433,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142158",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -447,7 +447,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142157",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
