@@ -145,7 +145,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -183,7 +183,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2140390",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -209,7 +209,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2140387",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -223,7 +223,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2140391",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -333,7 +333,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142158",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -347,7 +347,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2142157",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -433,7 +433,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -546,7 +546,7 @@
     },
     {
       "id": 42,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "어플라이드 인더스트리얼 테크놀로지 실적 발표 앞둬…자동화 사업 성장 이어갈까",
       "newsHeadlineKo": "",
@@ -554,9 +554,8 @@
       "newsSource": "Investing.com · 2026-10-26 15:52",
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2141825",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 43,
