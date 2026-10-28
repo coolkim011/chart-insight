@@ -85,7 +85,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2146691",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -147,7 +147,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -377,7 +377,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2140644",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -454,7 +454,7 @@
     },
     {
       "id": 35,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
       "newsHeadlineKo": "",
@@ -462,9 +462,8 @@
       "newsSource": "CNBC Markets · Sat, 17 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 36,
@@ -480,7 +479,7 @@
     },
     {
       "id": 37,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "뉴욕증시 이틀째 상승…반도체 훈풍에 코스피 반등 기대",
       "newsHeadlineKo": "",
@@ -488,9 +487,8 @@
       "newsSource": "Investing.com · 2026-10-28 01:04",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2144600",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 38,
@@ -799,7 +797,7 @@
     },
     {
       "id": 63,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI 인프라 금융 계약에 StoneX, 브로드컴 목표주가 $545 유지",
       "newsHeadlineKo": "",
@@ -807,9 +805,8 @@
       "newsSource": "Investing.com · 2026-10-27 14:45",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2143787",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 64,
@@ -882,7 +879,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2143311",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -920,7 +917,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2143305",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
