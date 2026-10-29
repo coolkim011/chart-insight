@@ -97,7 +97,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2150022",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -219,7 +219,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2149572",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -305,7 +305,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2149526",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -343,7 +343,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -453,7 +453,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2147453",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -479,7 +479,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2147448",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -505,7 +505,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2147447",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -519,7 +519,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2147450",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
