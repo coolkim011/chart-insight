@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains."
     },
     {
@@ -75,7 +75,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2150311",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -101,7 +101,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2150309",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -211,7 +211,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2150022",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -333,7 +333,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2149572",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -419,7 +419,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2149526",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -457,7 +457,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -558,7 +558,7 @@
     },
     {
       "id": 43,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "삼성전자, 2026년 3분기 영업이익 107조4000억원…분기 사상 최대",
       "newsHeadlineKo": "",
@@ -566,9 +566,8 @@
       "newsSource": "Investing.com · 2026-10-29 02:24",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2147453",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 44,
