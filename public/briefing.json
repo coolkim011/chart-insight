@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152036",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -135,7 +135,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2152026",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -149,7 +149,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -211,7 +211,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2151883",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -321,7 +321,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2151710",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -359,7 +359,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2150615",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -397,7 +397,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2150612",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -411,7 +411,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2150611",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
