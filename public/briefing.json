@@ -73,7 +73,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2152258",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -147,7 +147,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152250",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -173,7 +173,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
@@ -295,7 +295,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152036",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -369,7 +369,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2152026",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -383,7 +383,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -445,7 +445,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2151883",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -546,7 +546,7 @@
     },
     {
       "id": 42,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Google AI 검색 전환으로 트래픽 감소…Citizens, Reddit 등급 하향",
       "newsHeadlineKo": "",
@@ -554,9 +554,8 @@
       "newsSource": "Investing.com · 2026-10-30 13:35",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2151710",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 43,
