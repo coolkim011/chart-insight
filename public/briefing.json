@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152356",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -135,7 +135,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
@@ -161,7 +161,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2152343",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -175,7 +175,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152340",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -225,7 +225,7 @@
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2152335",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -287,7 +287,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152306",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -313,7 +313,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152298",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -366,7 +366,7 @@
     },
     {
       "id": 27,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Southern Copper 이사, 자사주 2만 달러어치 매도",
       "newsHeadlineKo": "",
@@ -374,9 +374,8 @@
       "newsSource": "Investing.com · 2026-10-31 01:01",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2152258",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 28,
