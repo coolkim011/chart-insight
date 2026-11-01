@@ -49,7 +49,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152435",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152421",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -101,7 +101,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152425",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -115,7 +115,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152420",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -177,7 +177,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2152378",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -227,7 +227,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152359",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -253,7 +253,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152356",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -625,7 +625,7 @@
     },
     {
       "id": 48,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "IPARK현대산업개발, AI로 층간소음 잡고 로봇으로 생활 지원…주거 기술 고도화",
       "newsHeadlineKo": "",
@@ -633,9 +633,8 @@
       "newsSource": "Investing.com · 2026-10-31 00:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152250",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 49,
