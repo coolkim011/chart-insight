@@ -73,7 +73,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2152378",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -123,7 +123,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152359",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -149,7 +149,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152356",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "id": 15,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
       "newsHeadlineKo": "",
@@ -222,9 +222,8 @@
       "newsSource": "CNBC Markets · Fri, 16 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 16,
@@ -240,7 +239,7 @@
     },
     {
       "id": 17,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Medifast 이사 Kiai Parsa, 자사주 6만8,027달러 매입",
       "newsHeadlineKo": "",
@@ -248,13 +247,12 @@
       "newsSource": "Investing.com · 2026-10-31 13:16",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2152343",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 18,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "골드만삭스, 금리 상승과 AI 혼란을 장기 주식 수요 위협 요인으로 경고",
       "newsHeadlineKo": "",
@@ -262,9 +260,8 @@
       "newsSource": "Investing.com · 2026-10-31 12:27",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152340",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 19,
@@ -304,7 +301,7 @@
     },
     {
       "id": 22,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "한미반도체, InvestingPro 고평가 경고 이후 53% 급락",
       "newsHeadlineKo": "",
@@ -312,9 +309,8 @@
       "newsSource": "Investing.com · 2026-10-31 11:40",
       "newsLink": "https://kr.investing.com/news/investment-ideas/article-93CH-2152335",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 23,
@@ -391,7 +387,7 @@
     },
     {
       "id": 29,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "최태원, 샘 올트먼과 오찬…HBM·AI 데이터센터 협력 주목",
       "newsHeadlineKo": "",
@@ -399,9 +395,8 @@
       "newsSource": "Investing.com · 2026-10-31 06:39",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152298",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 30,
