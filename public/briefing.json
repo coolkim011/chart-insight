@@ -85,7 +85,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2153115",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -159,7 +159,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2152683",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -197,7 +197,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152678",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -223,7 +223,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152676",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -237,7 +237,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152675",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -263,7 +263,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152633",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -289,12 +289,12 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2152625",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
       "id": 21,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
       "newsHeadlineKo": "",
@@ -302,9 +302,8 @@
       "newsSource": "CNBC Markets · Wed, 21 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 22,
