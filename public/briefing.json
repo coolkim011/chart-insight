@@ -2,14 +2,14 @@
   "indices": [
     {
       "name": "코스피",
-      "price": "5,807.86",
-      "changeRate": "+1.35%",
+      "price": "5,791.03",
+      "changeRate": "+1.05%",
       "isUp": true
     },
     {
       "name": "코스닥",
-      "price": "730.51",
-      "changeRate": "+0.85%",
+      "price": "728.99",
+      "changeRate": "+0.64%",
       "isUp": true
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "원/달러",
-      "price": "1,338.18",
-      "changeRate": "+0.36%",
+      "price": "1,339.00",
+      "changeRate": "+0.42%",
       "isUp": true
     }
   ],
