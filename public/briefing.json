@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2152683",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -99,7 +99,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152678",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152676",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -139,7 +139,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152675",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -165,7 +165,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152633",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -191,7 +191,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2152625",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -205,7 +205,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds."
     },
     {
@@ -219,7 +219,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
     },
     {
