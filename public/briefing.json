@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
@@ -195,7 +195,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2153115",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -269,7 +269,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2152683",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -307,7 +307,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152678",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -333,7 +333,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152676",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -347,7 +347,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2152675",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -373,7 +373,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2152633",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -390,7 +390,7 @@
     },
     {
       "id": 29,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Raymond James, Oil States 목표주가 11달러로 하향",
       "newsHeadlineKo": "",
@@ -398,9 +398,8 @@
       "newsSource": "Investing.com · 2026-11-01 15:41",
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2152625",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 30,
