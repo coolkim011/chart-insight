@@ -121,7 +121,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2156546",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -147,7 +147,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
@@ -221,7 +221,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2155308",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -247,7 +247,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2155304",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -309,7 +309,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2155074",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -347,7 +347,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2155073",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -385,7 +385,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns."
     },
     {
@@ -399,7 +399,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy"
     },
     {
