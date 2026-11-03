@@ -217,7 +217,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2156579",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -315,7 +315,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2156546",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -341,7 +341,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
@@ -415,7 +415,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2155308",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -441,7 +441,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2155304",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -503,7 +503,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2155074",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -541,7 +541,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2155073",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -570,7 +570,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
       "newsHeadlineKo": "",
@@ -578,9 +578,8 @@
       "newsSource": "CNBC Markets · Sat, 31 Oct 2026",
       "newsLink": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
