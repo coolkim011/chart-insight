@@ -73,7 +73,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns."
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy"
     },
     {
@@ -101,7 +101,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next."
     },
     {
@@ -115,7 +115,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market."
     },
     {
@@ -141,7 +141,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects."
     },
     {
@@ -203,7 +203,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2155001",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -217,7 +217,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2155000",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -255,7 +255,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
