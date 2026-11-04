@@ -313,7 +313,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2159406",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -339,7 +339,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections."
     },
     {
@@ -377,7 +377,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2157819",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -475,7 +475,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2157455",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -540,7 +540,7 @@
     },
     {
       "id": 42,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "’중꺾마’ 삼성바이오…노사 갈등도 못 꺾은 수주 본능",
       "newsHeadlineKo": "",
@@ -548,9 +548,8 @@
       "newsSource": "Investing.com · 2026-11-04 01:32",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2157431",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 43,
@@ -566,7 +565,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Adaptive Biotechnologies 사장 겸 COO, 주식 92만8891달러어치 매도",
       "newsHeadlineKo": "",
@@ -574,9 +573,8 @@
       "newsSource": "Investing.com · 2026-11-04 01:17",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2157422",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
@@ -604,7 +602,7 @@
     },
     {
       "id": 47,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "비트코인 ETF, 美 중간선거·해킹 악재에 2거래일간 10억 달러 유출",
       "newsHeadlineKo": "",
@@ -612,13 +610,12 @@
       "newsSource": "Investing.com · 2026-11-04 01:16",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2157419",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 48,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "현대차, 美 역대 최고 10월 성적표…HEV·SUV ’쌍끌이’",
       "newsHeadlineKo": "",
@@ -626,9 +623,8 @@
       "newsSource": "Investing.com · 2026-11-04 01:16",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2157418",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 49,
