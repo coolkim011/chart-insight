@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce."
     },
     {
@@ -183,7 +183,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns."
     },
     {
@@ -197,7 +197,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy"
     },
     {
@@ -211,7 +211,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next."
     },
     {
@@ -225,7 +225,7 @@
       "newsLink": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market."
     },
     {
@@ -251,7 +251,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2160674",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -289,7 +289,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2160672",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -399,7 +399,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2160653",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
