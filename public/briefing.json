@@ -109,7 +109,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2160653",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -411,7 +411,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2159406",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -437,7 +437,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections."
     },
     {
@@ -475,7 +475,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2157819",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -564,7 +564,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "3월 이후 +49.6%: AI가 선정한 반도체주, 지난주 급락 후에도 상승세 지속",
       "newsHeadlineKo": "",
@@ -572,9 +572,8 @@
       "newsSource": "Investing.com · 2026-11-04 02:13",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2157455",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
@@ -906,7 +905,7 @@
     },
     {
       "id": 72,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표 콘퍼런스콜: Ero Copper, 3분기 EPS 예상 상회·매출 미달",
       "newsHeadlineKo": "",
@@ -914,9 +913,8 @@
       "newsSource": "Investing.com · 2026-11-03 16:33",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2156579",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 73,
@@ -1004,7 +1002,7 @@
     },
     {
       "id": 80,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적발표: i-80 Gold, 개발 투자 지속에 2026년 3분기 순손실 확대",
       "newsHeadlineKo": "",
@@ -1012,9 +1010,8 @@
       "newsSource": "Investing.com · 2026-11-03 16:03",
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2156546",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 81,
@@ -1103,7 +1100,7 @@
     },
     {
       "id": 88,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "바이오메리외 3분기 유기적 매출, 미국 발병 사태로 전망치 상회",
       "newsHeadlineKo": "",
@@ -1111,9 +1108,8 @@
       "newsSource": "Investing.com · 2026-11-03 07:58",
       "newsLink": "https://kr.investing.com/news/earnings/article-2155308",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 89,
