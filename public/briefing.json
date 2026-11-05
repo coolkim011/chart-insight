@@ -61,7 +61,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2162976",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -101,7 +101,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2162975",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -127,7 +127,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2162973",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -141,7 +141,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2162970",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -263,7 +263,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2162500",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -277,7 +277,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
     },
     {
@@ -291,7 +291,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
