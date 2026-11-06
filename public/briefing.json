@@ -73,7 +73,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2163863",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -123,7 +123,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2163849",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -221,7 +221,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2163243",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -307,7 +307,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2163223",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -321,7 +321,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2163222",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -335,7 +335,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2163214",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -361,7 +361,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
     },
     {
@@ -387,7 +387,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2162976",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
