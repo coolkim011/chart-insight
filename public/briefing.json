@@ -241,7 +241,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
     },
     {
@@ -255,7 +255,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2164988",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -305,7 +305,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce."
     },
     {
@@ -331,7 +331,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2164982",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -453,7 +453,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2164931",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -518,7 +518,7 @@
     },
     {
       "id": 40,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ligand Pharmaceuticals 이사, 보통주 9만237달러 매도",
       "newsHeadlineKo": "",
@@ -526,9 +526,8 @@
       "newsSource": "Investing.com · 2026-11-07 02:16",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164865",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 41,
@@ -739,7 +738,7 @@
     },
     {
       "id": 58,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "TuHURA Biosciences, 기존 회전신용한도에서 150만 달러 추가 인출",
       "newsHeadlineKo": "",
@@ -747,9 +746,8 @@
       "newsSource": "Investing.com · 2026-11-06 22:37",
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164795",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 59,
@@ -777,7 +775,7 @@
     },
     {
       "id": 61,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
       "newsHeadlineKo": "",
@@ -785,9 +783,8 @@
       "newsSource": "CNBC Markets · Fri, 06 Nov 2026",
       "newsLink": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 62,
