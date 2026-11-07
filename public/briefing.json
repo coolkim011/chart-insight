@@ -85,7 +85,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2164931",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -159,7 +159,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164865",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -233,7 +233,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164855",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -307,7 +307,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances"
     },
     {
@@ -357,7 +357,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164797",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -383,7 +383,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164795",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -421,7 +421,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next."
     },
     {
@@ -483,7 +483,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2164610",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
