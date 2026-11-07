@@ -61,7 +61,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
     },
     {
@@ -75,7 +75,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2164988",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce."
     },
     {
@@ -151,7 +151,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2164982",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -273,7 +273,7 @@
       "newsLink": "https://kr.investing.com/news/cryptocurrency-news/article-2164931",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -347,7 +347,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164865",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -421,7 +421,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164855",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -486,7 +486,7 @@
     },
     {
       "id": 37,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
       "newsHeadlineKo": "",
@@ -494,9 +494,8 @@
       "newsSource": "CNBC Markets · Fri, 06 Nov 2026",
       "newsLink": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances"
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 38,
