@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165127",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -111,7 +111,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165120",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -149,7 +149,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-93CH-2165114",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -247,7 +247,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2165082",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -261,7 +261,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165080",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -299,7 +299,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165053",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -349,7 +349,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
     },
     {
@@ -363,7 +363,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165045",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
