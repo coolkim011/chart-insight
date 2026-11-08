@@ -49,7 +49,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165053",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -99,7 +99,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
     },
     {
@@ -113,7 +113,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165045",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -127,7 +127,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165043",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -333,7 +333,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
     },
     {
@@ -347,7 +347,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2164988",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "id": 29,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "What the Democratic midterms sweep changes for U.S.-China relations",
       "newsHeadlineKo": "",
@@ -396,9 +396,8 @@
       "newsSource": "CNBC Markets · Thu, 05 Nov 2026",
       "newsLink": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 30,
@@ -414,7 +413,7 @@
     },
     {
       "id": 31,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Nvidia Corp CEO 황젠슨, 중국 스파이 의혹 인물과 연루 정보 메모",
       "newsHeadlineKo": "",
@@ -422,9 +421,8 @@
       "newsSource": "Investing.com · 2026-11-07 15:11",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2164982",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 32,
