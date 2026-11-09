@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next."
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2165411",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-93CH-2165406",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -139,7 +139,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2165405",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -189,7 +189,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165200",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -227,7 +227,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165190",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -241,7 +241,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165184",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -267,7 +267,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165164",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
