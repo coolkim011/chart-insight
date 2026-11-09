@@ -2,14 +2,14 @@
   "indices": [
     {
       "name": "코스피",
-      "price": "5,059.69",
-      "changeRate": "-6.02%",
+      "price": "5,054.06",
+      "changeRate": "-0.11%",
       "isUp": false
     },
     {
       "name": "코스닥",
-      "price": "644.27",
-      "changeRate": "-5.03%",
+      "price": "633.93",
+      "changeRate": "-1.60%",
       "isUp": false
     },
     {
@@ -32,14 +32,116 @@
     },
     {
       "name": "원/달러",
-      "price": "1,357.58",
-      "changeRate": "-0.45%",
+      "price": "1,359.98",
+      "changeRate": "-0.27%",
       "isUp": false
     }
   ],
   "briefings": [
     {
       "id": 1,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "금 가격, 미국 고용 호조 후 인플레이션 데이터 앞두고 $4,100 위로 반등",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 01:16",
+      "newsLink": "https://kr.investing.com/news/commodities-news/article-2165207",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 2,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Richardson Electronics 이사, 주식 2만1,190달러어치 매도",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 01:16",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2165205",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 3,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "코스피, 美 반도체주 반등에도 하락 출발…5천선 오르락내리락",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 01:04",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165200",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
+    },
+    {
+      "id": 4,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "\"차 안 쓴 날만큼 보험료 절약\"…롯데손보, ’주차일수 할인특약’ 업계 첫 출시",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 01:04",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165201",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 5,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "OceanFirst Financial 이사 Nicos Katsoulis, 자사주 17만8,277달러 매입",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 01:01",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2165191",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 6,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "월가 선물 혼조세…AI 지출 우려 속 인플레이션 데이터 주목",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 00:50",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165190",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
+    },
+    {
+      "id": 7,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "일론 머스크 \"사이버캡, 배터리 용량 줄이고 새로운 색상도 추가\"",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 00:48",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165184",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 1,
+      "rawSummary": ""
+    },
+    {
+      "id": 8,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Mueller Industries 이사 John Hansen, 11만800달러어치 주식 매도",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-09 00:46",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2165188",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 9,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "첨단 반도체 패키징, AI 붐으로 새로운 격전지로 부상",
@@ -49,11 +151,11 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165164",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
-      "id": 2,
+      "id": 10,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "FDA 경고장 날아든 에볼루스…대웅제약 ’나보타’ 美 톡신 시장 차질 빚나",
@@ -63,11 +165,11 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165163",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
-      "id": 3,
+      "id": 11,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미국 이어 유럽에서도 AI 데이터센터 반대 시위…빅테크 투자에 제동",
@@ -77,11 +179,11 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165162",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
-      "id": 4,
+      "id": 12,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "[단독] 파리바게뜨, ’드라이브스루’ 美서 먼저 뚫었다…오클라호마 첫 도입",
@@ -93,7 +195,7 @@
       "status": "skipped"
     },
     {
-      "id": 5,
+      "id": 13,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "[심층] 공시엔 ’정기취약점 점검’…SSG닷컴, API 취약점으로 고객정보 털렸다",
@@ -105,7 +207,7 @@
       "status": "skipped"
     },
     {
-      "id": 6,
+      "id": 14,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "ARM홀딩스(ARM.N) 3분기 실적 예상치 부합..모바일 수요 악화 직격",
@@ -117,7 +219,7 @@
       "status": "skipped"
     },
     {
-      "id": 7,
+      "id": 15,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "[특파원]연정 구성권 쥔 아이젠코트…중동 정세·유가 가를 진짜 변수는 ‘美·이란 협상’과 ‘美 의회’",
@@ -129,7 +231,7 @@
       "status": "skipped"
     },
     {
-      "id": 8,
+      "id": 16,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Alphatec Holdings 이사 Demski, 보통주 40만8,600달러어치 매수",
@@ -141,7 +243,7 @@
       "status": "skipped"
     },
     {
-      "id": 9,
+      "id": 17,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Nvidia, CEO 젠슨 황 겨냥한 스파이 의혹 조사 착수",
@@ -151,11 +253,11 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165136",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
-      "id": 10,
+      "id": 18,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "First Financial Bankshares 이사, 자사주 2만4,423달러어치 매수",
@@ -167,7 +269,7 @@
       "status": "skipped"
     },
     {
-      "id": 11,
+      "id": 19,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Cullen/Frost Bankers 최고회계책임자 Henson, 주식 8만5,290달러어치 매도",
@@ -179,7 +281,7 @@
       "status": "skipped"
     },
     {
-      "id": 12,
+      "id": 20,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "중국 AI 버블 붕괴, 시진핑의 ’동방 월스트리트’ 야망 위협",
@@ -189,11 +291,11 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2165131",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
-      "id": 13,
+      "id": 21,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "캐나다 목재주 하락 시 매수 기회—레이먼드 제임스",
@@ -205,7 +307,7 @@
       "status": "skipped"
     },
     {
-      "id": 14,
+      "id": 22,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "목요일 급락 이후 AI 투자 붐은 지속 가능한가?",
@@ -219,7 +321,7 @@
       "rawSummary": ""
     },
     {
-      "id": 15,
+      "id": 23,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Labcorp 이사 Richelle Parham, 보유 주식 38만9,395달러어치 매도",
@@ -231,7 +333,7 @@
       "status": "skipped"
     },
     {
-      "id": 16,
+      "id": 24,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "이번 주 주목해야 할 5가지 주요 종목",
@@ -243,7 +345,7 @@
       "status": "skipped"
     },
     {
-      "id": 17,
+      "id": 25,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "P&G 헬스케어 부문 CEO Paul Gama, 주식 477,510달러어치 매도",
@@ -255,7 +357,7 @@
       "status": "skipped"
     },
     {
-      "id": 18,
+      "id": 26,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI 투자 열풍 식자, BCA \"유럽 증시가 월가 앞설 것\"",
@@ -269,7 +371,7 @@
       "rawSummary": ""
     },
     {
-      "id": 19,
+      "id": 27,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Pacira, 16억5,000만 달러 매각 앞두고 마지막 실적 발표 주목",
@@ -281,7 +383,7 @@
       "status": "skipped"
     },
     {
-      "id": 20,
+      "id": 28,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Teekay Tankers, 운임 하락 속 3분기 실적 시험대",
@@ -293,7 +395,7 @@
       "status": "skipped"
     },
     {
-      "id": 21,
+      "id": 29,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "오가논 & Co, Sun Pharma 인수 승인 앞두고 3분기 실적 발표",
@@ -307,7 +409,7 @@
       "rawSummary": ""
     },
     {
-      "id": 22,
+      "id": 30,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미 국방예산 급증 속 Moog 실적에 시선 집중",
@@ -319,7 +421,7 @@
       "status": "skipped"
     },
     {
-      "id": 23,
+      "id": 31,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Moog 실적 발표 주목…깜짝 실적 이후 수익성 유지할까",
@@ -331,7 +433,7 @@
       "status": "skipped"
     },
     {
-      "id": 24,
+      "id": 32,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Northrop Grumman 이사 Mark Welsh III, 보통주 54,453달러 매도",
@@ -343,7 +445,7 @@
       "status": "skipped"
     },
     {
-      "id": 25,
+      "id": 33,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "후티 미사일 공격으로 리야드 Saudi Aramco 사무소 피해",
@@ -355,7 +457,7 @@
       "status": "skipped"
     },
     {
-      "id": 26,
+      "id": 34,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Crocs 임원 Rupert Campbell, CROX 주식 39만9,054달러어치 매도",
@@ -367,7 +469,7 @@
       "status": "skipped"
     },
     {
-      "id": 27,
+      "id": 35,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Crocs 이사 로널드 프래시, 자사주 230만 달러어치 매도",
@@ -379,7 +481,7 @@
       "status": "skipped"
     },
     {
-      "id": 28,
+      "id": 36,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "유럽연합·영국, 브렉시트 이후 탄소시장 연계 합의 임박",
@@ -391,7 +493,7 @@
       "status": "skipped"
     },
     {
-      "id": 29,
+      "id": 37,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "자포리자 원전, 외부 전력 차단…비상 디젤 발전기 가동",
@@ -405,7 +507,7 @@
       "rawSummary": ""
     },
     {
-      "id": 30,
+      "id": 38,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "5대 AI 애널리스트 동향: 역사적 AI 주식 급락은 매수 기회인가?",
@@ -419,7 +521,7 @@
       "rawSummary": ""
     },
     {
-      "id": 31,
+      "id": 39,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Chemed 수석부사장 Spencer S. Lee, 주식 $494,196어치 매각",
@@ -431,7 +533,7 @@
       "status": "skipped"
     },
     {
-      "id": 32,
+      "id": 40,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "COP31 기후 정상회담 앞두고 터키의 석탄 의존도 주목",
@@ -443,7 +545,7 @@
       "status": "skipped"
     },
     {
-      "id": 33,
+      "id": 41,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI 연구소의 컴퓨팅 투자 약정 규모는?",
@@ -457,7 +559,7 @@
       "rawSummary": ""
     },
     {
-      "id": 34,
+      "id": 42,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "뉴질랜드 총선, 세제 개혁 정당이 캐스팅보트 쥐나",
@@ -469,7 +571,7 @@
       "status": "skipped"
     },
     {
-      "id": 35,
+      "id": 43,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미군, 이란 봉쇄 돌파 시도한 화물선 무력화",
@@ -481,7 +583,7 @@
       "status": "skipped"
     },
     {
-      "id": 36,
+      "id": 44,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Nasdaq drops into correction territory — here’s what typically happens next",
@@ -493,7 +595,7 @@
       "status": "skipped"
     },
     {
-      "id": 37,
+      "id": 45,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
@@ -507,7 +609,7 @@
       "rawSummary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
     },
     {
-      "id": 38,
+      "id": 46,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI 주식 매도세, 투자자들을 중국·인도·아시아 섹터로 유도",
@@ -521,7 +623,7 @@
       "rawSummary": ""
     },
     {
-      "id": 39,
+      "id": 47,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI 지출 우려 속 인공지능에 투자하는 방법",
@@ -535,7 +637,7 @@
       "rawSummary": ""
     },
     {
-      "id": 40,
+      "id": 48,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "OceanFirst 이사 Jack Farris, 자사주 1만8달러어치 매입",
@@ -547,7 +649,7 @@
       "status": "skipped"
     },
     {
-      "id": 41,
+      "id": 49,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "서던 컴퍼니 회계책임자 Matthew Kim, 주식 9,339달러어치 매도",
@@ -559,7 +661,7 @@
       "status": "skipped"
     },
     {
-      "id": 42,
+      "id": 50,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "World Acceptance 이사 Benjamin Robinson, 주식 1만4,878달러어치 매도",
@@ -571,7 +673,7 @@
       "status": "skipped"
     },
     {
-      "id": 43,
+      "id": 51,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Dropbox 최고회계책임자, 자사주 7만 4,884달러어치 매도",
@@ -583,7 +685,7 @@
       "status": "skipped"
     },
     {
-      "id": 44,
+      "id": 52,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "신흥시장 중앙은행들, 인플레이션 압력 고조에 매파적 전환",
@@ -595,7 +697,7 @@
       "status": "skipped"
     },
     {
-      "id": 45,
+      "id": 53,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "주식 포지셔닝, 사상 최대 수준의 주간 낙폭 기록 - 도이체방크",
@@ -607,7 +709,7 @@
       "status": "skipped"
     },
     {
-      "id": 46,
+      "id": 54,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "CoreWeave, 텍사스 주지사 당선인 히노호사와 협력 모색",
@@ -619,7 +721,7 @@
       "status": "skipped"
     },
     {
-      "id": 47,
+      "id": 55,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "아메리칸 익스프레스 최고법률책임자, 주식 약 2,293만 달러어치 매각",
@@ -631,7 +733,7 @@
       "status": "skipped"
     },
     {
-      "id": 48,
+      "id": 56,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Century Casinos Q3 실적, 수익 에상치보다 저조",
@@ -643,7 +745,7 @@
       "status": "skipped"
     },
     {
-      "id": 49,
+      "id": 57,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "골드만삭스가 분석한 금 가격 하락의 원인",
@@ -655,7 +757,7 @@
       "status": "skipped"
     },
     {
-      "id": 50,
+      "id": 58,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "아이젠코트, 이스라엘 총리 구성 첫 권한 부여…네타냐후 축출 목표",
@@ -667,7 +769,7 @@
       "status": "skipped"
     },
     {
-      "id": 51,
+      "id": 59,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "트럼프, UFC 회장 다나 화이트에게 백악관 대변인직 제안",
@@ -679,7 +781,7 @@
       "status": "skipped"
     },
     {
-      "id": 52,
+      "id": 60,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Civeo CEO Dodson, 자사주 86만5,614달러어치 매각",
@@ -691,7 +793,7 @@
       "status": "skipped"
     },
     {
-      "id": 53,
+      "id": 61,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Richmond Mutual Bancorporation 사장, 보통주 2만3,317달러어치 매수",
@@ -703,7 +805,7 @@
       "status": "skipped"
     },
     {
-      "id": 54,
+      "id": 62,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "UMH 이사 William Mitchell, 자사주 1만 9,578달러어치 매수",
@@ -715,7 +817,7 @@
       "status": "skipped"
     },
     {
-      "id": 55,
+      "id": 63,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -727,7 +829,7 @@
       "status": "skipped"
     },
     {
-      "id": 56,
+      "id": 64,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -740,7 +842,7 @@
       "attempts": 6
     },
     {
-      "id": 57,
+      "id": 65,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "라가르드 ECB 총재, 인플레이션 고공행진 지속…금리 인상 기조 유지",
@@ -753,7 +855,7 @@
       "attempts": 6
     },
     {
-      "id": 58,
+      "id": 66,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Apogee Enterprises 이사 Alvord, 자사주 2,416달러 매수",
@@ -765,7 +867,7 @@
       "status": "skipped"
     },
     {
-      "id": 59,
+      "id": 67,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "VISIUM TECHNOLOGIES 이사 Bo Niclas Adler, 주식 $108,000 매입",
@@ -777,7 +879,7 @@
       "status": "skipped"
     },
     {
-      "id": 60,
+      "id": 68,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -789,7 +891,7 @@
       "status": "skipped"
     },
     {
-      "id": 61,
+      "id": 69,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "What the Democratic midterms sweep changes for U.S.-China relations",
@@ -802,7 +904,7 @@
       "attempts": 6
     },
     {
-      "id": 62,
+      "id": 70,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "노바티스, 주요 임상 실패로 블록버스터 기대 신약 펠라카르센 개발 중단",
@@ -814,7 +916,7 @@
       "status": "skipped"
     },
     {
-      "id": 63,
+      "id": 71,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Nvidia Corp CEO 황젠슨, 중국 스파이 의혹 인물과 연루 정보 메모",
@@ -827,7 +929,7 @@
       "attempts": 6
     },
     {
-      "id": 64,
+      "id": 72,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적발표: ASBISc, 2026년 3분기 예상 대폭 상회…주가 8% 급등",
@@ -839,7 +941,7 @@
       "status": "skipped"
     },
     {
-      "id": 65,
+      "id": 73,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "미군, 이란의 육로 무기 밀반입 차단 전담팀 신설",
@@ -851,7 +953,7 @@
       "status": "skipped"
     },
     {
-      "id": 66,
+      "id": 74,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "WesBanco 수석부사장 Scott Love, 옵션 행사 후 주식 120,375달러어치 매도",
@@ -863,7 +965,7 @@
       "status": "skipped"
     },
     {
-      "id": 67,
+      "id": 75,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Catalyst Bancorp 이사 Kirk Kleiser, 자사주 3만254달러 매수",
@@ -875,7 +977,7 @@
       "status": "skipped"
     },
     {
-      "id": 68,
+      "id": 76,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "A. O. Smith 이사 Kevin Wheeler, 자사주 96만 3,284달러어치 매도",
@@ -887,7 +989,7 @@
       "status": "skipped"
     },
     {
-      "id": 69,
+      "id": 77,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Velocity Financial 최고법률책임자, 주식 5만 7,600달러어치 매도",
@@ -899,7 +1001,7 @@
       "status": "skipped"
     },
     {
-      "id": 70,
+      "id": 78,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Tyler Technologies COO Puckett, 주식 420만 달러어치 매도",
@@ -911,7 +1013,7 @@
       "status": "skipped"
     },
     {
-      "id": 71,
+      "id": 79,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "중국, 내수 부진 경고…당국, 2027년 성장 대책 마련 나서",
@@ -923,7 +1025,7 @@
       "status": "skipped"
     },
     {
-      "id": 72,
+      "id": 80,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Advanced Energy Industries 이사 Anne DelSanto, 주식 5만3,005달러 매도",
@@ -935,7 +1037,7 @@
       "status": "skipped"
     },
     {
-      "id": 73,
+      "id": 81,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "비트코인 7만6,000달러 회복…ETF서 13억 달러 유출에 반등 시험대",
@@ -948,7 +1050,7 @@
       "attempts": 6
     },
     {
-      "id": 74,
+      "id": 82,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "First Commonwealth Financial CFO Reske, 자사주 4만9,298달러어치 매도",
@@ -960,7 +1062,7 @@
       "status": "skipped"
     },
     {
-      "id": 75,
+      "id": 83,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Moody’s Corp 최고회계책임자 Phillips, 주식 4만9,335달러어치 매도",
@@ -972,7 +1074,7 @@
       "status": "skipped"
     },
     {
-      "id": 76,
+      "id": 84,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "CarGurus 집행 의장 Langley Steinert, 주식 10만7,641달러 매각",
@@ -984,7 +1086,7 @@
       "status": "skipped"
     },
     {
-      "id": 77,
+      "id": 85,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ranpak 이사 Alicia Tranen, 주식 18,696달러어치 매도",
@@ -996,7 +1098,7 @@
       "status": "skipped"
     },
     {
-      "id": 78,
+      "id": 86,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Empery Digital 이사 Tice Brown, 보유 주식 1,193달러어치 매도",
@@ -1008,7 +1110,7 @@
       "status": "skipped"
     },
     {
-      "id": 79,
+      "id": 87,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ligand Pharmaceuticals 이사, 보통주 9만237달러 매도",
@@ -1021,7 +1123,7 @@
       "attempts": 6
     },
     {
-      "id": 80,
+      "id": 88,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Saba Capital Management, PDX 주식 $762,500어치 매도",
@@ -1033,7 +1135,7 @@
       "status": "skipped"
     },
     {
-      "id": 81,
+      "id": 89,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Porch Group CEO Matt Ehrlichman, PRCH 주식 980만 달러어치 매도",
@@ -1045,7 +1147,7 @@
       "status": "skipped"
     },
     {
-      "id": 82,
+      "id": 90,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Fair Isaac 이사 David Rey, 자사주 $27,048 매도",
@@ -1057,7 +1159,7 @@
       "status": "skipped"
     },
     {
-      "id": 83,
+      "id": 91,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "월트 디즈니 수석 부사장 호라시오 구티에레스, 주식 247만 달러어치 매도",
@@ -1069,7 +1171,7 @@
       "status": "skipped"
     },
     {
-      "id": 84,
+      "id": 92,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Baker Bros. Advisors와 이사 Baker, Madrigal 주식 3,502만 달러 매수",
@@ -1081,7 +1183,7 @@
       "status": "skipped"
     },
     {
-      "id": 85,
+      "id": 93,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Procore 이사 Elisa Steele, PCOR 주식 23만586달러어치 매도",
@@ -1094,7 +1196,7 @@
       "attempts": 6
     },
     {
-      "id": 86,
+      "id": 94,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "퀄컴 이사 실비아 아세베도, 자사주 1만74달러어치 매도",
@@ -1106,7 +1208,7 @@
       "status": "skipped"
     },
     {
-      "id": 87,
+      "id": 95,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Procore Technologies 최고법률책임자, 주식 19만 3,950달러어치 매도",
@@ -1118,7 +1220,7 @@
       "status": "skipped"
     },
     {
-      "id": 88,
+      "id": 96,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Accel Entertainment 회장, 자사주 51만7,628달러어치 매도",
@@ -1130,7 +1232,7 @@
       "status": "skipped"
     },
     {
-      "id": 89,
+      "id": 97,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Radian Group 수석 부사장 Stephen Keleher, 주식 30만8,600달러어치 매도",
@@ -1142,7 +1244,7 @@
       "status": "skipped"
     },
     {
-      "id": 90,
+      "id": 98,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Apollo Global 법무책임자 Whitney Chatterjee, 자사주 86만4763달러어치 매도",
@@ -1154,7 +1256,7 @@
       "status": "skipped"
     },
     {
-      "id": 91,
+      "id": 99,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -1167,7 +1269,7 @@
       "attempts": 6
     },
     {
-      "id": 92,
+      "id": 100,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Mangoceuticals 이사회·우선주 주주, 신규 시리즈 D 우선주 승인",
@@ -1177,105 +1279,6 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164801",
       "stocks": [],
       "status": "skipped"
-    },
-    {
-      "id": 93,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Pono Capital Four, Blackstar Orbital 합병 인수가 2억 달러로 인하",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:49",
-      "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164799",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 94,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "길리어드 사이언스 CEO, 자사주 약 1,970만 달러 매각",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:47",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164798",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 95,
-      "theme": "분석 실패",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Silo Pharma, 주식·워런트 사모 발행 완료…순조달액 약 81만5,000달러",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:45",
-      "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164797",
-      "stocks": [],
-      "status": "failed",
-      "attempts": 6
-    },
-    {
-      "id": 96,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "CVD Equipment, 주총서 이사 5명 선임·안건 2건 승인",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:41",
-      "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164796",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 97,
-      "theme": "분석 실패",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "TuHURA Biosciences, 기존 회전신용한도에서 150만 달러 추가 인출",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:37",
-      "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164795",
-      "stocks": [],
-      "status": "failed",
-      "attempts": 6
-    },
-    {
-      "id": 98,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Auddia, Nasdaq 상장 보통주와 워런트 교환 계약 체결",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:33",
-      "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2164793",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 99,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Si-Bone CEO 로라 프랜시스, 자사주 약 190만 달러어치 매각",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-06 22:33",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2164792",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 100,
-      "theme": "분석 실패",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "CNBC Markets · Fri, 06 Nov 2026",
-      "newsLink": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "stocks": [],
-      "status": "failed",
-      "attempts": 6
     }
   ],
   "aiState": {
