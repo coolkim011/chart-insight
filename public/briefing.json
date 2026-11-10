@@ -61,7 +61,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data."
     },
     {
@@ -183,7 +183,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2167720",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -245,7 +245,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2167724",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -259,7 +259,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2167723",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -333,7 +333,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2167520",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -431,7 +431,7 @@
       "newsLink": "https://kr.investing.com/news/economic-indicators/article-2167332",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -493,7 +493,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term."
     },
     {
@@ -507,7 +507,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers."
     },
     {
