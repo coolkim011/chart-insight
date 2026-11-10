@@ -85,7 +85,7 @@
       "newsLink": "https://kr.investing.com/news/economic-indicators/article-2167332",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -147,7 +147,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term."
     },
     {
@@ -161,7 +161,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers."
     },
     {
@@ -175,7 +175,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2166847",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -213,7 +213,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2166843",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -239,7 +239,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2166836",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -265,7 +265,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2166837",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -279,7 +279,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances"
     },
     {
