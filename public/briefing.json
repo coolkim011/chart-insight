@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2171488",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -255,7 +255,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
@@ -329,7 +329,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2171161",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -367,7 +367,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
     },
     {
@@ -465,7 +465,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2170164",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -479,7 +479,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2169820",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "ServiceNow 인사·AI 책임자 Canney, 13만1,091달러어치 주식 매도",
       "newsHeadlineKo": "",
@@ -576,9 +576,8 @@
       "newsSource": "Investing.com · 2026-11-11 01:17",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169791",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
@@ -630,7 +629,7 @@
     },
     {
       "id": 49,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Adaptive Biotechnologies 최고운영책임자, 주식 70만 8,557달러어치 매도",
       "newsHeadlineKo": "",
@@ -638,9 +637,8 @@
       "newsSource": "Investing.com · 2026-11-11 01:02",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169772",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 50,
