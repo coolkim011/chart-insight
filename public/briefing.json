@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
@@ -123,7 +123,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2171161",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -161,7 +161,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
     },
     {
@@ -259,7 +259,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2170164",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -273,7 +273,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2169820",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -371,7 +371,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169791",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -433,7 +433,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169772",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -483,7 +483,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2169373",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
