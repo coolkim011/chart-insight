@@ -49,7 +49,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169791",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -111,7 +111,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169772",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -161,7 +161,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2169373",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -199,7 +199,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2169368",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -369,7 +369,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data."
     },
     {
@@ -491,7 +491,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2167720",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -553,7 +553,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2167724",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -567,7 +567,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2167723",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
