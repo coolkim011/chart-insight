@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
     },
     {
@@ -147,7 +147,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2170164",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -161,7 +161,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2169820",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -259,7 +259,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169791",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -321,7 +321,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169772",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -371,7 +371,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2169373",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -409,7 +409,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2169368",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -570,7 +570,7 @@
     },
     {
       "id": 44,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
       "newsHeadlineKo": "",
@@ -578,9 +578,8 @@
       "newsSource": "CNBC Markets · Tue, 10 Nov 2026",
       "newsLink": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 45,
