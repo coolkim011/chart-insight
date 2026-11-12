@@ -73,7 +73,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2171733",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2171734",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2171732",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -151,7 +151,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term."
     },
     {
@@ -165,7 +165,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers."
     },
     {
@@ -179,7 +179,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2171726",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -205,7 +205,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2171718",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -255,7 +255,7 @@
       "newsLink": "https://kr.investing.com/news/earnings/article-2171711",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
