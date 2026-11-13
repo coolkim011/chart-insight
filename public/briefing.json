@@ -2,44 +2,154 @@
   "indices": [
     {
       "name": "코스피",
-      "price": "5,342.73",
-      "changeRate": "-0.61%",
-      "isUp": false
+      "price": "5,477.63",
+      "changeRate": "+2.52%",
+      "isUp": true
     },
     {
       "name": "코스닥",
-      "price": "696.53",
-      "changeRate": "+4.33%",
+      "price": "714.71",
+      "changeRate": "+2.61%",
       "isUp": true
     },
     {
       "name": "나스닥",
-      "price": "25,433.13",
-      "changeRate": "-0.13%",
+      "price": "25,366.09",
+      "changeRate": "-0.39%",
       "isUp": false
     },
     {
       "name": "S&P500",
-      "price": "7,617.94",
-      "changeRate": "-0.02%",
+      "price": "7,592.40",
+      "changeRate": "-0.35%",
       "isUp": false
     },
     {
       "name": "필라델피아반도체",
-      "price": "10,520.66",
-      "changeRate": "-0.41%",
+      "price": "10,506.67",
+      "changeRate": "-0.54%",
       "isUp": false
     },
     {
       "name": "원/달러",
-      "price": "1,334.57",
-      "changeRate": "-0.15%",
-      "isUp": false
+      "price": "1,335.78",
+      "changeRate": "+0.11%",
+      "isUp": true
     }
   ],
   "briefings": [
     {
       "id": 1,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "U.S. gas prices fall below $4 for the first time since July",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "CNBC Markets · Tue, 10 Nov 2026",
+      "newsLink": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 2,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Streamex Q3 실적 에상치보다 저조, 수익 예상치와 일치",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:33",
+      "newsLink": "https://kr.investing.com/news/earnings/article-2174067",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 3,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "System1 Q3 실적 예상치를 넘어, 수익 에상치보다 저조",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:33",
+      "newsLink": "https://kr.investing.com/news/earnings/article-2174066",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 4,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "태피스트리 CFO·COO 로, 주식 740만 달러어치 매도",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:32",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2174065",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 5,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "태피스트리 CEO, 자사주 약 367만 달러어치 매각",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:32",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2174064",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 6,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "스냅 최고상업책임자 Ronan Harris, 주식 101만 달러어치 매도",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:31",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2174063",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 7,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Warby Parker 이사 Jeffrey Raider, 주식 22만 5,000달러어치 매도",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:31",
+      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2174062",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 8,
+      "theme": "분석 제외",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "Hirequest Q3 실적, 수익 예상치를 넘어",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:30",
+      "newsLink": "https://kr.investing.com/news/earnings/article-2174061",
+      "stocks": [],
+      "status": "skipped"
+    },
+    {
+      "id": 9,
+      "theme": "AI 분석 대기 중",
+      "categoryBadge": "글로벌 마켓",
+      "newsHeadlineOriginal": "삼성, 데이터센터 냉각 기업 Modine 인수 협상 중 - 블룸버그",
+      "newsHeadlineKo": "",
+      "newsSummaryKo": [],
+      "newsSource": "Investing.com · 2026-11-13 00:28",
+      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2174059",
+      "stocks": [],
+      "status": "pending",
+      "attempts": 0,
+      "rawSummary": ""
+    },
+    {
+      "id": 10,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
@@ -53,7 +163,7 @@
       "rawSummary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
     },
     {
-      "id": 2,
+      "id": 11,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Polymarket says annualized revenue has topped $1.8 billion",
@@ -65,7 +175,7 @@
       "status": "skipped"
     },
     {
-      "id": 3,
+      "id": 12,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "버라이즌 커뮤니케이션 임원 카일 말라디, 보통주 5만721달러 매도",
@@ -77,7 +187,7 @@
       "status": "skipped"
     },
     {
-      "id": 4,
+      "id": 13,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Dynatrace, BMO Capital 콘퍼런스서 AI·로그 성장 동력 강조",
@@ -91,7 +201,7 @@
       "rawSummary": ""
     },
     {
-      "id": 5,
+      "id": 14,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: CTS Eventim, 2026년 3분기 매출 증가에도 주가 하락",
@@ -103,7 +213,7 @@
       "status": "skipped"
     },
     {
-      "id": 6,
+      "id": 15,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Vecima, 2027회계연도 1분기 예상치 상회에도 주가 하락",
@@ -115,7 +225,7 @@
       "status": "skipped"
     },
     {
-      "id": 7,
+      "id": 16,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "데일리 샌프란시스코 연준 총재 \"인플레이션 억제 위해 추가 금리 인상 필요\"",
@@ -129,7 +239,7 @@
       "rawSummary": ""
     },
     {
-      "id": 8,
+      "id": 17,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Einride, Deutsche Bank 투자자 콘퍼런스서 화물 운송 기술 확대 전략 제시",
@@ -141,7 +251,7 @@
       "status": "skipped"
     },
     {
-      "id": 9,
+      "id": 18,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Timbercreek Financial, 2026년 3분기 적자에 주가 급락",
@@ -153,7 +263,7 @@
       "status": "skipped"
     },
     {
-      "id": 10,
+      "id": 19,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI에 대한 투자자 수요 고갈되나? 랜모어가 아시아에 주목하는 이유",
@@ -167,7 +277,7 @@
       "rawSummary": ""
     },
     {
-      "id": 11,
+      "id": 20,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -181,7 +291,7 @@
       "rawSummary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight."
     },
     {
-      "id": 12,
+      "id": 21,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Cantor, 매출·거래량 부진에 Coincheck 목표주가 하향",
@@ -193,7 +303,7 @@
       "status": "skipped"
     },
     {
-      "id": 13,
+      "id": 22,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Forgent Power Solutions 실적 발표: 2026년 1분기 사상 최대 실적",
@@ -205,7 +315,7 @@
       "status": "skipped"
     },
     {
-      "id": 14,
+      "id": 23,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Pulse Biosciences, Stifel 헬스케어 콘퍼런스서 심방세동 치료 전략 제시",
@@ -219,7 +329,7 @@
       "rawSummary": ""
     },
     {
-      "id": 15,
+      "id": 24,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Westwater Resources, 2026년 3분기 손실 축소…주가 상승",
@@ -231,7 +341,7 @@
       "status": "skipped"
     },
     {
-      "id": 16,
+      "id": 25,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적발표 콘퍼런스콜: The Dixie Group, 2026년 3분기까지 3분기 연속 흑자",
@@ -243,7 +353,7 @@
       "status": "skipped"
     },
     {
-      "id": 17,
+      "id": 26,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Radiopharm, Deutsche Bank 투자자 콘퍼런스서 신약 개발 성과 발표",
@@ -255,7 +365,7 @@
       "status": "skipped"
     },
     {
-      "id": 18,
+      "id": 27,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "스티펠, 컨퍼런스 후 AtriCure 매수 의견 유지",
@@ -267,7 +377,7 @@
       "status": "skipped"
     },
     {
-      "id": 19,
+      "id": 28,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Stifel, MaxCyte 매수 의견 유지…3분기 성장세 주목",
@@ -279,7 +389,7 @@
       "status": "skipped"
     },
     {
-      "id": 20,
+      "id": 29,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
@@ -293,7 +403,7 @@
       "rawSummary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
-      "id": 21,
+      "id": 30,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "바클레이즈, 국경 장벽 계약 기대에 Reliance Steel 투자의견 상향",
@@ -307,7 +417,7 @@
       "rawSummary": ""
     },
     {
-      "id": 22,
+      "id": 31,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Aevex 주가, 오늘 급등하는 이유는?",
@@ -319,7 +429,7 @@
       "status": "skipped"
     },
     {
-      "id": 23,
+      "id": 32,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Olectra Greentech, 2027회계연도 2분기 수익성 개선",
@@ -331,7 +441,7 @@
       "status": "skipped"
     },
     {
-      "id": 24,
+      "id": 33,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "MDU Resources 주가, 오늘 상승하는 이유는?",
@@ -343,7 +453,7 @@
       "status": "skipped"
     },
     {
-      "id": 25,
+      "id": 34,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Cleveland-Cliffs 주가, 오늘 상승한 이유는?",
@@ -355,7 +465,7 @@
       "status": "skipped"
     },
     {
-      "id": 26,
+      "id": 35,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Victoria’s Secret 주가, 오늘 하락하는 이유는?",
@@ -367,7 +477,7 @@
       "status": "skipped"
     },
     {
-      "id": 27,
+      "id": 36,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Bit Digital Q3 실적 예상치를 넘어, 수익 에상치보다 저조",
@@ -379,7 +489,7 @@
       "status": "skipped"
     },
     {
-      "id": 28,
+      "id": 37,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Piper Sandler, CEO 거취 불확실성에도 Nvidia 투자의견 유지",
@@ -393,7 +503,7 @@
       "rawSummary": ""
     },
     {
-      "id": 29,
+      "id": 38,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "워크데이 이사 David Duffield, 주식 1,860만 달러어치 매도",
@@ -405,7 +515,7 @@
       "status": "skipped"
     },
     {
-      "id": 30,
+      "id": 39,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ciena CEO Gary Smith, 주식 97만4,688달러어치 매각",
@@ -417,7 +527,7 @@
       "status": "skipped"
     },
     {
-      "id": 31,
+      "id": 40,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "SK하이닉스 재무 버팀목으로…그룹 곳곳에 ’현금 낙수효과’",
@@ -431,7 +541,7 @@
       "rawSummary": ""
     },
     {
-      "id": 32,
+      "id": 41,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "AI 투자 불안에 외국인 자금 137억달러 이탈…주식 팔고 채권 샀다",
@@ -445,7 +555,7 @@
       "rawSummary": ""
     },
     {
-      "id": 33,
+      "id": 42,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "식약처, 필수 항암제·항생제 3종 국내 생산 추진…연내 공급 목표",
@@ -457,7 +567,7 @@
       "status": "skipped"
     },
     {
-      "id": 34,
+      "id": 43,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "[떠나는 자, 남는 자, 오르는 자 : 미리 보는 유통가 인사] ⑭하이트진로그룹",
@@ -469,7 +579,7 @@
       "status": "skipped"
     },
     {
-      "id": 35,
+      "id": 44,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "네이버, AI 팩토리 내년 흑자 전망…플랫폼 이익률은 25% 유지 목표",
@@ -483,7 +593,7 @@
       "rawSummary": ""
     },
     {
-      "id": 36,
+      "id": 45,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "교보증권, ESG 통합 A등급 첫 획득…환경·사회 부문 나란히 A+",
@@ -495,7 +605,7 @@
       "status": "skipped"
     },
     {
-      "id": 37,
+      "id": 46,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
@@ -509,7 +619,7 @@
       "rawSummary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term."
     },
     {
-      "id": 38,
+      "id": 47,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -523,7 +633,7 @@
       "rawSummary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers."
     },
     {
-      "id": 39,
+      "id": 48,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Yunnan Lincang Xinyuan Germanium Industrial 주가, 오늘 왜 올랐나?",
@@ -537,7 +647,7 @@
       "rawSummary": ""
     },
     {
-      "id": 40,
+      "id": 49,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "PLS 주가, 오늘 하락하는 이유는?",
@@ -549,7 +659,7 @@
       "status": "skipped"
     },
     {
-      "id": 41,
+      "id": 50,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Tarsus Pharmaceuticals 이사 William Link, 주식 97만9,744달러 매도",
@@ -563,7 +673,7 @@
       "rawSummary": ""
     },
     {
-      "id": 42,
+      "id": 51,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Ciena 부사장 David Rothenstein, 자사주 82만6,208달러어치 매도",
@@ -575,7 +685,7 @@
       "status": "skipped"
     },
     {
-      "id": 43,
+      "id": 52,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Cooper Companies 이사 Kurzius, 자사주 54만9,320달러 매입",
@@ -587,7 +697,7 @@
       "status": "skipped"
     },
     {
-      "id": 44,
+      "id": 53,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Investcorp Credit Management BDC Q1 실적, 수익 에상치보다 저조",
@@ -599,7 +709,7 @@
       "status": "skipped"
     },
     {
-      "id": 45,
+      "id": 54,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Lakefront Bio ADR Q3 실적 예상치를 넘어, 수익 에상치보다 저조",
@@ -613,7 +723,7 @@
       "rawSummary": ""
     },
     {
-      "id": 46,
+      "id": 55,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "BCP Investment Q3 실적, 수익 에상치보다 저조",
@@ -625,7 +735,7 @@
       "status": "skipped"
     },
     {
-      "id": 47,
+      "id": 56,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
@@ -637,7 +747,7 @@
       "status": "skipped"
     },
     {
-      "id": 48,
+      "id": 57,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "엔비디아, 젠슨 황 CEO 해임 예정 - 보도",
@@ -651,7 +761,7 @@
       "rawSummary": ""
     },
     {
-      "id": 49,
+      "id": 58,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "CAE, 2분기 순이익 예상치 상회에 연간 실적 전망 상향",
@@ -663,7 +773,7 @@
       "status": "skipped"
     },
     {
-      "id": 50,
+      "id": 59,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Zymeworks, Stifel 2026 헬스케어 콘퍼런스서 로열티·계약·성장 전략 제시",
@@ -675,7 +785,7 @@
       "status": "skipped"
     },
     {
-      "id": 51,
+      "id": 60,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "A2Z, 2026년 3분기 매출 예상치 상회…시간외 주가 8.8% 상승",
@@ -687,7 +797,7 @@
       "status": "skipped"
     },
     {
-      "id": 52,
+      "id": 61,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Pixelworks, 2026년 3분기 EPS 예상치 하회…주가 급락",
@@ -699,7 +809,7 @@
       "status": "skipped"
     },
     {
-      "id": 53,
+      "id": 62,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "메리츠금융지주, 올 3분기 누적 순이익 1조9621억 달성",
@@ -711,7 +821,7 @@
       "status": "skipped"
     },
     {
-      "id": 54,
+      "id": 63,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "한화손보, 3분기 순익 961억원…작년 동기대비 34%↑",
@@ -723,7 +833,7 @@
       "status": "skipped"
     },
     {
-      "id": 55,
+      "id": 64,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "쉼터 늘리고 취약계층 챙기고…용산 한파 대비",
@@ -735,7 +845,7 @@
       "status": "skipped"
     },
     {
-      "id": 56,
+      "id": 65,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Evolution Petroleum, 2027회계연도 1분기 매출 예상 상회에도 주가 하락",
@@ -747,7 +857,7 @@
       "status": "skipped"
     },
     {
-      "id": 57,
+      "id": 66,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Arlo Technologies 이사 Faison, 자사주 10만401달러어치 매수",
@@ -759,7 +869,7 @@
       "status": "skipped"
     },
     {
-      "id": 58,
+      "id": 67,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "JP모건, 3분기 실적 후 애널리스트 포커스 리스트 종목 주목",
@@ -771,7 +881,7 @@
       "status": "skipped"
     },
     {
-      "id": 59,
+      "id": 68,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Conifex Timber, 2026년 3분기 적자 축소…주가 19% 급등",
@@ -783,7 +893,7 @@
       "status": "skipped"
     },
     {
-      "id": 60,
+      "id": 69,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Motorpoint, 2026년 상반기 사상 최대 실적…주가 3.6% 상승",
@@ -795,7 +905,7 @@
       "status": "skipped"
     },
     {
-      "id": 61,
+      "id": 70,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표 콘퍼런스콜: B&C Speakers 매출 감소에 주가 6.8% 하락",
@@ -807,7 +917,7 @@
       "status": "skipped"
     },
     {
-      "id": 62,
+      "id": 71,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Celcuity, Stifel 헬스케어 콘퍼런스서 REVTORPYK 출시 초기 성과 강조",
@@ -819,7 +929,7 @@
       "status": "skipped"
     },
     {
-      "id": 63,
+      "id": 72,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Zeta Global 주가, 오늘 급등한 이유는?",
@@ -831,7 +941,7 @@
       "status": "skipped"
     },
     {
-      "id": 64,
+      "id": 73,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -845,7 +955,7 @@
       "rawSummary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
-      "id": 65,
+      "id": 74,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Elemental, 2026년 3분기 예상치 하회에도 성장세 유지",
@@ -857,7 +967,7 @@
       "status": "skipped"
     },
     {
-      "id": 66,
+      "id": 75,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적발표: De’Longhi, 3분기 성장에 2026년 수익성 전망 상향",
@@ -869,7 +979,7 @@
       "status": "skipped"
     },
     {
-      "id": 67,
+      "id": 76,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: Bilfinger, 2026년 3분기 예상치 하회…주가 3% 하락",
@@ -881,7 +991,7 @@
       "status": "skipped"
     },
     {
-      "id": 68,
+      "id": 77,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Zoom Communications 주가가 오늘 상승한 이유는?",
@@ -893,7 +1003,7 @@
       "status": "skipped"
     },
     {
-      "id": 69,
+      "id": 78,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "실적 발표: goeasy, 2026년 3분기 예상보다 큰 적자에 주가 급락",
@@ -905,7 +1015,7 @@
       "status": "skipped"
     },
     {
-      "id": 70,
+      "id": 79,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Firefly Aerospace 주가, 오늘 급등한 이유는?",
@@ -919,7 +1029,7 @@
       "rawSummary": ""
     },
     {
-      "id": 71,
+      "id": 80,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "MP Materials 주가가 오늘 상승하는 이유는?",
@@ -931,7 +1041,7 @@
       "status": "skipped"
     },
     {
-      "id": 72,
+      "id": 81,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Senseonics, Canaccord Genuity 포럼서 성장·마진 개선·신제품 계획 제시",
@@ -943,7 +1053,7 @@
       "status": "skipped"
     },
     {
-      "id": 73,
+      "id": 82,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
@@ -957,7 +1067,7 @@
       "rawSummary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
     },
     {
-      "id": 74,
+      "id": 83,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Super Micro 이사 Scott Angel, SMCI 주식 4만9,940달러어치 매수",
@@ -969,7 +1079,7 @@
       "status": "skipped"
     },
     {
-      "id": 75,
+      "id": 84,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Host Hotels & Resorts CEO, 자사주 1,672만 달러어치 매각",
@@ -981,7 +1091,7 @@
       "status": "skipped"
     },
     {
-      "id": 76,
+      "id": 85,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "호스트 호텔 & 리조트 CFO Sourav Ghosh, 주식 약 232만 달러 매도",
@@ -993,7 +1103,7 @@
       "status": "skipped"
     },
     {
-      "id": 77,
+      "id": 86,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Envipco, 2026년 3분기 매출 18% 증가…영국 수주 확대",
@@ -1005,7 +1115,7 @@
       "status": "skipped"
     },
     {
-      "id": 78,
+      "id": 87,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Swiss Life, 스위스 단체생명보험 호조로 9개월 보험료 수입 8% 증가",
@@ -1017,7 +1127,7 @@
       "status": "skipped"
     },
     {
-      "id": 79,
+      "id": 88,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Host Hotels & Resorts 이사, 자사주 40만4,182달러어치 매도",
@@ -1029,7 +1139,7 @@
       "status": "skipped"
     },
     {
-      "id": 80,
+      "id": 89,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "KT클라우드 내년 실적 ’장밋빛’…증권가 전망 갈린 이유는",
@@ -1041,7 +1151,7 @@
       "status": "skipped"
     },
     {
-      "id": 81,
+      "id": 90,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "삼성전자, AMD와 반도체 검증 인프라 강화…\"메모리·스토리지 총동원\"",
@@ -1055,7 +1165,7 @@
       "rawSummary": ""
     },
     {
-      "id": 82,
+      "id": 91,
       "theme": "AI 분석 대기 중",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "연준 폴슨 총재, 인플레이션 억제 위해 점진적 금리 인상 필요",
@@ -1069,7 +1179,7 @@
       "rawSummary": ""
     },
     {
-      "id": 83,
+      "id": 92,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "인도 Nifty 지수 추가 상승 가능성은? 뱅크오브아메리카가 제시한 핵심 리스크",
@@ -1081,7 +1191,7 @@
       "status": "skipped"
     },
     {
-      "id": 84,
+      "id": 93,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Sinclair 이사 Robert E. Smith, A종 주식 273만 달러어치 매각",
@@ -1093,7 +1203,7 @@
       "status": "skipped"
     },
     {
-      "id": 85,
+      "id": 94,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Alphatec 이사 Keith Valentine, 자사주 24만 2,550달러 매수",
@@ -1105,7 +1215,7 @@
       "status": "skipped"
     },
     {
-      "id": 86,
+      "id": 95,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Charles R. Schwab 공동 회장, 자사주 658만 달러어치 매각",
@@ -1117,7 +1227,7 @@
       "status": "skipped"
     },
     {
-      "id": 87,
+      "id": 96,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "CrowdStrike CEO George Kurtz, 11월 주식 445만 달러 매도",
@@ -1129,7 +1239,7 @@
       "status": "skipped"
     },
     {
-      "id": 88,
+      "id": 97,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Enovis 이사 Sharon Wienbar, 자사주 4만 9,917달러 매수",
@@ -1141,7 +1251,7 @@
       "status": "skipped"
     },
     {
-      "id": 89,
+      "id": 98,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "Exagen 이사 Jorey Chernett, 주식 6만 9,167달러어치 매도 후 추가 매수",
@@ -1153,7 +1263,7 @@
       "status": "skipped"
     },
     {
-      "id": 90,
+      "id": 99,
       "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "ServiceNow 인사·AI 책임자 Canney, 13만1,091달러어치 주식 매도",
@@ -1166,7 +1276,7 @@
       "attempts": 6
     },
     {
-      "id": 91,
+      "id": 100,
       "theme": "분석 제외",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "케이든스디자인시스템 수석부사장 Scannell, 주식 81만3,939달러 매도",
@@ -1174,116 +1284,6 @@
       "newsSummaryKo": [],
       "newsSource": "Investing.com · 2026-11-11 01:16",
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169790",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 92,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Sweetgreen CFO Jamie McConnell, 주식 5만5,040달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-11 01:16",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169789",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 93,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "소프트뱅크, 분기 7조 원 손실에 주가 급락",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-11 01:14",
-      "newsLink": "https://kr.investing.com/news/stock-market-news/article-2169787",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 94,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Saba Capital, PIMCO Dynamic Income Strategy Fund 주식 16만1,568달러 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-11 01:05",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169773",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 95,
-      "theme": "분석 실패",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Adaptive Biotechnologies 최고운영책임자, 주식 70만 8,557달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-11 01:02",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169772",
-      "stocks": [],
-      "status": "failed",
-      "attempts": 6
-    },
-    {
-      "id": 96,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Atlas Energy Solutions 이사 Shepard, 주식 475만 달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-11 01:02",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169771",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 97,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "SentinelOne CEO Tomer Weingarten, 주식 114만 달러어치 매도",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-11 01:01",
-      "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2169770",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 98,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Rede Mater Dei, 2026년 3분기 예상치 상회…주가 5.58% 상승",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-10 21:21",
-      "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2169371",
-      "stocks": [],
-      "status": "skipped"
-    },
-    {
-      "id": 99,
-      "theme": "분석 실패",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "CoreWeave, 2026년 매출 전망 상향…AI 인프라 수요 급증",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-10 21:20",
-      "newsLink": "https://kr.investing.com/news/earnings/article-2169373",
-      "stocks": [],
-      "status": "failed",
-      "attempts": 6
-    },
-    {
-      "id": 100,
-      "theme": "분석 제외",
-      "categoryBadge": "글로벌 마켓",
-      "newsHeadlineOriginal": "Usio Q3 실적 예상치와 일치, 수익 에상치보다 저조",
-      "newsHeadlineKo": "",
-      "newsSummaryKo": [],
-      "newsSource": "Investing.com · 2026-11-10 21:20",
-      "newsLink": "https://kr.investing.com/news/earnings/article-2169370",
       "stocks": [],
       "status": "skipped"
     }
