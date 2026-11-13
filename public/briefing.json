@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker."
     },
     {
@@ -63,7 +63,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/sec-filings/article-93CH-2175746",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -163,7 +163,7 @@
       "newsLink": "https://kr.investing.com/news/analyst-ratings/article-93CH-2175733",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -177,7 +177,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
     },
     {
@@ -239,7 +239,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2175622",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -289,7 +289,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action."
     },
     {
@@ -327,7 +327,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2175513",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
