@@ -145,7 +145,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2174059",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -159,7 +159,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
     },
     {
@@ -197,7 +197,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2173546",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -235,7 +235,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2173543",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -273,7 +273,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2173538",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -287,7 +287,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight."
     },
     {
@@ -325,7 +325,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2173463",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -399,7 +399,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
