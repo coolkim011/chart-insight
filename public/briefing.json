@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action."
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2175513",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -149,7 +149,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-93CH-2175506",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -187,7 +187,7 @@
       "newsLink": "https://kr.investing.com/news/transcripts/article-93CH-2174498",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -261,7 +261,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September."
     },
     {
@@ -311,7 +311,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2174201",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -325,7 +325,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2174195",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -471,7 +471,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2174059",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
