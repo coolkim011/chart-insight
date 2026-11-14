@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan."
     },
     {
@@ -75,7 +75,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176065",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -113,7 +113,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176061",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -139,7 +139,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2176055",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -321,7 +321,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2175929",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -371,7 +371,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2175920",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -385,7 +385,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2175915",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -399,7 +399,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2175914",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
