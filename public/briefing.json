@@ -61,7 +61,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2175920",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -75,7 +75,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2175915",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -89,7 +89,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2175914",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -103,7 +103,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2175912",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -141,7 +141,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2175909",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -155,7 +155,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2175908",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -169,7 +169,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker."
     },
     {
@@ -183,7 +183,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
