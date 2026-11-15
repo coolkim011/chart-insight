@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September."
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176144",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -137,7 +137,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2176138",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -187,7 +187,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
     },
     {
@@ -273,7 +273,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176117",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -299,7 +299,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
     },
     {
@@ -313,7 +313,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight."
     },
     {
@@ -351,7 +351,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2176097",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
