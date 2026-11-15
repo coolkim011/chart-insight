@@ -49,7 +49,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action."
     },
     {
@@ -171,7 +171,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176287",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -329,7 +329,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176211",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -343,7 +343,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September."
     },
     {
@@ -381,7 +381,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176144",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -431,7 +431,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2176138",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "id": 36,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "newsHeadlineKo": "",
@@ -480,9 +480,8 @@
       "newsSource": "CNBC Markets · Thu, 12 Nov 2026",
       "newsLink": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 37,
@@ -558,7 +557,7 @@
     },
     {
       "id": 43,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "[주간증시전망] 엔비디아 실적에 반도체 반등 달렸다",
       "newsHeadlineKo": "",
@@ -566,9 +565,8 @@
       "newsSource": "Investing.com · 2026-11-14 21:42",
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176117",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": ""
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 44,
