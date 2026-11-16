@@ -73,7 +73,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-2176488",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -99,7 +99,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176479",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176474",
       "stocks": [],
       "status": "pending",
-      "attempts": 0,
+      "attempts": 1,
       "rawSummary": ""
     },
     {
@@ -187,7 +187,7 @@
       "newsLink": "https://kr.investing.com/news/insider-trading-news/article-93CH-2176323",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -249,7 +249,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action."
     },
     {
@@ -371,7 +371,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176287",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": ""
     },
     {
@@ -529,12 +529,12 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2176211",
       "stocks": [],
       "status": "pending",
-      "attempts": 4,
+      "attempts": 5,
       "rawSummary": ""
     },
     {
       "id": 41,
-      "theme": "AI 분석 대기 중",
+      "theme": "분석 실패",
       "categoryBadge": "글로벌 마켓",
       "newsHeadlineOriginal": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
       "newsHeadlineKo": "",
@@ -542,9 +542,8 @@
       "newsSource": "CNBC Markets · Fri, 13 Nov 2026",
       "newsLink": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
       "stocks": [],
-      "status": "pending",
-      "attempts": 5,
-      "rawSummary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September."
+      "status": "failed",
+      "attempts": 6
     },
     {
       "id": 42,
