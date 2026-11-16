@@ -73,7 +73,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -87,7 +87,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter"
     },
     {
@@ -125,7 +125,7 @@
       "newsLink": "https://kr.investing.com/news/commodities-news/article-93CH-2178178",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -163,7 +163,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2178180",
       "stocks": [],
       "status": "pending",
-      "attempts": 1,
+      "attempts": 2,
       "rawSummary": ""
     },
     {
@@ -201,7 +201,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say."
     },
     {
@@ -251,7 +251,7 @@
       "newsLink": "https://kr.investing.com/news/stock-market-news/article-2177022",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -301,7 +301,7 @@
       "newsLink": "https://kr.investing.com/news/economy-news/article-2177011",
       "stocks": [],
       "status": "pending",
-      "attempts": 2,
+      "attempts": 3,
       "rawSummary": ""
     },
     {
@@ -315,7 +315,7 @@
       "newsLink": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "stocks": [],
       "status": "pending",
-      "attempts": 3,
+      "attempts": 4,
       "rawSummary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
     },
     {
